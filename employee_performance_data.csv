@@ -1,0 +1,501 @@
+employee_id,employee_name,department,role,manager_name,review_period,review_date,performance_score,rating_label,kpi_achievement_percent,strengths,improvement_areas,promotion_recommendation
+EMP1000,Jane Pratt,HR,IT Specialist,Douglas Valencia,Q4 2025,2025-10-10,1.01,Needs Improvement,61,Sing before stuff realize.,See else pressure what position show memory.,Yes
+EMP1001,John Walker,IT,Operations Lead,Alyssa Rodriguez,Q3 2025,2025-04-27,2.68,Below Expectations,75,Night several past shoulder office.,Impact share standard level hear mean who.,Yes
+EMP1002,Mark Lewis,Finance,Accountant,Barry Anderson,Q4 2025,2025-05-10,2.93,Below Expectations,60,Learn focus live quickly.,Such participant act woman yeah time.,Yes
+EMP1003,Jennifer Morris,Operations,Support Associate,David Delacruz,Q4 2025,2025-09-03,3.99,Meets Expectations,119,Opportunity fire television once.,Then beautiful should send network also which during.,Yes
+EMP1004,Sylvia Gonzalez,Finance,Support Associate,Anna Walter,Q3 2025,2025-04-23,2.03,Below Expectations,76,View prove start age woman clearly.,Represent artist amount front nation situation rate.,No
+EMP1005,Edward Davidson,HR,Sales Executive,Elizabeth Terrell,Q3 2025,2025-05-09,2.12,Below Expectations,94,Traditional make series heart actually create set.,East affect as born me manager get short.,Yes
+EMP1006,Richard Adams,Marketing,Marketing Analyst,Claire Sutton,Q3 2025,2025-06-13,2.54,Below Expectations,66,Your fear word front second couple interview page.,Discover president bed surface include two.,Yes
+EMP1007,Gregory Morris,HR,Sales Executive,Jason Carroll,Q3 2025,2025-09-02,4.1,Exceeds Expectations,87,Mean wear rock age old themselves century she.,Five strong game close long.,Yes
+EMP1008,Brett Copeland,IT,Sales Executive,Dr. Brendan Lloyd,Q4 2025,2025-04-24,4.52,Outstanding,116,Save yet stand line.,Number subject ball local site century our fly.,Yes
+EMP1009,Karen Shah,Sales,HR Manager,David Johnson,Q2 2025,2025-06-23,4.33,Exceeds Expectations,120,Not city environment war.,East his build better every good.,No
+EMP1010,Wendy West,Finance,IT Specialist,Renee Miller,Q4 2025,2025-07-02,4.5,Outstanding,60,My report population dog present I.,So student cold use government space.,No
+EMP1011,Andrea Garcia,Sales,Support Associate,Robert Sullivan,Q3 2025,2025-04-22,1.97,Needs Improvement,116,Paper low allow commercial.,Politics cold new wind treat.,No
+EMP1012,Lucas Arnold,Engineering,Accountant,Cynthia Smith,Q3 2025,2025-10-05,4.11,Exceeds Expectations,69,Reveal study mother Congress stage car guy.,Himself apply whole.,Yes
+EMP1013,Deborah Scott,IT,IT Specialist,John Hunt,Q1 2025,2025-07-08,3.23,Meets Expectations,77,Shoulder public radio when just develop.,Suggest say war something meeting need.,Yes
+EMP1014,Katherine Mathis,Operations,Sales Executive,John Hunt,Q3 2025,2025-04-27,2.49,Below Expectations,66,Add management better get necessary civil perhaps.,Position spring change education especially purpose.,Yes
+EMP1015,Emily Salazar,Marketing,Sales Executive,George Hernandez,Q4 2025,2025-09-14,1.06,Needs Improvement,82,Audience major score career cell there rise.,Each while imagine arrive.,Yes
+EMP1016,Richard Sandoval,Marketing,Operations Lead,David Delacruz,Q2 2025,2025-08-30,2.44,Below Expectations,75,Myself firm shoulder member authority law see.,Huge poor operation note government.,No
+EMP1017,Kristin House,IT,Marketing Analyst,David Johnson,Q1 2025,2025-08-29,4.8,Outstanding,74,Read number challenge seem community.,By figure dark stuff month usually.,No
+EMP1018,Brittany Cole,IT,Operations Lead,Dr. Brendan Lloyd,Q1 2025,2025-05-07,2.64,Below Expectations,107,Effort system should control apply president change sure.,Rise he teach Mr how north.,No
+EMP1019,Sonya Figueroa,Operations,Software Engineer,David Johnson,Q4 2025,2025-08-21,4.42,Exceeds Expectations,62,Hand car body specific.,Summer along state write require same.,No
+EMP1020,Jill Nelson,IT,Operations Lead,Douglas Valencia,Q1 2025,2025-07-04,2.89,Below Expectations,118,Follow company respond range forget.,Through notice big report mention individual.,Yes
+EMP1021,Michael Blair DDS,Operations,Marketing Analyst,Anthony Wolfe DDS,Q1 2025,2025-09-24,3.52,Meets Expectations,114,Computer Mrs condition left.,Who many imagine husband development majority nearly.,Yes
+EMP1022,Shawn Snyder,Marketing,HR Manager,Dr. Brendan Lloyd,Q3 2025,2025-05-15,1.19,Needs Improvement,72,Study run well throughout.,Simply even deal body lawyer.,No
+EMP1023,Jonathan Huffman DDS,Marketing,Marketing Analyst,Claire Sutton,Q2 2025,2025-06-13,3.33,Meets Expectations,108,Certainly identify agent seek employee ground then.,Piece such call church find hot speech floor.,Yes
+EMP1024,Amy Flores DDS,IT,Marketing Analyst,Brittany Cook,Q2 2025,2025-09-24,3.18,Meets Expectations,62,Piece great who sometimes.,Congress concern production key wonder success.,Yes
+EMP1025,Rachel Martinez,HR,Operations Lead,Sarah Hall,Q3 2025,2025-04-23,3.23,Meets Expectations,83,Concern quality best miss week account any.,Realize campaign fall base receive add president.,Yes
+EMP1026,Alyssa Rhodes,Finance,IT Specialist,Claire Sutton,Q4 2025,2025-04-22,3.55,Meets Expectations,107,Single protect never player financial work their door.,Soon practice management rate.,No
+EMP1027,Raymond Snyder,Engineering,IT Specialist,Meghan Johnson,Q4 2025,2025-06-14,2.4,Below Expectations,61,Program system include glass thing thought picture.,Increase human join skin follow.,Yes
+EMP1028,Paul Espinoza,Sales,Support Associate,Anna Walter,Q2 2025,2025-09-17,2.45,Below Expectations,109,Drive nation or once.,She leave set shake expect until face.,No
+EMP1029,Jason Stout,Marketing,HR Manager,Susan Henderson,Q4 2025,2025-05-23,4.35,Exceeds Expectations,86,They contain author face.,Nice and option.,Yes
+EMP1030,Samantha Perkins,Marketing,Support Associate,Christopher Bond,Q2 2025,2025-08-28,1.2,Needs Improvement,85,Receive behind modern someone style.,Sport four off how standard can what.,No
+EMP1031,Robert Valencia,Sales,Operations Lead,Meghan Johnson,Q2 2025,2025-05-07,2.28,Below Expectations,101,Gun born star able modern summer.,Bill onto condition develop.,Yes
+EMP1032,Jeffery Ramirez,Marketing,HR Manager,David Delacruz,Q2 2025,2025-09-11,2.16,Below Expectations,114,Research employee that true.,Commercial we reason approach option.,Yes
+EMP1033,Alex Mckee,IT,Marketing Analyst,Barry Anderson,Q1 2025,2025-06-25,1.15,Needs Improvement,62,Main wall until with.,Song decision daughter health lot.,Yes
+EMP1034,Rose Butler,Customer Support,Accountant,Jason Carroll,Q1 2025,2025-06-09,2.67,Below Expectations,107,Effort unit major production stay something.,Suggest campaign claim action available enter.,Yes
+EMP1035,Rachel Walters,Finance,HR Manager,Alyssa Rodriguez,Q1 2025,2025-05-03,1.85,Needs Improvement,74,Religious respond thing factor.,Guess agency act share institution draw full once.,No
+EMP1036,Brandi Fox,Finance,Sales Executive,Robert Sullivan,Q3 2025,2025-04-27,3.27,Meets Expectations,95,Science threat black full environment she coach.,Certainly involve build window nice then entire.,Yes
+EMP1037,Amy Thomas,Marketing,HR Manager,Douglas Valencia,Q4 2025,2025-09-29,4.61,Outstanding,107,Mission fly site perhaps deep.,Television line offer opportunity chance notice.,Yes
+EMP1038,Paul Carey,HR,Support Associate,Cynthia Smith,Q1 2025,2025-08-25,4.41,Exceeds Expectations,90,Attorney practice guess raise.,Modern leader civil usually raise who.,Yes
+EMP1039,Alexander Johnson,Finance,Sales Executive,Brittany Cook,Q2 2025,2025-09-30,1.67,Needs Improvement,110,Include example answer.,Financial player hold heart bag from necessary.,No
+EMP1040,Eugene Snow,Customer Support,Accountant,Cynthia Smith,Q3 2025,2025-05-03,3.07,Meets Expectations,70,Station that modern democratic true voice.,Finally former break my look however day.,Yes
+EMP1041,Brandon Price,Engineering,Operations Lead,Edwin Williams,Q1 2025,2025-08-11,2.51,Below Expectations,82,Ability hope mention detail price.,After cultural along number.,No
+EMP1042,Tammy Simon,HR,Operations Lead,George Hernandez,Q1 2025,2025-10-07,4.4,Exceeds Expectations,92,Good run ball source compare begin sit.,Few base whether manage reason need when.,Yes
+EMP1043,David King,HR,IT Specialist,Claire Sutton,Q4 2025,2025-06-27,4.72,Outstanding,115,Would turn bit until.,Into enter night.,No
+EMP1044,Katherine Richards,Finance,Operations Lead,John Hunt,Q3 2025,2025-06-22,3.09,Meets Expectations,111,Happen coach herself produce drop mention.,Natural meeting world Mr.,Yes
+EMP1045,Tina Jordan,Operations,IT Specialist,Elizabeth Terrell,Q2 2025,2025-06-03,3.11,Meets Expectations,114,Color ever consider while.,Indicate economy account music give news.,Yes
+EMP1046,Debra Hernandez,Sales,Marketing Analyst,Mark Wilkinson,Q2 2025,2025-04-23,4.58,Outstanding,116,Film hotel meet.,Type safe unit know them computer election.,Yes
+EMP1047,Ronald Vasquez,Finance,IT Specialist,Robert Sullivan,Q4 2025,2025-05-01,3.41,Meets Expectations,90,Blood program inside national blue argue.,Bill career art kind ahead.,Yes
+EMP1048,Juan Butler,Marketing,Software Engineer,Brittany Cook,Q1 2025,2025-08-10,4.98,Outstanding,89,Especially clearly central.,Traditional maybe high seek.,Yes
+EMP1049,Mark Diaz,IT,Marketing Analyst,Edwin Williams,Q3 2025,2025-10-02,4.8,Outstanding,104,Senior reflect even own rule material thousand.,Those risk few far deal production.,Yes
+EMP1050,Laura Mcdaniel,Marketing,Software Engineer,Cynthia Smith,Q3 2025,2025-06-17,4.74,Outstanding,66,Military purpose west him.,Budget there read hit sit success.,No
+EMP1051,Ryan Reese,Customer Support,Support Associate,Edwin Williams,Q2 2025,2025-06-02,3.11,Meets Expectations,67,Mission smile camera act traditional.,Such cup time head sort return.,Yes
+EMP1052,Jennifer Evans,Operations,Support Associate,Jennifer Jackson,Q4 2025,2025-05-31,3.46,Meets Expectations,114,Here most become.,Far moment generation kind happen great.,No
+EMP1053,Michael Gonzales,IT,HR Manager,Edwin Williams,Q2 2025,2025-09-14,3.06,Meets Expectations,70,Important if use south ago painting lead.,Another play indeed range beyond single religious church.,No
+EMP1054,Donald Ramirez,Engineering,Support Associate,Renee Miller,Q3 2025,2025-04-26,2.89,Below Expectations,89,Wife character result receive.,Particularly include sort window.,No
+EMP1055,Kimberly Richardson,Sales,Operations Lead,Sarah Hall,Q2 2025,2025-07-17,2.94,Below Expectations,89,Study next reveal.,Look authority son bit reach camera.,No
+EMP1056,Lori Johnson,Marketing,Accountant,Donna Thompson MD,Q4 2025,2025-06-29,1.63,Needs Improvement,107,Join report themselves history.,Sense each kid party near local.,No
+EMP1057,Holly Barnett,Marketing,Operations Lead,Donna Thompson MD,Q4 2025,2025-07-01,4.41,Exceeds Expectations,101,Field outside move.,Watch clearly current key but partner.,No
+EMP1058,Nicole Navarro,Marketing,Sales Executive,Jennifer Jackson,Q3 2025,2025-10-05,3.84,Meets Expectations,73,Friend race dog.,Anyone morning remember take sure anything yet other.,No
+EMP1059,John Smith,HR,HR Manager,Mark Wilkinson,Q2 2025,2025-06-29,4.93,Outstanding,71,Long everybody daughter.,Test finish onto question industry wall author.,No
+EMP1060,Dr. Joshua Ware,Finance,Software Engineer,Susan Henderson,Q2 2025,2025-05-29,4.54,Outstanding,112,Require check stay instead.,You fast design maintain develop.,No
+EMP1061,Johnny Garcia,Sales,Accountant,Cynthia Smith,Q2 2025,2025-05-30,2.08,Below Expectations,107,Act play drop.,Seat thus believe treatment professor environment during.,Yes
+EMP1062,Lauren Mckenzie,Engineering,Sales Executive,Meghan Johnson,Q4 2025,2025-07-12,3.01,Meets Expectations,119,What major remain mother list rise huge.,Skin receive voice really upon join.,Yes
+EMP1063,William Rivera,Customer Support,Operations Lead,Donna Thompson MD,Q3 2025,2025-04-28,2.94,Below Expectations,114,Story amount table ago.,Citizen recognize inside participant add ball move.,Yes
+EMP1064,Christina Kramer,IT,Marketing Analyst,John Hunt,Q3 2025,2025-08-11,3.98,Meets Expectations,120,Watch hour party feeling.,Option great life health PM.,No
+EMP1065,Joshua Hernandez,Engineering,IT Specialist,Tracy Carey,Q4 2025,2025-05-01,3.6,Meets Expectations,96,Answer catch small machine born.,Pattern quickly rock ten foreign star.,No
+EMP1066,Tammie Wagner,IT,IT Specialist,Cynthia Smith,Q4 2025,2025-05-03,3.39,Meets Expectations,117,Turn be direction fact heart man oil will.,Although every compare thought stage.,Yes
+EMP1067,Melanie James,Engineering,IT Specialist,Adam Parsons,Q4 2025,2025-06-02,1.17,Needs Improvement,73,Build field box common.,Step watch national.,No
+EMP1068,Kristin Castillo,IT,Sales Executive,Jason Carroll,Q2 2025,2025-04-23,4.63,Outstanding,110,Why wonder meet where catch affect minute.,A oil he service so staff.,Yes
+EMP1069,John Serrano,Operations,Software Engineer,Fernando Ortiz,Q2 2025,2025-05-05,1.85,Needs Improvement,113,Discover maybe party nearly.,Agency size might certainly general challenge table.,No
+EMP1070,Thomas Wagner,Engineering,Operations Lead,Cynthia Smith,Q2 2025,2025-10-08,2.63,Below Expectations,71,Prepare kind development down grow minute remain edge.,Either pressure cut drug since why.,Yes
+EMP1071,Maria Jones,Finance,Software Engineer,Anna Walter,Q2 2025,2025-06-06,3.43,Meets Expectations,97,Long subject green child much.,Answer tax buy economy operation.,No
+EMP1072,Mary Jefferson,Marketing,HR Manager,Fernando Ortiz,Q4 2025,2025-07-31,2.41,Below Expectations,77,Before left here conference.,Home Congress current.,Yes
+EMP1073,Deborah Bauer,IT,Marketing Analyst,Miranda Hinton,Q1 2025,2025-06-08,4.47,Exceeds Expectations,105,Student improve ahead heavy.,Others section better answer.,Yes
+EMP1074,Ashley Fields,Operations,HR Manager,Susan Henderson,Q2 2025,2025-09-26,4.09,Exceeds Expectations,82,Ground almost media reflect wait change.,Plant talk have structure wear including.,No
+EMP1075,Johnny Zhang,Finance,Accountant,Mark Wilkinson,Q3 2025,2025-10-12,1.78,Needs Improvement,92,Interest rich hard return these contain.,Class hit remember class see so.,Yes
+EMP1076,Jessica Mayo,Sales,HR Manager,Ricky Rodriguez,Q4 2025,2025-04-21,4.83,Outstanding,83,Anything economy change movie.,Beat western keep front surface.,No
+EMP1077,Austin Shah,Finance,Marketing Analyst,Alyssa Rodriguez,Q3 2025,2025-06-01,1.94,Needs Improvement,76,Data watch yet interview skin who go.,Human with seem leader onto.,Yes
+EMP1078,Monica Pearson,Engineering,Software Engineer,David Delacruz,Q4 2025,2025-09-25,1.46,Needs Improvement,97,Political since opportunity none produce.,Her crime room.,Yes
+EMP1079,Kimberly French,HR,Sales Executive,Barry Anderson,Q1 2025,2025-09-01,1.55,Needs Improvement,115,Two start baby campaign apply wide.,Of common conference three during daughter light.,No
+EMP1080,Christine Boyd,HR,Operations Lead,Cynthia Smith,Q1 2025,2025-06-16,3.45,Meets Expectations,87,Itself bag rock.,Scene by PM American.,No
+EMP1081,Heidi Reyes,Operations,Support Associate,Renee Miller,Q3 2025,2025-07-08,4.84,Outstanding,92,Play drive person might lay seek religious.,Others our religious old vote baby billion.,No
+EMP1082,Leslie Barnes,HR,Marketing Analyst,Brittany Cook,Q1 2025,2025-06-09,1.58,Needs Improvement,77,Dog theory discover provide store.,Leave process surface hold.,Yes
+EMP1083,Robert Brown,Engineering,Operations Lead,Ricky Rodriguez,Q4 2025,2025-06-14,1.31,Needs Improvement,88,Others memory husband spend discussion detail number.,Body anyone from require check.,No
+EMP1084,Sherri Martinez,IT,IT Specialist,Christopher Bond,Q2 2025,2025-08-19,1.25,Needs Improvement,73,Authority every stage again reduce.,Manager speak second something east rest alone away.,Yes
+EMP1085,Sydney West,Finance,Marketing Analyst,Ricky Rodriguez,Q4 2025,2025-07-09,1.15,Needs Improvement,60,Set song company person.,President sing lot prepare travel amount side.,No
+EMP1086,Maria Miles,HR,Software Engineer,Anna Walter,Q2 2025,2025-05-11,4.75,Outstanding,110,Option effect magazine let maintain standard.,Analysis kitchen option almost also let left last.,Yes
+EMP1087,Brandy Allen,Operations,HR Manager,Cynthia Smith,Q3 2025,2025-09-16,1.08,Needs Improvement,97,Before and we finish current service main prevent.,Course ground meet body again.,No
+EMP1088,Veronica Arnold,Engineering,Accountant,Adam Parsons,Q2 2025,2025-07-26,1.83,Needs Improvement,73,Job job newspaper democratic standard.,Still expect newspaper animal ball.,No
+EMP1089,Jason Klein,IT,Accountant,Jason Carroll,Q4 2025,2025-10-13,4.14,Exceeds Expectations,107,Few difference chance investment with imagine.,Difference resource interview include.,Yes
+EMP1090,James Brown,HR,Marketing Analyst,Christopher Bond,Q3 2025,2025-08-07,1.18,Needs Improvement,88,Might point keep then special.,Time national western can.,No
+EMP1091,Daniel Gomez,Sales,Operations Lead,Claire Sutton,Q1 2025,2025-09-11,3.18,Meets Expectations,68,Production short treatment today stock start.,Occur born certain check man third.,Yes
+EMP1092,Alyssa French,Sales,Operations Lead,Renee Miller,Q4 2025,2025-07-28,1.52,Needs Improvement,92,Most think far agent work.,Well music card southern line.,No
+EMP1093,Ashley Chavez,Operations,IT Specialist,Christopher Bond,Q1 2025,2025-07-09,4.38,Exceeds Expectations,101,Whether network bag evening.,Professional fine oil must car truth.,Yes
+EMP1094,Jeffery Foster,Customer Support,Operations Lead,George Hernandez,Q4 2025,2025-08-05,3.18,Meets Expectations,75,Traditional service treat.,Citizen agree table mention.,No
+EMP1095,Robert Wood,Finance,Accountant,Douglas Valencia,Q1 2025,2025-06-26,3.91,Meets Expectations,80,Price attorney south writer really different Republican.,Statement ability return finally.,No
+EMP1096,Ryan Barnes,IT,Software Engineer,Miranda Hinton,Q4 2025,2025-09-19,2.03,Below Expectations,79,Gas way ability get final third.,Not on inside beyond city.,Yes
+EMP1097,Kenneth Williams,Finance,Marketing Analyst,John Hunt,Q1 2025,2025-04-20,1.05,Needs Improvement,119,Mrs you personal else.,Bar peace nor available indeed benefit generation.,Yes
+EMP1098,Ronald Goodman,Operations,IT Specialist,Tracy Carey,Q1 2025,2025-08-08,1.89,Needs Improvement,65,Including eye democratic car also quality.,Or expect sign safe bed door.,Yes
+EMP1099,Stephanie Smith,HR,Operations Lead,Meghan Johnson,Q4 2025,2025-09-04,3.79,Meets Expectations,88,Inside child hard evening.,Between practice with.,No
+EMP1100,Sarah Hogan,Sales,Software Engineer,Anna Walter,Q2 2025,2025-06-18,2.37,Below Expectations,72,Lose language it.,Just listen exist pressure whose drive great.,No
+EMP1101,John Nelson,Engineering,Software Engineer,Tracy Carey,Q1 2025,2025-09-08,2.76,Below Expectations,104,Along the candidate order open.,Size news store manage be.,Yes
+EMP1102,Loretta Wheeler,Engineering,HR Manager,Brittany Cook,Q4 2025,2025-10-03,4.24,Exceeds Expectations,108,Away drug decade pattern size professional.,Option service paper provide letter tonight.,No
+EMP1103,Anthony Russell,Engineering,Software Engineer,Alyssa Rodriguez,Q1 2025,2025-07-22,1.65,Needs Improvement,116,Which kitchen affect born represent four wide.,Cut place edge expert national.,Yes
+EMP1104,Juan Hart,Finance,HR Manager,Tracy Carey,Q3 2025,2025-08-21,2.22,Below Expectations,120,Ask glass be human.,Source consumer mention decision.,Yes
+EMP1105,Bobby Booth,IT,Support Associate,Sarah Hall,Q1 2025,2025-06-01,2.8,Below Expectations,115,Do spring letter down.,Response accept myself agent security federal experience.,No
+EMP1106,Francisco Terry,Engineering,Software Engineer,Jennifer Jackson,Q3 2025,2025-08-09,1.67,Needs Improvement,85,Among bit sea audience east where ahead quite.,Seat dark charge country whatever.,Yes
+EMP1107,Matthew Ward,IT,Operations Lead,Claire Sutton,Q3 2025,2025-10-09,2.61,Below Expectations,66,Animal behind especially look during.,White strategy full season hot partner detail.,Yes
+EMP1108,James Smith,HR,Marketing Analyst,Elizabeth Terrell,Q3 2025,2025-09-05,4.58,Outstanding,87,So true blood our how wear political order.,Beat between body star north director be.,No
+EMP1109,Janet Richardson,IT,HR Manager,Edwin Williams,Q3 2025,2025-07-20,3.16,Meets Expectations,105,Teacher different admit sit.,American choose stock likely long agreement concern.,Yes
+EMP1110,Jennifer Bell,HR,HR Manager,Jason Carroll,Q4 2025,2025-06-28,3.66,Meets Expectations,94,End life remember stock house series.,Seek another above perhaps source.,No
+EMP1111,Denise Brown,Sales,Support Associate,Claire Sutton,Q1 2025,2025-06-02,3.56,Meets Expectations,100,Professional enough something property second.,Goal late soldier speech suddenly.,No
+EMP1112,Phillip Porter,Marketing,Sales Executive,Edwin Williams,Q1 2025,2025-08-27,4.07,Exceeds Expectations,67,Decision machine expect or.,Alone bring popular trade.,No
+EMP1113,Natasha Williams,IT,Marketing Analyst,Renee Miller,Q3 2025,2025-07-13,3.43,Meets Expectations,102,President candidate best manager you meeting wife.,Modern finish into significant look.,No
+EMP1114,Taylor Knox,IT,Operations Lead,Mark Wilkinson,Q4 2025,2025-07-29,4.04,Exceeds Expectations,68,Right year among sit.,Much theory painting draw.,Yes
+EMP1115,Cesar Jones,Operations,Support Associate,Christopher Bond,Q2 2025,2025-04-22,2.96,Below Expectations,61,They yard star give.,Free sense simply the management run such.,No
+EMP1116,Thomas Payne,Operations,Sales Executive,Jason Carroll,Q2 2025,2025-04-28,4.76,Outstanding,99,Coach production station military we against.,Move idea adult several probably.,No
+EMP1117,Christopher Patterson,Engineering,Marketing Analyst,Anna Walter,Q2 2025,2025-06-01,2.69,Below Expectations,63,Your yourself pay hand.,Move million unit he truth.,Yes
+EMP1118,Henry Griffin,Sales,Sales Executive,Mark Wilkinson,Q1 2025,2025-08-31,1.16,Needs Improvement,112,Bad risk agency girl so might safe service.,Church left main but.,Yes
+EMP1119,Robert Huffman,Operations,Sales Executive,Tracy Carey,Q1 2025,2025-10-06,1.2,Needs Improvement,66,Audience test wear.,Car item edge suddenly together concern party north.,Yes
+EMP1120,Christopher Romero,Operations,Operations Lead,Robert Sullivan,Q3 2025,2025-08-28,3.2,Meets Expectations,71,Myself ok or building whom.,Available no two.,Yes
+EMP1121,Thomas Bradley,Customer Support,Operations Lead,Elizabeth Terrell,Q4 2025,2025-09-25,1.0,Needs Improvement,67,Perhaps will thing thus machine.,Everyone author trip serve together fine practice.,Yes
+EMP1122,Robert Miller,Engineering,HR Manager,Mark Wilkinson,Q2 2025,2025-05-28,1.38,Needs Improvement,61,Mention water hot truth other.,Stay want physical world window well house.,No
+EMP1123,Jeffrey Miller,Engineering,IT Specialist,David Johnson,Q2 2025,2025-04-28,2.32,Below Expectations,66,More occur term voice worker could international mention.,Forward president perhaps safe unit.,No
+EMP1124,Kimberly Logan,Operations,Support Associate,Ricky Rodriguez,Q1 2025,2025-07-07,4.39,Exceeds Expectations,67,Fast serve international Mrs eye successful.,Enter become build right.,Yes
+EMP1125,Elizabeth Daniels,HR,IT Specialist,Anthony Wolfe DDS,Q4 2025,2025-09-13,1.06,Needs Improvement,81,Region thank adult owner key blood try water.,Concern short compare film.,Yes
+EMP1126,Caleb King,Marketing,Support Associate,Alyssa Rodriguez,Q1 2025,2025-06-17,3.1,Meets Expectations,75,None likely animal thing show long wrong.,Positive present drug car throughout theory report.,No
+EMP1127,Jose Smith,Marketing,Accountant,Cynthia Smith,Q4 2025,2025-06-04,3.81,Meets Expectations,84,Indeed stage big specific.,Social star media school him mission.,Yes
+EMP1128,Danielle Phillips,Sales,Marketing Analyst,Mark Wilkinson,Q1 2025,2025-06-20,1.53,Needs Improvement,119,Set example institution bad always degree.,They section worker trial industry.,Yes
+EMP1129,Carol Stephens,Customer Support,HR Manager,Tracy Carey,Q3 2025,2025-09-22,2.29,Below Expectations,94,Agent approach government drop cover trial concern.,View third base change mother.,Yes
+EMP1130,Adam Ward,Sales,IT Specialist,Donna Thompson MD,Q2 2025,2025-08-29,3.97,Meets Expectations,87,Check ok process hundred.,Seven term face happy both.,Yes
+EMP1131,Ryan Elliott,Engineering,Support Associate,Donna Thompson MD,Q3 2025,2025-10-01,2.94,Below Expectations,69,Student everyone cultural practice run century business.,Pressure perform under director technology.,Yes
+EMP1132,Mike Fox,Customer Support,Operations Lead,Dr. Brendan Lloyd,Q3 2025,2025-09-22,1.38,Needs Improvement,109,Go too wrong table plant increase idea.,Size economy floor blue.,No
+EMP1133,Kara Perez,Sales,Support Associate,Cynthia Smith,Q4 2025,2025-05-08,4.58,Outstanding,104,Direction financial shake individual during.,Field likely admit only evidence future region.,Yes
+EMP1134,David Reed,Operations,Operations Lead,Douglas Valencia,Q3 2025,2025-09-11,4.49,Exceeds Expectations,85,Agreement agreement necessary trial time add.,Human fine oil cup understand.,Yes
+EMP1135,Maureen Ross,HR,IT Specialist,Adam Parsons,Q3 2025,2025-10-02,3.31,Meets Expectations,76,Language take education throughout charge least.,Though camera education effort generation able chance.,No
+EMP1136,Hannah Smith,Engineering,HR Manager,Alyssa Rodriguez,Q1 2025,2025-07-23,1.97,Needs Improvement,89,Job hour share least ever huge.,Remember everyone policy Mrs majority old while.,No
+EMP1137,David Carter,Customer Support,Marketing Analyst,Tracy Carey,Q4 2025,2025-07-03,4.48,Exceeds Expectations,85,Detail perform special adult however.,Official tend around strategy opportunity.,Yes
+EMP1138,Adrian Oneill,HR,Operations Lead,Claire Sutton,Q1 2025,2025-05-24,1.01,Needs Improvement,110,Plan such art team recognize.,Into international real yet find customer.,No
+EMP1139,Krystal Fowler,Sales,Accountant,Christopher Bond,Q1 2025,2025-07-27,3.02,Meets Expectations,80,Toward fund same see.,Ever actually school social.,Yes
+EMP1140,Jocelyn Thompson,Engineering,Operations Lead,Anna Walter,Q2 2025,2025-07-18,4.03,Exceeds Expectations,62,Believe sort possible when PM.,However want heavy offer begin body church.,No
+EMP1141,Nicholas Zamora,IT,Sales Executive,Christopher Bond,Q1 2025,2025-10-10,4.19,Exceeds Expectations,63,Thing kind music while.,Range month require likely party.,No
+EMP1142,Lacey Ortega,Finance,Software Engineer,Tracy Carey,Q1 2025,2025-04-27,1.41,Needs Improvement,65,Thing side those against wind at.,Moment test expert fast sea role level message.,Yes
+EMP1143,Joshua Chambers,Sales,Accountant,Robert Sullivan,Q1 2025,2025-08-21,3.21,Meets Expectations,109,Both start both simple us bar.,Down person church key research claim.,Yes
+EMP1144,Beth Nichols,Finance,HR Manager,Brittany Cook,Q1 2025,2025-07-11,3.53,Meets Expectations,87,International movement piece modern skin cause.,Stuff attorney high economic common minute.,Yes
+EMP1145,Kelly Hawkins,HR,Marketing Analyst,Alyssa Rodriguez,Q4 2025,2025-10-09,3.24,Meets Expectations,77,Suddenly rate group expert call.,Measure body list expert miss spring usually summer.,Yes
+EMP1146,Heather Clark,IT,Sales Executive,Tracy Carey,Q1 2025,2025-06-14,3.12,Meets Expectations,74,Fly call attack bill.,Argue computer inside Mr.,Yes
+EMP1147,Mary Boyle,Engineering,IT Specialist,Adam Parsons,Q4 2025,2025-05-12,1.31,Needs Improvement,92,Within list total national week.,Necessary role war tend if keep song.,No
+EMP1148,Anthony James,Engineering,Support Associate,Jason Carroll,Q4 2025,2025-06-12,4.54,Outstanding,70,Effect senior today way all later arrive.,Service wait police when.,Yes
+EMP1149,Richard Barajas,Finance,IT Specialist,Sarah Hall,Q2 2025,2025-08-02,1.92,Needs Improvement,66,Night ability east sort world everybody ground indeed.,Charge per physical.,Yes
+EMP1150,Yolanda Livingston,Operations,Software Engineer,Donna Thompson MD,Q3 2025,2025-07-10,4.98,Outstanding,108,Very arrive matter data seat commercial.,Beautiful house religious notice service ever.,No
+EMP1151,John Branch,Finance,HR Manager,Anna Walter,Q3 2025,2025-05-07,1.92,Needs Improvement,97,Medical deep travel less.,Bar field important form at.,No
+EMP1152,Rickey Shaffer,Operations,Operations Lead,Douglas Valencia,Q3 2025,2025-07-25,3.6,Meets Expectations,64,Show south effect cost pay.,Size around course how drive remember whole.,No
+EMP1153,Sean Harris,IT,HR Manager,Elizabeth Terrell,Q1 2025,2025-06-22,2.59,Below Expectations,76,After structure stand coach civil rich.,Rate return stuff.,Yes
+EMP1154,Christopher Gibson,Operations,IT Specialist,Meghan Johnson,Q4 2025,2025-07-16,3.25,Meets Expectations,81,Agency environment nothing power trade.,Election pretty strategy in drug.,Yes
+EMP1155,Deborah Gonzales,Marketing,Sales Executive,Meghan Johnson,Q4 2025,2025-09-26,1.4,Needs Improvement,74,Set arrive sound politics list either while.,Partner blue radio understand mean see.,No
+EMP1156,Amy Myers,Operations,Marketing Analyst,David Johnson,Q1 2025,2025-07-12,3.25,Meets Expectations,113,Why anyone method international but push become.,Marriage spend tax.,No
+EMP1157,Shannon Rodriguez,HR,Marketing Analyst,Susan Henderson,Q4 2025,2025-05-14,1.22,Needs Improvement,88,Time guy sing lay fear music.,Budget deal room them election group.,No
+EMP1158,Ryan Jones,Sales,Accountant,Fernando Ortiz,Q4 2025,2025-08-27,4.97,Outstanding,90,Wear contain little baby suffer.,Resource miss financial write conference.,Yes
+EMP1159,Jordan Hughes,Operations,Support Associate,Anthony Wolfe DDS,Q2 2025,2025-08-16,4.58,Outstanding,80,Especially bed participant.,Ago realize among maintain involve star.,No
+EMP1160,Steven Arnold,HR,Operations Lead,Cynthia Smith,Q3 2025,2025-08-02,3.69,Meets Expectations,80,Everything hot alone stuff.,Real may discussion.,Yes
+EMP1161,Gerald Hooper,Marketing,HR Manager,Anthony Wolfe DDS,Q3 2025,2025-07-31,2.24,Below Expectations,117,Production better personal commercial life star black bag.,Again bit arm act.,No
+EMP1162,Susan Gibbs,Marketing,Marketing Analyst,Miranda Hinton,Q2 2025,2025-10-10,1.56,Needs Improvement,74,Yes project two evidence fill return sound.,Value arrive meeting service.,Yes
+EMP1163,Audrey Payne,Finance,HR Manager,Anna Walter,Q2 2025,2025-05-05,2.57,Below Expectations,63,Left guess yes ask until.,Poor capital woman than them cell trade civil.,No
+EMP1164,Kenneth Price,Finance,HR Manager,Elizabeth Terrell,Q3 2025,2025-07-14,1.85,Needs Improvement,63,Everyone short factor.,Outside agreement boy child total attack local.,Yes
+EMP1165,James Johnston,IT,Sales Executive,Christopher Bond,Q3 2025,2025-09-26,2.93,Below Expectations,98,General always source project rate.,Effort window much catch science organization.,No
+EMP1166,Julie Rodriguez,Sales,Accountant,Jennifer Jackson,Q1 2025,2025-05-27,4.34,Exceeds Expectations,62,Thousand fact peace which debate attack turn.,Or use poor recently south such.,No
+EMP1167,Holly Curtis,Marketing,Marketing Analyst,Robert Sullivan,Q4 2025,2025-07-30,1.43,Needs Improvement,102,Control least likely structure maybe attention.,Section cup foreign economy turn.,No
+EMP1168,Erin King,IT,HR Manager,Edwin Williams,Q2 2025,2025-05-25,4.46,Exceeds Expectations,71,Produce too truth conference.,Low shoulder put discussion under sometimes quality establish.,Yes
+EMP1169,Madison Wood,Sales,HR Manager,Renee Miller,Q4 2025,2025-04-27,2.46,Below Expectations,63,Certainly notice whose.,List who rest oil.,No
+EMP1170,Linda Steele,Finance,Sales Executive,David Delacruz,Q3 2025,2025-09-18,2.51,Below Expectations,120,Chance speech act yeah young name stop focus.,Policy all so though security food.,Yes
+EMP1171,Carl Lane,HR,Accountant,Cynthia Smith,Q3 2025,2025-07-22,3.84,Meets Expectations,87,Note structure season choose third.,Sea spring quality company behind rise.,No
+EMP1172,Kelly Ballard,Customer Support,Support Associate,Douglas Valencia,Q1 2025,2025-04-25,3.9,Meets Expectations,61,Hotel quickly look sister evening course.,Pattern include success.,Yes
+EMP1173,Corey Conley,HR,Operations Lead,Christopher Bond,Q1 2025,2025-09-15,3.02,Meets Expectations,76,Head political conference together center that south.,About market bill.,No
+EMP1174,Annette Hahn,Engineering,Software Engineer,John Hunt,Q1 2025,2025-06-28,2.53,Below Expectations,71,Identify each skill here administration money.,Subject also whether end again today skill.,Yes
+EMP1175,Dawn Reyes,Marketing,Sales Executive,Cynthia Smith,Q1 2025,2025-08-31,4.24,Exceeds Expectations,118,Whether husband road wide build foreign.,Hotel central knowledge agency military week.,No
+EMP1176,Laura Bailey,Finance,Operations Lead,Jason Carroll,Q4 2025,2025-04-30,4.65,Outstanding,104,Door some chair doctor.,Tell clear matter full.,No
+EMP1177,Jason Randolph,Engineering,Marketing Analyst,Edwin Williams,Q2 2025,2025-07-01,4.83,Outstanding,80,News finish suggest clear.,Prepare art order force bill.,No
+EMP1178,Angela Phillips,Sales,IT Specialist,Renee Miller,Q4 2025,2025-08-19,4.75,Outstanding,73,Pm firm nor message entire huge.,Truth generation ever look whole plant catch seek.,No
+EMP1179,Allison Smith,Marketing,Marketing Analyst,Meghan Johnson,Q4 2025,2025-07-31,3.59,Meets Expectations,92,Performance prepare purpose property chance compare give.,Important small such establish job social thank century.,Yes
+EMP1180,Daniel Davis,Engineering,Operations Lead,Claire Sutton,Q3 2025,2025-05-31,3.44,Meets Expectations,73,Mouth interview control short area appear word start.,Senior research opportunity kind democratic couple everything move.,No
+EMP1181,Brandon Anderson,Sales,Support Associate,Sarah Hall,Q2 2025,2025-06-21,2.12,Below Expectations,82,Agree by business certainly always PM.,Have spring boy coach exist woman.,No
+EMP1182,Jacqueline Garcia,IT,IT Specialist,Robert Sullivan,Q1 2025,2025-06-18,3.54,Meets Expectations,113,Congress green indeed street.,Physical eight job remember theory suddenly cut.,No
+EMP1183,Kathryn Black,HR,HR Manager,Alyssa Rodriguez,Q1 2025,2025-07-16,2.65,Below Expectations,103,Much perform anyone stock training natural born.,Discover quite a song.,Yes
+EMP1184,Gregory Henry,Operations,Support Associate,Barry Anderson,Q4 2025,2025-05-02,3.78,Meets Expectations,63,Great according ten trip woman send.,We vote western history standard.,Yes
+EMP1185,Kendra Smith,IT,Marketing Analyst,Mark Wilkinson,Q3 2025,2025-10-07,1.49,Needs Improvement,113,Thank black actually sing theory degree.,Million financial audience around light.,No
+EMP1186,Ryan Munoz,Finance,HR Manager,Alyssa Rodriguez,Q4 2025,2025-07-16,3.63,Meets Expectations,71,Full improve live store hold.,Seat window reduce education determine.,No
+EMP1187,Robert Brock,HR,Support Associate,Tracy Carey,Q3 2025,2025-10-04,1.42,Needs Improvement,74,Country offer line draw from rule.,Full care bed environment stuff still.,No
+EMP1188,Jodi Jones,Marketing,HR Manager,Donna Thompson MD,Q2 2025,2025-08-28,4.75,Outstanding,81,Thought perhaps more professional case.,Another song today source page remember relationship.,Yes
+EMP1189,Angel Miller,Sales,Accountant,Alyssa Rodriguez,Q3 2025,2025-09-03,2.93,Below Expectations,107,Realize appear hard five later with foot.,American sense first tree popular these.,Yes
+EMP1190,Diana Medina,IT,IT Specialist,Cynthia Smith,Q3 2025,2025-05-26,2.3,Below Expectations,70,Then together figure as plan drive and year.,Citizen notice run one least letter word.,Yes
+EMP1191,Cameron Kline,HR,Operations Lead,Jennifer Jackson,Q4 2025,2025-08-30,4.63,Outstanding,71,Around whole behind could along necessary drug.,Spring one tell agent entire before.,No
+EMP1192,Melissa Scott,Operations,HR Manager,Brittany Cook,Q4 2025,2025-07-19,3.83,Meets Expectations,69,Time official pull million.,Number weight door establish technology partner.,No
+EMP1193,Isaiah Jones,IT,Software Engineer,Meghan Johnson,Q2 2025,2025-08-11,4.59,Outstanding,103,Certainly little indeed such their.,Likely morning knowledge task guy.,No
+EMP1194,Joshua Mann,Sales,HR Manager,Tracy Carey,Q3 2025,2025-08-28,4.76,Outstanding,118,Pick society break then.,Six at officer run water attack.,No
+EMP1195,Joseph Aguilar,Customer Support,Software Engineer,Dr. Brendan Lloyd,Q2 2025,2025-06-28,2.04,Below Expectations,61,Send seat someone.,Policy wait green audience necessary.,Yes
+EMP1196,Lindsey Moore,HR,Sales Executive,Anthony Wolfe DDS,Q3 2025,2025-04-19,1.8,Needs Improvement,107,Yourself else question artist think.,Your tax food large onto teacher.,Yes
+EMP1197,Wanda Frazier,IT,Operations Lead,Claire Sutton,Q1 2025,2025-07-06,1.18,Needs Improvement,75,War rich history husband watch subject exactly everyone.,Question experience subject specific within station after.,No
+EMP1198,Tonya Phillips,Operations,Sales Executive,John Hunt,Q2 2025,2025-09-13,4.65,Outstanding,94,Know standard action indeed natural position.,Even system strategy.,No
+EMP1199,Yolanda Tucker,Engineering,Marketing Analyst,Susan Henderson,Q1 2025,2025-07-04,4.72,Outstanding,85,These sea any the mind behind bring tax.,Star guess move right.,Yes
+EMP1200,Joseph Coleman,Customer Support,Operations Lead,Tracy Carey,Q1 2025,2025-08-31,1.45,Needs Improvement,63,Behavior treatment across deal we vote bank.,Do sing late successful imagine loss particularly.,No
+EMP1201,Thomas Hicks,Customer Support,IT Specialist,Miranda Hinton,Q3 2025,2025-06-02,3.12,Meets Expectations,68,Heart success control positive decade.,Assume environment far last movie.,No
+EMP1202,Mark Klein,Engineering,Sales Executive,Renee Miller,Q2 2025,2025-09-11,3.32,Meets Expectations,115,Mr economy grow account family.,Become too yard writer get food although oil.,No
+EMP1203,Anna Watts,Marketing,Operations Lead,Mark Wilkinson,Q4 2025,2025-06-05,2.46,Below Expectations,85,Feel onto structure much might such.,Win wonder physical among college.,No
+EMP1204,Gregory Johnson,IT,Marketing Analyst,Susan Henderson,Q3 2025,2025-06-12,1.88,Needs Improvement,102,Husband so hit candidate.,Indeed late to travel.,Yes
+EMP1205,Justin Stanley,Finance,Support Associate,Jason Carroll,Q2 2025,2025-06-13,2.56,Below Expectations,74,Laugh alone success tax notice rest.,Many draw organization next stock young necessary.,No
+EMP1206,Gregory Stephens,Marketing,Support Associate,Barry Anderson,Q1 2025,2025-07-23,2.84,Below Expectations,64,Action season we player education figure pull.,Dark blood economy marriage partner material.,No
+EMP1207,John Doyle,Engineering,HR Manager,John Hunt,Q3 2025,2025-04-20,1.74,Needs Improvement,95,Professional wait sister crime feel.,Base exist report commercial present quickly school.,No
+EMP1208,Robert Church,HR,Software Engineer,David Delacruz,Q3 2025,2025-06-23,2.45,Below Expectations,106,Soon before up figure.,Food network social they according us.,No
+EMP1209,Ian Lyons,Marketing,Operations Lead,Christopher Bond,Q3 2025,2025-07-24,2.87,Below Expectations,118,Difficult continue speech great lot again.,Property street leader edge race add.,No
+EMP1210,Jessica Chung,IT,HR Manager,Renee Miller,Q4 2025,2025-08-28,1.95,Needs Improvement,85,Conference simple staff situation.,Positive often oil draw.,Yes
+EMP1211,Julie Wilson,Marketing,Operations Lead,Anthony Wolfe DDS,Q2 2025,2025-08-30,4.11,Exceeds Expectations,66,Training with carry writer recently worry.,Science difficult black town night hope.,Yes
+EMP1212,Leslie Murphy,Sales,Operations Lead,Miranda Hinton,Q1 2025,2025-08-01,2.63,Below Expectations,105,Responsibility until consider some safe you whom style.,International Mr Congress crime board budget.,Yes
+EMP1213,Douglas Buckley,Engineering,HR Manager,Jennifer Jackson,Q1 2025,2025-08-09,1.9,Needs Improvement,117,Wear purpose police meet find weight.,Morning along southern else meeting they wear.,No
+EMP1214,Lisa Kim,Customer Support,IT Specialist,Renee Miller,Q2 2025,2025-07-12,1.08,Needs Improvement,100,Majority while Congress ask whose argue other.,Life new protect eat represent she fly.,Yes
+EMP1215,Stacy Kim,Sales,Operations Lead,Dr. Brendan Lloyd,Q2 2025,2025-07-04,4.95,Outstanding,85,Leave leave back around.,On amount scene director.,No
+EMP1216,Terry Johnston,IT,Operations Lead,Robert Sullivan,Q4 2025,2025-09-17,3.45,Meets Expectations,83,Building spring player Democrat production before.,Artist population current one by.,Yes
+EMP1217,Victoria Soto,Operations,Accountant,Dr. Brendan Lloyd,Q3 2025,2025-05-20,3.27,Meets Expectations,86,Cold peace month civil size alone security necessary.,Particularly rule develop for part response reveal.,Yes
+EMP1218,Lisa Blake,Finance,Accountant,David Johnson,Q3 2025,2025-06-28,4.39,Exceeds Expectations,62,Fish trouble need direction situation view whole.,Same son sometimes turn.,Yes
+EMP1219,Stephanie Hall,Marketing,Marketing Analyst,George Hernandez,Q4 2025,2025-08-24,3.66,Meets Expectations,111,Raise they building force billion business.,Significant feeling class right bag cup.,No
+EMP1220,Matthew Lozano,IT,Support Associate,Cynthia Smith,Q2 2025,2025-05-09,1.01,Needs Improvement,96,Draw go agent benefit source car among.,Than our memory within different worry business somebody.,No
+EMP1221,Kelsey Taylor,Operations,Support Associate,Anthony Wolfe DDS,Q1 2025,2025-10-01,3.31,Meets Expectations,89,Door least environment key between kid option.,Current will color one break party.,No
+EMP1222,Jordan Mason,Marketing,HR Manager,Jason Carroll,Q4 2025,2025-08-07,3.24,Meets Expectations,87,Join man method more reach possible.,Page hear face level manager.,No
+EMP1223,Mary Acosta,Engineering,Marketing Analyst,Claire Sutton,Q3 2025,2025-09-23,2.83,Below Expectations,96,Early manager their no medical particular itself.,Better hour production daughter figure different cause.,No
+EMP1224,Vincent Young,Engineering,IT Specialist,Mark Wilkinson,Q4 2025,2025-05-15,3.47,Meets Expectations,91,Condition soon among deep.,Doctor attention tree gas sing mind.,Yes
+EMP1225,Jamie Lara,Finance,Sales Executive,Edwin Williams,Q2 2025,2025-07-05,2.5,Below Expectations,97,Or space PM natural pick unit interesting.,Help reach range operation.,Yes
+EMP1226,Cassandra Lopez,HR,Marketing Analyst,Sarah Hall,Q2 2025,2025-06-21,1.47,Needs Improvement,99,Top how newspaper among state rule.,Part serious product others such safe free choose.,No
+EMP1227,Kenneth Daugherty,Operations,Support Associate,David Delacruz,Q2 2025,2025-08-28,2.55,Below Expectations,74,Will worker yard certainly.,Guy well something million program.,No
+EMP1228,Amy Scott,Finance,HR Manager,Miranda Hinton,Q4 2025,2025-10-13,2.26,Below Expectations,117,Artist popular such space people off lead.,Magazine author kitchen never.,Yes
+EMP1229,Gary Ortiz,HR,Support Associate,Tracy Carey,Q3 2025,2025-06-15,1.04,Needs Improvement,119,Than base sit investment degree body.,Throw team suggest discover wear them writer popular.,No
+EMP1230,Jeffrey Ray,Sales,Accountant,Adam Parsons,Q1 2025,2025-09-17,2.97,Below Expectations,87,Seek movie positive cup medical leg.,Thought suggest turn book.,No
+EMP1231,Brian Gates,Sales,Software Engineer,Jennifer Jackson,Q4 2025,2025-07-05,3.35,Meets Expectations,118,Sit glass rather attorney guess explain.,It experience common.,No
+EMP1232,Jenny Barrett DVM,IT,HR Manager,Edwin Williams,Q1 2025,2025-09-05,2.68,Below Expectations,66,Order so ok night show building.,Record buy kid force successful draw likely reality.,No
+EMP1233,Sydney Sanchez,HR,HR Manager,Christopher Bond,Q3 2025,2025-09-21,3.81,Meets Expectations,74,Voice activity along.,Without arrive room.,No
+EMP1234,Victor Ferguson,Sales,Marketing Analyst,Robert Sullivan,Q4 2025,2025-05-29,2.23,Below Expectations,75,True blue gun hotel mind Congress four much.,Growth great purpose all goal food.,No
+EMP1235,Steven Maldonado,Customer Support,Accountant,Claire Sutton,Q1 2025,2025-09-02,1.3,Needs Improvement,74,Model increase choice base.,Tv outside laugh animal coach occur box.,No
+EMP1236,Tony Evans,Customer Support,IT Specialist,Elizabeth Terrell,Q1 2025,2025-05-13,4.63,Outstanding,78,Heart loss whether loss mission.,Billion face market next.,Yes
+EMP1237,Miss April Brown,Finance,HR Manager,Adam Parsons,Q3 2025,2025-08-09,2.52,Below Expectations,84,With cold spend.,Role medical street rule space.,Yes
+EMP1238,Clayton Lawrence,IT,Support Associate,Susan Henderson,Q3 2025,2025-06-20,4.56,Outstanding,88,Four morning past.,Fly today store as.,No
+EMP1239,Kelsey Gentry,Finance,Accountant,Robert Sullivan,Q1 2025,2025-07-09,2.97,Below Expectations,95,Moment yeah prove act certain theory.,Hospital clearly western with.,Yes
+EMP1240,Elizabeth Lewis,IT,Sales Executive,Jason Carroll,Q3 2025,2025-08-02,1.82,Needs Improvement,62,Crime determine see test eye.,So section everybody operation.,No
+EMP1241,Matthew Perez,Finance,HR Manager,Renee Miller,Q2 2025,2025-09-30,4.51,Outstanding,70,Across commercial if size create middle price save.,Push such forward.,Yes
+EMP1242,Bryce Buchanan,Customer Support,Software Engineer,Jennifer Jackson,Q1 2025,2025-10-13,1.74,Needs Improvement,77,Build final cell later laugh dinner.,Notice involve room prove no owner.,No
+EMP1243,Miguel Adams,Customer Support,HR Manager,Tracy Carey,Q3 2025,2025-06-07,4.72,Outstanding,99,Beautiful loss thank.,Keep truth gas sea.,No
+EMP1244,Annette Murphy,Customer Support,Accountant,Jason Carroll,Q4 2025,2025-07-17,2.06,Below Expectations,117,Get action happy part rich final measure.,Analysis available official others raise.,No
+EMP1245,Ashley Graham,Customer Support,Software Engineer,Ricky Rodriguez,Q1 2025,2025-06-06,2.21,Below Expectations,63,Allow manager experience future civil able difference.,No no teacher heavy figure story member.,No
+EMP1246,Phillip Thomas,Customer Support,Sales Executive,Renee Miller,Q1 2025,2025-10-10,3.02,Meets Expectations,90,Pm start think billion either race lead.,Quality government within training message source threat run.,Yes
+EMP1247,Heather Cole,Marketing,HR Manager,David Johnson,Q4 2025,2025-09-26,2.57,Below Expectations,71,Different magazine nothing event occur avoid.,Approach traditional manage hour visit page again.,No
+EMP1248,Danny Gardner,Marketing,Sales Executive,George Hernandez,Q3 2025,2025-10-10,2.97,Below Expectations,86,Federal Congress employee role model.,Open respond growth.,No
+EMP1249,Mark Johnston,Finance,Support Associate,Robert Sullivan,Q2 2025,2025-06-06,1.89,Needs Improvement,98,Room science note local receive represent ok.,Debate mouth say either cut.,No
+EMP1250,Leslie Burke,Marketing,HR Manager,Douglas Valencia,Q3 2025,2025-07-11,4.7,Outstanding,67,Visit large open father trouble defense perhaps attention.,Ground pattern behind of speech result.,No
+EMP1251,Gabriel Hanna,IT,Software Engineer,John Hunt,Q2 2025,2025-06-18,4.56,Outstanding,115,Everyone south defense than as.,However wish experience fly together edge baby.,No
+EMP1252,Maria Hill,HR,Marketing Analyst,Anthony Wolfe DDS,Q1 2025,2025-05-27,4.51,Outstanding,75,Fast study direction parent to.,Western night affect physical either too.,No
+EMP1253,Cynthia Floyd,Engineering,HR Manager,Tracy Carey,Q4 2025,2025-07-14,1.78,Needs Improvement,120,Read same yourself help enjoy.,Picture process find analysis decade.,No
+EMP1254,Laura Turner,Operations,IT Specialist,Adam Parsons,Q3 2025,2025-10-08,3.33,Meets Expectations,115,Firm series rock across between believe decide.,Others least collection.,No
+EMP1255,Meghan Marsh,Finance,Sales Executive,George Hernandez,Q4 2025,2025-05-18,2.06,Below Expectations,84,Key plant stage us.,Voice performance decide.,No
+EMP1256,Veronica Valentine MD,Operations,Sales Executive,Renee Miller,Q1 2025,2025-08-15,1.88,Needs Improvement,80,Culture prevent outside here hope.,Early chance reveal church manage war type.,No
+EMP1257,Nicholas Gilbert,Marketing,Marketing Analyst,Elizabeth Terrell,Q1 2025,2025-09-06,3.92,Meets Expectations,68,Herself mission foreign option statement personal world.,Interesting scene why.,Yes
+EMP1258,Calvin Morris,HR,Marketing Analyst,Tracy Carey,Q4 2025,2025-05-06,2.4,Below Expectations,110,Building across figure work arm central.,Speak interview war lay.,No
+EMP1259,Jessica Garcia,Customer Support,Accountant,Claire Sutton,Q3 2025,2025-09-29,2.09,Below Expectations,113,Lay safe capital purpose course.,Actually page instead test method under maybe serve.,Yes
+EMP1260,Megan Nichols,HR,IT Specialist,Barry Anderson,Q2 2025,2025-05-05,3.41,Meets Expectations,115,Center since treatment pass yes piece computer.,Create police thought could feel.,No
+EMP1261,Rebecca White,Marketing,Operations Lead,David Johnson,Q1 2025,2025-10-11,3.86,Meets Expectations,77,Major those dinner trade range recent medical.,Manage ground traditional drug daughter against campaign.,No
+EMP1262,Scott Torres,Sales,Support Associate,Anna Walter,Q2 2025,2025-08-03,4.44,Exceeds Expectations,82,Because within notice example long lawyer.,War reach tough their decade yourself.,Yes
+EMP1263,Jesse Robinson,IT,Software Engineer,Anna Walter,Q3 2025,2025-08-01,3.7,Meets Expectations,65,Weight fact true once.,Forward soon unit response us.,No
+EMP1264,Kristen Lewis,Customer Support,Sales Executive,Tracy Carey,Q2 2025,2025-09-14,3.92,Meets Expectations,103,Discuss hard floor.,Citizen new increase until.,Yes
+EMP1265,Wendy Love,Sales,Operations Lead,David Delacruz,Q3 2025,2025-06-09,2.09,Below Expectations,109,Wind join manager argue star.,Too owner order technology newspaper north.,No
+EMP1266,Sharon Glenn,Finance,Marketing Analyst,John Hunt,Q2 2025,2025-05-11,1.38,Needs Improvement,114,Worker detail big radio music big.,Front stand man.,No
+EMP1267,Lindsey Miller,Sales,IT Specialist,John Hunt,Q2 2025,2025-05-11,3.39,Meets Expectations,105,A get white sell exist health memory.,Ok itself get purpose large hard price.,Yes
+EMP1268,Michael Smith,Customer Support,Marketing Analyst,Jason Carroll,Q1 2025,2025-05-25,4.87,Outstanding,94,Song same trip carry expert international.,House alone sell executive Democrat key.,Yes
+EMP1269,Marcus Hogan,Customer Support,Sales Executive,George Hernandez,Q2 2025,2025-04-27,3.69,Meets Expectations,70,Against dinner girl join now.,Front full help thank month.,Yes
+EMP1270,Andrew Scott,Sales,Support Associate,Fernando Ortiz,Q2 2025,2025-05-01,4.86,Outstanding,109,Strong focus worry couple later others one before.,Pay accept activity kid note allow wonder manage.,Yes
+EMP1271,Kyle Cooper,Engineering,IT Specialist,Brittany Cook,Q2 2025,2025-07-13,2.39,Below Expectations,80,Note however really at than general loss.,Change so eight itself.,Yes
+EMP1272,Jessica Martin,Sales,Operations Lead,Barry Anderson,Q2 2025,2025-10-13,4.33,Exceeds Expectations,76,Culture by sometimes able attack age.,Write money glass.,No
+EMP1273,Tracy White,Marketing,Sales Executive,Robert Sullivan,Q1 2025,2025-06-26,3.3,Meets Expectations,97,Billion test public none bring art.,Image respond skill single reach responsibility technology.,No
+EMP1274,Joseph Chavez,Customer Support,Marketing Analyst,Tracy Carey,Q3 2025,2025-08-02,4.43,Exceeds Expectations,72,Purpose there PM decide.,Company because health camera family yard.,Yes
+EMP1275,Autumn Kirby,IT,Software Engineer,Cynthia Smith,Q4 2025,2025-08-02,4.59,Outstanding,68,Institution color hair decade.,Discuss mention defense around expert stand.,No
+EMP1276,Donald Olson,Sales,Support Associate,George Hernandez,Q3 2025,2025-06-29,3.82,Meets Expectations,81,Student see number full would.,Perform again community force this.,No
+EMP1277,Jack Perez,Sales,IT Specialist,Robert Sullivan,Q1 2025,2025-06-14,4.79,Outstanding,109,Relate such customer task.,Position even across soldier year.,Yes
+EMP1278,Hannah Hughes,Marketing,Sales Executive,Brittany Cook,Q4 2025,2025-06-27,1.9,Needs Improvement,92,Store bank field trial history.,Cause main enough still rich play.,No
+EMP1279,Jared Bender,IT,Software Engineer,David Johnson,Q1 2025,2025-06-27,1.13,Needs Improvement,83,Ten step time three bring despite.,Go certain different collection body attention.,No
+EMP1280,Jose Wolfe,Sales,Support Associate,Ricky Rodriguez,Q1 2025,2025-07-08,4.95,Outstanding,97,Place hand traditional case listen once.,Number safe mind then by pass race.,Yes
+EMP1281,Sean Shaffer,Sales,IT Specialist,Edwin Williams,Q4 2025,2025-06-22,2.33,Below Expectations,91,Population various water president full teach month.,Hold worker in respond Congress claim same.,No
+EMP1282,Dave Ortega,Sales,IT Specialist,Susan Henderson,Q1 2025,2025-07-31,2.89,Below Expectations,92,Left then rather laugh apply clearly partner.,Heavy church carry.,No
+EMP1283,Victoria Tate,HR,IT Specialist,Susan Henderson,Q1 2025,2025-08-06,3.02,Meets Expectations,111,Reveal single some garden center half.,Toward hundred even training positive.,Yes
+EMP1284,Michael Mclean,Engineering,Sales Executive,George Hernandez,Q4 2025,2025-07-26,1.8,Needs Improvement,90,Alone month commercial president candidate.,Off condition prove region.,Yes
+EMP1285,Samuel Rodriguez,HR,Support Associate,Anna Walter,Q1 2025,2025-06-14,1.43,Needs Improvement,119,Use do easy everyone success write range.,Can several morning new speak nice central leave.,Yes
+EMP1286,Barry Butler,Engineering,Accountant,David Johnson,Q3 2025,2025-06-09,1.41,Needs Improvement,68,Investment physical true at.,Check son serve pull environment resource.,Yes
+EMP1287,Shawn Boone,Marketing,IT Specialist,Miranda Hinton,Q2 2025,2025-08-29,1.87,Needs Improvement,70,Much worker such baby group.,He out guy hot shoulder sister.,Yes
+EMP1288,Phillip Howard,Engineering,Operations Lead,Miranda Hinton,Q3 2025,2025-08-26,4.21,Exceeds Expectations,104,Minute source realize major.,Woman use minute and individual above cup.,Yes
+EMP1289,Amber Brown,Operations,Sales Executive,Miranda Hinton,Q1 2025,2025-08-11,2.99,Below Expectations,102,Teach action dog prepare meet remain car imagine.,Such election management.,Yes
+EMP1290,Casey Santiago,Engineering,Operations Lead,Susan Henderson,Q2 2025,2025-06-08,4.48,Exceeds Expectations,89,Actually teach per civil.,Student night standard music care need.,No
+EMP1291,Barbara Anderson,Sales,Sales Executive,Cynthia Smith,Q2 2025,2025-09-30,3.02,Meets Expectations,74,Set hope like Republican.,Former fish laugh catch research box.,Yes
+EMP1292,Chris Juarez,IT,HR Manager,Edwin Williams,Q4 2025,2025-08-04,2.0,Below Expectations,92,Lot they before bar forget you operation smile.,Benefit close budget walk goal.,No
+EMP1293,Ashley Mcgee,Operations,Sales Executive,Anthony Wolfe DDS,Q4 2025,2025-06-23,3.39,Meets Expectations,94,Although already yard.,News require least start model.,Yes
+EMP1294,Joseph Mccarthy,Sales,Support Associate,George Hernandez,Q2 2025,2025-09-12,1.83,Needs Improvement,108,Issue write nor participant executive finally world.,Enter number clearly agent girl news.,Yes
+EMP1295,Joseph Collins,Sales,Software Engineer,Meghan Johnson,Q3 2025,2025-08-19,1.87,Needs Improvement,69,Development you religious quite religious.,Result culture listen produce suffer great season.,No
+EMP1296,Ellen Wright,Operations,Operations Lead,Dr. Brendan Lloyd,Q4 2025,2025-06-14,3.35,Meets Expectations,88,Hundred recognize treatment particularly.,Wind story everybody election organization.,Yes
+EMP1297,Caroline Torres,Engineering,Sales Executive,Ricky Rodriguez,Q1 2025,2025-06-08,1.65,Needs Improvement,111,Fine deal energy street defense fall.,Defense answer free field.,Yes
+EMP1298,Jeffrey Ward,Operations,IT Specialist,Jason Carroll,Q4 2025,2025-07-08,3.86,Meets Expectations,88,Mr attorney reveal.,Book next push.,Yes
+EMP1299,Victor Harris,IT,Software Engineer,Cynthia Smith,Q3 2025,2025-08-13,2.01,Below Expectations,106,Number use amount pass.,Walk interest ahead laugh environment room conference.,No
+EMP1300,Hannah Graham,HR,Operations Lead,Christopher Bond,Q3 2025,2025-06-16,4.77,Outstanding,61,Dream course want send image me.,Painting every organization together century.,Yes
+EMP1301,Cristian Williams,Finance,Marketing Analyst,Claire Sutton,Q3 2025,2025-09-04,1.31,Needs Improvement,104,Pull tend though same lose themselves body.,Green call better stage work hold fall.,Yes
+EMP1302,Mr. Paul Johns,IT,HR Manager,Edwin Williams,Q4 2025,2025-08-22,3.06,Meets Expectations,84,Debate cause step choose process.,According save recognize six war meet.,No
+EMP1303,David Young,Operations,Operations Lead,Mark Wilkinson,Q3 2025,2025-05-07,4.17,Exceeds Expectations,110,Grow general hit.,Middle audience treatment former.,Yes
+EMP1304,Kyle Payne,Finance,Software Engineer,Renee Miller,Q4 2025,2025-05-15,1.2,Needs Improvement,112,Statement create well color argue model there quite.,House citizen career.,No
+EMP1305,Geoffrey Taylor,Engineering,Marketing Analyst,Barry Anderson,Q4 2025,2025-06-16,4.31,Exceeds Expectations,100,Move might turn opportunity nothing staff.,Yard list first.,Yes
+EMP1306,Sean Marsh,IT,Software Engineer,Ricky Rodriguez,Q1 2025,2025-04-18,2.27,Below Expectations,101,Evening cause senior source economy human system.,Edge ability weight course might show song.,Yes
+EMP1307,Michael Davis,Customer Support,Software Engineer,Elizabeth Terrell,Q3 2025,2025-04-22,4.5,Outstanding,96,Here hundred state also more bit technology.,Crime look entire support number example.,No
+EMP1308,Richard Norris,Engineering,Support Associate,Renee Miller,Q3 2025,2025-06-05,2.33,Below Expectations,68,Training television accept outside.,Article almost summer much despite.,Yes
+EMP1309,Larry Nelson,Operations,Software Engineer,David Johnson,Q3 2025,2025-05-08,4.85,Outstanding,88,Within plan maintain method always any.,Hundred number necessary break.,No
+EMP1310,Rebecca James,Finance,HR Manager,Meghan Johnson,Q4 2025,2025-07-15,1.21,Needs Improvement,112,Consider similar better growth career age.,Many another recently.,No
+EMP1311,Charles Gallagher,Engineering,Sales Executive,David Johnson,Q1 2025,2025-06-03,1.63,Needs Improvement,82,Image conference couple partner seven up.,Indeed course type everything summer read minute.,No
+EMP1312,Daniel Smith MD,Sales,Sales Executive,Alyssa Rodriguez,Q1 2025,2025-04-25,4.56,Outstanding,77,Community yard result ask senior hard prevent.,Allow become send mention laugh high stuff page.,Yes
+EMP1313,John Green,Finance,IT Specialist,Barry Anderson,Q2 2025,2025-06-11,1.6,Needs Improvement,100,Anything election understand occur test garden see.,Design education chance whatever.,No
+EMP1314,Christian Young,Customer Support,Marketing Analyst,Dr. Brendan Lloyd,Q1 2025,2025-08-29,4.82,Outstanding,86,This blue wish employee when federal might.,Relate mind catch might present.,Yes
+EMP1315,Stephanie Jenkins,Marketing,Software Engineer,David Johnson,Q2 2025,2025-09-05,1.7,Needs Improvement,72,Become none we office question growth.,Not field read build picture reality detail.,No
+EMP1316,Philip Sanchez,Sales,Marketing Analyst,Sarah Hall,Q2 2025,2025-07-07,1.37,Needs Improvement,94,Poor attorney subject through.,Thousand ago Democrat control watch million.,No
+EMP1317,Theodore James,Marketing,HR Manager,Barry Anderson,Q1 2025,2025-08-23,4.88,Outstanding,91,Degree foreign indicate sure.,Cup her knowledge although officer.,Yes
+EMP1318,Melissa Andrade,IT,Accountant,Adam Parsons,Q3 2025,2025-08-18,1.75,Needs Improvement,104,Age hot right something.,West bit necessary thank you military each parent.,Yes
+EMP1319,Steven Cooper,Sales,Accountant,Elizabeth Terrell,Q1 2025,2025-04-19,3.74,Meets Expectations,70,Respond trip compare offer feeling land friend.,Program series occur small with suggest simply.,No
+EMP1320,Dakota Cantu,Finance,Operations Lead,Douglas Valencia,Q1 2025,2025-05-29,4.85,Outstanding,100,Nor history professional real agreement your though avoid.,Head order sit song feel task.,No
+EMP1321,Brandon Holmes,Marketing,Operations Lead,Donna Thompson MD,Q4 2025,2025-09-02,2.0,Below Expectations,110,Lay however keep by seek knowledge society.,Support mean arrive call we political fund.,No
+EMP1322,Mark Blackburn,Engineering,Sales Executive,Dr. Brendan Lloyd,Q2 2025,2025-06-26,4.28,Exceeds Expectations,73,Who card last.,Maybe agreement daughter future cell career.,Yes
+EMP1323,Erika Lee,Sales,Sales Executive,Fernando Ortiz,Q1 2025,2025-04-20,4.43,Exceeds Expectations,83,College visit so bit focus indicate finish.,Teacher center total others response position.,No
+EMP1324,Madeline Hardin,Engineering,Operations Lead,John Hunt,Q1 2025,2025-07-24,1.53,Needs Improvement,104,Consider make goal improve assume prevent economic.,Not industry least.,Yes
+EMP1325,Tamara Pacheco,Marketing,Sales Executive,Claire Sutton,Q2 2025,2025-06-17,4.94,Outstanding,98,Seek change experience song draw reality.,Office attack low result tree store together.,Yes
+EMP1326,Matthew Walker,Marketing,Support Associate,Anthony Wolfe DDS,Q1 2025,2025-10-04,4.57,Outstanding,82,Clear attention degree treatment.,What by cup onto suffer civil.,Yes
+EMP1327,Alejandro Miller,Operations,Support Associate,Adam Parsons,Q1 2025,2025-10-09,2.37,Below Expectations,111,President western wrong color heavy.,Movie white pick partner enter explain price.,Yes
+EMP1328,Selena Wilson,Engineering,Accountant,Edwin Williams,Q1 2025,2025-08-18,3.4,Meets Expectations,95,Threat organization single specific.,Real face listen less.,No
+EMP1329,Chase Campbell,Engineering,IT Specialist,Dr. Brendan Lloyd,Q4 2025,2025-06-01,2.9,Below Expectations,113,Skill specific pretty actually film condition here.,Range ten way.,Yes
+EMP1330,Eric Velazquez,Operations,Sales Executive,Renee Miller,Q4 2025,2025-10-04,4.21,Exceeds Expectations,84,Manager effort course employee strategy.,Establish husband glass American and energy.,No
+EMP1331,William Juarez,Operations,Operations Lead,Jason Carroll,Q4 2025,2025-09-27,4.28,Exceeds Expectations,111,Increase evening practice as.,Each news mention hear certain.,No
+EMP1332,John Pugh,Sales,Software Engineer,Ricky Rodriguez,Q2 2025,2025-09-02,1.25,Needs Improvement,68,First car man nearly.,Produce reach sit field family.,No
+EMP1333,Daniel Mendez,Customer Support,IT Specialist,Jennifer Jackson,Q4 2025,2025-07-23,4.45,Exceeds Expectations,101,Dream quite approach available six someone happen.,Boy far own increase.,Yes
+EMP1334,Rebecca Ramsey,IT,HR Manager,Jason Carroll,Q1 2025,2025-10-11,4.75,Outstanding,68,History friend road success guess writer couple.,Eat such low back PM month Congress.,Yes
+EMP1335,Kaitlyn Meyer,Operations,IT Specialist,Jason Carroll,Q2 2025,2025-08-20,2.84,Below Expectations,84,Church few ago.,Ability newspaper professional beautiful reveal democratic.,Yes
+EMP1336,Marissa Turner,Sales,Sales Executive,Brittany Cook,Q3 2025,2025-09-12,1.7,Needs Improvement,81,Hour federal so necessary important.,Rule father inside staff support number.,No
+EMP1337,Mr. Cody Bowers,IT,Marketing Analyst,Christopher Bond,Q1 2025,2025-05-07,3.84,Meets Expectations,104,Quality compare sound really.,Think young spring establish.,No
+EMP1338,Duane Garcia,Marketing,Sales Executive,Barry Anderson,Q4 2025,2025-05-23,4.31,Exceeds Expectations,73,Education later star purpose answer condition language.,Candidate benefit five citizen hard.,Yes
+EMP1339,Rachel Lewis,Finance,Software Engineer,Brittany Cook,Q3 2025,2025-10-12,3.69,Meets Expectations,80,Call campaign computer still difference get.,Sign out natural born indeed out medical.,Yes
+EMP1340,Melanie Smith,IT,Operations Lead,Cynthia Smith,Q1 2025,2025-08-07,1.57,Needs Improvement,84,List oil arm network campaign voice oil cell.,More however without we key provide.,Yes
+EMP1341,Andrew Hall,IT,Accountant,Robert Sullivan,Q3 2025,2025-07-28,4.4,Exceeds Expectations,119,Dream call industry who can project allow.,Example risk tree their imagine budget work.,Yes
+EMP1342,Michael Ali,Marketing,Operations Lead,Jennifer Jackson,Q4 2025,2025-05-08,4.4,Exceeds Expectations,89,Look work none mean understand southern prepare.,Push entire hand trouble eat.,No
+EMP1343,Diana Frank,Engineering,Accountant,Claire Sutton,Q4 2025,2025-05-30,4.39,Exceeds Expectations,117,First decide customer Democrat author morning.,Stand drive its sell author feeling.,No
+EMP1344,Alexis Drake MD,Operations,Marketing Analyst,Miranda Hinton,Q4 2025,2025-09-12,2.72,Below Expectations,94,Personal soon himself at there poor hair.,Home knowledge deal floor big skin.,No
+EMP1345,Paul Davis,Finance,IT Specialist,John Hunt,Q3 2025,2025-09-01,3.53,Meets Expectations,117,Capital poor never against.,Bill lawyer apply method.,Yes
+EMP1346,Lori Ellis,Customer Support,Support Associate,Brittany Cook,Q4 2025,2025-05-23,2.61,Below Expectations,112,Finish early behavior change audience bed receive.,Rich win production short.,No
+EMP1347,Kathryn Miller,Finance,IT Specialist,Jason Carroll,Q2 2025,2025-06-19,1.73,Needs Improvement,91,System system surface approach.,Federal author level can.,Yes
+EMP1348,Maria Watts,IT,IT Specialist,Sarah Hall,Q4 2025,2025-06-20,1.26,Needs Improvement,106,Relationship range worry happy.,Result onto about face experience.,No
+EMP1349,Elizabeth Martin,Sales,Support Associate,Tracy Carey,Q3 2025,2025-07-25,4.47,Exceeds Expectations,87,Others everyone others determine.,Magazine begin paper answer movement.,No
+EMP1350,Jillian Burke,Engineering,IT Specialist,Elizabeth Terrell,Q1 2025,2025-05-17,1.41,Needs Improvement,96,Attention appear hot TV rule.,Type stuff speak head.,No
+EMP1351,Dr. James Hunter,Finance,Operations Lead,Donna Thompson MD,Q1 2025,2025-05-13,2.25,Below Expectations,95,Short director power reduce cell husband.,Respond month above few group per about.,Yes
+EMP1352,Shannon Martinez,Marketing,IT Specialist,Douglas Valencia,Q4 2025,2025-05-08,2.45,Below Expectations,78,Sister story itself responsibility.,Agree inside worry approach special community eye.,No
+EMP1353,Sandra Clay,Finance,Sales Executive,John Hunt,Q3 2025,2025-05-24,4.24,Exceeds Expectations,72,Work before long series.,Bank civil happy president those president man.,Yes
+EMP1354,Roger Harris,Customer Support,Software Engineer,Christopher Bond,Q1 2025,2025-07-07,1.78,Needs Improvement,94,Along measure dog interest economy game.,Care international important guy manage politics skill bar.,Yes
+EMP1355,Alan Wright,HR,IT Specialist,Donna Thompson MD,Q4 2025,2025-06-28,3.05,Meets Expectations,120,Central personal concern window effort civil behind.,Opportunity right focus although shoulder.,No
+EMP1356,Alyssa Stephenson,Customer Support,Support Associate,Ricky Rodriguez,Q2 2025,2025-08-06,1.29,Needs Improvement,63,Method speak suggest they.,Material resource exactly send necessary sound seek.,Yes
+EMP1357,Dr. Rebecca Roberts,Marketing,IT Specialist,Meghan Johnson,Q4 2025,2025-10-10,1.03,Needs Improvement,106,Charge response machine citizen choice.,Everything too in but.,No
+EMP1358,Lisa Simpson,Finance,Operations Lead,Susan Henderson,Q2 2025,2025-05-16,3.92,Meets Expectations,68,Dog teacher tonight board mention trade behavior surface.,Relationship leg special pick take size.,No
+EMP1359,Sarah Marshall,Operations,Operations Lead,Ricky Rodriguez,Q4 2025,2025-05-21,2.85,Below Expectations,110,Hear far employee growth president.,Stop though body receive.,No
+EMP1360,Brian Boone,IT,Accountant,David Delacruz,Q4 2025,2025-09-26,4.34,Exceeds Expectations,64,Laugh feeling others quite activity book.,Fund meeting area.,Yes
+EMP1361,Dylan King,Finance,IT Specialist,George Hernandez,Q4 2025,2025-08-16,4.61,Outstanding,78,Present knowledge near quality mother realize.,Just PM sure college actually.,No
+EMP1362,Michael Page,Customer Support,Software Engineer,Dr. Brendan Lloyd,Q4 2025,2025-07-18,4.58,Outstanding,63,Its smile economy management how process.,Consumer vote ready piece couple.,Yes
+EMP1363,Martin Hoover,Customer Support,Support Associate,David Johnson,Q4 2025,2025-07-12,2.52,Below Expectations,116,Science focus away determine.,She eye visit push consumer cost.,No
+EMP1364,Monica Davis,HR,Support Associate,Elizabeth Terrell,Q2 2025,2025-08-21,3.65,Meets Expectations,79,Product drop we one rate nearly manager.,Together between question with outside role but turn.,Yes
+EMP1365,Kimberly Martinez,Sales,IT Specialist,Donna Thompson MD,Q3 2025,2025-08-11,3.25,Meets Expectations,115,Particularly sign hard wrong read bed network.,Peace prepare must perform on huge.,No
+EMP1366,Crystal Brown,HR,Support Associate,Renee Miller,Q2 2025,2025-05-05,2.94,Below Expectations,85,Friend three meeting turn forward.,Could form music seem worker accept child eight.,No
+EMP1367,Jason Gray,Marketing,Sales Executive,Brittany Cook,Q3 2025,2025-08-20,1.51,Needs Improvement,98,Water start yeah per media no say.,With near war yes under would.,Yes
+EMP1368,Tiffany Henry,HR,HR Manager,David Delacruz,Q3 2025,2025-05-15,4.18,Exceeds Expectations,98,If right produce evidence treat.,Scene fast center arm.,Yes
+EMP1369,Chad Kramer,Finance,Sales Executive,Douglas Valencia,Q3 2025,2025-05-22,1.86,Needs Improvement,71,Note learn be compare make cup up.,Bank pull area camera together picture field.,No
+EMP1370,Patricia Becker,HR,Sales Executive,Cynthia Smith,Q3 2025,2025-08-09,3.82,Meets Expectations,112,Work news with seat while politics win.,Some spend thus.,No
+EMP1371,Tasha Soto,Finance,Software Engineer,Edwin Williams,Q1 2025,2025-09-24,1.49,Needs Improvement,109,Bag sense official on.,Lot fly test build section class economic phone.,Yes
+EMP1372,Tamara Weaver,Operations,IT Specialist,Fernando Ortiz,Q3 2025,2025-08-03,3.87,Meets Expectations,88,Always other image nature.,House each yeah leave during ago fish.,Yes
+EMP1373,Heather James,Engineering,IT Specialist,Adam Parsons,Q1 2025,2025-07-06,2.02,Below Expectations,120,Friend morning likely beautiful these send be develop.,Sound tend approach now throw care television town.,No
+EMP1374,Molly Vaughan,Customer Support,Sales Executive,Miranda Hinton,Q4 2025,2025-06-06,4.27,Exceeds Expectations,71,Section artist old generation already.,Outside action forward spend special.,No
+EMP1375,Gina Austin,HR,Software Engineer,Dr. Brendan Lloyd,Q2 2025,2025-07-04,4.19,Exceeds Expectations,101,One magazine pick laugh that role.,International here challenge least support conference face.,No
+EMP1376,Alan Cobb,Customer Support,HR Manager,John Hunt,Q2 2025,2025-06-28,2.23,Below Expectations,101,Game ready store picture discussion.,Much research hour want recently people.,Yes
+EMP1377,Aaron Kirby,Finance,Software Engineer,Sarah Hall,Q4 2025,2025-09-13,1.49,Needs Improvement,89,Draw store per with likely sometimes with.,Baby guy all approach speech alone.,No
+EMP1378,Stacey Harvey,HR,Software Engineer,Douglas Valencia,Q3 2025,2025-06-24,4.03,Exceeds Expectations,64,Less investment morning let base.,Sign apply story big weight.,No
+EMP1379,Jorge Tucker,Sales,Software Engineer,Miranda Hinton,Q1 2025,2025-07-28,2.27,Below Expectations,61,Bank particularly value skin line.,Since dog down participant huge develop.,Yes
+EMP1380,Ashley Beltran,Engineering,Accountant,George Hernandez,Q2 2025,2025-08-07,3.69,Meets Expectations,85,Save senior apply difficult artist condition human.,Save kid decide claim hot bank might.,No
+EMP1381,Natalie Cooper,Customer Support,HR Manager,David Delacruz,Q2 2025,2025-05-23,1.61,Needs Improvement,95,Recognize want seek official soldier.,Its recently white argue water understand paper.,No
+EMP1382,James Torres,Finance,Marketing Analyst,Ricky Rodriguez,Q3 2025,2025-07-22,4.46,Exceeds Expectations,107,Reality throw major trial.,Visit response executive record card yet lead.,Yes
+EMP1383,Brittany Barr,Engineering,Sales Executive,Anna Walter,Q2 2025,2025-07-23,4.51,Outstanding,62,Tv follow notice.,Mean project Democrat quickly fight with price he.,No
+EMP1384,Melissa Hull,Operations,HR Manager,John Hunt,Q1 2025,2025-06-13,1.32,Needs Improvement,99,More quite story half off.,East nor to themselves do interesting your.,Yes
+EMP1385,Micheal Sellers,Finance,IT Specialist,Mark Wilkinson,Q4 2025,2025-09-03,3.14,Meets Expectations,81,Box energy boy effect either east around.,Contain office argue three.,No
+EMP1386,Molly Sampson,IT,Accountant,Ricky Rodriguez,Q4 2025,2025-06-19,3.58,Meets Expectations,81,Skin well dark throughout TV.,Newspaper common but work blue.,Yes
+EMP1387,Timothy Greer,Sales,Support Associate,Douglas Valencia,Q4 2025,2025-06-15,1.16,Needs Improvement,93,Reduce seem anyone politics responsibility society family.,Small loss become vote focus rest.,No
+EMP1388,Gary Phillips,Finance,Software Engineer,Tracy Carey,Q4 2025,2025-07-04,2.76,Below Expectations,82,Never billion from above tax nice surface.,Hot condition then degree music.,No
+EMP1389,Kimberly Rodriguez,IT,Marketing Analyst,Elizabeth Terrell,Q2 2025,2025-09-07,4.56,Outstanding,104,Miss nor stock treatment.,Assume doctor Mrs bill car Mr sea.,Yes
+EMP1390,Andrew Sanchez,Finance,Accountant,Fernando Ortiz,Q1 2025,2025-09-02,2.38,Below Expectations,97,Quality say thus thousand.,Case let car improve rate wife save language.,Yes
+EMP1391,Kristin Houston,Engineering,HR Manager,Douglas Valencia,Q4 2025,2025-07-19,2.22,Below Expectations,117,Road evidence nation even under visit.,Value picture ask relationship several.,No
+EMP1392,Paul Nichols,HR,Accountant,Anna Walter,Q3 2025,2025-09-28,4.24,Exceeds Expectations,108,Past mission they forget still tonight.,Onto letter enjoy car in.,Yes
+EMP1393,Lauren Washington,Marketing,Sales Executive,Fernando Ortiz,Q4 2025,2025-09-23,1.42,Needs Improvement,87,Pm live citizen such.,Campaign finally open section she property pick everyone.,Yes
+EMP1394,Candace Garcia,Marketing,IT Specialist,John Hunt,Q1 2025,2025-08-27,2.94,Below Expectations,79,Part fund carry chair hard.,Back human better maintain she.,Yes
+EMP1395,Patricia Hobbs,Engineering,Software Engineer,Robert Sullivan,Q3 2025,2025-06-14,2.52,Below Expectations,68,Him capital into what.,Check short treatment represent list anyone those.,Yes
+EMP1396,Anthony Torres,Operations,Support Associate,Edwin Williams,Q1 2025,2025-07-14,2.15,Below Expectations,88,Identify when action fact language knowledge.,Religious several cold.,Yes
+EMP1397,Lori Clark,IT,Marketing Analyst,Anthony Wolfe DDS,Q3 2025,2025-04-26,4.46,Exceeds Expectations,102,Return involve half family.,Seven again good people more.,No
+EMP1398,Ryan Bryant,IT,HR Manager,Alyssa Rodriguez,Q4 2025,2025-06-21,4.21,Exceeds Expectations,75,Drive speech investment animal last.,Beat television road.,No
+EMP1399,Melvin Allen,HR,Marketing Analyst,Sarah Hall,Q1 2025,2025-06-25,4.58,Outstanding,92,Method stay billion third best.,Anything bed first exist sure out character dinner.,Yes
+EMP1400,Levi Clark,Finance,Accountant,Adam Parsons,Q3 2025,2025-06-29,4.06,Exceeds Expectations,106,Prove store policy skill city run civil goal.,Candidate event history season maybe remain than.,No
+EMP1401,April Brooks,Operations,Sales Executive,Donna Thompson MD,Q1 2025,2025-09-17,1.72,Needs Improvement,61,Myself quickly night gun.,Organization move difference long stay.,Yes
+EMP1402,Allen Warren,Sales,Sales Executive,Adam Parsons,Q3 2025,2025-07-14,3.54,Meets Expectations,67,Performance issue leave word trade.,His artist live position.,Yes
+EMP1403,Gary Johnson,Engineering,Software Engineer,Adam Parsons,Q1 2025,2025-10-10,2.88,Below Expectations,114,Boy ok successful nearly pretty.,Natural guy result fight require.,Yes
+EMP1404,David Taylor,IT,IT Specialist,Jason Carroll,Q1 2025,2025-10-06,2.24,Below Expectations,62,Three visit this go.,Worker music catch question point system become music.,Yes
+EMP1405,Alex Allen,HR,IT Specialist,Susan Henderson,Q1 2025,2025-05-17,1.91,Needs Improvement,112,Station skin pattern hundred rather.,All member down help.,Yes
+EMP1406,Andrea Moran,Marketing,HR Manager,Jason Carroll,Q1 2025,2025-08-02,4.4,Exceeds Expectations,85,Nature through economic set.,Left fill thing war machine reflect.,Yes
+EMP1407,Joseph Garcia,IT,HR Manager,Alyssa Rodriguez,Q1 2025,2025-05-13,4.42,Exceeds Expectations,117,Tell perhaps live artist certainly glass perhaps.,Deep item occur trip role.,No
+EMP1408,Kenneth Barr,Marketing,Operations Lead,Brittany Cook,Q1 2025,2025-09-01,2.64,Below Expectations,68,Follow since news quite star sort discussion.,Take month since thought.,No
+EMP1409,Lisa Rodriguez,Finance,Support Associate,David Johnson,Q2 2025,2025-10-06,1.78,Needs Improvement,62,Role wish eight the challenge there person.,Age present source week appear now current.,No
+EMP1410,Kathleen Shaffer,Finance,Sales Executive,Elizabeth Terrell,Q4 2025,2025-07-03,1.31,Needs Improvement,113,Program machine support major special however.,Long sport eight all hospital which four.,Yes
+EMP1411,Emily Byrd,Customer Support,IT Specialist,Donna Thompson MD,Q3 2025,2025-06-23,1.47,Needs Improvement,64,Knowledge look couple treat now tree enter admit.,Strategy process action picture mean.,No
+EMP1412,Alejandro Nguyen,Sales,Accountant,Fernando Ortiz,Q1 2025,2025-07-19,4.9,Outstanding,81,None certainly computer spring easy.,Forget later skin accept director feeling north degree.,No
+EMP1413,Nathan Anderson,Sales,Marketing Analyst,Donna Thompson MD,Q2 2025,2025-04-18,1.16,Needs Improvement,69,Benefit add remember however agree memory.,Morning imagine him next national let cost else.,Yes
+EMP1414,Jennifer Moore,IT,Operations Lead,Tracy Carey,Q2 2025,2025-06-09,2.17,Below Expectations,105,Myself right see up series.,Down sense necessary.,Yes
+EMP1415,Tamara Wong,Engineering,Support Associate,David Johnson,Q1 2025,2025-06-24,4.41,Exceeds Expectations,63,Relationship study summer employee.,Nice final though music successful president hard account.,Yes
+EMP1416,Jose Johnson,Sales,HR Manager,Barry Anderson,Q4 2025,2025-05-31,1.26,Needs Improvement,116,Past arm rate wrong better describe book student.,Reflect conference also director.,Yes
+EMP1417,Paul Manning,IT,HR Manager,David Johnson,Q2 2025,2025-06-25,1.44,Needs Improvement,86,Company last lot red writer likely military.,Rate hot go feel.,Yes
+EMP1418,Robert Marquez,Operations,Accountant,Barry Anderson,Q2 2025,2025-06-20,3.17,Meets Expectations,112,Bit idea body.,Discussion position rock seem tell student.,No
+EMP1419,Andrew Smith,Marketing,IT Specialist,Miranda Hinton,Q4 2025,2025-07-05,1.39,Needs Improvement,65,Building also manage energy gas fast financial.,Contain card reach nearly nation professor thing example.,Yes
+EMP1420,James Smith,HR,Sales Executive,Dr. Brendan Lloyd,Q4 2025,2025-09-08,2.4,Below Expectations,79,Final type catch of politics development young.,Kind region effect course.,No
+EMP1421,Kelly Gibson,Finance,Operations Lead,Anna Walter,Q4 2025,2025-10-03,2.98,Below Expectations,98,Bring great gun no.,Talk interest another ahead.,No
+EMP1422,Nicole Miller,Operations,IT Specialist,Claire Sutton,Q3 2025,2025-09-29,2.9,Below Expectations,75,Take none agent life.,Drive imagine for focus student.,No
+EMP1423,Eric Yoder,IT,Support Associate,Cynthia Smith,Q1 2025,2025-06-29,3.42,Meets Expectations,106,Itself evidence statement within film lawyer let.,Affect evidence can.,No
+EMP1424,Curtis Rose,Operations,Accountant,Elizabeth Terrell,Q1 2025,2025-08-04,4.79,Outstanding,105,Perform live wind boy property.,Prevent area month western operation picture.,No
+EMP1425,Cynthia Fitzgerald,Engineering,IT Specialist,Sarah Hall,Q2 2025,2025-04-18,1.59,Needs Improvement,77,Hard already apply door long team lay paper.,Pm hospital relate occur floor bank three.,Yes
+EMP1426,Donald Jacobson,Engineering,IT Specialist,Miranda Hinton,Q3 2025,2025-08-12,1.46,Needs Improvement,67,Physical protect leave shake hundred.,Compare area dream hold Mrs glass.,Yes
+EMP1427,Joy Buck,Engineering,Operations Lead,Ricky Rodriguez,Q1 2025,2025-08-01,2.26,Below Expectations,72,Front sometimes memory case allow.,Fly let lot religious.,No
+EMP1428,Jason Fletcher,Operations,IT Specialist,Cynthia Smith,Q3 2025,2025-06-18,4.89,Outstanding,103,Show conference begin.,Any feel man visit half else such.,Yes
+EMP1429,Kyle Woodard Jr.,Operations,HR Manager,George Hernandez,Q4 2025,2025-08-19,4.82,Outstanding,115,Outside peace pattern tough report once number they.,Shake ready doctor population war little.,Yes
+EMP1430,Sheila Clark,Sales,IT Specialist,Barry Anderson,Q4 2025,2025-08-20,2.1,Below Expectations,64,Answer expert how beautiful.,Off some about public poor hit.,Yes
+EMP1431,Matthew Thomas,Marketing,Sales Executive,Fernando Ortiz,Q1 2025,2025-05-24,1.96,Needs Improvement,118,Maintain generation short doctor while involve attention.,Forget mention available.,No
+EMP1432,April Jones,Sales,Marketing Analyst,Alyssa Rodriguez,Q3 2025,2025-06-13,1.9,Needs Improvement,72,Skin rest whom.,Nation Democrat artist describe.,No
+EMP1433,Tommy Berry,IT,Accountant,Renee Miller,Q2 2025,2025-06-24,3.25,Meets Expectations,108,Green sort behind receive.,Local author stay.,Yes
+EMP1434,Alexandra Clark,Finance,Marketing Analyst,Ricky Rodriguez,Q3 2025,2025-09-27,3.92,Meets Expectations,95,Establish try whom recent.,These chance none specific foreign member central decade.,Yes
+EMP1435,Linda Sparks,Sales,Operations Lead,Brittany Cook,Q2 2025,2025-08-23,1.2,Needs Improvement,120,Reveal style person.,Market because far either challenge.,No
+EMP1436,Christopher Austin,Engineering,Support Associate,Edwin Williams,Q3 2025,2025-10-08,4.71,Outstanding,111,Second stuff again actually fill own free.,Hope shoulder speech free magazine sure.,Yes
+EMP1437,Elizabeth Miller,Operations,Operations Lead,Jennifer Jackson,Q4 2025,2025-06-27,1.06,Needs Improvement,114,Employee suffer traditional check.,Kitchen already yard sport on.,Yes
+EMP1438,Mary Kelly,Finance,Sales Executive,Tracy Carey,Q1 2025,2025-04-28,2.15,Below Expectations,75,Prove event also skill approach young.,Hand something itself international moment necessary onto.,Yes
+EMP1439,Dr. Randy Carter,Marketing,HR Manager,Susan Henderson,Q4 2025,2025-07-09,4.11,Exceeds Expectations,101,Character suffer agreement lawyer area.,Party air leader player statement alone modern.,Yes
+EMP1440,Kevin Cantrell,Sales,HR Manager,Meghan Johnson,Q3 2025,2025-07-21,3.18,Meets Expectations,65,Career many determine.,Remember debate store.,No
+EMP1441,Scott Mejia,IT,Accountant,David Delacruz,Q2 2025,2025-08-14,4.25,Exceeds Expectations,117,Institution admit clear including camera.,World under option myself we building discover reflect.,Yes
+EMP1442,Charles Jones,Operations,IT Specialist,Dr. Brendan Lloyd,Q3 2025,2025-05-21,3.51,Meets Expectations,73,Sound trade accept or when military.,Seat film road speech mouth.,No
+EMP1443,Mark Knight,Operations,Operations Lead,Dr. Brendan Lloyd,Q2 2025,2025-09-25,1.29,Needs Improvement,119,Do mother act order.,Choose can money increase who if.,No
+EMP1444,Douglas Vazquez,Engineering,Marketing Analyst,Edwin Williams,Q4 2025,2025-08-15,4.96,Outstanding,60,Few specific beautiful ago how owner.,Event report democratic not.,No
+EMP1445,Luis Olsen,Sales,IT Specialist,Anna Walter,Q3 2025,2025-08-15,2.77,Below Expectations,67,Little part condition account would.,Center team off.,Yes
+EMP1446,Hannah Smith,Operations,HR Manager,Cynthia Smith,Q4 2025,2025-04-22,1.35,Needs Improvement,94,Anything religious out program administration dog town.,Animal easy join clear teacher sort.,No
+EMP1447,Paul Leon,Customer Support,Operations Lead,Meghan Johnson,Q4 2025,2025-05-02,1.37,Needs Improvement,76,Doctor join need among four evidence.,Coach send enjoy blue later.,Yes
+EMP1448,Teresa Fisher,IT,IT Specialist,Brittany Cook,Q4 2025,2025-05-18,4.67,Outstanding,90,My decade ready particular cultural past foot may.,Almost consumer behind there stand.,Yes
+EMP1449,Cynthia Maldonado,Finance,IT Specialist,Douglas Valencia,Q2 2025,2025-06-04,3.6,Meets Expectations,69,Western leader fear return clear around.,Listen at pass show.,Yes
+EMP1450,Karen Torres,Customer Support,Accountant,Donna Thompson MD,Q1 2025,2025-05-21,2.53,Below Expectations,104,Yeah analysis manager establish how vote school.,Form of letter responsibility.,Yes
+EMP1451,Bruce James,Sales,Operations Lead,Mark Wilkinson,Q2 2025,2025-04-23,1.25,Needs Improvement,94,Citizen kitchen camera want item level remember.,Section interest mother guy pretty.,No
+EMP1452,Nicholas Williams,Sales,Marketing Analyst,Tracy Carey,Q2 2025,2025-08-19,1.81,Needs Improvement,110,Argue friend board very keep.,Sit need expect easy.,Yes
+EMP1453,Jessica Moore,HR,Software Engineer,Douglas Valencia,Q1 2025,2025-05-15,2.53,Below Expectations,91,Important here ground buy mouth.,Little specific recently.,No
+EMP1454,Michael Green,Sales,Support Associate,Cynthia Smith,Q4 2025,2025-05-23,4.14,Exceeds Expectations,117,Behavior high program suddenly federal claim call month.,House town great every gas seem.,No
+EMP1455,Patricia Thompson,Finance,Sales Executive,David Delacruz,Q1 2025,2025-08-13,3.32,Meets Expectations,75,Key perform relationship.,Window machine Mr by foreign able.,No
+EMP1456,Joshua Scott,Sales,Operations Lead,Alyssa Rodriguez,Q1 2025,2025-08-03,1.9,Needs Improvement,71,Large ball education song this kind.,Cover build because heavy.,No
+EMP1457,Ashley Guzman,HR,HR Manager,Mark Wilkinson,Q3 2025,2025-09-29,4.78,Outstanding,78,Simply reveal participant discussion Mr suffer.,Carry talk culture pick would play.,Yes
+EMP1458,Jennifer Smith,Operations,IT Specialist,Donna Thompson MD,Q4 2025,2025-04-26,1.49,Needs Improvement,108,Individual Congress maintain yeah.,Night what the late wonder wrong.,Yes
+EMP1459,Peter Thompson,Finance,HR Manager,Ricky Rodriguez,Q2 2025,2025-04-24,2.95,Below Expectations,93,Recently with occur this help attorney writer.,Produce lead any close must senior build let.,No
+EMP1460,Dr. Dustin Bishop MD,HR,Operations Lead,David Delacruz,Q1 2025,2025-08-01,3.92,Meets Expectations,104,Man ability subject wife half address.,Outside letter real certainly magazine.,Yes
+EMP1461,Chelsea Holt,Marketing,Sales Executive,John Hunt,Q1 2025,2025-05-07,3.68,Meets Expectations,74,Find night everyone rather last.,We speech general.,No
+EMP1462,Kathleen Ray,HR,Software Engineer,Cynthia Smith,Q3 2025,2025-07-25,1.92,Needs Improvement,85,See with require college throw.,Play ground play great contain.,Yes
+EMP1463,John Richardson,Finance,IT Specialist,Adam Parsons,Q3 2025,2025-07-06,4.36,Exceeds Expectations,103,Discover impact technology beat lose sing.,Today scientist talk remember bed go.,No
+EMP1464,David Brown,Engineering,Support Associate,Christopher Bond,Q2 2025,2025-09-25,3.36,Meets Expectations,105,Former different put federal can doctor political.,Might list current others situation protect when.,No
+EMP1465,Susan Frank,Finance,Sales Executive,Susan Henderson,Q2 2025,2025-08-09,3.42,Meets Expectations,67,Foot focus skill.,Professional place I suffer hour arm.,Yes
+EMP1466,Douglas Waters,Engineering,Accountant,Jason Carroll,Q3 2025,2025-07-23,1.6,Needs Improvement,116,Owner no night deep poor.,Light oil car actually.,No
+EMP1467,Emily Barnes,Engineering,HR Manager,Dr. Brendan Lloyd,Q3 2025,2025-07-11,4.37,Exceeds Expectations,72,Assume guess voice do show.,Drop commercial join.,Yes
+EMP1468,Haley Zhang,Customer Support,Support Associate,David Johnson,Q1 2025,2025-08-23,3.42,Meets Expectations,91,Minute at bring theory.,Wrong will president author well participant.,Yes
+EMP1469,Rachel Shaffer,Marketing,Software Engineer,Alyssa Rodriguez,Q3 2025,2025-10-07,4.33,Exceeds Expectations,99,See song few only begin trouble.,Hard place rich should politics last yourself.,No
+EMP1470,Zachary Hale,Engineering,Marketing Analyst,David Delacruz,Q3 2025,2025-05-01,2.03,Below Expectations,75,Hold reach available ever process thousand.,Body many she enough stock.,No
+EMP1471,Jessica Sherman,Sales,Support Associate,Fernando Ortiz,Q2 2025,2025-07-25,1.42,Needs Improvement,87,Behind view benefit source nothing avoid child.,Ten level teach ahead radio occur.,No
+EMP1472,Bobby Hatfield,Marketing,Accountant,Douglas Valencia,Q4 2025,2025-06-10,1.51,Needs Improvement,68,Performance prove able store scene.,Recognize different necessary four paper.,Yes
+EMP1473,Andrea Hale,Finance,Operations Lead,Mark Wilkinson,Q1 2025,2025-09-19,2.37,Below Expectations,109,Writer ability check authority yourself best.,Sometimes party simply station director health behavior.,No
+EMP1474,Mercedes Fletcher,HR,Sales Executive,Robert Sullivan,Q1 2025,2025-10-02,3.66,Meets Expectations,98,Mean morning before development opportunity light already.,Order rise pass drive probably.,No
+EMP1475,Wesley Woods,Sales,Software Engineer,Douglas Valencia,Q2 2025,2025-05-18,1.39,Needs Improvement,96,With physical north only something end.,Real entire hospital into land defense series card.,Yes
+EMP1476,Elizabeth Larson,Finance,Support Associate,Dr. Brendan Lloyd,Q4 2025,2025-05-07,1.82,Needs Improvement,98,Why unit instead indicate.,Another prove world practice require kitchen.,Yes
+EMP1477,Bethany Young,Marketing,Marketing Analyst,Claire Sutton,Q1 2025,2025-07-19,2.13,Below Expectations,107,Ahead especially scientist do firm weight.,Or treat phone wonder rule situation feel.,No
+EMP1478,Ellen White,Marketing,Accountant,Miranda Hinton,Q4 2025,2025-07-06,1.31,Needs Improvement,69,Little either seat property.,Page individual red happy continue manage.,No
+EMP1479,Miss Kimberly Kennedy DDS,HR,IT Specialist,Alyssa Rodriguez,Q4 2025,2025-10-04,3.02,Meets Expectations,110,Key country lot current family least few.,New speak also.,No
+EMP1480,Amanda Cross,HR,Sales Executive,Sarah Hall,Q4 2025,2025-07-30,3.01,Meets Expectations,60,Marriage large future head instead until.,Upon administration outside age long.,No
+EMP1481,Christopher Hayden,Finance,HR Manager,Meghan Johnson,Q3 2025,2025-07-28,3.32,Meets Expectations,119,Your dog various police trip matter.,Movement four good almost.,Yes
+EMP1482,Audrey Walker,Sales,Marketing Analyst,Jason Carroll,Q1 2025,2025-10-05,1.14,Needs Improvement,120,Professional what effort knowledge attention former stuff.,Action visit commercial lay will seek kind management.,No
+EMP1483,Nathaniel Kennedy,Sales,Support Associate,Donna Thompson MD,Q4 2025,2025-05-30,3.84,Meets Expectations,120,Smile billion staff spend authority.,Lose suffer hundred various land bar.,No
+EMP1484,William Simpson,Operations,Software Engineer,Barry Anderson,Q2 2025,2025-08-25,2.93,Below Expectations,65,Population challenge from use allow.,Method somebody bill law deal.,Yes
+EMP1485,Yvonne Craig,Finance,Accountant,Susan Henderson,Q4 2025,2025-06-15,4.89,Outstanding,82,Degree song do impact.,Much ahead want report forward good thought.,No
+EMP1486,Janet Cardenas,HR,Accountant,Robert Sullivan,Q1 2025,2025-05-06,3.32,Meets Expectations,80,Relationship foreign school thought.,Of firm light again wish agreement.,No
+EMP1487,Jay Ingram,Operations,Support Associate,Robert Sullivan,Q3 2025,2025-05-13,4.97,Outstanding,110,Research bank raise specific fish.,Anyone administration goal radio brother bag.,Yes
+EMP1488,Julie Davis,Marketing,IT Specialist,Elizabeth Terrell,Q4 2025,2025-07-30,2.35,Below Expectations,69,Keep wear industry hard blue reach throughout focus.,Measure anything approach under.,Yes
+EMP1489,Brian Harding,Engineering,IT Specialist,Elizabeth Terrell,Q4 2025,2025-05-26,2.53,Below Expectations,107,City consumer seek development.,Long despite science wait worry service.,Yes
+EMP1490,Clayton Kelly,IT,Accountant,Barry Anderson,Q4 2025,2025-05-24,3.53,Meets Expectations,96,Claim not father indeed hand morning whom.,Within long occur marriage quickly skin no.,No
+EMP1491,David Villa,Customer Support,Accountant,Claire Sutton,Q1 2025,2025-04-26,2.47,Below Expectations,88,Say main left gas method can who.,House them born.,Yes
+EMP1492,Michelle Williams,HR,Accountant,Robert Sullivan,Q1 2025,2025-08-20,1.68,Needs Improvement,112,Manager defense agency somebody there.,Worry chance parent politics choose as.,No
+EMP1493,Anthony Morgan,Operations,Support Associate,Cynthia Smith,Q2 2025,2025-05-12,1.09,Needs Improvement,98,Baby sell Democrat especially agency pretty.,Message daughter couple fast business right.,No
+EMP1494,Thomas Berry,Sales,Sales Executive,Mark Wilkinson,Q2 2025,2025-06-15,2.61,Below Expectations,76,Science music five herself region explain.,Exist how true themselves to PM smile.,No
+EMP1495,Michael Miller,Sales,IT Specialist,Adam Parsons,Q2 2025,2025-09-06,2.97,Below Expectations,95,Matter rule remember that movie term act store.,Adult step wrong glass need.,Yes
+EMP1496,Dustin Sullivan,Sales,IT Specialist,Fernando Ortiz,Q1 2025,2025-07-19,4.31,Exceeds Expectations,86,Sort build understand join rich.,Republican war industry plan coach camera.,No
+EMP1497,Caitlin Perkins,Customer Support,Sales Executive,Jennifer Jackson,Q1 2025,2025-09-12,2.72,Below Expectations,89,Purpose seem group follow.,Guy population sign table understand.,No
+EMP1498,Holly Baker,Sales,Sales Executive,Mark Wilkinson,Q4 2025,2025-05-23,2.84,Below Expectations,120,Unit right reach home stay discuss house full.,Authority third with born feel president president.,No
+EMP1499,Amanda Stewart,Finance,Software Engineer,David Johnson,Q1 2025,2025-09-01,1.48,Needs Improvement,94,Education mouth point perform quality organization.,Allow candidate relationship must.,No

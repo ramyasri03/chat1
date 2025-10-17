@@ -1,0 +1,501 @@
+enquiry_id,customer_id,customer_name,product_category,product_name,enquiry_channel,enquiry_date,response_time_hrs,resolution_status,agent_id,agent_performance_rating,customer_satisfaction_score,region,value_domain,data_segment,data_domain
+ENQ100000,CUST16753,Elizabeth Peterson,Fashion,FAS-909,Web Portal,2025-08-21,38.46,Escalated,AGT418,3,8,North,Process,Customer Servicing,Product Enquiry
+ENQ100001,CUST17078,Catherine Hall,Appliances,APP-566,Web Portal,2025-04-28,42.59,Pending,AGT833,1,8,West,Process,Customer Servicing,Product Enquiry
+ENQ100002,CUST19159,Marie Jackson,Electronics,ELE-825,Phone,2025-02-06,70.73,Pending,AGT907,3,3,South,Process,Customer Servicing,Product Enquiry
+ENQ100003,CUST18562,Jaime Hodges,Sports,SPO-888,In-Person,2025-02-21,42.34,Resolved,AGT484,4,8,South,Process,Customer Servicing,Product Enquiry
+ENQ100004,CUST11439,James Keller,Fashion,FAS-702,Email,2025-03-13,33.01,Closed Without Resolution,AGT565,3,9,South,Process,Customer Servicing,Product Enquiry
+ENQ100005,CUST15980,Christopher Smith,Electronics,ELE-446,Email,2025-06-17,9.36,Closed Without Resolution,AGT288,1,10,Central,Process,Customer Servicing,Product Enquiry
+ENQ100006,CUST16252,Jeremy Cook,Furniture,FUR-855,Web Portal,2025-01-06,38.89,Escalated,AGT734,3,9,East,Process,Customer Servicing,Product Enquiry
+ENQ100007,CUST14193,Raymond Cruz,Automobile,AUT-513,Web Portal,2025-05-21,54.23,Resolved,AGT942,5,10,Central,Process,Customer Servicing,Product Enquiry
+ENQ100008,CUST10422,Charles Bates,Furniture,FUR-828,Chatbot,2025-06-21,65.21,Closed Without Resolution,AGT556,5,10,West,Process,Customer Servicing,Product Enquiry
+ENQ100009,CUST11866,Sherri Baker,Fashion,FAS-298,Phone,2024-10-17,53.72,Pending,AGT405,5,5,East,Process,Customer Servicing,Product Enquiry
+ENQ100010,CUST16988,Betty Miller,Furniture,FUR-463,Phone,2025-04-08,45.57,Escalated,AGT815,5,8,North,Process,Customer Servicing,Product Enquiry
+ENQ100011,CUST11426,Mr. Johnny Davis MD,Electronics,ELE-833,Email,2025-01-09,57.41,Resolved,AGT929,3,10,Central,Process,Customer Servicing,Product Enquiry
+ENQ100012,CUST14269,Phillip Wright,Healthcare,HEA-118,Email,2024-10-22,67.77,Pending,AGT313,3,3,East,Process,Customer Servicing,Product Enquiry
+ENQ100013,CUST19703,Paul Walton,Fashion,FAS-838,In-Person,2024-11-19,34.53,Resolved,AGT505,3,2,East,Process,Customer Servicing,Product Enquiry
+ENQ100014,CUST15644,Tiffany Li,Healthcare,HEA-334,Phone,2025-08-26,24.77,Closed Without Resolution,AGT207,4,9,South,Process,Customer Servicing,Product Enquiry
+ENQ100015,CUST17288,Melissa Smith,Automobile,AUT-541,Phone,2025-10-08,20.15,Escalated,AGT960,2,4,South,Process,Customer Servicing,Product Enquiry
+ENQ100016,CUST16663,Brian Rodriguez,Automobile,AUT-406,In-Person,2024-10-27,69.82,Resolved,AGT678,1,4,South,Process,Customer Servicing,Product Enquiry
+ENQ100017,CUST16417,John Ruiz,Fashion,FAS-382,Email,2025-01-17,15.83,Pending,AGT959,2,9,South,Process,Customer Servicing,Product Enquiry
+ENQ100018,CUST11898,Amanda Newton,Appliances,APP-295,In-Person,2025-02-18,36.63,Pending,AGT946,2,1,South,Process,Customer Servicing,Product Enquiry
+ENQ100019,CUST19339,Todd Mcdaniel,Furniture,FUR-374,Chatbot,2025-07-28,10.77,Pending,AGT982,5,4,South,Process,Customer Servicing,Product Enquiry
+ENQ100020,CUST16375,Larry Cardenas,Healthcare,HEA-343,Phone,2025-08-24,53.04,Pending,AGT616,2,3,North,Process,Customer Servicing,Product Enquiry
+ENQ100021,CUST16252,Diane Hoover,Automobile,AUT-286,Chatbot,2025-02-11,46.53,Resolved,AGT284,4,9,Central,Process,Customer Servicing,Product Enquiry
+ENQ100022,CUST17391,Kelly Chapman,Healthcare,HEA-491,Email,2025-06-28,69.97,Escalated,AGT620,2,3,Central,Process,Customer Servicing,Product Enquiry
+ENQ100023,CUST18886,Michael Fletcher,Healthcare,HEA-856,In-Person,2025-08-12,31.54,Escalated,AGT317,1,3,South,Process,Customer Servicing,Product Enquiry
+ENQ100024,CUST16517,John Edwards,Electronics,ELE-285,Email,2025-02-21,53.39,Closed Without Resolution,AGT661,4,1,East,Process,Customer Servicing,Product Enquiry
+ENQ100025,CUST10016,Joanne Rose,Sports,SPO-173,Email,2025-01-28,25.87,Resolved,AGT659,4,9,North,Process,Customer Servicing,Product Enquiry
+ENQ100026,CUST11750,James Hamilton,Fashion,FAS-356,Email,2025-03-18,23.18,Resolved,AGT399,5,5,East,Process,Customer Servicing,Product Enquiry
+ENQ100027,CUST14143,Anne Baker,Electronics,ELE-453,Chatbot,2025-09-05,62.86,Pending,AGT620,1,5,East,Process,Customer Servicing,Product Enquiry
+ENQ100028,CUST18192,David Obrien,Appliances,APP-386,Web Portal,2025-07-09,33.87,Pending,AGT487,5,3,South,Process,Customer Servicing,Product Enquiry
+ENQ100029,CUST11331,Sabrina Adams,Electronics,ELE-865,Phone,2025-09-09,61.24,Pending,AGT640,5,8,Central,Process,Customer Servicing,Product Enquiry
+ENQ100030,CUST16757,Michael Jenkins,Healthcare,HEA-640,In-Person,2025-01-31,9.47,Escalated,AGT325,4,9,East,Process,Customer Servicing,Product Enquiry
+ENQ100031,CUST12328,Johnny Gonzalez,Electronics,ELE-611,Chatbot,2025-03-04,2.24,Pending,AGT223,1,2,East,Process,Customer Servicing,Product Enquiry
+ENQ100032,CUST18289,Robin Bailey,Automobile,AUT-377,Phone,2025-03-13,7.72,Pending,AGT192,5,7,Central,Process,Customer Servicing,Product Enquiry
+ENQ100033,CUST13593,Darryl Patton,Electronics,ELE-462,Chatbot,2025-09-22,12.78,Escalated,AGT526,1,8,North,Process,Customer Servicing,Product Enquiry
+ENQ100034,CUST14062,Curtis Forbes,Electronics,ELE-797,Phone,2025-05-26,51.39,Pending,AGT907,5,8,East,Process,Customer Servicing,Product Enquiry
+ENQ100035,CUST16389,Keith Hall,Automobile,AUT-440,Web Portal,2025-05-14,47.04,Closed Without Resolution,AGT901,4,2,South,Process,Customer Servicing,Product Enquiry
+ENQ100036,CUST13451,Melanie Contreras,Appliances,APP-113,Chatbot,2024-11-10,66.14,Closed Without Resolution,AGT994,4,4,South,Process,Customer Servicing,Product Enquiry
+ENQ100037,CUST18964,Melanie Anderson,Appliances,APP-534,Chatbot,2024-12-16,20.83,Pending,AGT723,5,7,East,Process,Customer Servicing,Product Enquiry
+ENQ100038,CUST18046,Rachael Garcia,Appliances,APP-364,Chatbot,2024-11-26,70.86,Resolved,AGT614,5,8,East,Process,Customer Servicing,Product Enquiry
+ENQ100039,CUST16004,Tony Griffin,Furniture,FUR-213,Chatbot,2024-12-27,56.81,Resolved,AGT291,5,1,Central,Process,Customer Servicing,Product Enquiry
+ENQ100040,CUST17618,Walter Turner,Furniture,FUR-389,Chatbot,2024-12-29,56.85,Closed Without Resolution,AGT631,5,5,North,Process,Customer Servicing,Product Enquiry
+ENQ100041,CUST11378,Hannah Garrett,Furniture,FUR-200,In-Person,2024-12-03,6.84,Closed Without Resolution,AGT451,1,2,South,Process,Customer Servicing,Product Enquiry
+ENQ100042,CUST10463,Joseph Blake,Furniture,FUR-792,Web Portal,2025-05-17,59.23,Closed Without Resolution,AGT821,1,6,West,Process,Customer Servicing,Product Enquiry
+ENQ100043,CUST19220,Deborah Tate,Automobile,AUT-969,Web Portal,2025-03-13,30.18,Closed Without Resolution,AGT499,5,4,West,Process,Customer Servicing,Product Enquiry
+ENQ100044,CUST15894,Cindy Cook,Automobile,AUT-435,In-Person,2025-03-13,35.35,Escalated,AGT742,5,1,South,Process,Customer Servicing,Product Enquiry
+ENQ100045,CUST16620,Jesse Bates,Healthcare,HEA-694,In-Person,2024-12-17,55.91,Pending,AGT528,3,6,Central,Process,Customer Servicing,Product Enquiry
+ENQ100046,CUST14023,Alexander Francis,Healthcare,HEA-649,Phone,2025-04-03,50.8,Escalated,AGT634,4,8,West,Process,Customer Servicing,Product Enquiry
+ENQ100047,CUST15707,Troy Edwards,Fashion,FAS-475,In-Person,2025-06-02,20.47,Escalated,AGT371,2,9,East,Process,Customer Servicing,Product Enquiry
+ENQ100048,CUST12533,Jessica Parker,Furniture,FUR-542,Web Portal,2025-08-21,67.16,Escalated,AGT340,4,9,Central,Process,Customer Servicing,Product Enquiry
+ENQ100049,CUST17839,Patricia Rich,Furniture,FUR-277,Chatbot,2025-07-09,43.05,Closed Without Resolution,AGT840,2,9,Central,Process,Customer Servicing,Product Enquiry
+ENQ100050,CUST17449,Linda Stewart,Automobile,AUT-616,Email,2025-03-16,0.58,Resolved,AGT370,2,5,South,Process,Customer Servicing,Product Enquiry
+ENQ100051,CUST18730,Kirk Tran,Appliances,APP-401,Chatbot,2025-01-08,46.01,Closed Without Resolution,AGT197,4,4,South,Process,Customer Servicing,Product Enquiry
+ENQ100052,CUST18901,Jacob Krause,Healthcare,HEA-908,Web Portal,2025-05-21,46.78,Resolved,AGT580,5,9,North,Process,Customer Servicing,Product Enquiry
+ENQ100053,CUST12667,Sharon Flores,Furniture,FUR-864,Chatbot,2024-12-14,49.98,Escalated,AGT492,5,1,West,Process,Customer Servicing,Product Enquiry
+ENQ100054,CUST11200,Adam Griffin DDS,Fashion,FAS-812,In-Person,2024-12-26,64.89,Resolved,AGT731,4,2,East,Process,Customer Servicing,Product Enquiry
+ENQ100055,CUST10971,Bridget Bell,Furniture,FUR-574,Email,2025-04-08,38.94,Escalated,AGT719,2,4,North,Process,Customer Servicing,Product Enquiry
+ENQ100056,CUST11379,Wayne Price,Appliances,APP-678,Phone,2025-04-01,15.39,Escalated,AGT338,4,1,West,Process,Customer Servicing,Product Enquiry
+ENQ100057,CUST16476,Brett Moreno,Furniture,FUR-991,Email,2025-09-03,28.47,Resolved,AGT364,1,3,West,Process,Customer Servicing,Product Enquiry
+ENQ100058,CUST14622,Ryan Webb PhD,Electronics,ELE-681,Web Portal,2025-01-24,55.68,Pending,AGT617,3,1,North,Process,Customer Servicing,Product Enquiry
+ENQ100059,CUST17431,Shane Williams,Furniture,FUR-256,Web Portal,2025-08-28,67.15,Resolved,AGT965,2,5,North,Process,Customer Servicing,Product Enquiry
+ENQ100060,CUST16733,Parker Strickland,Furniture,FUR-145,In-Person,2025-09-22,64.77,Closed Without Resolution,AGT526,5,1,East,Process,Customer Servicing,Product Enquiry
+ENQ100061,CUST18268,Connie Powell,Healthcare,HEA-581,Email,2025-05-01,9.01,Escalated,AGT832,4,1,North,Process,Customer Servicing,Product Enquiry
+ENQ100062,CUST19207,Christy Foster,Furniture,FUR-826,Web Portal,2025-04-15,53.61,Escalated,AGT418,4,9,South,Process,Customer Servicing,Product Enquiry
+ENQ100063,CUST17815,Tanya Martin,Sports,SPO-285,In-Person,2024-10-16,33.26,Pending,AGT435,5,6,Central,Process,Customer Servicing,Product Enquiry
+ENQ100064,CUST16682,Janice Burns,Sports,SPO-244,Phone,2025-05-18,9.04,Resolved,AGT941,2,4,West,Process,Customer Servicing,Product Enquiry
+ENQ100065,CUST15974,Anthony Fields,Sports,SPO-685,In-Person,2025-09-27,18.09,Escalated,AGT885,3,9,East,Process,Customer Servicing,Product Enquiry
+ENQ100066,CUST13960,Maria Walls,Appliances,APP-165,Email,2024-12-25,20.12,Escalated,AGT303,4,4,East,Process,Customer Servicing,Product Enquiry
+ENQ100067,CUST16722,Michael Moore,Appliances,APP-728,Web Portal,2025-03-17,63.12,Resolved,AGT525,1,5,East,Process,Customer Servicing,Product Enquiry
+ENQ100068,CUST18889,Kayla Ponce,Healthcare,HEA-177,Phone,2025-05-24,50.48,Closed Without Resolution,AGT801,3,3,South,Process,Customer Servicing,Product Enquiry
+ENQ100069,CUST15954,Sara Jones,Automobile,AUT-219,Phone,2025-10-07,47.69,Escalated,AGT561,1,2,Central,Process,Customer Servicing,Product Enquiry
+ENQ100070,CUST17902,Katie Riddle,Healthcare,HEA-566,Web Portal,2025-06-11,7.45,Escalated,AGT116,5,2,Central,Process,Customer Servicing,Product Enquiry
+ENQ100071,CUST18285,Tricia Weber,Furniture,FUR-688,In-Person,2025-01-24,54.28,Closed Without Resolution,AGT310,2,2,Central,Process,Customer Servicing,Product Enquiry
+ENQ100072,CUST11313,Zachary Burton,Sports,SPO-625,Phone,2025-03-30,59.08,Resolved,AGT357,3,8,South,Process,Customer Servicing,Product Enquiry
+ENQ100073,CUST19840,Kimberly Dickerson,Automobile,AUT-142,Email,2025-08-17,48.32,Pending,AGT259,2,7,West,Process,Customer Servicing,Product Enquiry
+ENQ100074,CUST14582,John Ford,Fashion,FAS-458,In-Person,2025-09-18,5.71,Closed Without Resolution,AGT321,3,4,Central,Process,Customer Servicing,Product Enquiry
+ENQ100075,CUST12308,Allison Davies,Sports,SPO-363,Chatbot,2025-06-27,45.15,Pending,AGT527,2,1,South,Process,Customer Servicing,Product Enquiry
+ENQ100076,CUST19742,Deanna Williams,Automobile,AUT-346,Email,2025-08-10,3.68,Resolved,AGT379,4,3,Central,Process,Customer Servicing,Product Enquiry
+ENQ100077,CUST14311,Patrick Roy PhD,Furniture,FUR-424,Phone,2025-08-21,55.96,Resolved,AGT371,2,2,South,Process,Customer Servicing,Product Enquiry
+ENQ100078,CUST12537,Christina Glenn,Automobile,AUT-142,Chatbot,2025-07-01,27.2,Escalated,AGT278,2,3,West,Process,Customer Servicing,Product Enquiry
+ENQ100079,CUST16444,James Lopez,Automobile,AUT-962,In-Person,2025-09-19,57.45,Resolved,AGT235,5,1,North,Process,Customer Servicing,Product Enquiry
+ENQ100080,CUST18079,Dana Cunningham,Automobile,AUT-714,Web Portal,2025-07-28,12.26,Closed Without Resolution,AGT548,3,5,West,Process,Customer Servicing,Product Enquiry
+ENQ100081,CUST13398,Christopher Tanner,Electronics,ELE-993,Web Portal,2025-04-15,35.61,Escalated,AGT387,4,1,South,Process,Customer Servicing,Product Enquiry
+ENQ100082,CUST15697,Jay Lindsey,Sports,SPO-895,In-Person,2025-06-20,22.92,Resolved,AGT349,1,6,South,Process,Customer Servicing,Product Enquiry
+ENQ100083,CUST13223,Lucas Jackson,Healthcare,HEA-620,Web Portal,2025-08-01,35.25,Pending,AGT256,2,1,North,Process,Customer Servicing,Product Enquiry
+ENQ100084,CUST11860,Melissa Griffith,Automobile,AUT-729,Chatbot,2025-06-23,44.35,Pending,AGT269,4,7,Central,Process,Customer Servicing,Product Enquiry
+ENQ100085,CUST17920,Megan Dixon,Healthcare,HEA-810,Email,2025-04-17,71.64,Closed Without Resolution,AGT371,3,10,West,Process,Customer Servicing,Product Enquiry
+ENQ100086,CUST11517,Kevin Evans,Healthcare,HEA-768,Email,2025-01-31,2.14,Escalated,AGT126,4,3,East,Process,Customer Servicing,Product Enquiry
+ENQ100087,CUST15925,John Harris,Electronics,ELE-918,In-Person,2025-03-18,28.34,Resolved,AGT661,2,9,Central,Process,Customer Servicing,Product Enquiry
+ENQ100088,CUST15528,Rebecca Watkins,Healthcare,HEA-680,Phone,2025-03-31,45.04,Escalated,AGT601,1,1,Central,Process,Customer Servicing,Product Enquiry
+ENQ100089,CUST17389,Susan Walker,Healthcare,HEA-446,Web Portal,2024-12-05,47.54,Pending,AGT276,3,1,West,Process,Customer Servicing,Product Enquiry
+ENQ100090,CUST16865,Edward Robbins,Appliances,APP-331,Email,2025-08-25,13.96,Escalated,AGT700,4,10,West,Process,Customer Servicing,Product Enquiry
+ENQ100091,CUST13482,Kimberly Phillips,Furniture,FUR-378,Chatbot,2024-12-31,10.97,Resolved,AGT150,1,5,North,Process,Customer Servicing,Product Enquiry
+ENQ100092,CUST15923,Matthew Rogers,Appliances,APP-272,In-Person,2025-06-11,13.37,Escalated,AGT273,5,2,South,Process,Customer Servicing,Product Enquiry
+ENQ100093,CUST11202,Monica Thomas,Furniture,FUR-699,Web Portal,2024-12-07,53.2,Closed Without Resolution,AGT770,1,4,South,Process,Customer Servicing,Product Enquiry
+ENQ100094,CUST16876,Christine Ford,Appliances,APP-336,Web Portal,2025-05-14,0.63,Closed Without Resolution,AGT412,4,3,West,Process,Customer Servicing,Product Enquiry
+ENQ100095,CUST16675,Samantha Holland,Sports,SPO-341,Email,2025-04-01,44.39,Resolved,AGT117,2,7,West,Process,Customer Servicing,Product Enquiry
+ENQ100096,CUST12244,Gary Garcia,Healthcare,HEA-450,Email,2025-09-26,64.28,Closed Without Resolution,AGT247,4,8,South,Process,Customer Servicing,Product Enquiry
+ENQ100097,CUST12750,John Coleman,Fashion,FAS-791,Phone,2025-01-11,51.73,Resolved,AGT615,4,6,East,Process,Customer Servicing,Product Enquiry
+ENQ100098,CUST19636,Matthew Kelly,Healthcare,HEA-664,Chatbot,2025-07-29,59.38,Escalated,AGT564,4,1,South,Process,Customer Servicing,Product Enquiry
+ENQ100099,CUST17118,Felicia Bailey,Electronics,ELE-103,Email,2025-10-10,7.85,Resolved,AGT133,4,5,West,Process,Customer Servicing,Product Enquiry
+ENQ100100,CUST14684,Nathan Paul,Furniture,FUR-301,Web Portal,2025-06-29,28.97,Pending,AGT831,2,10,East,Process,Customer Servicing,Product Enquiry
+ENQ100101,CUST17593,Brian Waters,Fashion,FAS-605,Web Portal,2024-11-17,55.98,Closed Without Resolution,AGT246,4,10,East,Process,Customer Servicing,Product Enquiry
+ENQ100102,CUST18282,Keith Pierce,Appliances,APP-725,In-Person,2024-12-05,14.97,Pending,AGT352,2,9,East,Process,Customer Servicing,Product Enquiry
+ENQ100103,CUST18664,Christopher Reynolds,Sports,SPO-702,In-Person,2025-09-07,14.65,Pending,AGT721,1,6,Central,Process,Customer Servicing,Product Enquiry
+ENQ100104,CUST13169,Kyle Fisher,Appliances,APP-493,Web Portal,2025-05-13,51.81,Closed Without Resolution,AGT513,2,5,South,Process,Customer Servicing,Product Enquiry
+ENQ100105,CUST15447,Anthony Bright,Appliances,APP-857,Web Portal,2024-12-27,55.08,Escalated,AGT153,5,1,East,Process,Customer Servicing,Product Enquiry
+ENQ100106,CUST11752,Sue Bentley,Automobile,AUT-681,Email,2025-01-02,70.59,Escalated,AGT677,5,10,East,Process,Customer Servicing,Product Enquiry
+ENQ100107,CUST13161,Eric Martinez,Sports,SPO-119,Phone,2025-05-28,60.43,Pending,AGT144,5,2,South,Process,Customer Servicing,Product Enquiry
+ENQ100108,CUST12075,Edward Haynes,Furniture,FUR-840,In-Person,2024-10-16,19.32,Escalated,AGT507,5,9,West,Process,Customer Servicing,Product Enquiry
+ENQ100109,CUST15030,Mrs. Nancy Chambers DDS,Automobile,AUT-290,Web Portal,2025-01-16,14.26,Closed Without Resolution,AGT610,2,4,West,Process,Customer Servicing,Product Enquiry
+ENQ100110,CUST11905,Courtney Trujillo,Fashion,FAS-122,Chatbot,2025-07-09,68.87,Resolved,AGT748,4,3,East,Process,Customer Servicing,Product Enquiry
+ENQ100111,CUST17536,Ryan Hinton,Sports,SPO-917,In-Person,2025-01-11,13.01,Escalated,AGT556,3,9,West,Process,Customer Servicing,Product Enquiry
+ENQ100112,CUST10523,Peter Robles,Furniture,FUR-941,Email,2025-06-18,37.48,Pending,AGT879,3,6,West,Process,Customer Servicing,Product Enquiry
+ENQ100113,CUST10330,Rhonda Warren,Automobile,AUT-819,Chatbot,2025-05-16,34.62,Pending,AGT341,1,4,North,Process,Customer Servicing,Product Enquiry
+ENQ100114,CUST11157,Benjamin Robinson,Furniture,FUR-998,Web Portal,2025-04-30,59.23,Escalated,AGT533,2,4,West,Process,Customer Servicing,Product Enquiry
+ENQ100115,CUST10430,Ian Martinez,Fashion,FAS-942,Email,2025-09-16,69.49,Pending,AGT597,5,7,North,Process,Customer Servicing,Product Enquiry
+ENQ100116,CUST14420,Stacy Rodriguez,Appliances,APP-175,Chatbot,2025-03-17,26.72,Resolved,AGT499,1,3,West,Process,Customer Servicing,Product Enquiry
+ENQ100117,CUST12054,Brianna Davis,Appliances,APP-113,Chatbot,2025-04-05,47.06,Closed Without Resolution,AGT419,3,10,East,Process,Customer Servicing,Product Enquiry
+ENQ100118,CUST15388,Vicki Odonnell,Automobile,AUT-616,Web Portal,2024-12-30,69.89,Pending,AGT492,3,6,North,Process,Customer Servicing,Product Enquiry
+ENQ100119,CUST18722,Connie Wheeler,Appliances,APP-737,Chatbot,2025-09-15,57.68,Pending,AGT113,5,4,West,Process,Customer Servicing,Product Enquiry
+ENQ100120,CUST15547,Anthony Chavez,Healthcare,HEA-560,Web Portal,2025-05-13,35.37,Closed Without Resolution,AGT920,5,2,West,Process,Customer Servicing,Product Enquiry
+ENQ100121,CUST13451,Karina Price,Furniture,FUR-960,In-Person,2025-05-18,1.64,Closed Without Resolution,AGT508,2,8,Central,Process,Customer Servicing,Product Enquiry
+ENQ100122,CUST12120,Tiffany Leonard DVM,Appliances,APP-707,Email,2025-06-10,26.91,Resolved,AGT329,5,5,Central,Process,Customer Servicing,Product Enquiry
+ENQ100123,CUST17984,Austin Waters,Healthcare,HEA-837,Email,2025-04-09,67.56,Closed Without Resolution,AGT544,4,4,Central,Process,Customer Servicing,Product Enquiry
+ENQ100124,CUST19036,Tracy Brown,Furniture,FUR-490,Phone,2025-01-13,69.38,Resolved,AGT752,4,3,North,Process,Customer Servicing,Product Enquiry
+ENQ100125,CUST18086,Samuel Koch,Automobile,AUT-322,Phone,2024-11-27,7.65,Pending,AGT886,4,2,Central,Process,Customer Servicing,Product Enquiry
+ENQ100126,CUST16150,Rachael Sparks,Sports,SPO-664,In-Person,2025-02-14,21.98,Closed Without Resolution,AGT483,5,1,South,Process,Customer Servicing,Product Enquiry
+ENQ100127,CUST13461,Maria Jones,Furniture,FUR-625,Phone,2025-01-09,32.72,Pending,AGT244,5,3,South,Process,Customer Servicing,Product Enquiry
+ENQ100128,CUST15849,David Anthony,Fashion,FAS-776,Email,2024-12-08,68.12,Closed Without Resolution,AGT310,5,9,South,Process,Customer Servicing,Product Enquiry
+ENQ100129,CUST19941,Joshua Caldwell,Healthcare,HEA-803,Chatbot,2025-04-10,67.02,Pending,AGT975,4,8,South,Process,Customer Servicing,Product Enquiry
+ENQ100130,CUST17162,John Summers,Furniture,FUR-479,Phone,2024-10-18,46.53,Resolved,AGT451,4,1,Central,Process,Customer Servicing,Product Enquiry
+ENQ100131,CUST15345,Raymond Barnett,Healthcare,HEA-750,Phone,2025-06-30,13.35,Closed Without Resolution,AGT430,5,1,North,Process,Customer Servicing,Product Enquiry
+ENQ100132,CUST15263,Christine Henderson,Healthcare,HEA-120,Chatbot,2025-01-28,65.14,Closed Without Resolution,AGT738,1,1,East,Process,Customer Servicing,Product Enquiry
+ENQ100133,CUST18307,Michelle Moss,Healthcare,HEA-838,Email,2025-05-15,46.02,Pending,AGT562,5,1,North,Process,Customer Servicing,Product Enquiry
+ENQ100134,CUST16485,William Sexton,Appliances,APP-903,Phone,2025-03-12,15.67,Pending,AGT343,3,1,West,Process,Customer Servicing,Product Enquiry
+ENQ100135,CUST14212,Wendy Mitchell,Sports,SPO-410,Web Portal,2025-08-08,66.56,Closed Without Resolution,AGT824,5,5,North,Process,Customer Servicing,Product Enquiry
+ENQ100136,CUST14827,Timothy Brown,Fashion,FAS-281,Email,2024-10-21,70.8,Closed Without Resolution,AGT892,5,3,West,Process,Customer Servicing,Product Enquiry
+ENQ100137,CUST19047,Michele Mclean,Appliances,APP-258,Chatbot,2025-05-17,21.51,Resolved,AGT979,3,5,West,Process,Customer Servicing,Product Enquiry
+ENQ100138,CUST10094,Jose Davenport,Electronics,ELE-329,Phone,2025-06-30,61.5,Resolved,AGT200,1,5,West,Process,Customer Servicing,Product Enquiry
+ENQ100139,CUST17379,Ryan Armstrong,Electronics,ELE-263,Chatbot,2025-01-28,41.51,Escalated,AGT567,1,9,South,Process,Customer Servicing,Product Enquiry
+ENQ100140,CUST19070,Stephanie Byrd,Fashion,FAS-325,Phone,2025-07-02,8.11,Closed Without Resolution,AGT907,2,4,North,Process,Customer Servicing,Product Enquiry
+ENQ100141,CUST14626,Jamie Garcia,Automobile,AUT-331,Email,2025-01-29,63.24,Resolved,AGT863,4,10,North,Process,Customer Servicing,Product Enquiry
+ENQ100142,CUST15498,Devin Hill,Furniture,FUR-185,Email,2025-04-24,8.97,Pending,AGT780,4,8,Central,Process,Customer Servicing,Product Enquiry
+ENQ100143,CUST19017,Brianna Bell,Fashion,FAS-299,Web Portal,2025-01-13,47.12,Resolved,AGT506,4,3,West,Process,Customer Servicing,Product Enquiry
+ENQ100144,CUST19153,Raymond Dean,Automobile,AUT-128,In-Person,2024-10-29,47.85,Resolved,AGT887,2,3,West,Process,Customer Servicing,Product Enquiry
+ENQ100145,CUST15808,Phillip Quinn,Sports,SPO-637,Email,2025-10-11,64.61,Resolved,AGT490,1,10,South,Process,Customer Servicing,Product Enquiry
+ENQ100146,CUST14887,Mr. Tony Medina,Healthcare,HEA-278,In-Person,2025-09-05,54.94,Resolved,AGT597,2,7,West,Process,Customer Servicing,Product Enquiry
+ENQ100147,CUST10419,Michael Diaz,Electronics,ELE-689,Web Portal,2024-11-02,30.28,Closed Without Resolution,AGT365,5,9,West,Process,Customer Servicing,Product Enquiry
+ENQ100148,CUST15391,Mitchell Miller,Automobile,AUT-217,In-Person,2025-10-11,12.74,Resolved,AGT963,1,5,North,Process,Customer Servicing,Product Enquiry
+ENQ100149,CUST14752,Kendra Hensley,Fashion,FAS-837,Email,2025-10-02,43.66,Escalated,AGT114,3,1,Central,Process,Customer Servicing,Product Enquiry
+ENQ100150,CUST12856,Edwin Hamilton,Automobile,AUT-369,Web Portal,2025-05-23,66.43,Resolved,AGT261,5,10,North,Process,Customer Servicing,Product Enquiry
+ENQ100151,CUST11643,Jill Hood,Fashion,FAS-670,In-Person,2025-04-28,53.21,Closed Without Resolution,AGT315,4,5,West,Process,Customer Servicing,Product Enquiry
+ENQ100152,CUST10168,Kelsey Blevins,Sports,SPO-517,Web Portal,2025-08-30,55.18,Escalated,AGT435,1,4,East,Process,Customer Servicing,Product Enquiry
+ENQ100153,CUST17464,Sally Stanley,Automobile,AUT-563,Chatbot,2025-04-18,70.08,Closed Without Resolution,AGT190,5,9,West,Process,Customer Servicing,Product Enquiry
+ENQ100154,CUST18915,Virginia Hull,Furniture,FUR-116,Web Portal,2025-08-03,52.09,Closed Without Resolution,AGT474,1,1,East,Process,Customer Servicing,Product Enquiry
+ENQ100155,CUST18064,Peter Cooper,Furniture,FUR-295,Phone,2025-04-30,12.42,Pending,AGT871,2,7,East,Process,Customer Servicing,Product Enquiry
+ENQ100156,CUST15772,William Martin,Electronics,ELE-315,Chatbot,2025-04-22,47.97,Escalated,AGT577,2,4,East,Process,Customer Servicing,Product Enquiry
+ENQ100157,CUST17650,Vanessa Larsen,Electronics,ELE-613,Phone,2025-03-21,6.86,Pending,AGT459,3,6,Central,Process,Customer Servicing,Product Enquiry
+ENQ100158,CUST12253,Katelyn Walker,Healthcare,HEA-470,Chatbot,2025-06-09,24.34,Escalated,AGT565,1,3,West,Process,Customer Servicing,Product Enquiry
+ENQ100159,CUST11043,Melissa Rosario,Healthcare,HEA-245,Email,2025-08-18,52.6,Closed Without Resolution,AGT586,5,2,West,Process,Customer Servicing,Product Enquiry
+ENQ100160,CUST15002,Patricia Moore,Furniture,FUR-403,Phone,2025-10-12,62.39,Closed Without Resolution,AGT888,5,10,West,Process,Customer Servicing,Product Enquiry
+ENQ100161,CUST18961,Mitchell King,Fashion,FAS-388,In-Person,2025-02-20,56.23,Closed Without Resolution,AGT503,5,1,East,Process,Customer Servicing,Product Enquiry
+ENQ100162,CUST14631,Sarah Crosby,Fashion,FAS-344,Email,2025-06-24,67.41,Pending,AGT583,1,8,West,Process,Customer Servicing,Product Enquiry
+ENQ100163,CUST10361,Steven Kelly,Fashion,FAS-628,In-Person,2024-12-09,52.22,Closed Without Resolution,AGT936,5,9,Central,Process,Customer Servicing,Product Enquiry
+ENQ100164,CUST16099,Janice Wade,Fashion,FAS-868,Phone,2025-06-05,32.95,Resolved,AGT207,3,1,West,Process,Customer Servicing,Product Enquiry
+ENQ100165,CUST13186,David Hoffman,Appliances,APP-883,Chatbot,2025-09-19,47.82,Pending,AGT955,2,7,West,Process,Customer Servicing,Product Enquiry
+ENQ100166,CUST18585,Aaron Turner,Electronics,ELE-349,Phone,2025-06-14,38.57,Pending,AGT504,5,2,Central,Process,Customer Servicing,Product Enquiry
+ENQ100167,CUST13649,Brandon Stevens,Electronics,ELE-794,Email,2025-04-17,40.9,Escalated,AGT636,1,10,Central,Process,Customer Servicing,Product Enquiry
+ENQ100168,CUST19362,Jill Rhodes,Sports,SPO-173,Email,2025-09-03,9.73,Escalated,AGT168,1,9,North,Process,Customer Servicing,Product Enquiry
+ENQ100169,CUST10852,Ernest Henry,Sports,SPO-636,Web Portal,2024-12-05,4.95,Resolved,AGT715,2,10,West,Process,Customer Servicing,Product Enquiry
+ENQ100170,CUST16185,Lisa Underwood,Fashion,FAS-505,Web Portal,2025-04-03,22.17,Escalated,AGT563,5,7,Central,Process,Customer Servicing,Product Enquiry
+ENQ100171,CUST16663,Brenda Rowland,Furniture,FUR-457,In-Person,2025-01-21,11.5,Pending,AGT416,4,4,Central,Process,Customer Servicing,Product Enquiry
+ENQ100172,CUST11795,Steven George III,Healthcare,HEA-800,Phone,2025-01-26,12.25,Pending,AGT920,2,7,North,Process,Customer Servicing,Product Enquiry
+ENQ100173,CUST15302,Sean Moore,Automobile,AUT-900,Phone,2024-11-03,35.55,Resolved,AGT733,3,2,West,Process,Customer Servicing,Product Enquiry
+ENQ100174,CUST11252,Jonathan Rivers,Healthcare,HEA-883,In-Person,2025-09-15,7.54,Closed Without Resolution,AGT653,4,6,South,Process,Customer Servicing,Product Enquiry
+ENQ100175,CUST11525,Joshua Smith,Fashion,FAS-427,Email,2025-08-28,21.94,Escalated,AGT147,3,10,West,Process,Customer Servicing,Product Enquiry
+ENQ100176,CUST10450,Annette Ryan,Healthcare,HEA-663,In-Person,2025-08-13,31.01,Pending,AGT681,3,7,East,Process,Customer Servicing,Product Enquiry
+ENQ100177,CUST16978,Kayla Lee,Furniture,FUR-459,In-Person,2024-10-25,51.86,Closed Without Resolution,AGT914,2,9,North,Process,Customer Servicing,Product Enquiry
+ENQ100178,CUST17443,Amy Walker,Automobile,AUT-487,Phone,2025-03-17,45.69,Resolved,AGT703,3,2,North,Process,Customer Servicing,Product Enquiry
+ENQ100179,CUST17039,Cody Hall,Automobile,AUT-347,Email,2025-03-27,68.69,Escalated,AGT931,2,8,North,Process,Customer Servicing,Product Enquiry
+ENQ100180,CUST15962,Michael Ruiz,Electronics,ELE-496,Email,2025-01-13,56.94,Escalated,AGT954,3,8,North,Process,Customer Servicing,Product Enquiry
+ENQ100181,CUST18032,Hunter Williams,Healthcare,HEA-348,Chatbot,2025-02-20,29.04,Resolved,AGT344,1,10,East,Process,Customer Servicing,Product Enquiry
+ENQ100182,CUST12427,Ernest Thomas,Healthcare,HEA-818,Email,2024-12-31,31.53,Pending,AGT217,3,5,South,Process,Customer Servicing,Product Enquiry
+ENQ100183,CUST10041,Timothy Jackson,Sports,SPO-511,Chatbot,2025-08-07,21.03,Pending,AGT169,2,1,North,Process,Customer Servicing,Product Enquiry
+ENQ100184,CUST19494,Austin Phillips,Furniture,FUR-690,Web Portal,2025-04-22,37.89,Escalated,AGT905,3,1,North,Process,Customer Servicing,Product Enquiry
+ENQ100185,CUST15458,Christopher Donovan,Furniture,FUR-818,Phone,2025-09-02,71.91,Pending,AGT499,2,3,West,Process,Customer Servicing,Product Enquiry
+ENQ100186,CUST12034,Julie Wilkins,Appliances,APP-465,Chatbot,2025-01-29,67.24,Pending,AGT517,3,7,East,Process,Customer Servicing,Product Enquiry
+ENQ100187,CUST10309,Christopher Robles,Healthcare,HEA-419,Email,2024-11-22,65.06,Resolved,AGT426,1,9,South,Process,Customer Servicing,Product Enquiry
+ENQ100188,CUST16991,Debra Obrien,Fashion,FAS-274,Web Portal,2025-01-20,51.19,Pending,AGT460,2,7,West,Process,Customer Servicing,Product Enquiry
+ENQ100189,CUST17315,Carmen Clark,Furniture,FUR-469,Phone,2025-04-01,58.45,Pending,AGT948,4,1,West,Process,Customer Servicing,Product Enquiry
+ENQ100190,CUST15638,Kimberly Hodge,Furniture,FUR-190,Phone,2024-12-30,69.31,Escalated,AGT970,5,1,East,Process,Customer Servicing,Product Enquiry
+ENQ100191,CUST19297,Sarah Butler,Furniture,FUR-297,In-Person,2025-10-15,68.97,Closed Without Resolution,AGT703,1,10,East,Process,Customer Servicing,Product Enquiry
+ENQ100192,CUST17974,Jessica Hanson,Automobile,AUT-990,Email,2025-02-05,16.81,Closed Without Resolution,AGT921,5,2,West,Process,Customer Servicing,Product Enquiry
+ENQ100193,CUST12448,Chelsea Pena,Fashion,FAS-137,Web Portal,2025-06-23,54.48,Escalated,AGT103,2,9,Central,Process,Customer Servicing,Product Enquiry
+ENQ100194,CUST14473,Sarah Dougherty,Sports,SPO-273,Phone,2024-11-10,40.31,Escalated,AGT158,1,7,Central,Process,Customer Servicing,Product Enquiry
+ENQ100195,CUST16773,Joan Kirk,Automobile,AUT-652,Email,2024-10-28,66.84,Escalated,AGT105,5,6,North,Process,Customer Servicing,Product Enquiry
+ENQ100196,CUST17835,Christopher Simmons,Fashion,FAS-137,Web Portal,2025-09-18,12.04,Escalated,AGT560,5,10,South,Process,Customer Servicing,Product Enquiry
+ENQ100197,CUST19407,Angela English,Fashion,FAS-800,Web Portal,2025-06-23,16.25,Escalated,AGT142,4,1,East,Process,Customer Servicing,Product Enquiry
+ENQ100198,CUST16479,Scott Acosta,Automobile,AUT-175,In-Person,2025-08-27,24.05,Escalated,AGT469,5,5,North,Process,Customer Servicing,Product Enquiry
+ENQ100199,CUST12420,Laura Smith,Electronics,ELE-519,Phone,2025-01-23,51.2,Closed Without Resolution,AGT157,4,6,Central,Process,Customer Servicing,Product Enquiry
+ENQ100200,CUST11831,Linda Garrett,Furniture,FUR-693,Phone,2024-12-23,26.33,Pending,AGT932,4,3,East,Process,Customer Servicing,Product Enquiry
+ENQ100201,CUST14102,Erika Powers,Appliances,APP-144,Web Portal,2025-05-24,9.4,Closed Without Resolution,AGT377,3,4,West,Process,Customer Servicing,Product Enquiry
+ENQ100202,CUST14903,Sarah Carpenter,Fashion,FAS-262,Phone,2025-09-26,12.48,Pending,AGT964,5,1,South,Process,Customer Servicing,Product Enquiry
+ENQ100203,CUST14156,Jacob James,Automobile,AUT-962,Email,2025-06-17,68.37,Resolved,AGT901,2,2,North,Process,Customer Servicing,Product Enquiry
+ENQ100204,CUST19565,Ryan Miller,Fashion,FAS-935,Chatbot,2024-12-16,70.54,Pending,AGT492,5,1,North,Process,Customer Servicing,Product Enquiry
+ENQ100205,CUST14458,Jason Cooper,Furniture,FUR-122,In-Person,2025-04-05,54.77,Resolved,AGT768,2,9,North,Process,Customer Servicing,Product Enquiry
+ENQ100206,CUST17832,Timothy Love,Appliances,APP-345,In-Person,2025-02-26,48.39,Escalated,AGT699,1,10,Central,Process,Customer Servicing,Product Enquiry
+ENQ100207,CUST12826,Thomas Jones,Sports,SPO-198,Email,2025-07-14,10.69,Pending,AGT303,1,3,North,Process,Customer Servicing,Product Enquiry
+ENQ100208,CUST12353,Melissa Martin,Furniture,FUR-709,Phone,2025-03-08,45.11,Resolved,AGT166,2,3,South,Process,Customer Servicing,Product Enquiry
+ENQ100209,CUST14819,Alex Clayton,Sports,SPO-709,In-Person,2024-11-07,43.6,Resolved,AGT965,3,1,Central,Process,Customer Servicing,Product Enquiry
+ENQ100210,CUST16956,Michelle Santana,Healthcare,HEA-172,Chatbot,2025-05-14,41.12,Pending,AGT179,4,6,South,Process,Customer Servicing,Product Enquiry
+ENQ100211,CUST14547,Paul Gonzales,Healthcare,HEA-339,Email,2024-12-14,20.21,Resolved,AGT641,4,3,South,Process,Customer Servicing,Product Enquiry
+ENQ100212,CUST16880,Justin Roberts,Fashion,FAS-620,Email,2024-11-28,33.61,Resolved,AGT878,2,7,Central,Process,Customer Servicing,Product Enquiry
+ENQ100213,CUST11958,Nicholas Douglas,Furniture,FUR-380,Phone,2025-03-07,53.67,Resolved,AGT252,3,5,West,Process,Customer Servicing,Product Enquiry
+ENQ100214,CUST18808,Nancy Jenkins,Sports,SPO-384,Email,2025-03-28,49.83,Escalated,AGT307,4,5,West,Process,Customer Servicing,Product Enquiry
+ENQ100215,CUST19508,Danielle Robinson,Fashion,FAS-920,In-Person,2024-10-30,28.62,Escalated,AGT503,1,3,Central,Process,Customer Servicing,Product Enquiry
+ENQ100216,CUST19686,Kimberly Erickson,Electronics,ELE-431,In-Person,2024-12-28,28.29,Resolved,AGT470,3,4,North,Process,Customer Servicing,Product Enquiry
+ENQ100217,CUST15623,Cameron Mccormick,Appliances,APP-596,Web Portal,2025-02-01,37.48,Closed Without Resolution,AGT215,3,8,North,Process,Customer Servicing,Product Enquiry
+ENQ100218,CUST17536,Ricky Chan,Automobile,AUT-607,Chatbot,2024-12-23,35.09,Escalated,AGT202,3,5,West,Process,Customer Servicing,Product Enquiry
+ENQ100219,CUST14958,Marie Tate,Automobile,AUT-298,Chatbot,2024-10-21,33.36,Closed Without Resolution,AGT688,4,9,North,Process,Customer Servicing,Product Enquiry
+ENQ100220,CUST11365,Christian Kennedy,Automobile,AUT-203,Web Portal,2024-12-14,62.57,Closed Without Resolution,AGT934,4,7,South,Process,Customer Servicing,Product Enquiry
+ENQ100221,CUST16335,Lisa Hampton,Sports,SPO-639,Web Portal,2025-07-19,7.57,Escalated,AGT798,3,3,South,Process,Customer Servicing,Product Enquiry
+ENQ100222,CUST13503,Margaret Reese,Healthcare,HEA-977,In-Person,2025-03-25,24.7,Pending,AGT649,4,7,East,Process,Customer Servicing,Product Enquiry
+ENQ100223,CUST13959,Vincent Lopez,Electronics,ELE-295,Email,2024-11-20,43.66,Escalated,AGT151,4,8,Central,Process,Customer Servicing,Product Enquiry
+ENQ100224,CUST15126,Charles Jones,Automobile,AUT-804,Chatbot,2024-11-04,52.66,Closed Without Resolution,AGT115,4,10,North,Process,Customer Servicing,Product Enquiry
+ENQ100225,CUST12755,Ashley Higgins,Appliances,APP-435,Phone,2025-09-09,33.49,Resolved,AGT251,5,4,Central,Process,Customer Servicing,Product Enquiry
+ENQ100226,CUST14329,Lee Coleman,Appliances,APP-760,Web Portal,2025-05-11,25.63,Escalated,AGT174,2,3,South,Process,Customer Servicing,Product Enquiry
+ENQ100227,CUST11279,Nicole Gonzales,Fashion,FAS-831,Email,2025-09-28,45.39,Resolved,AGT243,1,4,East,Process,Customer Servicing,Product Enquiry
+ENQ100228,CUST13002,Oscar Short,Electronics,ELE-628,In-Person,2025-08-14,56.55,Pending,AGT528,5,8,Central,Process,Customer Servicing,Product Enquiry
+ENQ100229,CUST19441,Craig Ray,Sports,SPO-622,Phone,2025-07-30,12.59,Closed Without Resolution,AGT269,1,1,South,Process,Customer Servicing,Product Enquiry
+ENQ100230,CUST14199,Anthony Bell,Fashion,FAS-878,Email,2025-08-30,63.64,Pending,AGT415,3,5,South,Process,Customer Servicing,Product Enquiry
+ENQ100231,CUST17459,Michael Graves,Appliances,APP-438,Email,2025-03-24,64.18,Escalated,AGT544,5,8,North,Process,Customer Servicing,Product Enquiry
+ENQ100232,CUST13863,Francis Castillo,Furniture,FUR-586,In-Person,2024-12-24,30.23,Pending,AGT329,3,9,North,Process,Customer Servicing,Product Enquiry
+ENQ100233,CUST19602,Carolyn Hernandez,Healthcare,HEA-215,In-Person,2024-11-28,1.42,Closed Without Resolution,AGT834,1,4,North,Process,Customer Servicing,Product Enquiry
+ENQ100234,CUST12263,Tyler Silva,Healthcare,HEA-420,In-Person,2024-12-18,48.21,Pending,AGT510,4,1,East,Process,Customer Servicing,Product Enquiry
+ENQ100235,CUST18388,Nathan Williamson,Fashion,FAS-385,In-Person,2025-09-25,52.58,Pending,AGT129,5,9,Central,Process,Customer Servicing,Product Enquiry
+ENQ100236,CUST15348,Lauren Martinez,Sports,SPO-208,Phone,2025-02-15,42.68,Escalated,AGT332,5,2,East,Process,Customer Servicing,Product Enquiry
+ENQ100237,CUST12636,Zachary Garcia,Appliances,APP-368,Phone,2024-10-17,63.36,Resolved,AGT929,5,3,North,Process,Customer Servicing,Product Enquiry
+ENQ100238,CUST15517,Steven Hodge,Appliances,APP-964,Chatbot,2024-10-29,44.76,Closed Without Resolution,AGT265,5,3,West,Process,Customer Servicing,Product Enquiry
+ENQ100239,CUST17931,Eric Thomas,Automobile,AUT-419,Email,2025-09-13,68.65,Closed Without Resolution,AGT930,2,6,Central,Process,Customer Servicing,Product Enquiry
+ENQ100240,CUST14754,Hannah Norton,Electronics,ELE-705,Phone,2025-05-21,49.11,Closed Without Resolution,AGT325,3,5,South,Process,Customer Servicing,Product Enquiry
+ENQ100241,CUST17985,James Johnson,Furniture,FUR-185,Web Portal,2024-12-19,18.21,Closed Without Resolution,AGT639,5,2,Central,Process,Customer Servicing,Product Enquiry
+ENQ100242,CUST12403,William Johnson,Furniture,FUR-253,In-Person,2025-03-17,12.46,Pending,AGT268,4,9,West,Process,Customer Servicing,Product Enquiry
+ENQ100243,CUST15353,Robert Graves,Automobile,AUT-392,In-Person,2025-02-16,13.88,Pending,AGT401,1,7,East,Process,Customer Servicing,Product Enquiry
+ENQ100244,CUST16674,Clayton Goodwin,Healthcare,HEA-850,Email,2025-02-25,55.03,Resolved,AGT262,2,6,North,Process,Customer Servicing,Product Enquiry
+ENQ100245,CUST10799,Andrea Woods,Automobile,AUT-856,Chatbot,2025-10-10,59.67,Escalated,AGT798,2,8,Central,Process,Customer Servicing,Product Enquiry
+ENQ100246,CUST19946,Keith Barnes,Sports,SPO-186,Web Portal,2024-12-18,26.43,Closed Without Resolution,AGT158,1,1,South,Process,Customer Servicing,Product Enquiry
+ENQ100247,CUST17159,William Beck,Furniture,FUR-163,Email,2025-09-08,18.17,Resolved,AGT984,3,3,Central,Process,Customer Servicing,Product Enquiry
+ENQ100248,CUST18423,Duane Young,Appliances,APP-239,In-Person,2024-11-17,61.78,Closed Without Resolution,AGT206,2,9,North,Process,Customer Servicing,Product Enquiry
+ENQ100249,CUST11066,Sara Fox,Automobile,AUT-365,Email,2025-10-15,22.07,Escalated,AGT777,2,4,South,Process,Customer Servicing,Product Enquiry
+ENQ100250,CUST15400,Jamie Gilbert,Sports,SPO-662,In-Person,2024-12-31,24.51,Closed Without Resolution,AGT276,2,8,North,Process,Customer Servicing,Product Enquiry
+ENQ100251,CUST11811,Melanie Duran,Furniture,FUR-100,In-Person,2025-01-17,15.76,Closed Without Resolution,AGT241,5,7,Central,Process,Customer Servicing,Product Enquiry
+ENQ100252,CUST12842,Jessica Hubbard,Sports,SPO-195,Web Portal,2025-07-05,1.39,Resolved,AGT185,4,9,East,Process,Customer Servicing,Product Enquiry
+ENQ100253,CUST12577,Johnny Page,Furniture,FUR-744,Chatbot,2024-12-01,36.38,Resolved,AGT198,5,10,East,Process,Customer Servicing,Product Enquiry
+ENQ100254,CUST19563,Alexander Davis,Appliances,APP-130,Phone,2025-06-27,1.71,Escalated,AGT515,4,4,South,Process,Customer Servicing,Product Enquiry
+ENQ100255,CUST19073,Jodi Smith,Healthcare,HEA-277,Phone,2025-08-28,30.54,Closed Without Resolution,AGT675,4,1,West,Process,Customer Servicing,Product Enquiry
+ENQ100256,CUST11291,Kathryn Gonzales,Sports,SPO-672,Email,2024-11-28,42.18,Closed Without Resolution,AGT135,2,3,North,Process,Customer Servicing,Product Enquiry
+ENQ100257,CUST15368,Gloria Tyler,Electronics,ELE-825,Chatbot,2025-01-17,4.61,Escalated,AGT220,3,7,North,Process,Customer Servicing,Product Enquiry
+ENQ100258,CUST10003,Leah Walker,Healthcare,HEA-894,Phone,2025-06-16,16.69,Closed Without Resolution,AGT789,5,8,West,Process,Customer Servicing,Product Enquiry
+ENQ100259,CUST13386,Deborah Smith,Healthcare,HEA-424,Web Portal,2025-04-26,59.71,Closed Without Resolution,AGT626,4,3,South,Process,Customer Servicing,Product Enquiry
+ENQ100260,CUST13930,Harold Bell,Automobile,AUT-524,Chatbot,2025-06-03,67.74,Escalated,AGT269,3,1,Central,Process,Customer Servicing,Product Enquiry
+ENQ100261,CUST17371,Joshua Jensen,Appliances,APP-148,Web Portal,2025-02-06,45.19,Escalated,AGT669,5,10,East,Process,Customer Servicing,Product Enquiry
+ENQ100262,CUST18887,Christopher Wilson,Appliances,APP-982,In-Person,2025-03-06,26.5,Resolved,AGT865,3,2,South,Process,Customer Servicing,Product Enquiry
+ENQ100263,CUST17752,Jordan Lamb,Electronics,ELE-953,In-Person,2025-08-04,37.75,Pending,AGT588,2,2,South,Process,Customer Servicing,Product Enquiry
+ENQ100264,CUST17497,Jessica Peterson,Automobile,AUT-994,Web Portal,2025-06-30,23.08,Escalated,AGT195,3,10,West,Process,Customer Servicing,Product Enquiry
+ENQ100265,CUST15114,Ricky Woods,Electronics,ELE-341,Web Portal,2024-12-14,1.42,Pending,AGT958,5,4,East,Process,Customer Servicing,Product Enquiry
+ENQ100266,CUST11614,Christopher Smith,Electronics,ELE-854,Phone,2025-09-02,71.09,Escalated,AGT817,3,2,North,Process,Customer Servicing,Product Enquiry
+ENQ100267,CUST11569,Paul Daniels,Electronics,ELE-144,Chatbot,2025-05-23,45.62,Closed Without Resolution,AGT692,4,4,Central,Process,Customer Servicing,Product Enquiry
+ENQ100268,CUST12472,Samuel Underwood,Healthcare,HEA-104,In-Person,2025-10-03,18.17,Closed Without Resolution,AGT959,1,9,South,Process,Customer Servicing,Product Enquiry
+ENQ100269,CUST13303,Barbara Hernandez,Appliances,APP-244,Web Portal,2025-06-05,67.03,Closed Without Resolution,AGT908,5,6,West,Process,Customer Servicing,Product Enquiry
+ENQ100270,CUST11916,Brent Hoffman,Furniture,FUR-110,Web Portal,2025-04-15,2.29,Escalated,AGT439,1,6,South,Process,Customer Servicing,Product Enquiry
+ENQ100271,CUST16202,Paula Carlson,Sports,SPO-280,In-Person,2025-06-26,19.32,Resolved,AGT614,1,4,Central,Process,Customer Servicing,Product Enquiry
+ENQ100272,CUST15715,Kevin Andrade,Appliances,APP-509,Chatbot,2025-08-10,25.77,Pending,AGT751,2,8,East,Process,Customer Servicing,Product Enquiry
+ENQ100273,CUST19210,Mark Cunningham,Automobile,AUT-492,Phone,2025-07-03,66.23,Pending,AGT428,1,3,Central,Process,Customer Servicing,Product Enquiry
+ENQ100274,CUST12514,Jasmine Byrd,Healthcare,HEA-181,Phone,2025-08-22,33.75,Closed Without Resolution,AGT695,5,2,East,Process,Customer Servicing,Product Enquiry
+ENQ100275,CUST15821,David Hansen,Automobile,AUT-775,Phone,2025-03-12,47.22,Pending,AGT468,5,1,North,Process,Customer Servicing,Product Enquiry
+ENQ100276,CUST13632,Bonnie Cook,Electronics,ELE-815,Email,2025-04-18,18.86,Closed Without Resolution,AGT746,5,6,Central,Process,Customer Servicing,Product Enquiry
+ENQ100277,CUST13649,Thomas Rice,Fashion,FAS-280,Chatbot,2025-01-31,7.85,Pending,AGT328,5,2,Central,Process,Customer Servicing,Product Enquiry
+ENQ100278,CUST13200,Michael Brown,Automobile,AUT-345,In-Person,2025-03-09,11.92,Resolved,AGT607,3,4,East,Process,Customer Servicing,Product Enquiry
+ENQ100279,CUST16533,Regina Doyle,Electronics,ELE-117,Email,2025-06-22,51.06,Pending,AGT792,3,5,South,Process,Customer Servicing,Product Enquiry
+ENQ100280,CUST16799,Christopher Hernandez,Automobile,AUT-938,Phone,2025-02-06,18.88,Resolved,AGT488,2,4,South,Process,Customer Servicing,Product Enquiry
+ENQ100281,CUST18118,Jason Macias,Sports,SPO-543,Email,2025-02-18,71.65,Escalated,AGT435,4,9,East,Process,Customer Servicing,Product Enquiry
+ENQ100282,CUST12943,Michael Gillespie,Appliances,APP-896,Chatbot,2025-09-02,60.63,Resolved,AGT749,3,6,West,Process,Customer Servicing,Product Enquiry
+ENQ100283,CUST16575,Brandy Miller,Sports,SPO-416,Phone,2025-09-19,53.88,Pending,AGT977,4,6,West,Process,Customer Servicing,Product Enquiry
+ENQ100284,CUST12799,Daniel Wilcox,Appliances,APP-533,Phone,2025-01-31,13.45,Resolved,AGT176,2,2,Central,Process,Customer Servicing,Product Enquiry
+ENQ100285,CUST17478,John Green,Sports,SPO-917,In-Person,2025-03-29,62.11,Closed Without Resolution,AGT367,2,10,South,Process,Customer Servicing,Product Enquiry
+ENQ100286,CUST19641,Sabrina Fox,Healthcare,HEA-153,In-Person,2025-04-21,59.42,Resolved,AGT796,5,2,Central,Process,Customer Servicing,Product Enquiry
+ENQ100287,CUST12581,Jacqueline Lee,Fashion,FAS-472,Chatbot,2024-11-16,40.85,Escalated,AGT985,5,4,North,Process,Customer Servicing,Product Enquiry
+ENQ100288,CUST12328,David Kennedy,Electronics,ELE-455,Chatbot,2025-04-18,29.85,Resolved,AGT512,2,7,West,Process,Customer Servicing,Product Enquiry
+ENQ100289,CUST16457,David Graham,Sports,SPO-400,Chatbot,2025-10-04,30.33,Resolved,AGT839,3,1,West,Process,Customer Servicing,Product Enquiry
+ENQ100290,CUST17711,Michelle Gates,Fashion,FAS-110,Chatbot,2025-06-27,53.41,Closed Without Resolution,AGT191,3,1,North,Process,Customer Servicing,Product Enquiry
+ENQ100291,CUST12904,Michael Bryant,Electronics,ELE-689,Phone,2025-04-07,52.57,Resolved,AGT726,1,9,West,Process,Customer Servicing,Product Enquiry
+ENQ100292,CUST13306,Shelby Powell,Automobile,AUT-710,In-Person,2025-07-28,56.33,Pending,AGT837,4,1,West,Process,Customer Servicing,Product Enquiry
+ENQ100293,CUST12670,Todd Blackwell,Healthcare,HEA-245,Email,2025-09-30,19.72,Resolved,AGT838,4,9,Central,Process,Customer Servicing,Product Enquiry
+ENQ100294,CUST12720,Jose Ware,Fashion,FAS-741,Web Portal,2025-01-18,57.34,Escalated,AGT419,3,10,Central,Process,Customer Servicing,Product Enquiry
+ENQ100295,CUST11819,Michael Yates,Electronics,ELE-903,In-Person,2025-04-29,71.12,Escalated,AGT337,2,4,South,Process,Customer Servicing,Product Enquiry
+ENQ100296,CUST11442,Aaron Hunter,Automobile,AUT-158,Chatbot,2025-05-08,8.53,Resolved,AGT616,3,7,East,Process,Customer Servicing,Product Enquiry
+ENQ100297,CUST19349,Stephanie Lopez,Furniture,FUR-760,Phone,2025-09-28,42.55,Closed Without Resolution,AGT191,4,8,East,Process,Customer Servicing,Product Enquiry
+ENQ100298,CUST19604,Michael Andrews,Appliances,APP-261,Phone,2025-07-30,30.09,Pending,AGT783,5,10,South,Process,Customer Servicing,Product Enquiry
+ENQ100299,CUST11416,Stephanie Harris,Appliances,APP-688,Web Portal,2025-09-11,55.02,Pending,AGT103,5,1,North,Process,Customer Servicing,Product Enquiry
+ENQ100300,CUST12665,Joyce Singh,Electronics,ELE-781,Email,2025-10-12,55.31,Closed Without Resolution,AGT219,4,4,South,Process,Customer Servicing,Product Enquiry
+ENQ100301,CUST11740,Michael Hardin,Electronics,ELE-800,Email,2025-07-18,6.97,Pending,AGT632,2,2,South,Process,Customer Servicing,Product Enquiry
+ENQ100302,CUST13236,Richard Cunningham,Automobile,AUT-795,Chatbot,2025-05-30,33.77,Escalated,AGT724,5,8,North,Process,Customer Servicing,Product Enquiry
+ENQ100303,CUST15831,Veronica Wagner,Fashion,FAS-499,In-Person,2025-01-02,41.63,Pending,AGT893,5,6,South,Process,Customer Servicing,Product Enquiry
+ENQ100304,CUST11655,Lauren Kelly,Fashion,FAS-885,Chatbot,2025-06-28,52.12,Pending,AGT352,2,9,East,Process,Customer Servicing,Product Enquiry
+ENQ100305,CUST17017,Melanie Walton,Furniture,FUR-497,Phone,2025-03-06,10.99,Resolved,AGT367,4,3,West,Process,Customer Servicing,Product Enquiry
+ENQ100306,CUST15273,Robert Tanner,Sports,SPO-775,Chatbot,2025-07-26,15.44,Closed Without Resolution,AGT670,3,9,East,Process,Customer Servicing,Product Enquiry
+ENQ100307,CUST18913,Brandi Howard,Healthcare,HEA-256,Chatbot,2025-07-09,30.08,Escalated,AGT959,5,3,West,Process,Customer Servicing,Product Enquiry
+ENQ100308,CUST12539,Samuel Jackson,Automobile,AUT-758,In-Person,2025-04-11,4.98,Closed Without Resolution,AGT451,1,2,South,Process,Customer Servicing,Product Enquiry
+ENQ100309,CUST12831,Ashley Howell,Fashion,FAS-192,In-Person,2025-05-09,58.25,Resolved,AGT765,2,4,East,Process,Customer Servicing,Product Enquiry
+ENQ100310,CUST19134,Richard Thomas,Furniture,FUR-527,Chatbot,2025-06-18,49.66,Escalated,AGT868,4,1,North,Process,Customer Servicing,Product Enquiry
+ENQ100311,CUST13589,Cassandra Brown,Fashion,FAS-541,Phone,2025-10-07,39.31,Escalated,AGT298,3,6,West,Process,Customer Servicing,Product Enquiry
+ENQ100312,CUST17510,Tony Moran,Appliances,APP-499,Email,2024-12-13,54.9,Escalated,AGT872,5,1,Central,Process,Customer Servicing,Product Enquiry
+ENQ100313,CUST11022,Michael Randolph,Fashion,FAS-137,In-Person,2025-09-10,49.83,Escalated,AGT644,1,6,West,Process,Customer Servicing,Product Enquiry
+ENQ100314,CUST14541,Dr. James Henderson,Sports,SPO-533,Web Portal,2025-06-18,70.98,Escalated,AGT650,5,3,Central,Process,Customer Servicing,Product Enquiry
+ENQ100315,CUST10869,Samantha George,Electronics,ELE-762,Web Portal,2025-08-29,68.55,Escalated,AGT715,2,8,North,Process,Customer Servicing,Product Enquiry
+ENQ100316,CUST19929,Candace Stanley,Automobile,AUT-979,Phone,2024-12-04,18.89,Pending,AGT278,2,10,East,Process,Customer Servicing,Product Enquiry
+ENQ100317,CUST10499,Nicole Brown,Sports,SPO-289,Web Portal,2025-05-10,34.89,Pending,AGT882,1,9,Central,Process,Customer Servicing,Product Enquiry
+ENQ100318,CUST13808,Latoya Williams,Automobile,AUT-291,Phone,2024-11-04,46.63,Closed Without Resolution,AGT851,1,9,Central,Process,Customer Servicing,Product Enquiry
+ENQ100319,CUST14364,Kaitlyn Perez,Electronics,ELE-619,Web Portal,2025-07-15,56.91,Resolved,AGT706,2,9,Central,Process,Customer Servicing,Product Enquiry
+ENQ100320,CUST17018,Robert Shepherd,Fashion,FAS-455,Phone,2024-12-21,66.86,Closed Without Resolution,AGT252,2,6,North,Process,Customer Servicing,Product Enquiry
+ENQ100321,CUST18909,Melinda Hughes,Healthcare,HEA-529,In-Person,2025-06-15,65.32,Escalated,AGT224,5,5,North,Process,Customer Servicing,Product Enquiry
+ENQ100322,CUST16301,Denise Thomas,Automobile,AUT-907,Email,2024-12-04,33.34,Resolved,AGT168,4,8,South,Process,Customer Servicing,Product Enquiry
+ENQ100323,CUST19113,Joseph Berry,Automobile,AUT-130,In-Person,2025-05-25,47.87,Escalated,AGT847,3,1,East,Process,Customer Servicing,Product Enquiry
+ENQ100324,CUST14335,Laura Martin,Furniture,FUR-201,Chatbot,2025-02-15,46.64,Resolved,AGT763,3,6,South,Process,Customer Servicing,Product Enquiry
+ENQ100325,CUST15440,Shannon Hardy,Sports,SPO-630,Phone,2024-12-19,25.04,Resolved,AGT499,4,7,Central,Process,Customer Servicing,Product Enquiry
+ENQ100326,CUST11202,Chelsea White,Electronics,ELE-968,In-Person,2024-11-17,6.15,Escalated,AGT901,3,5,Central,Process,Customer Servicing,Product Enquiry
+ENQ100327,CUST14727,Lisa Bell,Healthcare,HEA-317,In-Person,2025-04-29,70.35,Resolved,AGT683,3,7,South,Process,Customer Servicing,Product Enquiry
+ENQ100328,CUST10897,Paul Church,Appliances,APP-774,Chatbot,2025-05-19,26.71,Resolved,AGT317,4,7,Central,Process,Customer Servicing,Product Enquiry
+ENQ100329,CUST15314,Sandra Garza,Furniture,FUR-455,Email,2024-11-15,35.53,Resolved,AGT612,5,4,South,Process,Customer Servicing,Product Enquiry
+ENQ100330,CUST14860,Gregory Craig,Healthcare,HEA-590,Phone,2025-06-19,9.57,Pending,AGT644,5,10,South,Process,Customer Servicing,Product Enquiry
+ENQ100331,CUST19559,Monique Austin,Healthcare,HEA-934,Email,2025-10-16,44.71,Resolved,AGT826,3,6,North,Process,Customer Servicing,Product Enquiry
+ENQ100332,CUST17360,Lawrence Hernandez,Fashion,FAS-894,Web Portal,2025-05-30,53.26,Pending,AGT817,2,2,North,Process,Customer Servicing,Product Enquiry
+ENQ100333,CUST12722,Brittany Miller,Electronics,ELE-580,Chatbot,2024-11-12,26.47,Closed Without Resolution,AGT303,1,9,East,Process,Customer Servicing,Product Enquiry
+ENQ100334,CUST10776,Patricia Mays,Electronics,ELE-782,Web Portal,2025-02-06,52.42,Closed Without Resolution,AGT257,1,7,East,Process,Customer Servicing,Product Enquiry
+ENQ100335,CUST11778,Candace Taylor,Sports,SPO-967,Web Portal,2024-10-17,17.22,Escalated,AGT669,1,4,North,Process,Customer Servicing,Product Enquiry
+ENQ100336,CUST11686,Charles Miller,Fashion,FAS-223,In-Person,2024-11-05,8.85,Closed Without Resolution,AGT693,1,6,East,Process,Customer Servicing,Product Enquiry
+ENQ100337,CUST15190,Erica Myers,Appliances,APP-547,Email,2025-04-28,0.7,Escalated,AGT752,4,9,North,Process,Customer Servicing,Product Enquiry
+ENQ100338,CUST18380,Brenda Sawyer,Electronics,ELE-931,Web Portal,2025-03-27,22.76,Escalated,AGT121,4,4,South,Process,Customer Servicing,Product Enquiry
+ENQ100339,CUST14939,Tanya Smith,Sports,SPO-660,Email,2025-10-13,39.8,Resolved,AGT505,2,5,West,Process,Customer Servicing,Product Enquiry
+ENQ100340,CUST13590,Sydney Blevins,Healthcare,HEA-121,Chatbot,2025-03-19,47.69,Resolved,AGT804,4,8,North,Process,Customer Servicing,Product Enquiry
+ENQ100341,CUST17212,Jill Gonzalez,Fashion,FAS-491,Web Portal,2025-01-01,63.02,Pending,AGT343,5,10,North,Process,Customer Servicing,Product Enquiry
+ENQ100342,CUST13417,Paul Kent,Electronics,ELE-826,Web Portal,2025-03-07,22.86,Resolved,AGT444,5,9,North,Process,Customer Servicing,Product Enquiry
+ENQ100343,CUST11510,Sheila Campbell,Automobile,AUT-802,In-Person,2024-11-01,44.11,Closed Without Resolution,AGT299,1,8,North,Process,Customer Servicing,Product Enquiry
+ENQ100344,CUST17980,Hayley Black,Automobile,AUT-746,Chatbot,2025-01-15,63.5,Escalated,AGT770,3,4,North,Process,Customer Servicing,Product Enquiry
+ENQ100345,CUST19441,Carol Munoz,Healthcare,HEA-675,Email,2024-12-22,38.33,Resolved,AGT806,1,8,North,Process,Customer Servicing,Product Enquiry
+ENQ100346,CUST10473,Craig Acosta,Fashion,FAS-814,Web Portal,2024-11-05,30.15,Pending,AGT818,1,9,South,Process,Customer Servicing,Product Enquiry
+ENQ100347,CUST13468,Robert Reese,Furniture,FUR-916,Email,2025-08-12,45.2,Resolved,AGT677,2,4,Central,Process,Customer Servicing,Product Enquiry
+ENQ100348,CUST16117,Christian Cole,Furniture,FUR-772,Phone,2025-01-30,59.22,Pending,AGT764,1,3,East,Process,Customer Servicing,Product Enquiry
+ENQ100349,CUST16081,Stephanie Howell,Appliances,APP-784,Phone,2024-12-17,46.36,Closed Without Resolution,AGT163,4,8,Central,Process,Customer Servicing,Product Enquiry
+ENQ100350,CUST10221,Anthony Andrade,Sports,SPO-570,In-Person,2025-01-28,27.93,Escalated,AGT526,2,3,East,Process,Customer Servicing,Product Enquiry
+ENQ100351,CUST11086,Jennifer Thomas,Sports,SPO-144,Phone,2025-04-11,5.06,Closed Without Resolution,AGT961,4,3,Central,Process,Customer Servicing,Product Enquiry
+ENQ100352,CUST15530,Emily Smith,Fashion,FAS-569,In-Person,2025-10-05,26.53,Resolved,AGT230,5,2,West,Process,Customer Servicing,Product Enquiry
+ENQ100353,CUST16136,Brenda Moss,Fashion,FAS-130,Chatbot,2025-07-31,46.71,Resolved,AGT931,5,9,South,Process,Customer Servicing,Product Enquiry
+ENQ100354,CUST14486,Ricardo Evans,Electronics,ELE-859,Email,2024-11-10,36.09,Closed Without Resolution,AGT390,5,7,South,Process,Customer Servicing,Product Enquiry
+ENQ100355,CUST11103,Lisa Rice,Automobile,AUT-488,Web Portal,2025-02-13,11.73,Pending,AGT237,2,9,West,Process,Customer Servicing,Product Enquiry
+ENQ100356,CUST15044,Patty Richards,Sports,SPO-310,Web Portal,2024-11-05,19.59,Pending,AGT365,4,3,East,Process,Customer Servicing,Product Enquiry
+ENQ100357,CUST16289,Elizabeth Vasquez,Fashion,FAS-200,Web Portal,2025-08-21,31.19,Pending,AGT411,2,5,Central,Process,Customer Servicing,Product Enquiry
+ENQ100358,CUST17062,Bridget Brown,Electronics,ELE-209,In-Person,2025-06-27,29.92,Closed Without Resolution,AGT903,1,2,South,Process,Customer Servicing,Product Enquiry
+ENQ100359,CUST14995,Samuel Warren,Automobile,AUT-873,Email,2025-02-23,29.86,Resolved,AGT676,4,6,Central,Process,Customer Servicing,Product Enquiry
+ENQ100360,CUST18550,Mr. Michael Johnson,Furniture,FUR-662,Chatbot,2025-06-04,37.39,Escalated,AGT601,5,7,Central,Process,Customer Servicing,Product Enquiry
+ENQ100361,CUST19057,Cindy Cook,Appliances,APP-504,Web Portal,2025-05-22,31.89,Resolved,AGT170,3,7,West,Process,Customer Servicing,Product Enquiry
+ENQ100362,CUST12005,Tanya King,Healthcare,HEA-871,Web Portal,2025-02-15,71.07,Pending,AGT360,4,10,West,Process,Customer Servicing,Product Enquiry
+ENQ100363,CUST16849,Robert Barnett,Fashion,FAS-811,Chatbot,2024-12-14,62.66,Escalated,AGT107,2,6,North,Process,Customer Servicing,Product Enquiry
+ENQ100364,CUST18410,Michael Carr,Appliances,APP-504,Phone,2025-07-14,57.18,Escalated,AGT593,1,3,South,Process,Customer Servicing,Product Enquiry
+ENQ100365,CUST17075,Bethany Johnson,Appliances,APP-193,Chatbot,2025-10-05,16.13,Pending,AGT996,3,8,Central,Process,Customer Servicing,Product Enquiry
+ENQ100366,CUST18376,Clifford Carpenter,Electronics,ELE-938,In-Person,2024-11-20,71.26,Pending,AGT787,3,5,East,Process,Customer Servicing,Product Enquiry
+ENQ100367,CUST15158,Jorge Miller,Appliances,APP-826,In-Person,2025-09-09,19.4,Resolved,AGT403,2,7,Central,Process,Customer Servicing,Product Enquiry
+ENQ100368,CUST11487,Savannah Hinton,Appliances,APP-468,Phone,2025-09-25,0.98,Pending,AGT178,5,7,West,Process,Customer Servicing,Product Enquiry
+ENQ100369,CUST15480,Andrew Smith,Electronics,ELE-250,Web Portal,2025-09-11,37.96,Pending,AGT176,2,1,North,Process,Customer Servicing,Product Enquiry
+ENQ100370,CUST11500,Joanna Reese,Healthcare,HEA-484,Web Portal,2025-04-24,10.85,Escalated,AGT810,1,9,South,Process,Customer Servicing,Product Enquiry
+ENQ100371,CUST19891,Nicole Tate,Appliances,APP-344,In-Person,2025-09-03,59.74,Closed Without Resolution,AGT349,5,2,Central,Process,Customer Servicing,Product Enquiry
+ENQ100372,CUST18291,Sandra Cook,Healthcare,HEA-895,Phone,2025-06-07,50.38,Pending,AGT373,5,6,Central,Process,Customer Servicing,Product Enquiry
+ENQ100373,CUST16020,Willie Baker,Furniture,FUR-952,Chatbot,2025-09-30,32.76,Closed Without Resolution,AGT646,3,10,North,Process,Customer Servicing,Product Enquiry
+ENQ100374,CUST17801,Blake Avery,Furniture,FUR-469,Phone,2024-12-17,4.3,Escalated,AGT149,4,6,Central,Process,Customer Servicing,Product Enquiry
+ENQ100375,CUST15015,Jonathan Cruz,Fashion,FAS-291,Chatbot,2025-04-26,58.34,Pending,AGT245,4,7,North,Process,Customer Servicing,Product Enquiry
+ENQ100376,CUST16074,Emily Price,Sports,SPO-410,Phone,2025-04-20,40.35,Escalated,AGT161,3,10,Central,Process,Customer Servicing,Product Enquiry
+ENQ100377,CUST17685,Jeffrey Harris,Electronics,ELE-697,Chatbot,2025-03-28,66.95,Resolved,AGT379,5,6,North,Process,Customer Servicing,Product Enquiry
+ENQ100378,CUST11842,Rachel Wright,Electronics,ELE-395,Phone,2025-05-17,4.13,Closed Without Resolution,AGT482,2,9,West,Process,Customer Servicing,Product Enquiry
+ENQ100379,CUST13128,Harold Smith,Fashion,FAS-274,In-Person,2025-02-10,5.71,Closed Without Resolution,AGT872,5,9,Central,Process,Customer Servicing,Product Enquiry
+ENQ100380,CUST13261,Jennifer Dillon,Sports,SPO-775,Email,2024-11-14,21.76,Pending,AGT103,5,8,East,Process,Customer Servicing,Product Enquiry
+ENQ100381,CUST16333,Katelyn Henry,Automobile,AUT-197,Web Portal,2025-02-08,16.58,Pending,AGT390,4,2,South,Process,Customer Servicing,Product Enquiry
+ENQ100382,CUST14627,Eric Diaz,Automobile,AUT-546,Web Portal,2024-12-24,61.69,Resolved,AGT869,4,2,North,Process,Customer Servicing,Product Enquiry
+ENQ100383,CUST17118,Laura Smith MD,Healthcare,HEA-650,Email,2025-06-16,41.44,Escalated,AGT473,1,1,East,Process,Customer Servicing,Product Enquiry
+ENQ100384,CUST16540,Jason Wilson,Healthcare,HEA-191,Chatbot,2025-03-09,20.3,Escalated,AGT887,1,6,East,Process,Customer Servicing,Product Enquiry
+ENQ100385,CUST16988,Richard Simpson,Fashion,FAS-377,Phone,2024-12-27,15.44,Resolved,AGT300,5,7,East,Process,Customer Servicing,Product Enquiry
+ENQ100386,CUST18692,Steven Gallagher,Appliances,APP-696,Web Portal,2024-12-19,16.99,Pending,AGT639,3,5,Central,Process,Customer Servicing,Product Enquiry
+ENQ100387,CUST11797,Charles Wells,Appliances,APP-740,Phone,2025-09-10,11.08,Pending,AGT611,3,3,West,Process,Customer Servicing,Product Enquiry
+ENQ100388,CUST19507,Jade Guerra,Appliances,APP-564,Email,2025-04-07,61.92,Closed Without Resolution,AGT553,5,6,South,Process,Customer Servicing,Product Enquiry
+ENQ100389,CUST18879,Kristen Smith,Appliances,APP-248,Chatbot,2025-03-30,7.13,Closed Without Resolution,AGT652,3,5,Central,Process,Customer Servicing,Product Enquiry
+ENQ100390,CUST13944,Megan Stevens,Appliances,APP-182,Phone,2025-03-30,19.13,Closed Without Resolution,AGT153,5,10,West,Process,Customer Servicing,Product Enquiry
+ENQ100391,CUST16390,Michele Vance,Furniture,FUR-925,In-Person,2025-08-09,30.4,Escalated,AGT574,2,7,South,Process,Customer Servicing,Product Enquiry
+ENQ100392,CUST14542,Anna Mccall,Healthcare,HEA-176,In-Person,2025-05-01,65.44,Closed Without Resolution,AGT414,4,4,West,Process,Customer Servicing,Product Enquiry
+ENQ100393,CUST11288,Mary Hansen,Electronics,ELE-911,Phone,2025-04-08,44.03,Closed Without Resolution,AGT543,3,10,North,Process,Customer Servicing,Product Enquiry
+ENQ100394,CUST19432,Ryan Preston,Sports,SPO-660,Chatbot,2024-11-18,69.69,Closed Without Resolution,AGT569,2,2,Central,Process,Customer Servicing,Product Enquiry
+ENQ100395,CUST10584,Gregory Mitchell,Healthcare,HEA-780,In-Person,2025-04-13,58.87,Escalated,AGT770,2,3,South,Process,Customer Servicing,Product Enquiry
+ENQ100396,CUST14659,Evan Maynard,Healthcare,HEA-559,Web Portal,2025-07-26,14.58,Escalated,AGT680,5,9,Central,Process,Customer Servicing,Product Enquiry
+ENQ100397,CUST14904,Alexis Simpson,Electronics,ELE-347,In-Person,2025-09-14,16.7,Resolved,AGT244,4,10,South,Process,Customer Servicing,Product Enquiry
+ENQ100398,CUST10667,Angela Taylor,Electronics,ELE-922,Email,2025-08-18,1.09,Closed Without Resolution,AGT979,5,5,North,Process,Customer Servicing,Product Enquiry
+ENQ100399,CUST16652,Beverly Kim DDS,Electronics,ELE-316,In-Person,2024-11-01,32.66,Closed Without Resolution,AGT325,4,5,Central,Process,Customer Servicing,Product Enquiry
+ENQ100400,CUST15632,Kenneth Daniel,Healthcare,HEA-684,Web Portal,2024-11-07,35.88,Pending,AGT816,2,9,West,Process,Customer Servicing,Product Enquiry
+ENQ100401,CUST14959,Chad Gray,Appliances,APP-818,Phone,2025-05-27,25.17,Pending,AGT401,4,10,West,Process,Customer Servicing,Product Enquiry
+ENQ100402,CUST12100,Carlos Farley,Healthcare,HEA-749,Chatbot,2025-01-12,23.23,Escalated,AGT692,1,3,East,Process,Customer Servicing,Product Enquiry
+ENQ100403,CUST12786,Sean Weaver,Automobile,AUT-268,Web Portal,2025-09-19,10.3,Resolved,AGT340,2,10,Central,Process,Customer Servicing,Product Enquiry
+ENQ100404,CUST13321,David Rogers,Sports,SPO-163,Chatbot,2025-06-19,61.79,Escalated,AGT977,1,2,West,Process,Customer Servicing,Product Enquiry
+ENQ100405,CUST10645,Alicia Torres,Furniture,FUR-786,Chatbot,2025-08-08,25.35,Escalated,AGT100,5,1,Central,Process,Customer Servicing,Product Enquiry
+ENQ100406,CUST12861,Justin Howard,Electronics,ELE-604,Web Portal,2025-09-02,47.7,Pending,AGT168,5,4,North,Process,Customer Servicing,Product Enquiry
+ENQ100407,CUST15657,Kimberly Fisher,Appliances,APP-395,Email,2025-03-26,20.77,Resolved,AGT890,1,2,West,Process,Customer Servicing,Product Enquiry
+ENQ100408,CUST15142,William Owens,Automobile,AUT-306,Web Portal,2025-01-22,62.36,Closed Without Resolution,AGT214,2,5,North,Process,Customer Servicing,Product Enquiry
+ENQ100409,CUST16504,Danielle Houston,Appliances,APP-415,Email,2025-01-04,38.95,Closed Without Resolution,AGT361,2,3,West,Process,Customer Servicing,Product Enquiry
+ENQ100410,CUST17710,Jennifer Taylor,Healthcare,HEA-921,In-Person,2025-07-27,21.76,Pending,AGT367,4,10,South,Process,Customer Servicing,Product Enquiry
+ENQ100411,CUST12704,Angelica Davis,Fashion,FAS-393,Chatbot,2024-10-26,60.98,Resolved,AGT262,4,10,North,Process,Customer Servicing,Product Enquiry
+ENQ100412,CUST18100,Jerry Griffin,Automobile,AUT-319,Web Portal,2024-10-20,21.37,Escalated,AGT696,3,1,North,Process,Customer Servicing,Product Enquiry
+ENQ100413,CUST18253,Leslie Butler,Furniture,FUR-808,Web Portal,2025-03-21,66.4,Closed Without Resolution,AGT201,2,9,North,Process,Customer Servicing,Product Enquiry
+ENQ100414,CUST18886,Tiffany Mason,Furniture,FUR-647,Web Portal,2025-05-12,55.65,Escalated,AGT643,4,9,Central,Process,Customer Servicing,Product Enquiry
+ENQ100415,CUST10771,Jacqueline Lewis,Electronics,ELE-478,Email,2025-03-17,15.36,Escalated,AGT784,5,8,East,Process,Customer Servicing,Product Enquiry
+ENQ100416,CUST19054,Mrs. Alicia Johnson,Automobile,AUT-193,Web Portal,2025-10-01,65.87,Pending,AGT927,1,9,East,Process,Customer Servicing,Product Enquiry
+ENQ100417,CUST17371,Erin Reese,Furniture,FUR-512,In-Person,2025-02-22,20.91,Closed Without Resolution,AGT218,3,10,West,Process,Customer Servicing,Product Enquiry
+ENQ100418,CUST11041,Jeffrey Rollins,Sports,SPO-208,Phone,2025-03-01,56.27,Pending,AGT625,4,6,East,Process,Customer Servicing,Product Enquiry
+ENQ100419,CUST12428,Sheena Hunt,Appliances,APP-313,Chatbot,2025-09-13,57.01,Resolved,AGT605,2,4,South,Process,Customer Servicing,Product Enquiry
+ENQ100420,CUST15820,Sharon Harrison,Sports,SPO-294,Web Portal,2024-12-28,51.28,Closed Without Resolution,AGT423,4,6,West,Process,Customer Servicing,Product Enquiry
+ENQ100421,CUST17710,Jacqueline Johnson,Fashion,FAS-308,Phone,2025-07-22,27.56,Closed Without Resolution,AGT667,1,2,East,Process,Customer Servicing,Product Enquiry
+ENQ100422,CUST10954,Frank Taylor,Fashion,FAS-117,Email,2025-06-19,38.0,Pending,AGT526,4,8,Central,Process,Customer Servicing,Product Enquiry
+ENQ100423,CUST16886,Paula Bush,Healthcare,HEA-320,Chatbot,2024-11-19,32.37,Resolved,AGT420,4,6,North,Process,Customer Servicing,Product Enquiry
+ENQ100424,CUST15360,Craig Welch,Appliances,APP-836,Phone,2025-06-05,63.56,Closed Without Resolution,AGT114,5,6,East,Process,Customer Servicing,Product Enquiry
+ENQ100425,CUST19717,Adam Cox,Automobile,AUT-428,Phone,2025-07-13,68.44,Closed Without Resolution,AGT671,3,3,East,Process,Customer Servicing,Product Enquiry
+ENQ100426,CUST19824,Sara Taylor,Furniture,FUR-785,Email,2025-04-29,50.0,Pending,AGT561,3,4,East,Process,Customer Servicing,Product Enquiry
+ENQ100427,CUST17690,Austin Thompson,Fashion,FAS-632,Phone,2025-03-18,15.37,Closed Without Resolution,AGT769,4,5,North,Process,Customer Servicing,Product Enquiry
+ENQ100428,CUST19189,Robert Jenkins,Furniture,FUR-244,Email,2025-08-29,65.27,Closed Without Resolution,AGT571,3,5,South,Process,Customer Servicing,Product Enquiry
+ENQ100429,CUST15422,Phillip Williams,Electronics,ELE-871,Phone,2024-10-16,65.31,Escalated,AGT229,3,10,South,Process,Customer Servicing,Product Enquiry
+ENQ100430,CUST17754,Benjamin Robbins,Appliances,APP-207,In-Person,2024-11-30,26.99,Resolved,AGT728,4,9,East,Process,Customer Servicing,Product Enquiry
+ENQ100431,CUST11224,David Ferguson,Electronics,ELE-290,Email,2025-05-22,14.35,Resolved,AGT759,5,2,North,Process,Customer Servicing,Product Enquiry
+ENQ100432,CUST10138,Samuel Carpenter,Fashion,FAS-219,Email,2024-11-24,68.86,Escalated,AGT789,4,7,South,Process,Customer Servicing,Product Enquiry
+ENQ100433,CUST18008,Amy Best,Appliances,APP-260,Email,2025-07-07,21.06,Closed Without Resolution,AGT586,5,3,West,Process,Customer Servicing,Product Enquiry
+ENQ100434,CUST13864,Angela Park,Automobile,AUT-797,Phone,2025-03-28,56.95,Escalated,AGT868,4,1,Central,Process,Customer Servicing,Product Enquiry
+ENQ100435,CUST16105,Chase Fuentes,Fashion,FAS-781,Email,2025-05-09,25.93,Resolved,AGT442,3,10,North,Process,Customer Servicing,Product Enquiry
+ENQ100436,CUST14884,Eric Rhodes,Electronics,ELE-516,In-Person,2025-08-07,70.53,Closed Without Resolution,AGT876,1,9,West,Process,Customer Servicing,Product Enquiry
+ENQ100437,CUST17424,William Hancock,Healthcare,HEA-610,In-Person,2025-02-26,25.0,Resolved,AGT519,4,2,West,Process,Customer Servicing,Product Enquiry
+ENQ100438,CUST13039,Debbie Whitaker,Electronics,ELE-847,Email,2024-12-23,16.23,Pending,AGT135,5,7,East,Process,Customer Servicing,Product Enquiry
+ENQ100439,CUST14143,Michael Richardson,Electronics,ELE-435,Chatbot,2025-01-21,56.05,Resolved,AGT488,4,10,Central,Process,Customer Servicing,Product Enquiry
+ENQ100440,CUST13653,Jesse Fry,Sports,SPO-652,In-Person,2025-08-29,17.92,Pending,AGT964,3,4,West,Process,Customer Servicing,Product Enquiry
+ENQ100441,CUST13330,Deborah Conrad,Appliances,APP-801,Chatbot,2025-05-22,22.9,Resolved,AGT956,2,7,South,Process,Customer Servicing,Product Enquiry
+ENQ100442,CUST19035,Michele Dillon,Furniture,FUR-483,Web Portal,2025-05-23,18.0,Pending,AGT620,2,1,South,Process,Customer Servicing,Product Enquiry
+ENQ100443,CUST10868,Amanda Peterson,Healthcare,HEA-912,Web Portal,2024-10-26,54.08,Closed Without Resolution,AGT906,1,5,Central,Process,Customer Servicing,Product Enquiry
+ENQ100444,CUST15579,Shelby Smith,Furniture,FUR-331,In-Person,2024-12-07,59.59,Pending,AGT894,2,4,Central,Process,Customer Servicing,Product Enquiry
+ENQ100445,CUST17124,Derrick Scott,Fashion,FAS-661,In-Person,2025-05-25,35.23,Resolved,AGT146,4,5,West,Process,Customer Servicing,Product Enquiry
+ENQ100446,CUST14342,Jill Young,Automobile,AUT-717,Phone,2024-12-21,5.5,Resolved,AGT294,1,7,East,Process,Customer Servicing,Product Enquiry
+ENQ100447,CUST10816,Stephanie Cook,Automobile,AUT-669,In-Person,2025-06-26,57.44,Pending,AGT798,5,6,North,Process,Customer Servicing,Product Enquiry
+ENQ100448,CUST14079,Hector Lewis,Appliances,APP-362,Phone,2025-09-05,60.2,Pending,AGT581,1,4,South,Process,Customer Servicing,Product Enquiry
+ENQ100449,CUST18826,Benjamin Cook,Furniture,FUR-215,Chatbot,2025-01-12,59.98,Pending,AGT402,5,3,North,Process,Customer Servicing,Product Enquiry
+ENQ100450,CUST14209,Kevin Barajas,Appliances,APP-538,Chatbot,2025-08-26,7.91,Pending,AGT281,5,7,Central,Process,Customer Servicing,Product Enquiry
+ENQ100451,CUST10518,David Anderson,Fashion,FAS-557,Web Portal,2025-05-01,30.85,Closed Without Resolution,AGT552,5,3,East,Process,Customer Servicing,Product Enquiry
+ENQ100452,CUST10885,Samantha Howell,Furniture,FUR-706,Chatbot,2024-12-11,10.96,Escalated,AGT212,2,1,East,Process,Customer Servicing,Product Enquiry
+ENQ100453,CUST13460,Rebecca Reyes,Automobile,AUT-211,Chatbot,2024-10-25,52.1,Resolved,AGT547,5,7,South,Process,Customer Servicing,Product Enquiry
+ENQ100454,CUST13500,Nicholas Alexander,Electronics,ELE-943,Phone,2024-11-16,62.08,Pending,AGT958,4,9,East,Process,Customer Servicing,Product Enquiry
+ENQ100455,CUST14159,Kristy Hunt,Appliances,APP-915,Chatbot,2024-11-24,29.89,Closed Without Resolution,AGT775,2,1,Central,Process,Customer Servicing,Product Enquiry
+ENQ100456,CUST15024,Andrew Pacheco,Sports,SPO-848,Chatbot,2025-07-31,13.08,Escalated,AGT932,3,7,East,Process,Customer Servicing,Product Enquiry
+ENQ100457,CUST19802,Bryan Silva,Electronics,ELE-963,Email,2025-08-14,55.92,Pending,AGT689,3,7,Central,Process,Customer Servicing,Product Enquiry
+ENQ100458,CUST17106,Dylan Miller,Fashion,FAS-563,In-Person,2025-02-07,39.54,Escalated,AGT143,5,4,East,Process,Customer Servicing,Product Enquiry
+ENQ100459,CUST19531,Elizabeth Sharp,Healthcare,HEA-733,Web Portal,2025-02-07,0.76,Resolved,AGT447,5,2,North,Process,Customer Servicing,Product Enquiry
+ENQ100460,CUST16143,Jeremy Davidson,Sports,SPO-121,Email,2024-12-16,23.73,Pending,AGT392,5,6,East,Process,Customer Servicing,Product Enquiry
+ENQ100461,CUST17281,Amy Williams,Furniture,FUR-796,In-Person,2024-12-06,49.36,Pending,AGT189,2,10,Central,Process,Customer Servicing,Product Enquiry
+ENQ100462,CUST14793,Kenneth Herrera,Healthcare,HEA-149,Phone,2024-10-26,47.95,Escalated,AGT238,3,4,East,Process,Customer Servicing,Product Enquiry
+ENQ100463,CUST17962,Don Baker,Sports,SPO-271,Web Portal,2025-07-09,36.64,Resolved,AGT970,3,3,East,Process,Customer Servicing,Product Enquiry
+ENQ100464,CUST15244,Albert Villegas,Sports,SPO-866,Web Portal,2025-09-19,70.09,Closed Without Resolution,AGT477,5,6,Central,Process,Customer Servicing,Product Enquiry
+ENQ100465,CUST10230,Savannah Boyd,Fashion,FAS-861,Web Portal,2025-06-21,56.5,Resolved,AGT604,5,2,East,Process,Customer Servicing,Product Enquiry
+ENQ100466,CUST18425,Rachel George,Fashion,FAS-238,Phone,2025-08-10,57.73,Escalated,AGT148,2,8,South,Process,Customer Servicing,Product Enquiry
+ENQ100467,CUST13494,Zachary Randall,Automobile,AUT-958,Web Portal,2025-01-30,15.57,Escalated,AGT108,2,3,East,Process,Customer Servicing,Product Enquiry
+ENQ100468,CUST10604,Jeffrey Lawson,Electronics,ELE-238,Chatbot,2025-05-18,3.18,Escalated,AGT797,2,10,Central,Process,Customer Servicing,Product Enquiry
+ENQ100469,CUST11992,Mrs. Cassandra Jones,Appliances,APP-863,Web Portal,2025-04-28,48.55,Closed Without Resolution,AGT772,2,1,South,Process,Customer Servicing,Product Enquiry
+ENQ100470,CUST13022,Clinton Holmes,Electronics,ELE-316,Email,2025-03-27,4.75,Resolved,AGT811,3,2,South,Process,Customer Servicing,Product Enquiry
+ENQ100471,CUST18398,Margaret Pacheco,Healthcare,HEA-792,In-Person,2025-04-19,41.89,Closed Without Resolution,AGT485,2,4,Central,Process,Customer Servicing,Product Enquiry
+ENQ100472,CUST11584,Krystal Keith,Furniture,FUR-655,Web Portal,2025-04-01,52.91,Pending,AGT577,4,6,East,Process,Customer Servicing,Product Enquiry
+ENQ100473,CUST13352,Jennifer Kelly,Healthcare,HEA-730,Web Portal,2025-05-09,62.22,Resolved,AGT595,5,10,West,Process,Customer Servicing,Product Enquiry
+ENQ100474,CUST16727,Christine Ochoa,Furniture,FUR-734,Phone,2024-11-22,7.27,Closed Without Resolution,AGT537,2,9,Central,Process,Customer Servicing,Product Enquiry
+ENQ100475,CUST12528,Bryan Jones,Fashion,FAS-559,Email,2025-09-01,70.02,Pending,AGT484,1,3,Central,Process,Customer Servicing,Product Enquiry
+ENQ100476,CUST13826,Teresa Smith,Fashion,FAS-262,In-Person,2024-11-08,54.47,Closed Without Resolution,AGT694,1,5,South,Process,Customer Servicing,Product Enquiry
+ENQ100477,CUST11957,Paul Maxwell,Fashion,FAS-614,Web Portal,2025-05-01,35.81,Closed Without Resolution,AGT900,2,9,North,Process,Customer Servicing,Product Enquiry
+ENQ100478,CUST11200,Kathryn Smith,Healthcare,HEA-658,In-Person,2025-05-14,5.79,Pending,AGT546,4,10,North,Process,Customer Servicing,Product Enquiry
+ENQ100479,CUST13090,Catherine Berg,Appliances,APP-789,Chatbot,2025-06-14,48.26,Escalated,AGT566,1,8,West,Process,Customer Servicing,Product Enquiry
+ENQ100480,CUST11240,April Evans,Appliances,APP-463,In-Person,2025-07-10,18.63,Pending,AGT989,3,7,North,Process,Customer Servicing,Product Enquiry
+ENQ100481,CUST10548,Michelle Little,Fashion,FAS-734,Chatbot,2025-08-23,57.85,Pending,AGT123,4,1,East,Process,Customer Servicing,Product Enquiry
+ENQ100482,CUST10690,Marissa Palmer,Fashion,FAS-852,Phone,2025-02-11,28.87,Closed Without Resolution,AGT179,1,10,South,Process,Customer Servicing,Product Enquiry
+ENQ100483,CUST17573,Jacob Coleman,Appliances,APP-733,Chatbot,2025-09-20,15.54,Escalated,AGT544,4,5,Central,Process,Customer Servicing,Product Enquiry
+ENQ100484,CUST11905,Amber Long,Appliances,APP-363,Chatbot,2025-06-21,47.27,Pending,AGT273,3,4,West,Process,Customer Servicing,Product Enquiry
+ENQ100485,CUST16465,Daniel Brown,Electronics,ELE-825,In-Person,2025-10-14,64.21,Escalated,AGT159,4,8,North,Process,Customer Servicing,Product Enquiry
+ENQ100486,CUST14917,Michael Brooks,Appliances,APP-312,In-Person,2025-08-29,47.23,Resolved,AGT705,2,5,West,Process,Customer Servicing,Product Enquiry
+ENQ100487,CUST19372,Amy Mays,Healthcare,HEA-467,Email,2024-12-18,48.79,Escalated,AGT643,3,4,West,Process,Customer Servicing,Product Enquiry
+ENQ100488,CUST16763,Karen Ferguson,Sports,SPO-514,Email,2025-06-03,47.05,Escalated,AGT512,4,7,North,Process,Customer Servicing,Product Enquiry
+ENQ100489,CUST17254,Ryan Estrada,Appliances,APP-354,Phone,2025-08-05,69.82,Pending,AGT950,1,6,West,Process,Customer Servicing,Product Enquiry
+ENQ100490,CUST13788,Randall Coleman,Healthcare,HEA-799,In-Person,2024-12-13,38.88,Closed Without Resolution,AGT593,5,4,West,Process,Customer Servicing,Product Enquiry
+ENQ100491,CUST13822,Teresa Clark,Furniture,FUR-275,Chatbot,2025-08-13,62.39,Resolved,AGT849,3,2,West,Process,Customer Servicing,Product Enquiry
+ENQ100492,CUST18961,Troy Mckee,Fashion,FAS-183,In-Person,2025-05-27,36.33,Closed Without Resolution,AGT585,1,6,East,Process,Customer Servicing,Product Enquiry
+ENQ100493,CUST13240,Scott Hamilton,Appliances,APP-741,Chatbot,2024-11-29,16.89,Resolved,AGT681,3,3,North,Process,Customer Servicing,Product Enquiry
+ENQ100494,CUST15523,Melissa Walker,Healthcare,HEA-946,In-Person,2025-03-15,55.85,Escalated,AGT641,1,2,South,Process,Customer Servicing,Product Enquiry
+ENQ100495,CUST13735,Chelsea Shaffer,Furniture,FUR-333,Email,2025-01-16,28.81,Pending,AGT572,5,8,West,Process,Customer Servicing,Product Enquiry
+ENQ100496,CUST18137,William Hart,Appliances,APP-989,Phone,2025-01-29,18.14,Closed Without Resolution,AGT362,2,1,West,Process,Customer Servicing,Product Enquiry
+ENQ100497,CUST19261,Matthew Black,Healthcare,HEA-111,Chatbot,2025-07-07,19.8,Resolved,AGT610,1,6,South,Process,Customer Servicing,Product Enquiry
+ENQ100498,CUST10948,Mrs. Megan Frazier,Fashion,FAS-575,Web Portal,2025-07-11,39.57,Resolved,AGT301,3,6,North,Process,Customer Servicing,Product Enquiry
+ENQ100499,CUST14744,Lisa Edwards,Healthcare,HEA-394,In-Person,2025-05-27,10.49,Resolved,AGT300,4,1,Central,Process,Customer Servicing,Product Enquiry

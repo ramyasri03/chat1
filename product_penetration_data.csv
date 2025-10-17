@@ -1,0 +1,501 @@
+product_id,product_name,category,launch_date,region,total_market_size,product_sales,market_share_percent,distribution_channel,penetration_strategy,competitor_presence_level,growth_trend,advertising_spend_usd,customer_acquisition_cost_usd,repeat_purchase_rate_percent,sales_growth_percent,value_domain,data_segment,data_domain
+PROD2000,HEA-927,Healthcare,2024-04-25,South,26249,3971,15.13,Direct Sales,Pricing Strategy,Medium,Positive,462513.64,875.5,29.29,47.88,Process,Product Management,Product Penetration
+PROD2001,ELE-336,Electronics,2024-03-22,South,567287,185902,32.77,Wholesale,Product Diversification,High,Positive,428677.42,1982.11,16.55,0.37,Process,Product Management,Product Penetration
+PROD2002,AUT-767,Automobile,2021-03-02,East,14817,3538,23.88,Online,Pricing Strategy,Low,Stable,322455.66,2020.77,40.04,12.05,Process,Product Management,Product Penetration
+PROD2003,HEA-152,Healthcare,2023-10-12,North,363845,29900,8.22,Franchise,Brand Promotion,High,Negative,447483.21,3947.32,4.1,14.44,Process,Product Management,Product Penetration
+PROD2004,APP-552,Appliances,2021-05-08,South,404754,42373,10.47,Online,Product Diversification,Low,Negative,263114.8,1380.12,34.79,26.05,Process,Product Management,Product Penetration
+PROD2005,FUR-224,Furniture,2023-12-27,North,374194,12203,3.26,Direct Sales,Market Expansion,High,Negative,154591.03,2697.5,20.88,-5.83,Process,Product Management,Product Penetration
+PROD2006,AUT-251,Automobile,2023-09-13,East,153477,66529,43.35,Direct Sales,Pricing Strategy,Medium,Stable,298471.35,2919.34,27.77,12.86,Process,Product Management,Product Penetration
+PROD2007,SPO-734,Sports,2022-12-10,North,464687,191212,41.15,Wholesale,Market Expansion,High,Stable,453800.3,3966.84,31.1,17.42,Process,Product Management,Product Penetration
+PROD2008,ELE-848,Electronics,2024-11-26,South,128262,23751,18.52,Direct Sales,Brand Promotion,High,Negative,48858.25,3716.67,19.6,50.34,Process,Product Management,Product Penetration
+PROD2009,HEA-515,Healthcare,2021-07-31,East,364492,180495,49.52,Wholesale,Pricing Strategy,Low,Positive,329774.94,3881.46,41.02,49.34,Process,Product Management,Product Penetration
+PROD2010,HEA-377,Healthcare,2021-05-14,South,802570,163758,20.4,Online,Market Expansion,Medium,Stable,183749.05,262.71,38.32,22.92,Process,Product Management,Product Penetration
+PROD2011,APP-442,Appliances,2024-01-24,Central,932892,283898,30.43,Retail,Product Diversification,High,Positive,391698.01,1443.33,10.73,21.2,Process,Product Management,Product Penetration
+PROD2012,SPO-768,Sports,2023-03-03,West,553867,191969,34.66,Direct Sales,Pricing Strategy,Medium,Stable,170355.49,3512.35,42.89,2.92,Process,Product Management,Product Penetration
+PROD2013,HEA-740,Healthcare,2024-06-04,East,404203,52543,13.0,Franchise,Product Diversification,Medium,Positive,129545.14,3635.37,47.04,6.29,Process,Product Management,Product Penetration
+PROD2014,SPO-917,Sports,2021-02-04,South,402988,69646,17.28,Direct Sales,Partnership,Low,Stable,413282.78,1187.71,8.26,49.37,Process,Product Management,Product Penetration
+PROD2015,FUR-455,Furniture,2021-04-01,Central,904197,160791,17.78,Retail,Brand Promotion,High,Negative,385112.86,4746.03,31.8,29.31,Process,Product Management,Product Penetration
+PROD2016,APP-291,Appliances,2021-10-06,Central,846066,194328,22.97,Direct Sales,Market Expansion,Medium,Negative,340591.78,4155.55,6.57,25.31,Process,Product Management,Product Penetration
+PROD2017,SPO-435,Sports,2024-09-14,West,755670,367771,48.67,Online,Brand Promotion,Medium,Stable,226210.83,1644.09,9.03,-0.17,Process,Product Management,Product Penetration
+PROD2018,FUR-653,Furniture,2025-07-10,Central,796807,363232,45.59,Retail,Pricing Strategy,Low,Negative,168896.98,4628.03,1.08,28.68,Process,Product Management,Product Penetration
+PROD2019,FAS-965,Fashion,2025-05-22,North,189864,35139,18.51,Franchise,Partnership,Low,Negative,233964.21,4658.61,24.05,0.72,Process,Product Management,Product Penetration
+PROD2020,FAS-288,Fashion,2021-05-03,East,975397,246260,25.25,Direct Sales,Product Diversification,High,Negative,303651.93,1249.6,13.04,-2.41,Process,Product Management,Product Penetration
+PROD2021,HEA-336,Healthcare,2021-12-04,South,997515,96643,9.69,Wholesale,Partnership,Medium,Stable,231685.06,4337.45,2.97,3.45,Process,Product Management,Product Penetration
+PROD2022,HEA-222,Healthcare,2025-03-07,West,768639,307873,40.05,Direct Sales,Pricing Strategy,High,Positive,489882.52,3044.85,43.32,5.23,Process,Product Management,Product Penetration
+PROD2023,AUT-838,Automobile,2025-07-30,West,154683,54227,35.06,Wholesale,Pricing Strategy,High,Stable,182197.33,1723.28,19.54,29.92,Process,Product Management,Product Penetration
+PROD2024,FAS-222,Fashion,2023-01-10,South,386797,141666,36.63,Wholesale,Market Expansion,Low,Negative,150502.75,2272.95,20.79,42.7,Process,Product Management,Product Penetration
+PROD2025,HEA-728,Healthcare,2025-02-18,East,574720,10200,1.77,Wholesale,Product Diversification,Medium,Negative,295351.74,657.41,35.34,-8.69,Process,Product Management,Product Penetration
+PROD2026,SPO-424,Sports,2024-04-07,East,362266,79348,21.9,Direct Sales,Product Diversification,High,Negative,365044.13,3408.49,26.42,59.27,Process,Product Management,Product Penetration
+PROD2027,FAS-705,Fashion,2021-01-13,East,389469,155614,39.96,Wholesale,Brand Promotion,Low,Negative,68667.73,1797.04,9.61,-7.82,Process,Product Management,Product Penetration
+PROD2028,ELE-157,Electronics,2025-03-12,East,772560,129847,16.81,Direct Sales,Market Expansion,High,Stable,150427.57,4047.0,34.54,49.27,Process,Product Management,Product Penetration
+PROD2029,AUT-873,Automobile,2025-07-03,Central,512237,125211,24.44,Retail,Brand Promotion,Low,Stable,123420.32,554.01,2.65,7.07,Process,Product Management,Product Penetration
+PROD2030,FAS-491,Fashion,2024-03-03,North,518542,123292,23.78,Direct Sales,Product Diversification,High,Stable,291321.24,3465.73,15.05,52.9,Process,Product Management,Product Penetration
+PROD2031,SPO-156,Sports,2024-05-01,South,521880,201355,38.58,Online,Product Diversification,High,Negative,432606.75,194.07,24.99,50.88,Process,Product Management,Product Penetration
+PROD2032,AUT-248,Automobile,2021-01-28,South,272609,107251,39.34,Direct Sales,Partnership,High,Stable,265611.38,1795.0,23.54,39.42,Process,Product Management,Product Penetration
+PROD2033,FAS-897,Fashion,2021-10-19,North,271632,61928,22.8,Retail,Pricing Strategy,Low,Stable,464500.27,520.26,2.17,43.47,Process,Product Management,Product Penetration
+PROD2034,APP-630,Appliances,2021-01-26,North,813712,195730,24.05,Direct Sales,Brand Promotion,High,Positive,291481.94,1699.32,38.47,-1.93,Process,Product Management,Product Penetration
+PROD2035,ELE-764,Electronics,2024-02-22,South,463582,45921,9.91,Wholesale,Brand Promotion,Medium,Stable,473280.07,2932.94,12.2,-2.57,Process,Product Management,Product Penetration
+PROD2036,FAS-549,Fashion,2020-12-06,Central,272227,118243,43.44,Wholesale,Product Diversification,High,Stable,10496.65,4733.45,41.62,-7.43,Process,Product Management,Product Penetration
+PROD2037,HEA-627,Healthcare,2023-02-08,Central,335790,65905,19.63,Direct Sales,Pricing Strategy,Low,Positive,252359.38,2918.66,36.36,-6.11,Process,Product Management,Product Penetration
+PROD2038,FAS-933,Fashion,2022-02-09,Central,714431,186272,26.07,Franchise,Market Expansion,Low,Positive,436747.88,133.74,4.65,51.47,Process,Product Management,Product Penetration
+PROD2039,APP-948,Appliances,2021-04-28,East,112954,40083,35.49,Wholesale,Partnership,High,Stable,193808.01,1712.72,36.51,33.95,Process,Product Management,Product Penetration
+PROD2040,APP-711,Appliances,2022-12-11,East,844287,75107,8.9,Online,Product Diversification,High,Positive,67074.39,3803.48,44.5,56.16,Process,Product Management,Product Penetration
+PROD2041,FAS-241,Fashion,2022-03-20,East,246490,59257,24.04,Online,Product Diversification,Low,Positive,409114.1,1859.32,21.06,55.28,Process,Product Management,Product Penetration
+PROD2042,HEA-840,Healthcare,2025-08-27,West,879532,410500,46.67,Direct Sales,Partnership,Medium,Positive,418177.92,2608.83,31.65,-3.03,Process,Product Management,Product Penetration
+PROD2043,APP-869,Appliances,2020-10-27,East,485209,121472,25.03,Direct Sales,Brand Promotion,High,Positive,401200.32,1716.4,13.82,-9.13,Process,Product Management,Product Penetration
+PROD2044,HEA-798,Healthcare,2023-02-11,South,61420,11823,19.25,Franchise,Product Diversification,High,Negative,15844.74,4289.41,37.52,10.41,Process,Product Management,Product Penetration
+PROD2045,SPO-280,Sports,2022-05-08,West,133199,27727,20.82,Franchise,Brand Promotion,Low,Stable,355036.45,2807.68,7.31,44.11,Process,Product Management,Product Penetration
+PROD2046,APP-766,Appliances,2025-02-03,East,912812,268339,29.4,Retail,Market Expansion,Low,Negative,376703.79,3349.57,48.83,0.55,Process,Product Management,Product Penetration
+PROD2047,ELE-438,Electronics,2024-02-07,Central,42846,10139,23.66,Online,Pricing Strategy,High,Negative,179273.44,2919.22,11.0,3.27,Process,Product Management,Product Penetration
+PROD2048,APP-616,Appliances,2021-09-20,East,319532,128071,40.08,Online,Market Expansion,High,Positive,192894.16,3456.24,13.99,10.03,Process,Product Management,Product Penetration
+PROD2049,AUT-887,Automobile,2024-07-01,South,152347,19086,12.53,Online,Partnership,Low,Stable,316076.67,3825.68,49.06,9.16,Process,Product Management,Product Penetration
+PROD2050,ELE-432,Electronics,2022-12-29,North,628709,280883,44.68,Online,Product Diversification,Low,Positive,435270.69,1128.12,42.68,30.0,Process,Product Management,Product Penetration
+PROD2051,SPO-773,Sports,2023-03-31,West,333177,149715,44.94,Retail,Partnership,High,Negative,176244.56,964.87,3.39,23.09,Process,Product Management,Product Penetration
+PROD2052,FUR-509,Furniture,2021-08-09,East,683730,35363,5.17,Franchise,Product Diversification,High,Stable,17991.26,965.74,1.6,54.56,Process,Product Management,Product Penetration
+PROD2053,HEA-111,Healthcare,2024-06-14,East,719093,35568,4.95,Franchise,Market Expansion,Low,Stable,291133.48,2319.32,30.11,26.46,Process,Product Management,Product Penetration
+PROD2054,FUR-460,Furniture,2020-12-29,East,803024,207651,25.86,Online,Market Expansion,Low,Stable,150444.32,1519.49,25.94,37.33,Process,Product Management,Product Penetration
+PROD2055,ELE-820,Electronics,2022-04-20,South,328215,109715,33.43,Franchise,Product Diversification,Low,Positive,246467.43,1675.13,14.75,4.06,Process,Product Management,Product Penetration
+PROD2056,APP-257,Appliances,2023-09-26,Central,371932,179254,48.2,Franchise,Market Expansion,Low,Positive,441329.66,4442.45,8.67,19.71,Process,Product Management,Product Penetration
+PROD2057,FAS-234,Fashion,2022-06-18,West,38053,17025,44.74,Retail,Brand Promotion,Low,Positive,432752.87,4342.26,15.85,6.36,Process,Product Management,Product Penetration
+PROD2058,AUT-614,Automobile,2025-03-31,West,332313,15708,4.73,Wholesale,Partnership,Low,Negative,193591.23,4292.47,33.48,49.06,Process,Product Management,Product Penetration
+PROD2059,FUR-373,Furniture,2024-02-19,South,233636,11479,4.91,Franchise,Brand Promotion,Medium,Negative,136325.96,4443.95,9.68,-9.58,Process,Product Management,Product Penetration
+PROD2060,APP-605,Appliances,2021-08-09,North,728790,204724,28.09,Wholesale,Partnership,High,Stable,114025.93,1466.28,5.52,8.73,Process,Product Management,Product Penetration
+PROD2061,AUT-161,Automobile,2025-05-11,West,168546,62901,37.32,Online,Partnership,Medium,Negative,355344.11,2280.3,5.19,-9.73,Process,Product Management,Product Penetration
+PROD2062,FUR-548,Furniture,2021-04-19,North,53755,4705,8.75,Franchise,Product Diversification,Medium,Stable,163222.3,4477.6,14.47,7.82,Process,Product Management,Product Penetration
+PROD2063,ELE-463,Electronics,2021-01-07,South,501714,3852,0.77,Online,Pricing Strategy,Low,Positive,283477.74,2061.73,5.36,25.63,Process,Product Management,Product Penetration
+PROD2064,ELE-841,Electronics,2022-02-21,South,315534,109829,34.81,Wholesale,Product Diversification,Low,Positive,342242.26,3387.44,5.22,48.83,Process,Product Management,Product Penetration
+PROD2065,FUR-406,Furniture,2023-04-15,East,554719,249848,45.04,Retail,Market Expansion,Low,Negative,249965.08,1140.97,33.53,26.98,Process,Product Management,Product Penetration
+PROD2066,AUT-498,Automobile,2022-10-18,North,539393,67022,12.43,Retail,Product Diversification,High,Negative,133498.59,2615.73,47.9,53.74,Process,Product Management,Product Penetration
+PROD2067,FUR-481,Furniture,2022-03-29,South,669165,20487,3.06,Franchise,Partnership,Low,Stable,411091.9,1269.79,10.76,55.52,Process,Product Management,Product Penetration
+PROD2068,ELE-709,Electronics,2021-01-01,East,415370,168584,40.59,Franchise,Partnership,Medium,Stable,26607.68,3117.95,25.08,12.45,Process,Product Management,Product Penetration
+PROD2069,AUT-540,Automobile,2024-10-18,East,13694,4838,35.33,Wholesale,Pricing Strategy,Medium,Negative,333817.62,2507.75,15.88,18.93,Process,Product Management,Product Penetration
+PROD2070,FAS-570,Fashion,2024-11-01,Central,922504,356649,38.66,Wholesale,Brand Promotion,Medium,Negative,246551.2,4127.57,12.59,47.34,Process,Product Management,Product Penetration
+PROD2071,HEA-975,Healthcare,2023-09-01,South,790211,233300,29.52,Online,Pricing Strategy,Low,Negative,279665.0,4791.88,48.26,41.0,Process,Product Management,Product Penetration
+PROD2072,FAS-322,Fashion,2025-02-08,Central,24461,7980,32.62,Franchise,Product Diversification,Medium,Positive,344059.22,504.57,21.08,53.86,Process,Product Management,Product Penetration
+PROD2073,APP-210,Appliances,2023-02-17,West,74803,18766,25.09,Direct Sales,Partnership,Low,Stable,74835.48,4751.84,25.76,22.58,Process,Product Management,Product Penetration
+PROD2074,ELE-342,Electronics,2024-08-18,East,742101,197497,26.61,Franchise,Pricing Strategy,Medium,Stable,357227.1,3556.19,15.73,-9.98,Process,Product Management,Product Penetration
+PROD2075,APP-928,Appliances,2020-12-27,East,396002,86994,21.97,Online,Partnership,Low,Negative,75032.4,1452.12,48.81,8.1,Process,Product Management,Product Penetration
+PROD2076,APP-424,Appliances,2021-07-26,Central,189275,80025,42.28,Online,Pricing Strategy,High,Negative,66118.02,1646.86,4.41,7.07,Process,Product Management,Product Penetration
+PROD2077,FUR-638,Furniture,2022-11-26,West,915496,46730,5.1,Wholesale,Market Expansion,Low,Negative,76217.66,4322.83,20.49,54.01,Process,Product Management,Product Penetration
+PROD2078,ELE-636,Electronics,2024-05-08,South,117821,21403,18.17,Wholesale,Partnership,High,Positive,160854.51,3411.98,20.49,7.15,Process,Product Management,Product Penetration
+PROD2079,SPO-836,Sports,2022-01-08,East,88227,27270,30.91,Direct Sales,Brand Promotion,Low,Positive,478731.78,1318.06,6.72,26.95,Process,Product Management,Product Penetration
+PROD2080,FAS-217,Fashion,2025-10-16,East,946553,468292,49.47,Franchise,Brand Promotion,Medium,Negative,109112.83,4841.28,35.24,50.61,Process,Product Management,Product Penetration
+PROD2081,FUR-952,Furniture,2022-07-19,Central,267362,69605,26.03,Franchise,Partnership,High,Negative,367539.45,4865.27,20.09,58.73,Process,Product Management,Product Penetration
+PROD2082,AUT-627,Automobile,2025-09-20,Central,956658,93802,9.81,Franchise,Partnership,Medium,Positive,332445.11,3527.57,48.33,23.62,Process,Product Management,Product Penetration
+PROD2083,AUT-236,Automobile,2024-10-24,East,360996,146638,40.62,Franchise,Partnership,High,Stable,21743.36,1197.5,27.03,29.97,Process,Product Management,Product Penetration
+PROD2084,ELE-250,Electronics,2024-07-07,North,412818,71715,17.37,Wholesale,Pricing Strategy,Low,Stable,204439.02,3054.61,19.44,55.8,Process,Product Management,Product Penetration
+PROD2085,FAS-182,Fashion,2024-05-07,West,961564,149154,15.51,Retail,Market Expansion,Medium,Negative,449341.63,537.59,16.87,0.6,Process,Product Management,Product Penetration
+PROD2086,FUR-642,Furniture,2024-02-24,North,172902,29520,17.07,Online,Market Expansion,Medium,Positive,359031.61,2251.53,46.06,45.16,Process,Product Management,Product Penetration
+PROD2087,AUT-206,Automobile,2022-10-26,East,348187,38765,11.13,Retail,Brand Promotion,High,Negative,106662.95,1534.29,12.18,45.55,Process,Product Management,Product Penetration
+PROD2088,APP-950,Appliances,2021-03-12,West,655785,72549,11.06,Franchise,Pricing Strategy,Low,Stable,387973.93,636.14,7.11,-5.98,Process,Product Management,Product Penetration
+PROD2089,AUT-242,Automobile,2023-04-20,East,864997,328224,37.95,Retail,Partnership,Medium,Negative,386007.46,1363.46,33.4,54.78,Process,Product Management,Product Penetration
+PROD2090,ELE-541,Electronics,2025-04-18,West,380697,39779,10.45,Direct Sales,Brand Promotion,High,Negative,171453.48,968.6,22.58,30.32,Process,Product Management,Product Penetration
+PROD2091,FAS-442,Fashion,2024-04-12,East,497309,41088,8.26,Franchise,Market Expansion,High,Stable,279348.37,1906.53,39.92,8.46,Process,Product Management,Product Penetration
+PROD2092,FAS-455,Fashion,2024-12-09,Central,413945,131884,31.86,Direct Sales,Market Expansion,Medium,Negative,452776.8,1956.35,26.42,36.55,Process,Product Management,Product Penetration
+PROD2093,APP-646,Appliances,2024-02-20,South,750141,358808,47.83,Retail,Product Diversification,High,Negative,382307.35,4132.58,13.18,54.01,Process,Product Management,Product Penetration
+PROD2094,SPO-523,Sports,2023-09-19,Central,383927,108930,28.37,Direct Sales,Pricing Strategy,High,Positive,287168.78,2507.95,30.79,-9.72,Process,Product Management,Product Penetration
+PROD2095,FUR-317,Furniture,2022-10-04,West,387500,142151,36.68,Franchise,Brand Promotion,High,Stable,418960.23,1738.05,5.12,14.98,Process,Product Management,Product Penetration
+PROD2096,FUR-203,Furniture,2020-12-21,North,499426,25464,5.1,Franchise,Partnership,Low,Stable,357921.9,4924.23,4.66,6.61,Process,Product Management,Product Penetration
+PROD2097,APP-149,Appliances,2024-11-02,Central,29653,7781,26.24,Retail,Pricing Strategy,Medium,Positive,97950.44,1555.05,41.69,-6.97,Process,Product Management,Product Penetration
+PROD2098,APP-886,Appliances,2023-04-06,South,147920,72064,48.72,Online,Pricing Strategy,High,Positive,105629.89,1076.89,11.91,8.88,Process,Product Management,Product Penetration
+PROD2099,ELE-777,Electronics,2021-04-15,Central,766920,247553,32.28,Wholesale,Product Diversification,Low,Positive,305821.43,142.18,9.17,58.46,Process,Product Management,Product Penetration
+PROD2100,AUT-504,Automobile,2023-01-31,East,75733,5580,7.37,Retail,Brand Promotion,High,Negative,186465.15,4952.12,20.26,24.05,Process,Product Management,Product Penetration
+PROD2101,HEA-913,Healthcare,2023-09-23,North,554221,124083,22.39,Franchise,Pricing Strategy,High,Stable,387270.1,1419.58,3.55,11.67,Process,Product Management,Product Penetration
+PROD2102,ELE-169,Electronics,2024-01-16,East,742021,234494,31.6,Direct Sales,Partnership,Medium,Stable,97534.7,782.03,18.86,46.07,Process,Product Management,Product Penetration
+PROD2103,SPO-144,Sports,2024-09-19,North,696830,185364,26.6,Online,Brand Promotion,High,Positive,272055.3,4162.13,4.02,37.43,Process,Product Management,Product Penetration
+PROD2104,FAS-159,Fashion,2021-10-18,Central,110794,42169,38.06,Online,Partnership,High,Negative,315504.81,4449.51,30.96,48.11,Process,Product Management,Product Penetration
+PROD2105,APP-301,Appliances,2023-02-11,West,845008,157460,18.63,Retail,Pricing Strategy,Low,Negative,76287.76,4279.26,6.16,10.61,Process,Product Management,Product Penetration
+PROD2106,FUR-638,Furniture,2023-05-31,Central,881348,315245,35.77,Franchise,Market Expansion,Low,Positive,388370.5,2113.95,9.72,29.0,Process,Product Management,Product Penetration
+PROD2107,APP-313,Appliances,2022-03-08,North,790444,76080,9.62,Direct Sales,Brand Promotion,Low,Negative,165187.66,1442.42,10.91,37.59,Process,Product Management,Product Penetration
+PROD2108,APP-198,Appliances,2025-09-20,West,706292,293341,41.53,Retail,Market Expansion,Low,Stable,91290.89,2504.57,10.16,54.66,Process,Product Management,Product Penetration
+PROD2109,ELE-118,Electronics,2023-10-07,South,950369,194113,20.43,Franchise,Partnership,Low,Positive,196456.16,1346.22,48.99,46.83,Process,Product Management,Product Penetration
+PROD2110,FUR-973,Furniture,2021-10-11,South,447237,41026,9.17,Direct Sales,Product Diversification,High,Stable,57233.93,3678.41,44.2,18.95,Process,Product Management,Product Penetration
+PROD2111,HEA-613,Healthcare,2025-04-27,South,815205,399094,48.96,Wholesale,Brand Promotion,Medium,Negative,364541.37,1434.94,33.96,-6.27,Process,Product Management,Product Penetration
+PROD2112,HEA-266,Healthcare,2021-08-28,East,170110,16500,9.7,Online,Brand Promotion,Low,Stable,94340.74,4164.19,27.9,-2.58,Process,Product Management,Product Penetration
+PROD2113,APP-359,Appliances,2022-05-04,East,750373,147925,19.71,Franchise,Brand Promotion,Low,Stable,109741.27,4603.66,17.78,37.3,Process,Product Management,Product Penetration
+PROD2114,FUR-764,Furniture,2025-01-27,West,347028,40146,11.57,Franchise,Partnership,High,Negative,67586.49,483.07,20.13,52.18,Process,Product Management,Product Penetration
+PROD2115,HEA-118,Healthcare,2022-08-18,South,899280,71845,7.99,Franchise,Pricing Strategy,Medium,Negative,470321.26,1458.81,18.57,17.75,Process,Product Management,Product Penetration
+PROD2116,AUT-367,Automobile,2025-01-04,Central,725319,340750,46.98,Retail,Brand Promotion,Medium,Positive,282021.41,3945.55,7.11,10.83,Process,Product Management,Product Penetration
+PROD2117,HEA-872,Healthcare,2021-03-30,East,950377,453997,47.77,Online,Partnership,Medium,Positive,320858.53,1043.52,45.78,-3.11,Process,Product Management,Product Penetration
+PROD2118,APP-596,Appliances,2021-11-10,West,490782,96036,19.57,Online,Product Diversification,High,Positive,320246.74,2909.24,25.18,20.2,Process,Product Management,Product Penetration
+PROD2119,APP-150,Appliances,2024-04-01,Central,60731,9592,15.79,Online,Brand Promotion,High,Negative,222737.53,1535.28,7.42,29.09,Process,Product Management,Product Penetration
+PROD2120,ELE-493,Electronics,2021-07-01,South,614601,66810,10.87,Retail,Partnership,High,Positive,467053.03,925.54,23.62,6.52,Process,Product Management,Product Penetration
+PROD2121,FAS-663,Fashion,2024-12-17,North,62576,10204,16.31,Wholesale,Market Expansion,Medium,Negative,467618.45,67.03,44.0,49.61,Process,Product Management,Product Penetration
+PROD2122,FAS-781,Fashion,2024-05-20,South,638546,52418,8.21,Retail,Brand Promotion,Low,Positive,359322.52,4365.97,23.07,48.2,Process,Product Management,Product Penetration
+PROD2123,HEA-392,Healthcare,2022-01-22,East,642574,211403,32.9,Franchise,Partnership,Low,Negative,418513.86,4724.09,24.63,0.61,Process,Product Management,Product Penetration
+PROD2124,FUR-972,Furniture,2023-11-15,East,75213,28896,38.42,Direct Sales,Partnership,Low,Stable,343396.78,3241.87,1.24,24.02,Process,Product Management,Product Penetration
+PROD2125,FUR-799,Furniture,2024-12-11,East,353422,144447,40.87,Retail,Market Expansion,Low,Negative,37353.43,1346.05,14.48,39.8,Process,Product Management,Product Penetration
+PROD2126,HEA-157,Healthcare,2023-02-12,Central,586184,287597,49.06,Wholesale,Partnership,Medium,Negative,51133.6,2275.27,10.19,26.46,Process,Product Management,Product Penetration
+PROD2127,FUR-710,Furniture,2023-01-20,Central,137857,53654,38.92,Online,Product Diversification,Low,Negative,198125.97,1694.39,41.75,50.14,Process,Product Management,Product Penetration
+PROD2128,SPO-859,Sports,2021-09-24,North,239980,15317,6.38,Online,Brand Promotion,Low,Positive,424694.5,676.2,9.65,56.06,Process,Product Management,Product Penetration
+PROD2129,FAS-917,Fashion,2022-06-16,Central,39244,6283,16.01,Franchise,Market Expansion,Medium,Stable,423331.03,395.28,12.89,-1.32,Process,Product Management,Product Penetration
+PROD2130,FUR-560,Furniture,2022-10-12,North,687352,104462,15.2,Direct Sales,Pricing Strategy,High,Stable,48021.53,4484.14,8.56,16.54,Process,Product Management,Product Penetration
+PROD2131,ELE-595,Electronics,2024-03-14,South,874856,299698,34.26,Online,Partnership,Medium,Stable,56817.58,2659.53,31.35,-1.73,Process,Product Management,Product Penetration
+PROD2132,APP-959,Appliances,2022-05-08,East,429813,115545,26.88,Direct Sales,Pricing Strategy,Low,Negative,131445.84,157.73,35.67,19.46,Process,Product Management,Product Penetration
+PROD2133,APP-440,Appliances,2025-03-24,East,799868,135483,16.94,Direct Sales,Brand Promotion,Medium,Stable,215146.43,4081.42,22.89,30.75,Process,Product Management,Product Penetration
+PROD2134,ELE-974,Electronics,2021-02-07,North,866189,255162,29.46,Online,Pricing Strategy,Medium,Stable,25376.19,3144.49,5.43,26.2,Process,Product Management,Product Penetration
+PROD2135,AUT-963,Automobile,2021-06-14,East,86056,10392,12.08,Franchise,Brand Promotion,Medium,Negative,34267.09,2429.15,13.95,34.3,Process,Product Management,Product Penetration
+PROD2136,SPO-923,Sports,2022-08-06,North,554401,204634,36.91,Retail,Pricing Strategy,Low,Negative,24672.07,2261.37,12.54,38.18,Process,Product Management,Product Penetration
+PROD2137,AUT-858,Automobile,2022-06-21,North,606431,27357,4.51,Online,Brand Promotion,Low,Positive,487129.54,3710.73,8.93,1.9,Process,Product Management,Product Penetration
+PROD2138,AUT-550,Automobile,2025-04-27,West,230597,24990,10.84,Retail,Pricing Strategy,Medium,Positive,63668.13,2347.59,19.0,-3.39,Process,Product Management,Product Penetration
+PROD2139,FAS-382,Fashion,2022-04-30,East,985573,449588,45.62,Franchise,Pricing Strategy,Low,Stable,177485.1,3765.04,32.12,56.51,Process,Product Management,Product Penetration
+PROD2140,AUT-373,Automobile,2024-01-22,South,116006,26720,23.03,Franchise,Partnership,Low,Positive,251682.44,4584.35,6.63,-6.86,Process,Product Management,Product Penetration
+PROD2141,FUR-985,Furniture,2025-03-06,West,901819,433346,48.05,Wholesale,Product Diversification,Medium,Stable,172988.97,1793.32,30.4,9.29,Process,Product Management,Product Penetration
+PROD2142,ELE-646,Electronics,2022-03-12,Central,430287,170326,39.58,Direct Sales,Brand Promotion,Low,Positive,37774.68,524.46,2.0,26.57,Process,Product Management,Product Penetration
+PROD2143,FUR-734,Furniture,2025-05-21,North,484992,31818,6.56,Wholesale,Product Diversification,High,Stable,55178.41,3210.77,40.44,37.17,Process,Product Management,Product Penetration
+PROD2144,ELE-347,Electronics,2020-10-16,North,345432,128713,37.26,Wholesale,Product Diversification,High,Stable,409593.11,4661.33,9.6,51.95,Process,Product Management,Product Penetration
+PROD2145,ELE-875,Electronics,2024-06-29,South,307808,149461,48.56,Retail,Market Expansion,Low,Positive,70287.8,2721.26,43.82,37.21,Process,Product Management,Product Penetration
+PROD2146,FUR-776,Furniture,2022-04-16,South,952909,366623,38.47,Franchise,Product Diversification,High,Stable,458266.62,947.03,14.69,15.84,Process,Product Management,Product Penetration
+PROD2147,ELE-133,Electronics,2025-04-20,West,72400,15411,21.29,Retail,Pricing Strategy,Medium,Negative,100167.31,2004.4,18.96,4.52,Process,Product Management,Product Penetration
+PROD2148,SPO-502,Sports,2025-06-13,Central,577893,59666,10.32,Franchise,Product Diversification,Medium,Stable,206460.22,1084.93,16.19,9.18,Process,Product Management,Product Penetration
+PROD2149,ELE-196,Electronics,2025-04-26,North,256297,62697,24.46,Direct Sales,Brand Promotion,Medium,Negative,468796.41,3697.99,22.19,-4.25,Process,Product Management,Product Penetration
+PROD2150,SPO-989,Sports,2025-03-20,South,739172,60729,8.22,Franchise,Pricing Strategy,Medium,Positive,13692.88,4674.03,43.03,25.23,Process,Product Management,Product Penetration
+PROD2151,HEA-325,Healthcare,2021-08-26,Central,444860,104681,23.53,Wholesale,Product Diversification,Low,Negative,416904.39,1492.89,14.26,7.33,Process,Product Management,Product Penetration
+PROD2152,APP-773,Appliances,2023-08-05,East,263113,114111,43.37,Retail,Pricing Strategy,High,Positive,19014.36,4068.82,41.8,41.82,Process,Product Management,Product Penetration
+PROD2153,AUT-708,Automobile,2023-09-20,West,618114,253355,40.99,Online,Pricing Strategy,Medium,Stable,100667.3,3284.9,31.71,32.06,Process,Product Management,Product Penetration
+PROD2154,APP-213,Appliances,2024-07-12,Central,563396,263993,46.86,Wholesale,Partnership,Low,Negative,404208.95,1934.33,2.22,45.51,Process,Product Management,Product Penetration
+PROD2155,APP-972,Appliances,2023-09-29,South,151445,63969,42.24,Online,Pricing Strategy,Medium,Stable,60836.49,1728.49,9.56,13.32,Process,Product Management,Product Penetration
+PROD2156,FUR-329,Furniture,2023-10-26,South,148361,72192,48.66,Retail,Pricing Strategy,Low,Positive,304908.7,937.57,19.35,47.06,Process,Product Management,Product Penetration
+PROD2157,ELE-667,Electronics,2021-04-23,East,579096,245041,42.31,Direct Sales,Pricing Strategy,High,Stable,363800.17,4917.49,13.43,21.1,Process,Product Management,Product Penetration
+PROD2158,FAS-905,Fashion,2025-01-13,West,804614,23545,2.93,Online,Partnership,High,Stable,31060.88,4494.6,39.06,45.74,Process,Product Management,Product Penetration
+PROD2159,HEA-665,Healthcare,2025-01-10,Central,365451,47442,12.98,Online,Pricing Strategy,High,Stable,435649.29,2488.73,4.03,-8.4,Process,Product Management,Product Penetration
+PROD2160,APP-997,Appliances,2021-06-14,Central,891096,343271,38.52,Online,Pricing Strategy,Low,Positive,139989.82,2233.64,25.24,10.71,Process,Product Management,Product Penetration
+PROD2161,SPO-728,Sports,2022-09-28,East,80201,30316,37.8,Direct Sales,Brand Promotion,Medium,Stable,27759.52,2345.5,49.08,42.67,Process,Product Management,Product Penetration
+PROD2162,APP-906,Appliances,2022-08-10,West,956218,133948,14.01,Wholesale,Market Expansion,Medium,Stable,135441.37,4182.29,33.83,2.73,Process,Product Management,Product Penetration
+PROD2163,SPO-259,Sports,2023-03-12,South,718269,196768,27.39,Direct Sales,Partnership,Medium,Negative,300728.01,2488.62,31.79,41.81,Process,Product Management,Product Penetration
+PROD2164,APP-594,Appliances,2025-07-09,East,985496,306793,31.13,Wholesale,Brand Promotion,High,Negative,242682.51,1174.73,3.96,10.43,Process,Product Management,Product Penetration
+PROD2165,SPO-155,Sports,2021-03-15,Central,721956,100296,13.89,Wholesale,Product Diversification,Low,Stable,168075.61,699.53,24.4,3.89,Process,Product Management,Product Penetration
+PROD2166,HEA-178,Healthcare,2023-12-19,South,818759,115855,14.15,Direct Sales,Pricing Strategy,Low,Positive,372763.86,2901.7,25.79,53.1,Process,Product Management,Product Penetration
+PROD2167,HEA-416,Healthcare,2022-09-27,South,345190,82455,23.89,Wholesale,Brand Promotion,High,Stable,62655.13,3770.05,15.69,31.02,Process,Product Management,Product Penetration
+PROD2168,SPO-464,Sports,2021-01-24,West,571589,157081,27.48,Retail,Product Diversification,Medium,Stable,164497.21,4341.22,4.65,1.67,Process,Product Management,Product Penetration
+PROD2169,FAS-940,Fashion,2023-06-09,North,796984,84816,10.64,Franchise,Partnership,High,Positive,281444.22,1476.02,35.09,30.1,Process,Product Management,Product Penetration
+PROD2170,AUT-893,Automobile,2021-12-11,South,580059,94976,16.37,Online,Market Expansion,Medium,Positive,226565.09,1943.84,21.93,43.96,Process,Product Management,Product Penetration
+PROD2171,HEA-447,Healthcare,2022-12-23,North,305752,3347,1.09,Wholesale,Product Diversification,High,Positive,363209.19,4194.65,47.8,58.15,Process,Product Management,Product Penetration
+PROD2172,APP-769,Appliances,2025-01-23,West,348873,77714,22.28,Direct Sales,Partnership,Medium,Negative,145039.37,1388.33,2.12,27.27,Process,Product Management,Product Penetration
+PROD2173,APP-320,Appliances,2023-09-18,South,660153,112073,16.98,Retail,Pricing Strategy,Medium,Positive,259618.37,4961.07,45.36,-3.22,Process,Product Management,Product Penetration
+PROD2174,FAS-945,Fashion,2021-09-24,Central,924228,412861,44.67,Direct Sales,Partnership,Low,Stable,195482.91,4833.0,41.39,36.46,Process,Product Management,Product Penetration
+PROD2175,AUT-811,Automobile,2021-04-19,West,41074,15906,38.73,Online,Partnership,Low,Positive,385205.83,1411.91,22.9,26.96,Process,Product Management,Product Penetration
+PROD2176,HEA-459,Healthcare,2021-03-19,South,454274,225719,49.69,Online,Product Diversification,Low,Stable,334387.87,2234.43,29.37,-0.74,Process,Product Management,Product Penetration
+PROD2177,FUR-529,Furniture,2025-04-01,Central,75761,22244,29.36,Retail,Pricing Strategy,Medium,Stable,154840.08,1469.24,12.19,28.46,Process,Product Management,Product Penetration
+PROD2178,APP-853,Appliances,2025-05-12,West,399353,36297,9.09,Franchise,Partnership,Medium,Positive,311023.0,439.15,49.84,-5.86,Process,Product Management,Product Penetration
+PROD2179,HEA-919,Healthcare,2025-09-09,South,580652,210717,36.29,Retail,Market Expansion,Medium,Positive,84662.92,4813.5,42.78,50.01,Process,Product Management,Product Penetration
+PROD2180,SPO-709,Sports,2022-11-14,West,768011,350118,45.59,Online,Partnership,Medium,Stable,297442.72,1707.44,6.1,25.74,Process,Product Management,Product Penetration
+PROD2181,AUT-205,Automobile,2025-06-20,West,352443,132083,37.48,Retail,Market Expansion,Low,Positive,215784.09,4094.64,22.61,33.39,Process,Product Management,Product Penetration
+PROD2182,FUR-482,Furniture,2022-02-17,East,856279,129936,15.17,Wholesale,Market Expansion,High,Stable,324400.63,183.74,23.17,14.41,Process,Product Management,Product Penetration
+PROD2183,SPO-507,Sports,2025-07-09,West,353724,70190,19.84,Wholesale,Product Diversification,Low,Positive,416814.92,3091.18,24.63,50.74,Process,Product Management,Product Penetration
+PROD2184,HEA-228,Healthcare,2024-11-01,East,620742,53441,8.61,Franchise,Product Diversification,Medium,Negative,428665.44,2348.25,28.03,38.68,Process,Product Management,Product Penetration
+PROD2185,ELE-794,Electronics,2025-02-07,Central,963319,459854,47.74,Direct Sales,Partnership,Medium,Negative,214789.06,3209.2,24.83,34.38,Process,Product Management,Product Penetration
+PROD2186,FAS-622,Fashion,2022-06-25,South,274393,52677,19.2,Retail,Product Diversification,Medium,Stable,264786.0,760.36,15.81,56.48,Process,Product Management,Product Penetration
+PROD2187,ELE-786,Electronics,2023-07-06,East,141657,15766,11.13,Franchise,Market Expansion,Medium,Negative,126322.32,1879.2,25.92,15.29,Process,Product Management,Product Penetration
+PROD2188,APP-437,Appliances,2023-03-25,Central,257798,36426,14.13,Wholesale,Partnership,Medium,Positive,29476.32,152.75,4.82,-5.73,Process,Product Management,Product Penetration
+PROD2189,SPO-124,Sports,2025-08-13,West,317062,88307,27.85,Online,Pricing Strategy,High,Positive,175555.64,4186.68,48.07,31.8,Process,Product Management,Product Penetration
+PROD2190,ELE-889,Electronics,2023-03-18,North,359174,16152,4.5,Wholesale,Product Diversification,High,Stable,187000.81,784.33,43.95,50.13,Process,Product Management,Product Penetration
+PROD2191,FAS-152,Fashion,2025-05-03,South,935885,129840,13.87,Direct Sales,Market Expansion,High,Stable,290853.81,627.82,10.77,29.3,Process,Product Management,Product Penetration
+PROD2192,FUR-285,Furniture,2021-04-02,East,372881,36016,9.66,Direct Sales,Pricing Strategy,Low,Positive,152546.02,1962.97,19.41,58.85,Process,Product Management,Product Penetration
+PROD2193,FUR-405,Furniture,2022-07-15,East,438584,88012,20.07,Wholesale,Brand Promotion,High,Negative,380314.52,4323.88,46.89,33.59,Process,Product Management,Product Penetration
+PROD2194,ELE-672,Electronics,2024-08-16,North,107050,11501,10.74,Retail,Pricing Strategy,High,Stable,74441.42,408.19,20.18,-1.39,Process,Product Management,Product Penetration
+PROD2195,FUR-766,Furniture,2024-12-22,Central,600564,105890,17.63,Direct Sales,Pricing Strategy,Medium,Stable,387300.6,2287.49,32.27,6.82,Process,Product Management,Product Penetration
+PROD2196,SPO-932,Sports,2024-07-27,Central,548641,228168,41.59,Franchise,Product Diversification,High,Positive,75012.62,764.68,2.81,11.78,Process,Product Management,Product Penetration
+PROD2197,FAS-232,Fashion,2022-10-05,South,623091,56927,9.14,Direct Sales,Market Expansion,Low,Positive,28696.98,4657.79,6.88,5.11,Process,Product Management,Product Penetration
+PROD2198,HEA-503,Healthcare,2025-06-25,East,718483,59723,8.31,Online,Pricing Strategy,Low,Negative,394997.38,804.75,2.42,8.77,Process,Product Management,Product Penetration
+PROD2199,SPO-213,Sports,2021-09-27,Central,314068,93563,29.79,Retail,Pricing Strategy,Low,Positive,93455.44,361.46,14.56,19.38,Process,Product Management,Product Penetration
+PROD2200,FAS-745,Fashion,2022-08-14,West,880363,355472,40.38,Wholesale,Market Expansion,High,Stable,120559.74,3485.61,5.87,-7.45,Process,Product Management,Product Penetration
+PROD2201,HEA-676,Healthcare,2025-07-25,South,194299,74518,38.35,Online,Product Diversification,Low,Positive,254922.6,2883.36,11.34,-1.36,Process,Product Management,Product Penetration
+PROD2202,HEA-791,Healthcare,2022-06-21,South,298751,108491,36.31,Direct Sales,Pricing Strategy,Medium,Negative,147171.82,1834.77,27.65,38.64,Process,Product Management,Product Penetration
+PROD2203,FAS-563,Fashion,2025-06-26,West,174279,39266,22.53,Wholesale,Partnership,Low,Positive,177796.3,4600.7,40.4,42.65,Process,Product Management,Product Penetration
+PROD2204,SPO-281,Sports,2021-01-04,West,603994,212131,35.12,Direct Sales,Partnership,High,Stable,194374.75,1193.57,27.7,4.17,Process,Product Management,Product Penetration
+PROD2205,HEA-713,Healthcare,2023-09-08,West,44885,16119,35.91,Online,Partnership,High,Negative,46412.68,2135.51,47.18,47.75,Process,Product Management,Product Penetration
+PROD2206,SPO-659,Sports,2022-01-04,North,362008,23366,6.45,Direct Sales,Partnership,High,Stable,93252.75,4388.35,8.25,32.31,Process,Product Management,Product Penetration
+PROD2207,FUR-641,Furniture,2024-03-15,South,351348,172926,49.22,Franchise,Pricing Strategy,Medium,Positive,255876.44,3658.33,39.55,45.9,Process,Product Management,Product Penetration
+PROD2208,FAS-510,Fashion,2025-03-12,North,434623,143722,33.07,Direct Sales,Product Diversification,Low,Negative,226047.46,2562.92,36.7,29.59,Process,Product Management,Product Penetration
+PROD2209,HEA-677,Healthcare,2022-08-06,West,891167,297190,33.35,Direct Sales,Market Expansion,High,Negative,435813.99,4395.06,34.09,57.36,Process,Product Management,Product Penetration
+PROD2210,AUT-613,Automobile,2023-10-18,Central,902220,398311,44.15,Retail,Market Expansion,Low,Stable,282397.88,943.64,29.42,6.93,Process,Product Management,Product Penetration
+PROD2211,FUR-670,Furniture,2024-05-14,South,470101,111892,23.8,Wholesale,Brand Promotion,Medium,Negative,408610.05,1032.88,39.86,17.57,Process,Product Management,Product Penetration
+PROD2212,APP-891,Appliances,2024-05-12,North,571561,252309,44.14,Online,Pricing Strategy,Low,Negative,269533.81,211.94,22.81,38.74,Process,Product Management,Product Penetration
+PROD2213,FUR-319,Furniture,2024-07-02,West,805837,77707,9.64,Online,Market Expansion,Medium,Negative,287679.32,3858.77,12.09,54.81,Process,Product Management,Product Penetration
+PROD2214,FUR-611,Furniture,2024-12-09,West,23108,10864,47.01,Franchise,Partnership,High,Negative,305856.5,3034.27,21.29,36.56,Process,Product Management,Product Penetration
+PROD2215,SPO-847,Sports,2025-02-07,West,490874,19777,4.03,Franchise,Product Diversification,Low,Negative,298269.35,3962.98,22.06,16.08,Process,Product Management,Product Penetration
+PROD2216,APP-244,Appliances,2024-05-09,South,14923,2888,19.35,Wholesale,Market Expansion,Medium,Stable,329380.57,732.05,41.9,11.56,Process,Product Management,Product Penetration
+PROD2217,APP-101,Appliances,2021-03-30,Central,257012,39846,15.5,Retail,Partnership,High,Negative,428402.12,2474.27,9.64,11.06,Process,Product Management,Product Penetration
+PROD2218,APP-581,Appliances,2023-07-18,South,966649,70375,7.28,Retail,Partnership,High,Positive,91090.97,3504.35,4.43,39.13,Process,Product Management,Product Penetration
+PROD2219,FUR-440,Furniture,2021-08-08,East,614929,145504,23.66,Franchise,Pricing Strategy,Low,Negative,369316.35,1304.63,44.21,12.55,Process,Product Management,Product Penetration
+PROD2220,HEA-697,Healthcare,2025-08-06,South,314449,124808,39.69,Franchise,Brand Promotion,Low,Stable,204982.21,160.0,23.25,-4.9,Process,Product Management,Product Penetration
+PROD2221,SPO-143,Sports,2024-05-11,East,80941,21202,26.19,Wholesale,Market Expansion,Low,Stable,403608.97,1306.57,31.01,38.61,Process,Product Management,Product Penetration
+PROD2222,ELE-880,Electronics,2021-04-11,Central,868364,128385,14.78,Retail,Partnership,High,Negative,296196.63,273.8,17.46,-0.44,Process,Product Management,Product Penetration
+PROD2223,HEA-364,Healthcare,2021-04-22,West,987643,236161,23.91,Direct Sales,Pricing Strategy,Medium,Positive,462665.63,207.31,7.6,13.04,Process,Product Management,Product Penetration
+PROD2224,APP-843,Appliances,2023-08-31,East,67980,22501,33.1,Wholesale,Brand Promotion,High,Negative,300357.11,1031.27,14.98,20.31,Process,Product Management,Product Penetration
+PROD2225,ELE-572,Electronics,2022-06-06,North,779967,4454,0.57,Franchise,Pricing Strategy,High,Positive,32423.39,4967.5,48.53,1.26,Process,Product Management,Product Penetration
+PROD2226,HEA-399,Healthcare,2022-09-03,East,956442,414455,43.33,Retail,Market Expansion,Low,Stable,232667.54,2756.96,45.35,28.84,Process,Product Management,Product Penetration
+PROD2227,HEA-788,Healthcare,2023-12-23,South,321911,84227,26.16,Franchise,Partnership,High,Stable,245587.99,4270.82,3.33,21.22,Process,Product Management,Product Penetration
+PROD2228,HEA-686,Healthcare,2024-12-28,Central,24465,1730,7.07,Online,Product Diversification,Low,Negative,29165.75,1071.34,38.75,44.24,Process,Product Management,Product Penetration
+PROD2229,AUT-762,Automobile,2024-06-18,East,200336,99535,49.68,Franchise,Product Diversification,Low,Negative,113391.14,2214.84,7.51,15.53,Process,Product Management,Product Penetration
+PROD2230,APP-380,Appliances,2023-11-22,South,897627,256857,28.62,Wholesale,Pricing Strategy,Low,Positive,188833.64,98.26,14.22,32.8,Process,Product Management,Product Penetration
+PROD2231,AUT-352,Automobile,2025-01-04,East,299718,35156,11.73,Franchise,Brand Promotion,High,Stable,225538.35,4490.3,37.38,57.97,Process,Product Management,Product Penetration
+PROD2232,SPO-723,Sports,2025-10-11,West,872140,179405,20.57,Direct Sales,Product Diversification,Low,Stable,316153.38,1415.8,34.87,8.93,Process,Product Management,Product Penetration
+PROD2233,SPO-313,Sports,2024-03-29,West,157572,6700,4.25,Online,Pricing Strategy,Medium,Positive,269358.55,3086.74,2.95,29.97,Process,Product Management,Product Penetration
+PROD2234,SPO-594,Sports,2021-04-23,North,611054,285121,46.66,Retail,Market Expansion,Low,Positive,382159.91,183.1,2.36,19.66,Process,Product Management,Product Penetration
+PROD2235,SPO-607,Sports,2024-07-31,North,335937,36760,10.94,Wholesale,Brand Promotion,High,Positive,150624.77,388.01,33.88,-2.48,Process,Product Management,Product Penetration
+PROD2236,FAS-589,Fashion,2022-12-13,Central,41414,20085,48.5,Franchise,Market Expansion,Low,Negative,451548.38,2398.3,1.42,41.23,Process,Product Management,Product Penetration
+PROD2237,ELE-584,Electronics,2021-06-28,North,260666,46061,17.67,Retail,Brand Promotion,Medium,Stable,143983.23,707.03,34.28,34.23,Process,Product Management,Product Penetration
+PROD2238,HEA-159,Healthcare,2021-09-24,West,465479,145911,31.35,Online,Brand Promotion,High,Stable,454929.22,2816.92,8.96,20.72,Process,Product Management,Product Penetration
+PROD2239,ELE-971,Electronics,2022-01-23,West,512392,52847,10.31,Retail,Brand Promotion,High,Positive,206126.83,828.31,28.99,11.33,Process,Product Management,Product Penetration
+PROD2240,HEA-954,Healthcare,2025-03-20,North,237728,44497,18.72,Franchise,Market Expansion,Medium,Stable,28834.58,603.48,18.13,33.37,Process,Product Management,Product Penetration
+PROD2241,SPO-343,Sports,2025-09-28,Central,520367,125248,24.07,Wholesale,Brand Promotion,Low,Negative,342151.91,4044.8,45.58,8.64,Process,Product Management,Product Penetration
+PROD2242,ELE-879,Electronics,2022-04-28,North,19628,6148,31.32,Retail,Brand Promotion,Medium,Positive,215409.86,3932.4,48.85,11.35,Process,Product Management,Product Penetration
+PROD2243,HEA-174,Healthcare,2024-08-29,East,29259,13411,45.84,Retail,Product Diversification,Medium,Negative,22562.89,4172.67,36.68,50.09,Process,Product Management,Product Penetration
+PROD2244,FAS-327,Fashion,2025-08-21,West,510484,222454,43.58,Wholesale,Product Diversification,Medium,Positive,10332.15,2246.74,28.23,30.16,Process,Product Management,Product Penetration
+PROD2245,APP-458,Appliances,2025-03-14,North,321038,74323,23.15,Direct Sales,Market Expansion,Medium,Negative,286037.89,1767.93,8.17,-5.46,Process,Product Management,Product Penetration
+PROD2246,SPO-452,Sports,2022-04-01,East,318007,66086,20.78,Online,Brand Promotion,High,Negative,67453.13,1130.55,18.29,32.19,Process,Product Management,Product Penetration
+PROD2247,FUR-180,Furniture,2021-01-23,South,236718,107906,45.58,Direct Sales,Market Expansion,High,Stable,486510.73,357.12,29.89,23.33,Process,Product Management,Product Penetration
+PROD2248,AUT-678,Automobile,2023-04-28,Central,628677,85719,13.63,Franchise,Pricing Strategy,Low,Negative,343418.58,4100.88,38.01,-7.17,Process,Product Management,Product Penetration
+PROD2249,FAS-202,Fashion,2022-12-09,West,406094,53533,13.18,Online,Pricing Strategy,Low,Negative,352376.98,963.99,13.45,2.64,Process,Product Management,Product Penetration
+PROD2250,FUR-762,Furniture,2022-10-26,East,135932,33979,25.0,Online,Product Diversification,High,Negative,418924.75,1237.0,10.19,3.17,Process,Product Management,Product Penetration
+PROD2251,FUR-871,Furniture,2022-05-30,Central,724525,341194,47.09,Franchise,Partnership,Medium,Negative,227323.19,1664.98,22.07,10.42,Process,Product Management,Product Penetration
+PROD2252,AUT-266,Automobile,2021-07-04,West,193679,45531,23.51,Direct Sales,Product Diversification,Low,Positive,97069.28,1696.12,17.26,0.48,Process,Product Management,Product Penetration
+PROD2253,SPO-137,Sports,2022-05-04,Central,73723,20206,27.41,Franchise,Market Expansion,High,Negative,250162.42,2749.85,38.57,43.46,Process,Product Management,Product Penetration
+PROD2254,FUR-138,Furniture,2023-07-29,North,68094,25135,36.91,Direct Sales,Partnership,High,Positive,326857.51,1966.77,3.45,53.16,Process,Product Management,Product Penetration
+PROD2255,FAS-457,Fashion,2022-02-02,West,653321,280436,42.92,Online,Product Diversification,Medium,Negative,481493.08,2318.55,37.28,47.28,Process,Product Management,Product Penetration
+PROD2256,FUR-631,Furniture,2025-01-26,West,894391,267691,29.93,Retail,Product Diversification,Low,Negative,352187.35,1557.9,31.66,2.41,Process,Product Management,Product Penetration
+PROD2257,APP-297,Appliances,2021-07-16,Central,195401,96720,49.5,Direct Sales,Brand Promotion,High,Stable,224661.22,1513.86,45.94,2.03,Process,Product Management,Product Penetration
+PROD2258,FUR-424,Furniture,2022-03-30,West,185139,27673,14.95,Online,Product Diversification,Medium,Stable,290421.93,966.14,13.4,50.36,Process,Product Management,Product Penetration
+PROD2259,HEA-712,Healthcare,2022-01-07,East,383323,140447,36.64,Wholesale,Brand Promotion,High,Stable,410419.97,204.95,11.63,44.08,Process,Product Management,Product Penetration
+PROD2260,AUT-108,Automobile,2022-12-30,South,506446,219455,43.33,Online,Pricing Strategy,Medium,Negative,16159.03,1254.79,36.08,35.51,Process,Product Management,Product Penetration
+PROD2261,AUT-669,Automobile,2024-10-11,West,42346,1517,3.58,Retail,Pricing Strategy,Medium,Negative,45942.89,3559.25,37.55,48.63,Process,Product Management,Product Penetration
+PROD2262,FUR-934,Furniture,2023-07-17,North,915950,233395,25.48,Wholesale,Brand Promotion,Medium,Positive,461165.38,1462.32,7.17,18.36,Process,Product Management,Product Penetration
+PROD2263,HEA-817,Healthcare,2020-12-15,Central,13251,3729,28.14,Wholesale,Pricing Strategy,High,Stable,103342.57,2674.99,22.26,50.62,Process,Product Management,Product Penetration
+PROD2264,HEA-885,Healthcare,2024-04-28,East,51573,6178,11.98,Online,Product Diversification,Medium,Positive,443225.72,1864.99,12.66,-3.86,Process,Product Management,Product Penetration
+PROD2265,HEA-504,Healthcare,2021-11-22,North,642549,268440,41.78,Retail,Brand Promotion,Medium,Stable,243207.89,1008.76,32.14,15.48,Process,Product Management,Product Penetration
+PROD2266,AUT-538,Automobile,2021-01-22,West,574591,100437,17.48,Direct Sales,Market Expansion,Low,Stable,496222.97,1188.41,36.99,10.22,Process,Product Management,Product Penetration
+PROD2267,FAS-630,Fashion,2022-07-22,Central,234016,54324,23.21,Direct Sales,Product Diversification,High,Positive,136341.54,3689.61,27.77,38.65,Process,Product Management,Product Penetration
+PROD2268,FUR-345,Furniture,2021-06-03,Central,667575,89813,13.45,Wholesale,Partnership,High,Positive,455799.02,4068.22,14.36,7.78,Process,Product Management,Product Penetration
+PROD2269,APP-788,Appliances,2025-03-31,North,766531,116836,15.24,Retail,Brand Promotion,Low,Negative,337886.4,2456.66,42.54,59.1,Process,Product Management,Product Penetration
+PROD2270,HEA-841,Healthcare,2022-08-02,East,263268,48686,18.49,Wholesale,Brand Promotion,Low,Positive,477507.7,1056.41,46.44,13.4,Process,Product Management,Product Penetration
+PROD2271,ELE-658,Electronics,2022-09-09,Central,577015,240345,41.65,Franchise,Partnership,Medium,Negative,248890.82,3798.79,1.58,58.7,Process,Product Management,Product Penetration
+PROD2272,FAS-512,Fashion,2022-12-15,South,21645,4431,20.47,Franchise,Partnership,High,Stable,435524.5,1970.37,6.75,54.44,Process,Product Management,Product Penetration
+PROD2273,FAS-615,Fashion,2023-04-08,Central,517654,155735,30.08,Online,Product Diversification,Low,Positive,54364.81,1006.08,43.62,2.6,Process,Product Management,Product Penetration
+PROD2274,AUT-988,Automobile,2023-12-20,Central,982739,350792,35.7,Wholesale,Pricing Strategy,Medium,Stable,344024.93,2585.31,40.06,41.82,Process,Product Management,Product Penetration
+PROD2275,FAS-352,Fashion,2022-12-11,South,770542,33180,4.31,Online,Market Expansion,High,Positive,79114.7,507.99,36.5,42.68,Process,Product Management,Product Penetration
+PROD2276,AUT-399,Automobile,2023-10-24,East,959080,38575,4.02,Online,Pricing Strategy,Low,Positive,46074.13,4231.42,44.21,3.73,Process,Product Management,Product Penetration
+PROD2277,APP-635,Appliances,2024-04-11,Central,662248,294583,44.48,Retail,Pricing Strategy,Low,Positive,464131.57,3733.5,14.62,37.88,Process,Product Management,Product Penetration
+PROD2278,FAS-845,Fashion,2020-12-17,South,384082,34701,9.03,Direct Sales,Product Diversification,High,Negative,234574.5,2186.91,23.16,51.23,Process,Product Management,Product Penetration
+PROD2279,AUT-939,Automobile,2023-08-26,North,164939,48627,29.48,Franchise,Product Diversification,High,Stable,425104.56,1525.37,4.24,23.03,Process,Product Management,Product Penetration
+PROD2280,FUR-798,Furniture,2021-01-14,East,748379,277781,37.12,Online,Brand Promotion,High,Stable,309932.19,185.65,16.45,57.41,Process,Product Management,Product Penetration
+PROD2281,APP-478,Appliances,2025-06-13,Central,570853,20078,3.52,Direct Sales,Product Diversification,Low,Stable,444577.06,2494.37,30.46,52.77,Process,Product Management,Product Penetration
+PROD2282,SPO-555,Sports,2021-08-01,North,28817,4791,16.63,Franchise,Market Expansion,Medium,Stable,458856.68,2958.34,19.95,43.6,Process,Product Management,Product Penetration
+PROD2283,FAS-542,Fashion,2021-05-30,East,604813,98698,16.32,Wholesale,Product Diversification,Medium,Stable,380100.99,2541.5,40.19,26.98,Process,Product Management,Product Penetration
+PROD2284,HEA-408,Healthcare,2024-01-25,North,331554,74231,22.39,Online,Product Diversification,Medium,Negative,181480.56,2465.38,47.96,0.68,Process,Product Management,Product Penetration
+PROD2285,AUT-700,Automobile,2024-01-29,West,43058,2367,5.5,Online,Product Diversification,Medium,Stable,101857.92,3351.83,23.61,53.67,Process,Product Management,Product Penetration
+PROD2286,FUR-998,Furniture,2025-08-27,Central,973063,174435,17.93,Franchise,Brand Promotion,Low,Positive,310471.97,3819.54,8.82,47.4,Process,Product Management,Product Penetration
+PROD2287,FAS-250,Fashion,2025-09-04,West,583900,10726,1.84,Retail,Market Expansion,Medium,Negative,468161.32,2278.26,32.89,48.91,Process,Product Management,Product Penetration
+PROD2288,FUR-479,Furniture,2020-11-24,Central,356124,168345,47.27,Wholesale,Brand Promotion,Medium,Positive,384597.41,2768.24,44.19,1.53,Process,Product Management,Product Penetration
+PROD2289,ELE-748,Electronics,2023-02-09,Central,602836,223385,37.06,Franchise,Pricing Strategy,Low,Positive,287512.74,3301.41,2.17,-5.19,Process,Product Management,Product Penetration
+PROD2290,ELE-952,Electronics,2024-12-26,West,417919,185739,44.44,Retail,Pricing Strategy,Low,Negative,244324.54,4435.07,9.08,25.65,Process,Product Management,Product Penetration
+PROD2291,FUR-561,Furniture,2023-08-17,East,311818,154668,49.6,Direct Sales,Pricing Strategy,Low,Positive,114820.56,4979.69,26.79,-9.91,Process,Product Management,Product Penetration
+PROD2292,SPO-287,Sports,2021-01-26,West,191824,26062,13.59,Retail,Brand Promotion,Medium,Stable,154825.4,1476.1,36.56,16.04,Process,Product Management,Product Penetration
+PROD2293,FUR-311,Furniture,2022-11-29,South,123836,23353,18.86,Franchise,Partnership,Low,Negative,327767.28,729.36,15.47,8.45,Process,Product Management,Product Penetration
+PROD2294,SPO-343,Sports,2021-04-15,North,921843,323904,35.14,Direct Sales,Brand Promotion,Low,Positive,418138.58,633.67,12.72,33.0,Process,Product Management,Product Penetration
+PROD2295,SPO-462,Sports,2024-12-23,North,119637,56472,47.2,Franchise,Product Diversification,Low,Stable,321775.69,1747.6,46.75,40.97,Process,Product Management,Product Penetration
+PROD2296,FAS-894,Fashion,2025-01-11,South,800677,335747,41.93,Retail,Pricing Strategy,Low,Stable,493738.41,3360.15,11.66,-7.28,Process,Product Management,Product Penetration
+PROD2297,FUR-647,Furniture,2025-09-20,North,84987,37467,44.09,Direct Sales,Partnership,Medium,Stable,393830.6,3822.58,26.5,49.18,Process,Product Management,Product Penetration
+PROD2298,HEA-107,Healthcare,2025-04-09,West,481478,86060,17.87,Retail,Pricing Strategy,High,Negative,227408.98,2474.99,5.19,25.18,Process,Product Management,Product Penetration
+PROD2299,APP-985,Appliances,2025-03-26,South,837490,398327,47.56,Retail,Brand Promotion,Low,Stable,99182.29,3260.7,15.94,2.88,Process,Product Management,Product Penetration
+PROD2300,FUR-289,Furniture,2025-06-28,West,517644,88309,17.06,Direct Sales,Pricing Strategy,Medium,Stable,349991.01,3415.41,44.42,55.71,Process,Product Management,Product Penetration
+PROD2301,FUR-140,Furniture,2022-06-06,South,888691,152199,17.13,Wholesale,Partnership,Medium,Stable,274176.09,836.05,15.33,16.09,Process,Product Management,Product Penetration
+PROD2302,SPO-714,Sports,2023-02-13,East,660503,128096,19.39,Franchise,Partnership,High,Negative,25942.48,1179.67,16.72,52.43,Process,Product Management,Product Penetration
+PROD2303,AUT-417,Automobile,2023-05-07,Central,914019,375480,41.08,Franchise,Brand Promotion,Medium,Negative,81135.81,2112.57,12.82,8.77,Process,Product Management,Product Penetration
+PROD2304,FAS-953,Fashion,2024-07-21,North,637473,77168,12.11,Retail,Brand Promotion,Low,Negative,26286.47,3333.12,44.73,13.73,Process,Product Management,Product Penetration
+PROD2305,SPO-925,Sports,2025-09-09,West,889096,52480,5.9,Wholesale,Brand Promotion,Low,Positive,331553.38,313.93,39.05,-1.72,Process,Product Management,Product Penetration
+PROD2306,SPO-981,Sports,2022-03-13,East,351460,115360,32.82,Franchise,Pricing Strategy,Low,Stable,384862.31,4217.56,38.65,18.62,Process,Product Management,Product Penetration
+PROD2307,SPO-546,Sports,2021-12-08,West,639130,244428,38.24,Direct Sales,Market Expansion,Low,Negative,197447.33,4653.44,16.02,24.98,Process,Product Management,Product Penetration
+PROD2308,SPO-618,Sports,2022-06-07,West,221754,95180,42.92,Online,Partnership,Medium,Stable,320229.13,491.9,28.19,1.76,Process,Product Management,Product Penetration
+PROD2309,APP-736,Appliances,2023-09-16,South,609607,151181,24.8,Direct Sales,Brand Promotion,Low,Stable,201147.97,989.78,16.73,20.23,Process,Product Management,Product Penetration
+PROD2310,SPO-783,Sports,2021-10-03,West,320167,141526,44.2,Direct Sales,Pricing Strategy,High,Stable,73145.12,4021.92,1.81,35.14,Process,Product Management,Product Penetration
+PROD2311,APP-371,Appliances,2022-12-17,South,570517,228922,40.13,Wholesale,Market Expansion,Low,Stable,87450.17,4975.6,14.36,-7.14,Process,Product Management,Product Penetration
+PROD2312,SPO-839,Sports,2025-05-21,West,453536,184592,40.7,Direct Sales,Brand Promotion,Low,Stable,489129.62,561.16,49.71,49.18,Process,Product Management,Product Penetration
+PROD2313,ELE-156,Electronics,2025-06-06,North,942801,130462,13.84,Retail,Brand Promotion,Medium,Positive,400778.53,3738.59,40.78,23.71,Process,Product Management,Product Penetration
+PROD2314,AUT-393,Automobile,2022-11-02,North,891362,45964,5.16,Online,Brand Promotion,Low,Stable,417208.45,3358.09,13.65,9.64,Process,Product Management,Product Penetration
+PROD2315,SPO-989,Sports,2024-10-06,North,845721,359728,42.54,Wholesale,Market Expansion,Medium,Stable,55282.66,3120.79,22.86,9.7,Process,Product Management,Product Penetration
+PROD2316,APP-371,Appliances,2024-06-22,East,462648,187071,40.43,Direct Sales,Product Diversification,Medium,Negative,142604.91,1485.63,11.74,59.38,Process,Product Management,Product Penetration
+PROD2317,FUR-823,Furniture,2024-11-15,South,622176,44642,7.18,Retail,Pricing Strategy,Low,Negative,139554.56,2842.39,21.0,26.55,Process,Product Management,Product Penetration
+PROD2318,FAS-664,Fashion,2024-02-23,West,828553,204960,24.74,Online,Pricing Strategy,Low,Negative,485639.24,2601.6,15.41,16.71,Process,Product Management,Product Penetration
+PROD2319,FUR-518,Furniture,2023-08-07,East,89317,21827,24.44,Online,Market Expansion,High,Negative,36327.05,339.54,45.83,52.01,Process,Product Management,Product Penetration
+PROD2320,FUR-848,Furniture,2022-01-29,East,127503,35106,27.53,Direct Sales,Market Expansion,High,Stable,487120.47,971.68,22.14,22.12,Process,Product Management,Product Penetration
+PROD2321,FAS-699,Fashion,2022-02-22,South,75764,32313,42.65,Franchise,Partnership,High,Negative,100843.11,1334.28,22.69,40.58,Process,Product Management,Product Penetration
+PROD2322,SPO-237,Sports,2021-06-17,South,844223,36883,4.37,Direct Sales,Brand Promotion,Low,Positive,68651.41,4203.48,28.54,20.41,Process,Product Management,Product Penetration
+PROD2323,ELE-898,Electronics,2023-04-22,East,606432,103827,17.12,Online,Partnership,Low,Negative,163129.23,670.66,15.77,40.99,Process,Product Management,Product Penetration
+PROD2324,AUT-326,Automobile,2024-06-11,West,177809,29528,16.61,Direct Sales,Product Diversification,High,Positive,413622.61,1155.69,32.5,58.19,Process,Product Management,Product Penetration
+PROD2325,FUR-238,Furniture,2021-09-14,North,497303,199300,40.08,Retail,Brand Promotion,High,Positive,262314.97,3206.26,12.76,43.59,Process,Product Management,Product Penetration
+PROD2326,SPO-214,Sports,2021-12-31,West,551040,217483,39.47,Direct Sales,Partnership,Low,Positive,207034.61,4101.39,6.46,-9.33,Process,Product Management,Product Penetration
+PROD2327,ELE-723,Electronics,2023-11-08,Central,345056,169505,49.12,Retail,Pricing Strategy,Low,Stable,359831.34,2132.1,37.14,23.31,Process,Product Management,Product Penetration
+PROD2328,SPO-868,Sports,2025-06-05,North,840646,104987,12.49,Online,Brand Promotion,High,Stable,30992.21,511.1,8.59,51.26,Process,Product Management,Product Penetration
+PROD2329,FUR-102,Furniture,2021-11-24,East,202793,41917,20.67,Online,Product Diversification,High,Negative,478494.0,1171.78,45.89,54.97,Process,Product Management,Product Penetration
+PROD2330,FAS-614,Fashion,2024-09-03,South,427813,93023,21.74,Franchise,Market Expansion,High,Positive,18447.78,918.28,46.74,15.76,Process,Product Management,Product Penetration
+PROD2331,SPO-111,Sports,2023-01-15,West,594841,200249,33.66,Direct Sales,Market Expansion,Medium,Negative,254677.11,3244.22,49.31,15.14,Process,Product Management,Product Penetration
+PROD2332,ELE-353,Electronics,2025-04-26,West,294793,141547,48.02,Retail,Partnership,High,Negative,390320.07,3608.25,40.43,43.6,Process,Product Management,Product Penetration
+PROD2333,SPO-774,Sports,2021-02-07,East,488220,22848,4.68,Direct Sales,Partnership,High,Positive,454026.28,4719.09,48.17,-4.74,Process,Product Management,Product Penetration
+PROD2334,APP-751,Appliances,2025-02-14,West,213654,94073,44.03,Wholesale,Brand Promotion,Medium,Positive,258728.64,1477.12,43.36,2.06,Process,Product Management,Product Penetration
+PROD2335,FAS-684,Fashion,2021-05-31,Central,660692,47710,7.22,Wholesale,Market Expansion,High,Negative,51531.17,279.48,2.91,39.89,Process,Product Management,Product Penetration
+PROD2336,FUR-439,Furniture,2021-07-27,West,757899,322378,42.54,Franchise,Product Diversification,Low,Positive,210213.78,1483.89,9.31,49.14,Process,Product Management,Product Penetration
+PROD2337,APP-240,Appliances,2021-08-24,South,56131,14124,25.16,Wholesale,Pricing Strategy,High,Stable,331250.31,3287.18,36.31,43.95,Process,Product Management,Product Penetration
+PROD2338,HEA-994,Healthcare,2023-05-03,West,195017,6562,3.36,Direct Sales,Pricing Strategy,Low,Stable,44709.21,1526.8,26.64,-1.84,Process,Product Management,Product Penetration
+PROD2339,ELE-466,Electronics,2024-01-08,West,626355,147435,23.54,Wholesale,Partnership,Low,Stable,142375.68,3015.21,20.91,11.65,Process,Product Management,Product Penetration
+PROD2340,HEA-397,Healthcare,2022-03-05,East,619177,275108,44.43,Retail,Brand Promotion,High,Stable,498907.55,1204.05,15.33,18.88,Process,Product Management,Product Penetration
+PROD2341,FAS-250,Fashion,2021-03-20,North,903864,188079,20.81,Retail,Product Diversification,Low,Stable,300386.25,1993.53,20.23,-3.07,Process,Product Management,Product Penetration
+PROD2342,FAS-425,Fashion,2024-07-31,West,591949,277611,46.9,Online,Partnership,High,Stable,390668.31,1181.79,24.13,-9.0,Process,Product Management,Product Penetration
+PROD2343,AUT-440,Automobile,2024-06-03,North,641942,57886,9.02,Wholesale,Partnership,Medium,Positive,392051.18,1393.28,31.68,13.13,Process,Product Management,Product Penetration
+PROD2344,AUT-678,Automobile,2022-04-11,North,553309,170506,30.82,Retail,Market Expansion,Medium,Stable,276234.59,3595.77,19.91,3.95,Process,Product Management,Product Penetration
+PROD2345,SPO-509,Sports,2025-10-11,East,324592,162169,49.96,Retail,Partnership,Medium,Stable,24249.03,3169.75,13.73,21.66,Process,Product Management,Product Penetration
+PROD2346,AUT-293,Automobile,2022-02-01,North,30606,13150,42.97,Wholesale,Market Expansion,High,Positive,262114.97,4467.16,39.95,49.16,Process,Product Management,Product Penetration
+PROD2347,HEA-756,Healthcare,2022-06-19,West,790552,378158,47.83,Direct Sales,Pricing Strategy,Low,Stable,165266.21,1555.54,45.96,44.49,Process,Product Management,Product Penetration
+PROD2348,SPO-798,Sports,2024-06-05,East,474727,17697,3.73,Online,Partnership,Low,Stable,358256.72,444.73,8.0,25.14,Process,Product Management,Product Penetration
+PROD2349,AUT-870,Automobile,2024-10-04,Central,979920,462350,47.18,Wholesale,Brand Promotion,Low,Positive,323580.35,3129.45,4.0,26.86,Process,Product Management,Product Penetration
+PROD2350,ELE-300,Electronics,2023-11-28,South,454629,218933,48.16,Direct Sales,Pricing Strategy,Low,Negative,323289.61,627.96,49.12,18.71,Process,Product Management,Product Penetration
+PROD2351,AUT-198,Automobile,2021-03-28,West,892681,299983,33.6,Retail,Pricing Strategy,Low,Negative,245045.86,3215.96,37.85,-6.59,Process,Product Management,Product Penetration
+PROD2352,ELE-409,Electronics,2025-02-17,Central,351127,43027,12.25,Franchise,Brand Promotion,High,Stable,371863.06,577.13,32.83,24.98,Process,Product Management,Product Penetration
+PROD2353,AUT-860,Automobile,2023-02-04,West,310657,63147,20.33,Retail,Brand Promotion,Medium,Negative,357554.51,2764.19,45.73,59.91,Process,Product Management,Product Penetration
+PROD2354,FAS-790,Fashion,2021-02-18,South,85625,3864,4.51,Direct Sales,Partnership,High,Positive,424069.73,778.07,9.69,46.92,Process,Product Management,Product Penetration
+PROD2355,HEA-112,Healthcare,2024-01-04,North,35835,12530,34.97,Wholesale,Market Expansion,Low,Positive,93779.7,633.56,37.3,50.54,Process,Product Management,Product Penetration
+PROD2356,FUR-255,Furniture,2022-07-04,East,495025,35346,7.14,Retail,Pricing Strategy,High,Negative,354912.58,722.41,49.17,-2.24,Process,Product Management,Product Penetration
+PROD2357,FAS-445,Fashion,2024-08-05,South,235933,92813,39.34,Retail,Pricing Strategy,High,Positive,420167.55,442.91,20.3,41.53,Process,Product Management,Product Penetration
+PROD2358,FUR-778,Furniture,2021-04-25,Central,538398,189095,35.12,Franchise,Partnership,High,Negative,276025.37,3532.19,6.82,23.47,Process,Product Management,Product Penetration
+PROD2359,SPO-937,Sports,2023-08-02,Central,481274,9890,2.05,Wholesale,Market Expansion,High,Negative,187949.52,2373.26,15.44,1.49,Process,Product Management,Product Penetration
+PROD2360,AUT-756,Automobile,2024-07-25,West,993028,48888,4.92,Retail,Market Expansion,High,Positive,301022.68,4771.89,9.89,8.95,Process,Product Management,Product Penetration
+PROD2361,HEA-156,Healthcare,2020-12-24,South,359972,124829,34.68,Direct Sales,Partnership,Medium,Positive,461224.3,995.6,31.02,1.01,Process,Product Management,Product Penetration
+PROD2362,FAS-973,Fashion,2021-12-23,Central,304982,7091,2.33,Retail,Pricing Strategy,High,Positive,138200.25,57.04,35.74,20.47,Process,Product Management,Product Penetration
+PROD2363,SPO-612,Sports,2023-04-19,East,322022,18878,5.86,Retail,Pricing Strategy,High,Negative,383994.98,3047.23,25.99,7.79,Process,Product Management,Product Penetration
+PROD2364,SPO-385,Sports,2021-09-27,North,900660,378522,42.03,Direct Sales,Brand Promotion,Low,Negative,281842.34,1945.88,41.86,41.01,Process,Product Management,Product Penetration
+PROD2365,ELE-906,Electronics,2024-12-04,Central,119805,35777,29.86,Wholesale,Brand Promotion,Medium,Stable,439173.6,2151.21,19.79,57.74,Process,Product Management,Product Penetration
+PROD2366,FUR-394,Furniture,2022-07-12,Central,14260,2068,14.5,Retail,Product Diversification,High,Stable,262859.53,1743.89,39.67,16.94,Process,Product Management,Product Penetration
+PROD2367,APP-336,Appliances,2023-10-06,South,168428,53127,31.54,Online,Brand Promotion,High,Positive,263028.75,4207.26,29.23,19.62,Process,Product Management,Product Penetration
+PROD2368,ELE-807,Electronics,2024-12-31,North,170632,76826,45.02,Online,Market Expansion,High,Stable,453140.65,1359.72,34.37,23.2,Process,Product Management,Product Penetration
+PROD2369,FAS-490,Fashion,2023-01-31,West,127633,4101,3.21,Franchise,Pricing Strategy,High,Positive,493984.16,4001.13,28.12,-6.66,Process,Product Management,Product Penetration
+PROD2370,ELE-911,Electronics,2025-05-17,East,928435,319650,34.43,Retail,Brand Promotion,Medium,Positive,146557.34,65.69,17.85,11.83,Process,Product Management,Product Penetration
+PROD2371,ELE-134,Electronics,2025-03-04,West,316566,2581,0.82,Online,Market Expansion,High,Negative,171784.01,559.57,32.34,28.12,Process,Product Management,Product Penetration
+PROD2372,FAS-834,Fashion,2022-01-03,South,686043,76692,11.18,Franchise,Pricing Strategy,Low,Positive,163121.62,2491.49,44.91,29.72,Process,Product Management,Product Penetration
+PROD2373,HEA-245,Healthcare,2021-11-10,Central,80463,38137,47.4,Franchise,Brand Promotion,Low,Positive,290912.43,2046.43,6.9,22.65,Process,Product Management,Product Penetration
+PROD2374,HEA-212,Healthcare,2025-09-29,South,345212,117132,33.93,Franchise,Partnership,Low,Negative,250717.56,493.06,46.95,18.71,Process,Product Management,Product Penetration
+PROD2375,FUR-152,Furniture,2021-09-07,South,994367,375879,37.8,Retail,Market Expansion,High,Positive,223787.59,4280.63,39.38,-5.03,Process,Product Management,Product Penetration
+PROD2376,HEA-802,Healthcare,2021-06-14,South,255591,16151,6.32,Online,Pricing Strategy,Medium,Stable,355422.2,3372.86,49.18,13.4,Process,Product Management,Product Penetration
+PROD2377,HEA-802,Healthcare,2020-12-03,East,424075,54335,12.81,Franchise,Market Expansion,Low,Positive,359331.8,403.65,45.74,2.5,Process,Product Management,Product Penetration
+PROD2378,SPO-973,Sports,2022-11-13,West,620356,71295,11.49,Direct Sales,Pricing Strategy,High,Positive,284806.75,3116.71,36.98,58.17,Process,Product Management,Product Penetration
+PROD2379,APP-733,Appliances,2025-04-12,South,552082,163358,29.59,Retail,Market Expansion,Medium,Positive,344712.71,2026.34,10.92,48.17,Process,Product Management,Product Penetration
+PROD2380,SPO-222,Sports,2024-01-16,East,63415,20834,32.85,Franchise,Product Diversification,High,Negative,459705.72,2040.66,14.16,-9.82,Process,Product Management,Product Penetration
+PROD2381,APP-282,Appliances,2023-08-23,North,305809,80981,26.48,Wholesale,Brand Promotion,Low,Negative,289072.84,1193.33,28.45,-5.28,Process,Product Management,Product Penetration
+PROD2382,AUT-809,Automobile,2023-08-25,North,606877,53501,8.82,Franchise,Product Diversification,High,Stable,334838.15,3194.11,14.3,-6.03,Process,Product Management,Product Penetration
+PROD2383,HEA-605,Healthcare,2023-04-28,Central,880871,20320,2.31,Direct Sales,Product Diversification,High,Stable,245213.27,2672.49,13.33,40.35,Process,Product Management,Product Penetration
+PROD2384,ELE-188,Electronics,2025-02-21,West,121774,11674,9.59,Wholesale,Product Diversification,Low,Negative,40374.5,1197.77,44.83,57.12,Process,Product Management,Product Penetration
+PROD2385,FUR-358,Furniture,2022-12-08,West,807868,255244,31.59,Online,Market Expansion,Medium,Negative,62815.83,4058.37,1.05,44.08,Process,Product Management,Product Penetration
+PROD2386,HEA-989,Healthcare,2021-03-27,West,158540,23573,14.87,Wholesale,Market Expansion,Medium,Negative,354209.29,360.16,12.9,21.55,Process,Product Management,Product Penetration
+PROD2387,AUT-476,Automobile,2022-06-26,West,168426,74334,44.13,Online,Brand Promotion,High,Stable,404843.23,4614.13,22.2,17.62,Process,Product Management,Product Penetration
+PROD2388,HEA-415,Healthcare,2025-10-08,Central,738006,21816,2.96,Franchise,Product Diversification,High,Stable,156452.53,4766.59,9.36,37.99,Process,Product Management,Product Penetration
+PROD2389,APP-619,Appliances,2020-11-30,South,320914,95197,29.66,Franchise,Pricing Strategy,High,Positive,448689.22,4888.26,24.8,-4.25,Process,Product Management,Product Penetration
+PROD2390,SPO-844,Sports,2023-02-13,East,378761,110509,29.18,Wholesale,Brand Promotion,Medium,Positive,176015.74,175.92,35.53,3.44,Process,Product Management,Product Penetration
+PROD2391,FAS-785,Fashion,2025-01-09,East,300197,102530,34.15,Franchise,Product Diversification,Low,Negative,204446.55,2914.44,9.23,14.88,Process,Product Management,Product Penetration
+PROD2392,SPO-394,Sports,2023-07-31,Central,200397,2784,1.39,Online,Brand Promotion,High,Positive,227183.49,3062.03,35.12,47.72,Process,Product Management,Product Penetration
+PROD2393,ELE-640,Electronics,2023-07-30,East,364398,156288,42.89,Direct Sales,Market Expansion,Low,Positive,17892.87,3544.68,23.92,0.22,Process,Product Management,Product Penetration
+PROD2394,AUT-932,Automobile,2021-12-09,Central,268285,90421,33.7,Retail,Partnership,Low,Positive,130497.32,1047.64,5.08,8.67,Process,Product Management,Product Penetration
+PROD2395,FAS-851,Fashion,2025-09-16,Central,465098,80211,17.25,Wholesale,Brand Promotion,Medium,Stable,333245.76,4400.0,43.81,24.89,Process,Product Management,Product Penetration
+PROD2396,FAS-797,Fashion,2021-12-30,South,878513,267363,30.43,Franchise,Brand Promotion,Medium,Stable,264191.73,2156.11,35.9,4.87,Process,Product Management,Product Penetration
+PROD2397,ELE-575,Electronics,2022-03-06,West,495168,192630,38.9,Direct Sales,Product Diversification,Medium,Stable,318709.98,3612.31,16.08,3.39,Process,Product Management,Product Penetration
+PROD2398,HEA-344,Healthcare,2024-03-09,East,853335,128754,15.09,Retail,Product Diversification,Medium,Negative,98798.0,3985.0,22.53,-9.94,Process,Product Management,Product Penetration
+PROD2399,HEA-833,Healthcare,2022-04-28,West,534156,112201,21.01,Wholesale,Market Expansion,Low,Negative,275799.07,3468.94,6.57,57.71,Process,Product Management,Product Penetration
+PROD2400,AUT-520,Automobile,2021-05-14,South,780791,179461,22.98,Online,Product Diversification,Medium,Positive,20330.42,2458.46,17.81,-3.5,Process,Product Management,Product Penetration
+PROD2401,AUT-738,Automobile,2024-06-20,North,951395,318477,33.47,Wholesale,Product Diversification,High,Negative,40447.45,191.55,16.4,21.94,Process,Product Management,Product Penetration
+PROD2402,ELE-902,Electronics,2021-05-14,East,259550,27576,10.62,Franchise,Market Expansion,Medium,Negative,157016.21,4978.57,47.45,33.44,Process,Product Management,Product Penetration
+PROD2403,SPO-296,Sports,2024-05-15,East,785285,226773,28.88,Direct Sales,Pricing Strategy,Medium,Negative,401857.47,1220.42,37.33,11.51,Process,Product Management,Product Penetration
+PROD2404,APP-973,Appliances,2025-03-02,South,217463,76890,35.36,Franchise,Product Diversification,Low,Positive,413610.95,2775.13,3.97,44.22,Process,Product Management,Product Penetration
+PROD2405,APP-499,Appliances,2022-08-30,South,102570,14051,13.7,Online,Product Diversification,High,Negative,347324.97,2778.29,14.57,57.63,Process,Product Management,Product Penetration
+PROD2406,FUR-133,Furniture,2023-09-23,Central,943629,363060,38.47,Online,Brand Promotion,Medium,Negative,150144.64,1935.41,9.39,-3.45,Process,Product Management,Product Penetration
+PROD2407,AUT-311,Automobile,2024-05-16,Central,878861,178747,20.34,Direct Sales,Partnership,Medium,Negative,279708.09,4508.68,26.83,51.72,Process,Product Management,Product Penetration
+PROD2408,AUT-773,Automobile,2021-03-01,West,140309,48016,34.22,Wholesale,Partnership,Low,Positive,74297.66,4870.62,48.39,59.83,Process,Product Management,Product Penetration
+PROD2409,FUR-303,Furniture,2025-02-25,East,684553,157932,23.07,Wholesale,Market Expansion,High,Positive,339508.27,851.27,16.16,3.67,Process,Product Management,Product Penetration
+PROD2410,APP-718,Appliances,2024-04-21,East,555861,231684,41.68,Online,Product Diversification,Low,Positive,409251.93,2889.03,35.76,24.82,Process,Product Management,Product Penetration
+PROD2411,SPO-183,Sports,2020-11-03,North,485345,36260,7.47,Online,Pricing Strategy,High,Stable,185071.77,445.51,18.76,57.41,Process,Product Management,Product Penetration
+PROD2412,SPO-103,Sports,2024-09-03,East,131663,30739,23.35,Retail,Product Diversification,Medium,Negative,123350.97,4142.01,10.15,10.55,Process,Product Management,Product Penetration
+PROD2413,APP-760,Appliances,2025-05-25,East,770715,367265,47.65,Direct Sales,Brand Promotion,Medium,Negative,491775.81,2646.3,31.03,12.13,Process,Product Management,Product Penetration
+PROD2414,AUT-450,Automobile,2022-08-24,Central,862153,156891,18.2,Wholesale,Brand Promotion,Medium,Stable,132579.14,2058.7,19.76,58.7,Process,Product Management,Product Penetration
+PROD2415,APP-140,Appliances,2024-10-29,South,475755,50277,10.57,Online,Brand Promotion,Low,Negative,354038.55,1604.73,41.82,-5.42,Process,Product Management,Product Penetration
+PROD2416,HEA-728,Healthcare,2022-08-14,East,337995,84195,24.91,Online,Pricing Strategy,Low,Positive,202075.58,2706.71,10.29,26.78,Process,Product Management,Product Penetration
+PROD2417,FUR-630,Furniture,2023-01-29,Central,686309,276846,40.34,Retail,Brand Promotion,Low,Stable,35443.23,2269.82,48.31,-7.72,Process,Product Management,Product Penetration
+PROD2418,HEA-913,Healthcare,2021-12-10,East,41755,20295,48.6,Direct Sales,Market Expansion,Medium,Positive,281950.18,4876.13,14.15,21.1,Process,Product Management,Product Penetration
+PROD2419,SPO-815,Sports,2022-04-02,Central,171079,12009,7.02,Wholesale,Product Diversification,Medium,Positive,348571.51,1521.84,4.88,3.37,Process,Product Management,Product Penetration
+PROD2420,AUT-879,Automobile,2023-04-10,North,86695,17903,20.65,Retail,Brand Promotion,High,Stable,226537.45,492.12,33.08,56.91,Process,Product Management,Product Penetration
+PROD2421,FUR-418,Furniture,2025-06-09,South,861008,176555,20.51,Retail,Partnership,Low,Stable,440891.85,2118.3,47.48,56.44,Process,Product Management,Product Penetration
+PROD2422,SPO-915,Sports,2024-10-01,East,700976,159271,22.72,Franchise,Pricing Strategy,Medium,Positive,139475.41,4558.52,34.29,51.45,Process,Product Management,Product Penetration
+PROD2423,FAS-144,Fashion,2020-12-19,South,68253,21917,32.11,Retail,Partnership,High,Stable,114392.86,3999.14,35.32,7.24,Process,Product Management,Product Penetration
+PROD2424,AUT-152,Automobile,2024-11-18,South,387111,142698,36.86,Retail,Pricing Strategy,Medium,Negative,202597.73,4493.56,43.08,-7.47,Process,Product Management,Product Penetration
+PROD2425,FAS-112,Fashion,2023-06-21,West,759791,300269,39.52,Retail,Partnership,High,Stable,478167.39,1104.36,11.28,4.74,Process,Product Management,Product Penetration
+PROD2426,SPO-473,Sports,2021-07-05,South,555295,168174,30.29,Direct Sales,Partnership,High,Negative,388208.37,4441.11,29.5,9.76,Process,Product Management,Product Penetration
+PROD2427,FAS-643,Fashion,2022-10-10,West,187140,58948,31.5,Franchise,Partnership,High,Negative,152542.52,413.35,34.22,55.91,Process,Product Management,Product Penetration
+PROD2428,AUT-359,Automobile,2022-11-12,South,608854,107005,17.57,Direct Sales,Product Diversification,High,Positive,477447.12,716.15,43.25,55.44,Process,Product Management,Product Penetration
+PROD2429,AUT-925,Automobile,2024-04-21,West,96203,26381,27.42,Franchise,Partnership,High,Positive,407752.84,3586.76,9.62,19.93,Process,Product Management,Product Penetration
+PROD2430,HEA-567,Healthcare,2021-06-24,Central,744398,199678,26.82,Franchise,Product Diversification,High,Positive,317758.99,59.63,18.67,22.34,Process,Product Management,Product Penetration
+PROD2431,FUR-908,Furniture,2021-01-30,Central,345180,78919,22.86,Online,Partnership,Medium,Negative,267464.46,4360.63,8.6,14.5,Process,Product Management,Product Penetration
+PROD2432,HEA-211,Healthcare,2023-04-26,West,217473,14495,6.67,Online,Partnership,High,Negative,352109.6,3177.36,9.79,-6.78,Process,Product Management,Product Penetration
+PROD2433,FAS-842,Fashion,2025-08-17,East,355186,26864,7.56,Retail,Product Diversification,Low,Negative,382466.02,2076.39,36.56,51.06,Process,Product Management,Product Penetration
+PROD2434,ELE-954,Electronics,2025-03-25,Central,894060,339338,37.95,Retail,Product Diversification,Low,Positive,58587.79,3674.2,40.93,25.3,Process,Product Management,Product Penetration
+PROD2435,HEA-356,Healthcare,2022-09-05,West,916411,291809,31.84,Retail,Brand Promotion,High,Stable,334019.5,4275.8,20.98,4.58,Process,Product Management,Product Penetration
+PROD2436,ELE-633,Electronics,2022-10-01,West,683588,1677,0.25,Wholesale,Market Expansion,High,Negative,339642.85,1103.69,5.89,41.18,Process,Product Management,Product Penetration
+PROD2437,FAS-363,Fashion,2023-09-24,North,332963,13867,4.16,Online,Brand Promotion,Low,Positive,55661.63,4734.87,28.45,-3.84,Process,Product Management,Product Penetration
+PROD2438,ELE-270,Electronics,2023-07-10,Central,786800,178466,22.68,Online,Pricing Strategy,High,Negative,15755.88,4875.32,48.09,0.53,Process,Product Management,Product Penetration
+PROD2439,FUR-979,Furniture,2023-01-07,North,586492,159023,27.11,Retail,Brand Promotion,Medium,Positive,451602.79,4001.25,45.04,56.33,Process,Product Management,Product Penetration
+PROD2440,FAS-306,Fashion,2025-01-17,North,148954,52573,35.29,Direct Sales,Market Expansion,High,Positive,240903.49,3970.86,7.6,-6.9,Process,Product Management,Product Penetration
+PROD2441,FAS-934,Fashion,2020-10-21,North,114039,17712,15.53,Online,Pricing Strategy,Low,Stable,67708.05,4840.4,31.68,37.13,Process,Product Management,Product Penetration
+PROD2442,HEA-785,Healthcare,2025-03-18,Central,474190,1854,0.39,Retail,Market Expansion,Low,Positive,324645.41,4391.38,12.52,25.65,Process,Product Management,Product Penetration
+PROD2443,FAS-498,Fashion,2023-11-25,East,264658,60188,22.74,Direct Sales,Product Diversification,Low,Positive,379082.37,3460.86,18.48,27.05,Process,Product Management,Product Penetration
+PROD2444,FUR-800,Furniture,2023-04-09,East,435948,39215,9.0,Direct Sales,Pricing Strategy,Low,Positive,359967.79,1853.05,33.79,49.61,Process,Product Management,Product Penetration
+PROD2445,SPO-298,Sports,2023-08-10,Central,838287,320319,38.21,Franchise,Market Expansion,Medium,Negative,219781.77,2604.0,15.14,13.32,Process,Product Management,Product Penetration
+PROD2446,FAS-695,Fashion,2025-08-17,South,781931,82923,10.6,Franchise,Partnership,Medium,Negative,377969.23,2251.01,27.79,11.86,Process,Product Management,Product Penetration
+PROD2447,AUT-222,Automobile,2022-04-02,South,452976,115948,25.6,Retail,Market Expansion,Low,Positive,249725.34,4807.7,29.74,27.37,Process,Product Management,Product Penetration
+PROD2448,HEA-815,Healthcare,2023-11-30,East,525116,155818,29.67,Direct Sales,Brand Promotion,Medium,Positive,384055.2,454.31,38.63,27.74,Process,Product Management,Product Penetration
+PROD2449,APP-329,Appliances,2022-03-01,Central,279071,103717,37.17,Wholesale,Pricing Strategy,Medium,Negative,361609.25,4835.65,28.1,43.9,Process,Product Management,Product Penetration
+PROD2450,HEA-324,Healthcare,2021-10-20,Central,670418,271351,40.47,Wholesale,Partnership,Low,Negative,396397.39,2090.33,41.87,56.01,Process,Product Management,Product Penetration
+PROD2451,FUR-748,Furniture,2024-04-07,South,556668,48806,8.77,Direct Sales,Brand Promotion,High,Positive,304616.37,3917.2,23.64,45.26,Process,Product Management,Product Penetration
+PROD2452,FUR-692,Furniture,2024-08-29,West,612501,95575,15.6,Online,Brand Promotion,High,Stable,40178.29,183.49,31.93,59.66,Process,Product Management,Product Penetration
+PROD2453,APP-202,Appliances,2020-12-10,South,874779,367720,42.04,Online,Pricing Strategy,High,Negative,271706.36,3038.12,44.71,43.24,Process,Product Management,Product Penetration
+PROD2454,FUR-922,Furniture,2023-05-03,West,64232,31110,48.43,Franchise,Brand Promotion,Medium,Positive,482384.82,1181.43,31.99,44.38,Process,Product Management,Product Penetration
+PROD2455,APP-663,Appliances,2020-11-26,North,212054,8425,3.97,Retail,Pricing Strategy,Low,Positive,414130.41,382.65,33.86,-3.21,Process,Product Management,Product Penetration
+PROD2456,HEA-194,Healthcare,2025-01-18,North,775626,337037,43.45,Retail,Partnership,Low,Positive,155834.92,766.08,32.33,17.53,Process,Product Management,Product Penetration
+PROD2457,AUT-702,Automobile,2025-08-18,East,642031,291714,45.44,Wholesale,Brand Promotion,Low,Stable,485410.06,2303.31,37.98,22.6,Process,Product Management,Product Penetration
+PROD2458,ELE-896,Electronics,2024-10-24,East,398074,84411,21.2,Retail,Brand Promotion,Low,Stable,164351.14,3946.57,34.48,32.2,Process,Product Management,Product Penetration
+PROD2459,APP-663,Appliances,2021-07-12,North,336198,112254,33.39,Franchise,Product Diversification,Medium,Negative,306065.53,3339.0,2.66,-1.11,Process,Product Management,Product Penetration
+PROD2460,FAS-360,Fashion,2021-04-06,Central,42414,5736,13.52,Retail,Brand Promotion,Low,Negative,291958.92,4464.07,6.81,44.46,Process,Product Management,Product Penetration
+PROD2461,SPO-353,Sports,2023-09-13,West,106580,41810,39.23,Wholesale,Market Expansion,Medium,Positive,252703.35,3449.23,20.93,36.65,Process,Product Management,Product Penetration
+PROD2462,ELE-248,Electronics,2021-04-28,North,483586,51195,10.59,Online,Product Diversification,High,Negative,317416.35,2646.19,42.76,20.48,Process,Product Management,Product Penetration
+PROD2463,FAS-908,Fashion,2025-06-07,East,407681,44057,10.81,Retail,Product Diversification,High,Stable,393583.27,1211.61,31.9,59.95,Process,Product Management,Product Penetration
+PROD2464,AUT-496,Automobile,2022-07-11,North,251497,110857,44.08,Wholesale,Product Diversification,Low,Stable,185031.59,833.19,33.86,9.83,Process,Product Management,Product Penetration
+PROD2465,FAS-407,Fashion,2020-12-06,North,570283,92271,16.18,Online,Pricing Strategy,Medium,Positive,17873.64,3606.75,1.37,-6.52,Process,Product Management,Product Penetration
+PROD2466,FAS-571,Fashion,2024-02-22,East,411631,101405,24.63,Online,Market Expansion,Low,Stable,129129.52,1878.41,37.53,-7.54,Process,Product Management,Product Penetration
+PROD2467,AUT-730,Automobile,2024-01-28,North,596666,233837,39.19,Retail,Brand Promotion,Medium,Positive,386072.98,3574.01,10.54,5.27,Process,Product Management,Product Penetration
+PROD2468,SPO-341,Sports,2022-08-31,North,505660,135353,26.77,Online,Product Diversification,High,Positive,10342.5,3005.64,12.03,-5.13,Process,Product Management,Product Penetration
+PROD2469,FAS-718,Fashion,2020-11-03,North,338746,59755,17.64,Franchise,Product Diversification,Low,Negative,215050.49,1442.31,20.72,10.18,Process,Product Management,Product Penetration
+PROD2470,FAS-415,Fashion,2023-09-19,Central,409796,164793,40.21,Wholesale,Partnership,High,Positive,360859.83,2637.84,49.39,27.09,Process,Product Management,Product Penetration
+PROD2471,FAS-738,Fashion,2023-05-19,West,726629,297085,40.89,Wholesale,Brand Promotion,Low,Stable,367334.35,2864.49,15.51,41.39,Process,Product Management,Product Penetration
+PROD2472,FAS-252,Fashion,2021-09-25,East,795390,135129,16.99,Wholesale,Market Expansion,Low,Positive,210504.6,3358.93,22.59,19.09,Process,Product Management,Product Penetration
+PROD2473,ELE-128,Electronics,2024-06-22,North,418913,4359,1.04,Online,Pricing Strategy,Low,Stable,376097.65,545.33,35.52,41.84,Process,Product Management,Product Penetration
+PROD2474,HEA-820,Healthcare,2020-12-11,West,384201,58554,15.24,Online,Market Expansion,High,Negative,164684.4,2937.37,38.2,47.16,Process,Product Management,Product Penetration
+PROD2475,AUT-391,Automobile,2023-08-04,North,684394,52141,7.62,Franchise,Market Expansion,High,Stable,372394.23,303.6,42.28,43.79,Process,Product Management,Product Penetration
+PROD2476,FUR-760,Furniture,2022-04-01,Central,611103,142609,23.34,Direct Sales,Brand Promotion,High,Positive,466102.03,3854.46,37.72,27.68,Process,Product Management,Product Penetration
+PROD2477,SPO-742,Sports,2024-01-01,Central,915151,260761,28.49,Wholesale,Product Diversification,Medium,Stable,274182.46,3019.44,40.95,40.32,Process,Product Management,Product Penetration
+PROD2478,HEA-191,Healthcare,2023-07-17,East,290667,90688,31.2,Online,Brand Promotion,Medium,Stable,272551.09,1903.63,9.49,7.67,Process,Product Management,Product Penetration
+PROD2479,AUT-186,Automobile,2021-11-19,East,18082,4668,25.82,Direct Sales,Pricing Strategy,High,Stable,112419.24,4922.43,30.13,20.95,Process,Product Management,Product Penetration
+PROD2480,ELE-878,Electronics,2021-08-05,West,286554,38137,13.31,Franchise,Partnership,Low,Positive,78492.15,2687.85,38.81,33.35,Process,Product Management,Product Penetration
+PROD2481,APP-687,Appliances,2025-04-20,South,847505,300455,35.45,Franchise,Partnership,High,Positive,329667.0,4419.22,24.81,50.96,Process,Product Management,Product Penetration
+PROD2482,FUR-166,Furniture,2024-11-10,East,569627,16988,2.98,Direct Sales,Market Expansion,Low,Negative,349230.86,988.09,17.32,-4.69,Process,Product Management,Product Penetration
+PROD2483,APP-796,Appliances,2022-10-10,West,769572,25982,3.38,Online,Brand Promotion,Medium,Negative,162868.63,3467.44,12.47,31.36,Process,Product Management,Product Penetration
+PROD2484,FUR-635,Furniture,2021-04-03,West,599349,211115,35.22,Franchise,Product Diversification,High,Positive,65553.54,4971.65,18.37,42.17,Process,Product Management,Product Penetration
+PROD2485,SPO-385,Sports,2022-11-07,Central,166057,25001,15.06,Wholesale,Market Expansion,Medium,Positive,139597.76,4009.67,20.52,4.93,Process,Product Management,Product Penetration
+PROD2486,FAS-682,Fashion,2022-02-06,Central,359551,118037,32.83,Retail,Brand Promotion,Medium,Positive,65380.23,2221.23,15.85,12.57,Process,Product Management,Product Penetration
+PROD2487,SPO-230,Sports,2021-06-16,North,958836,282530,29.47,Franchise,Pricing Strategy,High,Stable,420940.61,851.2,44.22,7.41,Process,Product Management,Product Penetration
+PROD2488,AUT-240,Automobile,2023-11-21,South,642166,199414,31.05,Direct Sales,Partnership,High,Negative,17246.2,1501.78,29.6,25.13,Process,Product Management,Product Penetration
+PROD2489,FAS-740,Fashion,2023-03-15,South,159521,29058,18.22,Direct Sales,Pricing Strategy,Medium,Positive,121959.04,1733.34,10.68,43.42,Process,Product Management,Product Penetration
+PROD2490,HEA-169,Healthcare,2022-12-24,Central,781580,56195,7.19,Direct Sales,Partnership,Medium,Negative,78682.62,2302.96,15.64,23.21,Process,Product Management,Product Penetration
+PROD2491,FUR-256,Furniture,2023-01-30,South,475867,197405,41.48,Wholesale,Pricing Strategy,Low,Stable,454664.25,1982.93,25.56,-1.26,Process,Product Management,Product Penetration
+PROD2492,FAS-200,Fashion,2024-11-06,North,89500,41553,46.43,Retail,Pricing Strategy,Low,Positive,150583.61,1457.44,31.17,8.06,Process,Product Management,Product Penetration
+PROD2493,AUT-793,Automobile,2024-07-14,South,489705,95916,19.59,Online,Pricing Strategy,High,Positive,313526.95,4631.58,33.95,13.84,Process,Product Management,Product Penetration
+PROD2494,ELE-950,Electronics,2021-11-16,South,549940,236153,42.94,Direct Sales,Market Expansion,Low,Negative,257462.78,4388.84,13.75,16.99,Process,Product Management,Product Penetration
+PROD2495,FUR-241,Furniture,2025-04-03,Central,436712,108510,24.85,Wholesale,Product Diversification,Low,Positive,456601.39,4856.7,11.28,11.65,Process,Product Management,Product Penetration
+PROD2496,FUR-627,Furniture,2023-06-21,Central,876420,417688,47.66,Retail,Pricing Strategy,Medium,Negative,47790.52,1775.77,29.5,-4.93,Process,Product Management,Product Penetration
+PROD2497,FAS-350,Fashion,2024-06-08,North,968507,136667,14.11,Wholesale,Product Diversification,High,Stable,434593.73,981.91,37.64,20.64,Process,Product Management,Product Penetration
+PROD2498,SPO-816,Sports,2022-11-21,South,723007,213440,29.52,Franchise,Pricing Strategy,High,Stable,132319.18,1048.69,20.33,-2.47,Process,Product Management,Product Penetration
+PROD2499,ELE-746,Electronics,2023-01-03,East,553616,236733,42.76,Franchise,Market Expansion,High,Negative,430129.02,2924.61,14.33,37.53,Process,Product Management,Product Penetration

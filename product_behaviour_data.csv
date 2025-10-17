@@ -1,0 +1,501 @@
+product_id,product_name,category,launch_date,region,units_sold,average_usage_time_hrs_per_day,customer_rating,return_rate_percent,feedback_trend,feature_updates,marketing_channel,sales_growth_percent,product_lifecycle_stage,value_domain,data_segment,data_domain
+PROD1000,APP-995,Appliances,2023-12-24,Central,9799,4.17,3.3,4.59,Neutral,10,TV,41.32,Maturity,Process,Product Management,Product Behaviour
+PROD1001,SPO-511,Sports,2024-02-12,East,1244,1.69,2.8,1.85,Positive,17,Email Campaign,46.09,Introduction,Process,Product Management,Product Behaviour
+PROD1002,FUR-683,Furniture,2025-08-11,East,4797,6.57,4.4,6.76,Mixed,19,Online Ads,-6.42,Growth,Process,Product Management,Product Behaviour
+PROD1003,APP-797,Appliances,2024-12-01,West,5435,2.36,1.7,7.07,Negative,3,TV,40.89,Growth,Process,Product Management,Product Behaviour
+PROD1004,HEA-762,Healthcare,2024-01-30,West,6654,0.85,2.2,2.13,Neutral,17,Social Media,46.4,Introduction,Process,Product Management,Product Behaviour
+PROD1005,FUR-307,Furniture,2023-01-18,West,3887,0.99,3.8,2.45,Positive,12,Influencer Marketing,24.75,Decline,Process,Product Management,Product Behaviour
+PROD1006,AUT-948,Automobile,2023-07-24,East,3780,6.16,3.8,7.3,Neutral,10,Social Media,42.54,Introduction,Process,Product Management,Product Behaviour
+PROD1007,ELE-220,Electronics,2024-03-03,North,9906,4.21,2.1,8.73,Mixed,12,Influencer Marketing,24.52,Maturity,Process,Product Management,Product Behaviour
+PROD1008,AUT-672,Automobile,2024-07-03,South,2437,5.48,2.4,3.91,Negative,20,Email Campaign,17.39,Decline,Process,Product Management,Product Behaviour
+PROD1009,HEA-697,Healthcare,2023-01-21,North,5931,5.27,3.4,10.69,Negative,13,Influencer Marketing,16.15,Maturity,Process,Product Management,Product Behaviour
+PROD1010,FAS-477,Fashion,2025-05-09,East,6041,4.95,4.1,5.21,Neutral,1,Influencer Marketing,26.23,Maturity,Process,Product Management,Product Behaviour
+PROD1011,FUR-486,Furniture,2025-04-18,West,7299,7.77,2.2,10.03,Neutral,14,Print,48.67,Maturity,Process,Product Management,Product Behaviour
+PROD1012,FUR-754,Furniture,2024-10-09,Central,5429,4.51,2.3,5.61,Positive,9,Print,23.3,Decline,Process,Product Management,Product Behaviour
+PROD1013,HEA-787,Healthcare,2023-03-24,Central,5174,7.02,3.3,4.66,Negative,2,Influencer Marketing,19.49,Introduction,Process,Product Management,Product Behaviour
+PROD1014,FUR-801,Furniture,2025-08-21,North,7631,1.08,2.3,3.62,Negative,6,Print,2.18,Decline,Process,Product Management,Product Behaviour
+PROD1015,FUR-930,Furniture,2025-05-13,North,7911,3.48,1.1,4.32,Neutral,8,Online Ads,41.28,Growth,Process,Product Management,Product Behaviour
+PROD1016,FAS-709,Fashion,2022-12-08,South,3580,4.65,1.0,8.91,Mixed,7,Print,8.72,Introduction,Process,Product Management,Product Behaviour
+PROD1017,FAS-403,Fashion,2024-12-22,West,4097,6.56,1.1,6.71,Positive,8,Influencer Marketing,21.82,Growth,Process,Product Management,Product Behaviour
+PROD1018,FUR-142,Furniture,2024-11-18,West,8509,1.75,4.2,0.54,Negative,5,Social Media,13.67,Growth,Process,Product Management,Product Behaviour
+PROD1019,APP-542,Appliances,2024-04-28,West,3964,5.75,1.9,4.41,Positive,19,Email Campaign,47.1,Maturity,Process,Product Management,Product Behaviour
+PROD1020,ELE-284,Electronics,2023-10-14,East,7444,3.93,2.1,9.14,Positive,20,Social Media,8.59,Introduction,Process,Product Management,Product Behaviour
+PROD1021,AUT-679,Automobile,2025-09-28,North,6923,0.79,1.7,11.51,Positive,8,Email Campaign,37.49,Decline,Process,Product Management,Product Behaviour
+PROD1022,SPO-606,Sports,2023-10-19,North,5627,6.83,3.4,11.76,Neutral,20,Influencer Marketing,15.3,Decline,Process,Product Management,Product Behaviour
+PROD1023,HEA-138,Healthcare,2023-04-20,South,4265,1.36,2.3,5.21,Negative,12,Influencer Marketing,49.27,Decline,Process,Product Management,Product Behaviour
+PROD1024,FUR-700,Furniture,2023-10-07,North,9764,1.61,1.5,7.0,Mixed,12,Social Media,11.29,Introduction,Process,Product Management,Product Behaviour
+PROD1025,FUR-342,Furniture,2025-02-03,South,8908,1.69,2.7,14.09,Negative,19,Email Campaign,13.48,Introduction,Process,Product Management,Product Behaviour
+PROD1026,HEA-752,Healthcare,2023-06-04,North,2772,0.54,1.7,6.41,Positive,14,TV,10.75,Introduction,Process,Product Management,Product Behaviour
+PROD1027,ELE-762,Electronics,2023-03-26,South,9410,6.49,2.0,8.92,Positive,20,TV,26.33,Growth,Process,Product Management,Product Behaviour
+PROD1028,HEA-103,Healthcare,2025-06-04,South,2441,4.08,2.1,2.09,Neutral,7,Email Campaign,20.82,Growth,Process,Product Management,Product Behaviour
+PROD1029,APP-187,Appliances,2024-10-27,East,2313,2.38,2.9,2.02,Positive,12,Email Campaign,2.77,Decline,Process,Product Management,Product Behaviour
+PROD1030,FAS-851,Fashion,2023-03-01,East,4404,0.89,2.4,14.98,Mixed,10,Print,48.57,Decline,Process,Product Management,Product Behaviour
+PROD1031,FUR-363,Furniture,2024-08-16,North,3696,0.68,4.7,8.0,Positive,16,Influencer Marketing,-4.8,Maturity,Process,Product Management,Product Behaviour
+PROD1032,AUT-780,Automobile,2024-04-10,West,7474,7.51,3.5,2.69,Negative,6,Social Media,-4.08,Growth,Process,Product Management,Product Behaviour
+PROD1033,FUR-771,Furniture,2023-02-20,Central,9552,1.87,2.3,6.4,Neutral,10,Influencer Marketing,41.86,Maturity,Process,Product Management,Product Behaviour
+PROD1034,AUT-678,Automobile,2023-12-06,West,6720,7.83,3.1,11.03,Mixed,3,Email Campaign,41.43,Introduction,Process,Product Management,Product Behaviour
+PROD1035,FAS-991,Fashion,2024-05-03,West,9125,2.49,3.0,0.29,Neutral,12,Print,15.76,Decline,Process,Product Management,Product Behaviour
+PROD1036,HEA-467,Healthcare,2025-08-14,North,8506,4.91,4.0,12.07,Positive,4,TV,10.09,Maturity,Process,Product Management,Product Behaviour
+PROD1037,SPO-938,Sports,2024-01-25,West,5048,2.83,1.1,6.69,Negative,14,Online Ads,34.78,Maturity,Process,Product Management,Product Behaviour
+PROD1038,AUT-893,Automobile,2023-04-19,Central,795,4.27,1.7,14.43,Positive,0,TV,-8.94,Maturity,Process,Product Management,Product Behaviour
+PROD1039,ELE-813,Electronics,2025-01-09,South,3126,7.29,4.1,4.68,Neutral,17,Influencer Marketing,17.74,Growth,Process,Product Management,Product Behaviour
+PROD1040,FAS-700,Fashion,2023-07-11,West,4750,4.19,1.8,0.72,Mixed,4,Print,17.59,Decline,Process,Product Management,Product Behaviour
+PROD1041,HEA-895,Healthcare,2025-07-30,Central,4467,5.65,2.7,1.64,Positive,8,Social Media,23.02,Growth,Process,Product Management,Product Behaviour
+PROD1042,FUR-633,Furniture,2025-04-16,West,5214,0.9,4.3,9.28,Neutral,17,Email Campaign,21.32,Growth,Process,Product Management,Product Behaviour
+PROD1043,ELE-159,Electronics,2022-11-25,West,5320,1.38,3.6,1.87,Negative,5,TV,6.06,Growth,Process,Product Management,Product Behaviour
+PROD1044,ELE-538,Electronics,2025-10-06,Central,7846,4.5,4.2,2.7,Positive,20,Print,-8.75,Growth,Process,Product Management,Product Behaviour
+PROD1045,AUT-638,Automobile,2025-06-05,Central,8751,1.56,4.8,13.05,Neutral,11,Influencer Marketing,35.08,Decline,Process,Product Management,Product Behaviour
+PROD1046,HEA-874,Healthcare,2025-04-02,North,3303,3.15,1.8,8.65,Neutral,0,Social Media,15.89,Growth,Process,Product Management,Product Behaviour
+PROD1047,AUT-469,Automobile,2025-10-13,East,3994,4.91,3.2,10.58,Mixed,18,TV,15.28,Growth,Process,Product Management,Product Behaviour
+PROD1048,SPO-326,Sports,2023-12-03,Central,9086,2.11,3.9,4.72,Mixed,12,TV,1.96,Growth,Process,Product Management,Product Behaviour
+PROD1049,FUR-146,Furniture,2023-10-10,Central,5611,1.75,3.5,12.97,Negative,19,Online Ads,0.72,Maturity,Process,Product Management,Product Behaviour
+PROD1050,FAS-521,Fashion,2025-03-19,South,5463,7.66,1.2,8.33,Positive,8,Influencer Marketing,17.76,Introduction,Process,Product Management,Product Behaviour
+PROD1051,FAS-104,Fashion,2025-07-30,North,2827,0.78,1.1,4.78,Positive,16,TV,-2.6,Growth,Process,Product Management,Product Behaviour
+PROD1052,AUT-572,Automobile,2023-12-21,East,9048,2.77,3.4,4.39,Positive,20,Social Media,1.37,Decline,Process,Product Management,Product Behaviour
+PROD1053,ELE-123,Electronics,2025-10-16,North,1288,7.72,4.4,7.02,Negative,10,Print,30.35,Growth,Process,Product Management,Product Behaviour
+PROD1054,ELE-860,Electronics,2024-12-03,West,6110,0.93,3.8,7.53,Negative,11,Online Ads,48.65,Growth,Process,Product Management,Product Behaviour
+PROD1055,FUR-283,Furniture,2025-05-14,West,9524,2.57,2.9,13.36,Negative,8,Email Campaign,28.34,Growth,Process,Product Management,Product Behaviour
+PROD1056,ELE-593,Electronics,2025-02-09,West,4222,6.74,3.8,13.15,Mixed,8,Email Campaign,24.14,Decline,Process,Product Management,Product Behaviour
+PROD1057,FUR-532,Furniture,2025-02-06,East,9841,1.93,2.2,3.63,Neutral,2,Print,-1.87,Maturity,Process,Product Management,Product Behaviour
+PROD1058,AUT-323,Automobile,2022-10-28,West,7052,7.3,2.8,14.23,Negative,5,Influencer Marketing,30.64,Maturity,Process,Product Management,Product Behaviour
+PROD1059,APP-135,Appliances,2023-05-03,South,8130,1.48,2.8,14.34,Positive,0,Print,37.29,Introduction,Process,Product Management,Product Behaviour
+PROD1060,FUR-314,Furniture,2025-04-22,East,2959,3.25,3.5,11.42,Positive,17,Online Ads,12.23,Decline,Process,Product Management,Product Behaviour
+PROD1061,FAS-444,Fashion,2025-05-21,East,4501,4.2,3.1,11.43,Negative,20,Social Media,22.72,Maturity,Process,Product Management,Product Behaviour
+PROD1062,FAS-322,Fashion,2025-03-05,Central,9871,6.75,1.9,3.71,Positive,4,TV,36.7,Decline,Process,Product Management,Product Behaviour
+PROD1063,AUT-516,Automobile,2023-04-11,South,2637,1.28,1.9,10.02,Positive,7,Social Media,5.41,Introduction,Process,Product Management,Product Behaviour
+PROD1064,AUT-708,Automobile,2025-03-14,West,4210,5.31,1.3,9.88,Mixed,18,Email Campaign,-3.0,Decline,Process,Product Management,Product Behaviour
+PROD1065,SPO-312,Sports,2024-07-23,South,1705,6.19,4.4,4.4,Positive,10,TV,37.42,Maturity,Process,Product Management,Product Behaviour
+PROD1066,FUR-136,Furniture,2024-03-22,East,3227,7.25,4.3,6.94,Neutral,18,Print,-5.9,Growth,Process,Product Management,Product Behaviour
+PROD1067,FAS-786,Fashion,2024-02-05,South,3537,2.43,3.4,9.22,Negative,0,Online Ads,46.07,Maturity,Process,Product Management,Product Behaviour
+PROD1068,FUR-171,Furniture,2025-03-23,East,2330,5.64,4.8,10.03,Mixed,19,Social Media,27.23,Growth,Process,Product Management,Product Behaviour
+PROD1069,APP-135,Appliances,2023-06-26,South,1587,5.02,2.4,13.29,Mixed,13,Social Media,32.08,Growth,Process,Product Management,Product Behaviour
+PROD1070,FAS-161,Fashion,2024-07-17,North,8098,3.83,4.7,12.09,Positive,0,TV,-3.08,Growth,Process,Product Management,Product Behaviour
+PROD1071,APP-643,Appliances,2025-06-18,East,1655,5.13,4.6,5.38,Positive,19,Influencer Marketing,0.44,Decline,Process,Product Management,Product Behaviour
+PROD1072,SPO-185,Sports,2022-12-23,South,6014,4.61,3.8,7.13,Neutral,17,TV,-9.99,Growth,Process,Product Management,Product Behaviour
+PROD1073,ELE-348,Electronics,2025-06-09,North,3781,4.84,2.8,1.55,Positive,2,Email Campaign,9.32,Growth,Process,Product Management,Product Behaviour
+PROD1074,HEA-407,Healthcare,2025-01-12,South,5796,7.99,2.7,0.45,Positive,8,Email Campaign,22.15,Decline,Process,Product Management,Product Behaviour
+PROD1075,SPO-510,Sports,2024-04-10,Central,1063,3.42,4.5,7.68,Neutral,8,Influencer Marketing,25.56,Introduction,Process,Product Management,Product Behaviour
+PROD1076,APP-389,Appliances,2023-06-18,Central,7445,2.39,2.9,12.58,Negative,11,Social Media,41.98,Maturity,Process,Product Management,Product Behaviour
+PROD1077,SPO-657,Sports,2024-02-22,East,9832,3.24,1.1,11.8,Negative,12,Influencer Marketing,44.1,Growth,Process,Product Management,Product Behaviour
+PROD1078,APP-155,Appliances,2025-02-04,North,2872,6.32,5.0,12.32,Positive,18,Online Ads,23.3,Growth,Process,Product Management,Product Behaviour
+PROD1079,AUT-464,Automobile,2024-07-05,North,2525,4.21,1.8,5.19,Positive,15,Email Campaign,-8.01,Introduction,Process,Product Management,Product Behaviour
+PROD1080,SPO-214,Sports,2025-08-10,West,9963,2.85,4.9,8.4,Positive,13,Social Media,20.51,Introduction,Process,Product Management,Product Behaviour
+PROD1081,FAS-731,Fashion,2023-08-22,Central,6069,1.96,4.1,4.91,Negative,5,Social Media,-2.02,Decline,Process,Product Management,Product Behaviour
+PROD1082,ELE-780,Electronics,2025-07-13,West,4032,1.54,1.8,8.7,Mixed,4,Influencer Marketing,30.25,Growth,Process,Product Management,Product Behaviour
+PROD1083,FAS-983,Fashion,2022-11-17,West,5974,0.88,1.3,11.28,Mixed,16,Social Media,-1.46,Maturity,Process,Product Management,Product Behaviour
+PROD1084,FUR-455,Furniture,2025-04-02,East,8082,5.47,3.7,9.99,Neutral,11,Influencer Marketing,28.5,Maturity,Process,Product Management,Product Behaviour
+PROD1085,HEA-983,Healthcare,2024-03-14,South,2316,6.61,3.8,12.23,Neutral,18,Online Ads,-1.17,Maturity,Process,Product Management,Product Behaviour
+PROD1086,SPO-415,Sports,2023-08-06,Central,5342,6.04,4.3,12.35,Positive,16,TV,12.92,Growth,Process,Product Management,Product Behaviour
+PROD1087,HEA-777,Healthcare,2023-09-02,West,6303,7.58,2.4,13.56,Neutral,17,Online Ads,-1.54,Decline,Process,Product Management,Product Behaviour
+PROD1088,SPO-730,Sports,2023-05-03,North,7133,7.01,2.1,5.28,Positive,6,Email Campaign,20.41,Growth,Process,Product Management,Product Behaviour
+PROD1089,AUT-192,Automobile,2025-09-28,Central,8893,0.54,4.3,0.44,Mixed,3,Print,17.99,Introduction,Process,Product Management,Product Behaviour
+PROD1090,AUT-658,Automobile,2024-06-05,Central,7088,3.25,2.8,11.97,Mixed,9,TV,11.06,Decline,Process,Product Management,Product Behaviour
+PROD1091,AUT-886,Automobile,2024-12-10,Central,8259,4.47,3.5,3.03,Mixed,11,Influencer Marketing,3.34,Decline,Process,Product Management,Product Behaviour
+PROD1092,FAS-315,Fashion,2023-09-09,West,570,6.63,1.6,8.59,Neutral,13,Social Media,31.54,Introduction,Process,Product Management,Product Behaviour
+PROD1093,FUR-746,Furniture,2023-08-16,Central,1614,2.45,2.4,12.46,Positive,10,TV,18.11,Introduction,Process,Product Management,Product Behaviour
+PROD1094,FUR-436,Furniture,2024-09-04,West,3433,1.02,3.4,4.69,Mixed,7,Social Media,13.7,Introduction,Process,Product Management,Product Behaviour
+PROD1095,ELE-770,Electronics,2023-08-24,East,736,3.66,3.9,3.64,Positive,8,TV,10.3,Decline,Process,Product Management,Product Behaviour
+PROD1096,AUT-111,Automobile,2022-12-05,Central,2850,6.73,3.5,0.15,Mixed,14,Influencer Marketing,-6.9,Decline,Process,Product Management,Product Behaviour
+PROD1097,FAS-731,Fashion,2023-01-08,North,4413,2.52,2.9,0.71,Mixed,1,Print,7.74,Growth,Process,Product Management,Product Behaviour
+PROD1098,FUR-625,Furniture,2023-10-14,North,7656,0.78,2.5,0.12,Mixed,2,Email Campaign,38.07,Maturity,Process,Product Management,Product Behaviour
+PROD1099,FAS-444,Fashion,2023-12-31,Central,7928,5.9,2.2,8.31,Negative,9,Online Ads,-0.82,Maturity,Process,Product Management,Product Behaviour
+PROD1100,HEA-196,Healthcare,2023-05-25,Central,7060,4.87,4.4,7.45,Negative,20,Print,10.91,Growth,Process,Product Management,Product Behaviour
+PROD1101,ELE-719,Electronics,2023-12-16,West,1770,3.33,4.0,8.39,Neutral,14,TV,38.84,Maturity,Process,Product Management,Product Behaviour
+PROD1102,FUR-777,Furniture,2025-02-22,North,6674,6.44,2.9,2.5,Negative,20,Print,-1.16,Introduction,Process,Product Management,Product Behaviour
+PROD1103,AUT-753,Automobile,2023-01-29,West,948,3.87,2.5,0.97,Mixed,16,Email Campaign,-3.45,Decline,Process,Product Management,Product Behaviour
+PROD1104,ELE-845,Electronics,2024-08-06,West,8143,3.43,2.6,2.85,Mixed,1,Online Ads,43.17,Growth,Process,Product Management,Product Behaviour
+PROD1105,APP-122,Appliances,2023-01-07,West,828,2.61,2.5,3.89,Positive,15,Online Ads,-9.47,Decline,Process,Product Management,Product Behaviour
+PROD1106,ELE-523,Electronics,2024-08-01,South,670,7.2,1.4,3.84,Neutral,7,Print,-5.47,Decline,Process,Product Management,Product Behaviour
+PROD1107,ELE-301,Electronics,2025-07-22,South,2181,6.47,3.3,3.52,Positive,10,Email Campaign,35.55,Maturity,Process,Product Management,Product Behaviour
+PROD1108,AUT-998,Automobile,2023-11-07,East,5056,4.8,1.1,8.18,Mixed,4,Print,46.1,Maturity,Process,Product Management,Product Behaviour
+PROD1109,ELE-848,Electronics,2025-10-06,East,4376,2.75,1.0,10.1,Neutral,20,Social Media,18.03,Introduction,Process,Product Management,Product Behaviour
+PROD1110,ELE-627,Electronics,2025-05-28,West,6023,3.97,4.2,0.79,Neutral,20,Social Media,38.87,Maturity,Process,Product Management,Product Behaviour
+PROD1111,FAS-416,Fashion,2022-10-29,North,6520,4.08,2.3,8.04,Negative,0,Print,23.69,Growth,Process,Product Management,Product Behaviour
+PROD1112,SPO-541,Sports,2025-02-14,West,4905,4.01,4.1,2.94,Negative,17,Email Campaign,-1.83,Decline,Process,Product Management,Product Behaviour
+PROD1113,HEA-971,Healthcare,2023-11-07,North,6805,3.24,4.9,6.0,Positive,9,Influencer Marketing,0.24,Growth,Process,Product Management,Product Behaviour
+PROD1114,ELE-124,Electronics,2025-02-10,West,1279,6.22,3.1,5.41,Negative,1,Email Campaign,46.57,Decline,Process,Product Management,Product Behaviour
+PROD1115,SPO-755,Sports,2023-12-11,South,4099,5.59,2.9,0.89,Mixed,9,Influencer Marketing,3.02,Introduction,Process,Product Management,Product Behaviour
+PROD1116,ELE-205,Electronics,2025-02-03,West,138,1.09,3.9,3.37,Negative,17,Print,31.06,Maturity,Process,Product Management,Product Behaviour
+PROD1117,AUT-773,Automobile,2024-11-13,West,7356,5.44,3.4,3.82,Neutral,2,Influencer Marketing,13.55,Growth,Process,Product Management,Product Behaviour
+PROD1118,AUT-633,Automobile,2023-12-06,North,613,6.66,3.0,14.33,Mixed,13,Online Ads,10.57,Maturity,Process,Product Management,Product Behaviour
+PROD1119,HEA-119,Healthcare,2025-04-02,Central,717,7.01,2.3,7.52,Positive,19,Print,49.29,Introduction,Process,Product Management,Product Behaviour
+PROD1120,SPO-555,Sports,2024-04-17,South,7324,6.86,4.0,4.92,Mixed,16,Influencer Marketing,12.78,Introduction,Process,Product Management,Product Behaviour
+PROD1121,FAS-764,Fashion,2023-03-10,North,6018,1.83,3.9,13.38,Positive,9,Print,40.88,Introduction,Process,Product Management,Product Behaviour
+PROD1122,FAS-785,Fashion,2025-09-24,South,6218,1.87,2.7,14.1,Positive,0,Online Ads,31.92,Growth,Process,Product Management,Product Behaviour
+PROD1123,SPO-370,Sports,2025-04-10,East,5758,4.21,3.3,8.51,Negative,3,Social Media,18.39,Maturity,Process,Product Management,Product Behaviour
+PROD1124,FUR-268,Furniture,2024-07-10,East,165,5.3,1.3,1.17,Mixed,8,Social Media,26.42,Introduction,Process,Product Management,Product Behaviour
+PROD1125,APP-284,Appliances,2024-02-12,West,9780,1.54,4.8,4.06,Negative,15,Social Media,25.57,Maturity,Process,Product Management,Product Behaviour
+PROD1126,FUR-324,Furniture,2023-05-18,Central,9676,6.25,4.2,9.5,Negative,5,Influencer Marketing,18.36,Introduction,Process,Product Management,Product Behaviour
+PROD1127,FAS-492,Fashion,2023-05-03,South,8983,5.23,2.8,7.85,Negative,3,Social Media,6.42,Maturity,Process,Product Management,Product Behaviour
+PROD1128,ELE-119,Electronics,2023-12-04,Central,2758,5.7,2.7,14.93,Negative,7,Social Media,29.57,Introduction,Process,Product Management,Product Behaviour
+PROD1129,FAS-371,Fashion,2025-03-09,East,637,1.9,1.3,1.05,Mixed,14,Social Media,45.02,Introduction,Process,Product Management,Product Behaviour
+PROD1130,HEA-473,Healthcare,2024-11-18,Central,8438,6.19,1.9,12.11,Mixed,7,Influencer Marketing,2.14,Decline,Process,Product Management,Product Behaviour
+PROD1131,SPO-467,Sports,2024-05-11,Central,3167,1.89,1.6,14.13,Neutral,19,Email Campaign,46.23,Introduction,Process,Product Management,Product Behaviour
+PROD1132,FAS-975,Fashion,2025-01-17,North,7649,5.99,3.0,11.77,Negative,15,Email Campaign,12.78,Decline,Process,Product Management,Product Behaviour
+PROD1133,APP-225,Appliances,2024-01-31,North,3585,6.16,1.0,9.34,Mixed,19,TV,-3.26,Maturity,Process,Product Management,Product Behaviour
+PROD1134,APP-718,Appliances,2025-06-30,Central,705,2.76,4.6,3.02,Negative,6,Influencer Marketing,-1.27,Introduction,Process,Product Management,Product Behaviour
+PROD1135,APP-772,Appliances,2025-03-12,South,6602,3.25,1.8,7.85,Negative,8,TV,45.95,Maturity,Process,Product Management,Product Behaviour
+PROD1136,FAS-712,Fashion,2024-12-20,North,2884,3.19,4.7,5.16,Mixed,5,Email Campaign,22.25,Growth,Process,Product Management,Product Behaviour
+PROD1137,FAS-461,Fashion,2025-03-28,East,6245,1.02,2.3,8.18,Neutral,1,Email Campaign,-8.11,Maturity,Process,Product Management,Product Behaviour
+PROD1138,AUT-346,Automobile,2023-03-20,South,5198,4.46,3.7,8.75,Mixed,0,Email Campaign,47.65,Introduction,Process,Product Management,Product Behaviour
+PROD1139,FUR-926,Furniture,2023-05-05,North,9189,7.92,4.4,4.49,Neutral,0,Influencer Marketing,32.46,Growth,Process,Product Management,Product Behaviour
+PROD1140,FAS-399,Fashion,2025-07-30,Central,8081,7.58,3.8,1.35,Mixed,11,Print,4.54,Introduction,Process,Product Management,Product Behaviour
+PROD1141,HEA-913,Healthcare,2025-05-31,South,7397,2.19,2.1,4.89,Mixed,4,Email Campaign,-2.37,Growth,Process,Product Management,Product Behaviour
+PROD1142,SPO-607,Sports,2024-01-15,West,293,4.15,2.7,11.25,Mixed,7,Social Media,1.21,Maturity,Process,Product Management,Product Behaviour
+PROD1143,AUT-703,Automobile,2025-07-18,East,3448,1.22,4.9,7.11,Neutral,5,Print,32.17,Growth,Process,Product Management,Product Behaviour
+PROD1144,SPO-922,Sports,2024-03-20,West,4509,5.67,4.2,10.47,Positive,17,Email Campaign,10.17,Growth,Process,Product Management,Product Behaviour
+PROD1145,SPO-230,Sports,2025-10-03,East,7939,2.89,2.9,14.46,Neutral,15,Online Ads,30.01,Introduction,Process,Product Management,Product Behaviour
+PROD1146,AUT-404,Automobile,2023-03-27,North,4827,1.21,2.0,14.0,Negative,3,Email Campaign,42.16,Introduction,Process,Product Management,Product Behaviour
+PROD1147,FAS-963,Fashion,2022-11-09,Central,1365,1.9,4.5,10.98,Neutral,5,Email Campaign,-0.98,Growth,Process,Product Management,Product Behaviour
+PROD1148,ELE-328,Electronics,2024-02-19,North,3515,3.24,3.0,14.18,Positive,3,Social Media,45.99,Introduction,Process,Product Management,Product Behaviour
+PROD1149,FUR-597,Furniture,2025-09-16,South,1287,7.52,2.2,9.86,Negative,8,Email Campaign,16.17,Growth,Process,Product Management,Product Behaviour
+PROD1150,FAS-209,Fashion,2024-03-17,Central,742,2.19,3.7,1.27,Positive,17,TV,36.54,Maturity,Process,Product Management,Product Behaviour
+PROD1151,SPO-740,Sports,2025-05-25,East,3785,5.93,3.9,2.33,Positive,6,TV,7.82,Introduction,Process,Product Management,Product Behaviour
+PROD1152,APP-439,Appliances,2023-11-25,North,3122,0.74,4.1,8.8,Neutral,12,Influencer Marketing,-1.55,Introduction,Process,Product Management,Product Behaviour
+PROD1153,APP-830,Appliances,2025-08-09,West,2702,1.18,3.7,1.38,Mixed,3,Online Ads,27.51,Decline,Process,Product Management,Product Behaviour
+PROD1154,HEA-218,Healthcare,2023-06-11,East,9653,1.58,3.3,12.67,Negative,16,TV,35.0,Introduction,Process,Product Management,Product Behaviour
+PROD1155,HEA-804,Healthcare,2024-07-27,South,5036,5.06,3.6,5.9,Mixed,13,Print,44.71,Maturity,Process,Product Management,Product Behaviour
+PROD1156,FUR-715,Furniture,2024-02-27,North,1926,0.63,4.6,14.47,Negative,8,Influencer Marketing,-4.45,Growth,Process,Product Management,Product Behaviour
+PROD1157,FUR-979,Furniture,2023-06-29,East,2350,2.11,2.5,8.01,Neutral,7,TV,0.57,Introduction,Process,Product Management,Product Behaviour
+PROD1158,ELE-517,Electronics,2024-04-24,Central,3981,1.57,2.1,3.96,Mixed,0,Print,-9.41,Maturity,Process,Product Management,Product Behaviour
+PROD1159,HEA-368,Healthcare,2024-11-13,Central,3412,5.86,4.2,10.61,Positive,13,Email Campaign,44.22,Maturity,Process,Product Management,Product Behaviour
+PROD1160,HEA-592,Healthcare,2025-03-03,North,6266,5.72,2.9,8.62,Neutral,3,Online Ads,45.39,Maturity,Process,Product Management,Product Behaviour
+PROD1161,ELE-980,Electronics,2024-09-18,North,6072,4.13,4.2,8.0,Negative,13,Print,14.65,Decline,Process,Product Management,Product Behaviour
+PROD1162,HEA-409,Healthcare,2025-08-19,North,4751,3.17,1.1,8.45,Mixed,9,Social Media,21.44,Introduction,Process,Product Management,Product Behaviour
+PROD1163,ELE-801,Electronics,2024-01-17,South,551,3.01,3.8,13.8,Mixed,1,Email Campaign,23.95,Growth,Process,Product Management,Product Behaviour
+PROD1164,SPO-424,Sports,2024-03-12,West,196,4.47,3.6,4.99,Positive,12,Online Ads,46.49,Maturity,Process,Product Management,Product Behaviour
+PROD1165,HEA-793,Healthcare,2023-09-22,Central,6532,5.14,3.9,6.7,Positive,9,Email Campaign,17.15,Growth,Process,Product Management,Product Behaviour
+PROD1166,FAS-413,Fashion,2023-02-07,West,4650,5.29,3.2,11.54,Positive,5,TV,1.07,Growth,Process,Product Management,Product Behaviour
+PROD1167,FAS-412,Fashion,2023-03-21,South,4161,1.15,4.7,14.57,Mixed,16,Online Ads,13.06,Decline,Process,Product Management,Product Behaviour
+PROD1168,HEA-334,Healthcare,2025-01-04,East,3631,4.8,3.0,4.45,Mixed,10,TV,14.55,Maturity,Process,Product Management,Product Behaviour
+PROD1169,SPO-994,Sports,2024-01-19,West,1706,5.68,2.5,8.28,Neutral,14,Email Campaign,23.29,Growth,Process,Product Management,Product Behaviour
+PROD1170,AUT-508,Automobile,2023-11-07,West,4131,3.16,4.9,12.51,Negative,5,Influencer Marketing,33.76,Maturity,Process,Product Management,Product Behaviour
+PROD1171,FUR-811,Furniture,2024-10-21,East,8610,0.97,1.3,13.96,Positive,2,Print,17.33,Introduction,Process,Product Management,Product Behaviour
+PROD1172,APP-960,Appliances,2024-01-22,Central,4501,5.65,2.3,8.51,Negative,19,Influencer Marketing,24.26,Growth,Process,Product Management,Product Behaviour
+PROD1173,FUR-330,Furniture,2023-07-01,North,607,0.54,3.8,8.95,Neutral,1,Social Media,13.78,Growth,Process,Product Management,Product Behaviour
+PROD1174,APP-747,Appliances,2023-02-24,East,5666,5.82,4.4,8.99,Positive,17,Print,23.14,Decline,Process,Product Management,Product Behaviour
+PROD1175,SPO-829,Sports,2023-02-23,North,3372,5.42,3.0,8.08,Negative,5,Online Ads,-4.26,Growth,Process,Product Management,Product Behaviour
+PROD1176,FAS-739,Fashion,2024-10-25,South,6792,2.21,4.5,4.59,Neutral,3,Print,4.61,Decline,Process,Product Management,Product Behaviour
+PROD1177,ELE-165,Electronics,2023-10-03,South,8330,7.78,2.3,7.16,Mixed,12,TV,-5.16,Decline,Process,Product Management,Product Behaviour
+PROD1178,FUR-364,Furniture,2025-10-13,North,2807,1.65,2.8,13.15,Mixed,18,TV,48.82,Growth,Process,Product Management,Product Behaviour
+PROD1179,HEA-607,Healthcare,2023-03-07,Central,1425,4.18,1.4,0.45,Neutral,18,Email Campaign,21.86,Growth,Process,Product Management,Product Behaviour
+PROD1180,FAS-787,Fashion,2025-02-23,South,6685,5.01,1.9,11.96,Mixed,20,Print,23.99,Decline,Process,Product Management,Product Behaviour
+PROD1181,FUR-931,Furniture,2023-01-26,South,8581,5.4,4.8,9.76,Neutral,18,Email Campaign,47.69,Decline,Process,Product Management,Product Behaviour
+PROD1182,SPO-914,Sports,2025-03-10,North,367,4.46,2.0,10.44,Neutral,14,TV,-8.83,Growth,Process,Product Management,Product Behaviour
+PROD1183,SPO-431,Sports,2024-12-24,Central,3178,5.12,1.7,9.73,Mixed,19,Email Campaign,19.74,Maturity,Process,Product Management,Product Behaviour
+PROD1184,SPO-571,Sports,2025-01-29,North,9391,3.8,2.6,7.53,Neutral,8,Influencer Marketing,30.1,Introduction,Process,Product Management,Product Behaviour
+PROD1185,AUT-566,Automobile,2025-09-28,East,5623,2.23,3.6,9.64,Positive,10,TV,38.96,Decline,Process,Product Management,Product Behaviour
+PROD1186,SPO-920,Sports,2022-11-26,West,8157,1.73,3.0,3.36,Mixed,19,TV,42.4,Decline,Process,Product Management,Product Behaviour
+PROD1187,SPO-724,Sports,2024-06-21,Central,5470,7.09,4.0,0.84,Neutral,10,Influencer Marketing,-9.35,Introduction,Process,Product Management,Product Behaviour
+PROD1188,FUR-473,Furniture,2024-09-02,Central,5589,6.85,4.0,12.25,Positive,10,Social Media,8.77,Decline,Process,Product Management,Product Behaviour
+PROD1189,FUR-596,Furniture,2024-09-13,South,2202,2.78,4.4,4.0,Negative,5,Online Ads,19.81,Decline,Process,Product Management,Product Behaviour
+PROD1190,SPO-399,Sports,2022-11-16,North,7343,5.3,3.9,6.73,Mixed,20,Email Campaign,31.84,Growth,Process,Product Management,Product Behaviour
+PROD1191,APP-974,Appliances,2023-05-07,Central,6556,3.93,1.3,8.14,Mixed,19,Print,16.5,Growth,Process,Product Management,Product Behaviour
+PROD1192,HEA-414,Healthcare,2025-04-04,North,1643,2.92,2.0,9.83,Negative,9,Social Media,13.93,Maturity,Process,Product Management,Product Behaviour
+PROD1193,AUT-804,Automobile,2024-09-14,North,3821,3.11,2.0,6.68,Negative,14,Online Ads,30.31,Maturity,Process,Product Management,Product Behaviour
+PROD1194,SPO-465,Sports,2023-07-14,West,2320,4.91,2.4,0.58,Mixed,12,TV,-8.01,Decline,Process,Product Management,Product Behaviour
+PROD1195,ELE-777,Electronics,2025-10-01,East,5863,2.31,2.8,1.72,Positive,6,Online Ads,-9.92,Maturity,Process,Product Management,Product Behaviour
+PROD1196,ELE-200,Electronics,2025-10-01,Central,5894,4.94,2.0,11.13,Mixed,5,Social Media,18.93,Introduction,Process,Product Management,Product Behaviour
+PROD1197,AUT-547,Automobile,2023-05-27,South,3131,5.57,4.7,11.48,Mixed,12,Influencer Marketing,41.67,Maturity,Process,Product Management,Product Behaviour
+PROD1198,ELE-309,Electronics,2024-09-13,North,1663,5.42,2.3,7.53,Positive,3,TV,37.3,Introduction,Process,Product Management,Product Behaviour
+PROD1199,ELE-941,Electronics,2025-07-09,West,3959,5.92,2.7,9.05,Negative,19,Influencer Marketing,22.48,Decline,Process,Product Management,Product Behaviour
+PROD1200,FUR-663,Furniture,2023-11-17,West,3691,4.72,4.7,4.28,Mixed,11,Online Ads,14.83,Maturity,Process,Product Management,Product Behaviour
+PROD1201,ELE-493,Electronics,2024-10-25,Central,6309,2.5,4.3,3.04,Mixed,0,Influencer Marketing,5.87,Maturity,Process,Product Management,Product Behaviour
+PROD1202,SPO-863,Sports,2023-09-13,Central,4242,3.97,4.8,4.29,Negative,18,Social Media,14.3,Decline,Process,Product Management,Product Behaviour
+PROD1203,APP-296,Appliances,2023-06-15,Central,2899,6.55,3.2,5.79,Neutral,10,Online Ads,21.49,Growth,Process,Product Management,Product Behaviour
+PROD1204,ELE-150,Electronics,2023-10-17,South,277,6.93,3.2,7.41,Negative,12,Online Ads,-1.48,Maturity,Process,Product Management,Product Behaviour
+PROD1205,ELE-552,Electronics,2023-08-16,East,9595,3.44,1.3,11.09,Positive,6,Social Media,10.16,Growth,Process,Product Management,Product Behaviour
+PROD1206,ELE-246,Electronics,2023-10-27,West,5186,4.9,4.2,8.77,Negative,8,Influencer Marketing,46.38,Growth,Process,Product Management,Product Behaviour
+PROD1207,SPO-797,Sports,2025-07-27,Central,7055,3.77,2.2,10.1,Neutral,3,Online Ads,24.2,Growth,Process,Product Management,Product Behaviour
+PROD1208,HEA-913,Healthcare,2024-09-15,East,7568,4.55,2.1,11.84,Negative,2,TV,35.84,Growth,Process,Product Management,Product Behaviour
+PROD1209,HEA-779,Healthcare,2025-09-22,East,7202,6.47,1.2,12.4,Negative,1,TV,18.02,Decline,Process,Product Management,Product Behaviour
+PROD1210,APP-457,Appliances,2024-04-21,South,9528,5.68,1.1,10.33,Mixed,17,Online Ads,35.12,Growth,Process,Product Management,Product Behaviour
+PROD1211,FAS-563,Fashion,2023-05-06,South,3781,7.96,3.3,2.32,Positive,6,Influencer Marketing,14.56,Growth,Process,Product Management,Product Behaviour
+PROD1212,AUT-867,Automobile,2025-06-28,North,5926,4.42,2.8,13.06,Positive,14,Social Media,49.79,Introduction,Process,Product Management,Product Behaviour
+PROD1213,HEA-869,Healthcare,2024-05-01,South,6204,7.67,2.6,6.46,Mixed,17,TV,37.87,Decline,Process,Product Management,Product Behaviour
+PROD1214,FAS-943,Fashion,2022-12-08,North,6352,3.08,3.0,5.07,Mixed,18,TV,46.71,Growth,Process,Product Management,Product Behaviour
+PROD1215,HEA-959,Healthcare,2025-06-22,North,4490,7.51,3.4,12.57,Negative,19,Online Ads,45.2,Maturity,Process,Product Management,Product Behaviour
+PROD1216,HEA-920,Healthcare,2023-03-02,South,4154,2.59,3.0,13.01,Neutral,14,Online Ads,31.9,Growth,Process,Product Management,Product Behaviour
+PROD1217,FUR-622,Furniture,2025-05-01,West,1190,6.39,4.8,14.93,Mixed,14,Influencer Marketing,-8.25,Growth,Process,Product Management,Product Behaviour
+PROD1218,APP-769,Appliances,2024-11-04,South,6900,4.98,3.7,13.59,Neutral,17,Print,37.19,Decline,Process,Product Management,Product Behaviour
+PROD1219,AUT-277,Automobile,2024-07-21,East,4213,6.44,2.7,9.55,Negative,1,Influencer Marketing,41.41,Maturity,Process,Product Management,Product Behaviour
+PROD1220,AUT-777,Automobile,2023-08-08,Central,3019,3.65,1.8,4.72,Mixed,16,TV,20.25,Decline,Process,Product Management,Product Behaviour
+PROD1221,APP-896,Appliances,2024-06-14,North,9712,1.3,4.9,12.72,Mixed,1,Online Ads,18.2,Decline,Process,Product Management,Product Behaviour
+PROD1222,AUT-270,Automobile,2024-03-24,East,981,3.81,4.6,6.29,Negative,9,TV,45.35,Decline,Process,Product Management,Product Behaviour
+PROD1223,SPO-216,Sports,2025-09-29,North,9463,1.91,3.1,0.44,Neutral,12,Influencer Marketing,3.01,Introduction,Process,Product Management,Product Behaviour
+PROD1224,AUT-108,Automobile,2023-09-18,North,1204,1.75,1.2,0.54,Negative,14,Online Ads,21.25,Maturity,Process,Product Management,Product Behaviour
+PROD1225,FAS-712,Fashion,2023-07-19,Central,6828,6.64,4.6,12.64,Positive,2,Print,22.86,Growth,Process,Product Management,Product Behaviour
+PROD1226,FUR-316,Furniture,2022-11-12,North,2666,2.25,3.6,12.53,Neutral,12,Social Media,1.21,Growth,Process,Product Management,Product Behaviour
+PROD1227,FUR-382,Furniture,2023-11-15,Central,8215,1.2,1.9,12.84,Negative,12,TV,43.63,Introduction,Process,Product Management,Product Behaviour
+PROD1228,APP-847,Appliances,2024-08-13,West,2954,1.57,2.2,8.6,Negative,17,TV,-3.39,Maturity,Process,Product Management,Product Behaviour
+PROD1229,APP-228,Appliances,2023-02-09,East,3691,2.91,1.0,14.6,Negative,12,Online Ads,39.17,Growth,Process,Product Management,Product Behaviour
+PROD1230,ELE-380,Electronics,2024-07-17,North,7888,6.99,2.6,6.88,Positive,14,Influencer Marketing,0.11,Growth,Process,Product Management,Product Behaviour
+PROD1231,FUR-176,Furniture,2022-11-25,North,6201,7.13,3.4,12.67,Positive,7,Influencer Marketing,-8.19,Growth,Process,Product Management,Product Behaviour
+PROD1232,ELE-950,Electronics,2024-04-19,West,1829,4.14,3.0,12.09,Positive,7,TV,23.78,Growth,Process,Product Management,Product Behaviour
+PROD1233,HEA-223,Healthcare,2024-07-05,South,7153,7.34,1.7,12.48,Mixed,1,TV,7.65,Maturity,Process,Product Management,Product Behaviour
+PROD1234,SPO-291,Sports,2023-06-08,East,2906,3.32,3.7,6.87,Mixed,17,Influencer Marketing,38.58,Introduction,Process,Product Management,Product Behaviour
+PROD1235,HEA-614,Healthcare,2025-10-16,West,8269,1.94,4.3,0.18,Positive,6,Online Ads,35.94,Decline,Process,Product Management,Product Behaviour
+PROD1236,ELE-569,Electronics,2023-03-16,West,5135,6.0,3.5,3.57,Mixed,12,Print,11.31,Introduction,Process,Product Management,Product Behaviour
+PROD1237,AUT-284,Automobile,2025-06-08,North,3586,2.9,3.6,9.51,Mixed,9,TV,43.52,Introduction,Process,Product Management,Product Behaviour
+PROD1238,FAS-345,Fashion,2023-06-08,South,4493,1.9,3.0,2.12,Mixed,16,Email Campaign,28.93,Growth,Process,Product Management,Product Behaviour
+PROD1239,ELE-227,Electronics,2024-04-20,West,1540,0.85,3.6,8.69,Neutral,19,Online Ads,27.85,Growth,Process,Product Management,Product Behaviour
+PROD1240,APP-275,Appliances,2025-01-13,Central,4082,7.58,2.2,3.46,Positive,19,Email Campaign,20.2,Decline,Process,Product Management,Product Behaviour
+PROD1241,FUR-416,Furniture,2024-04-06,East,7606,0.61,1.9,0.47,Negative,3,Influencer Marketing,16.28,Introduction,Process,Product Management,Product Behaviour
+PROD1242,ELE-183,Electronics,2024-12-17,Central,3504,3.79,4.5,2.09,Negative,4,TV,-1.72,Decline,Process,Product Management,Product Behaviour
+PROD1243,FUR-621,Furniture,2025-02-15,West,4786,0.92,3.2,10.65,Mixed,20,Social Media,12.17,Introduction,Process,Product Management,Product Behaviour
+PROD1244,AUT-258,Automobile,2025-03-25,East,5398,1.55,3.7,3.3,Positive,18,Social Media,-0.0,Maturity,Process,Product Management,Product Behaviour
+PROD1245,AUT-408,Automobile,2024-04-14,Central,7311,2.43,1.2,5.74,Negative,20,Influencer Marketing,-1.59,Decline,Process,Product Management,Product Behaviour
+PROD1246,APP-620,Appliances,2024-11-03,East,9139,6.96,1.8,11.8,Positive,10,Social Media,38.06,Introduction,Process,Product Management,Product Behaviour
+PROD1247,APP-964,Appliances,2024-05-22,Central,2768,6.06,1.7,14.83,Neutral,16,Influencer Marketing,35.24,Maturity,Process,Product Management,Product Behaviour
+PROD1248,APP-756,Appliances,2025-02-10,West,9679,3.92,3.4,0.68,Positive,15,TV,42.85,Growth,Process,Product Management,Product Behaviour
+PROD1249,APP-850,Appliances,2023-02-09,West,4755,5.92,2.7,1.48,Positive,15,Print,4.98,Maturity,Process,Product Management,Product Behaviour
+PROD1250,FUR-381,Furniture,2024-12-26,Central,2430,0.72,4.3,0.51,Positive,13,Social Media,49.06,Decline,Process,Product Management,Product Behaviour
+PROD1251,SPO-204,Sports,2023-03-10,Central,4572,3.64,2.5,6.29,Positive,6,Online Ads,-7.84,Introduction,Process,Product Management,Product Behaviour
+PROD1252,FUR-807,Furniture,2025-03-11,South,7169,6.11,1.8,4.72,Negative,8,TV,22.14,Maturity,Process,Product Management,Product Behaviour
+PROD1253,ELE-597,Electronics,2025-01-18,Central,8447,0.81,2.0,11.32,Neutral,14,Influencer Marketing,31.25,Introduction,Process,Product Management,Product Behaviour
+PROD1254,FAS-305,Fashion,2024-06-24,South,7139,5.74,2.6,12.57,Positive,6,Email Campaign,13.18,Maturity,Process,Product Management,Product Behaviour
+PROD1255,FUR-103,Furniture,2024-03-21,North,1104,6.1,3.0,3.31,Mixed,14,Social Media,41.65,Growth,Process,Product Management,Product Behaviour
+PROD1256,HEA-686,Healthcare,2023-03-26,West,1635,1.72,2.2,1.95,Negative,1,Influencer Marketing,28.15,Decline,Process,Product Management,Product Behaviour
+PROD1257,FUR-426,Furniture,2023-07-31,East,3934,4.54,5.0,14.71,Negative,3,Print,1.3,Maturity,Process,Product Management,Product Behaviour
+PROD1258,SPO-312,Sports,2025-07-02,West,3196,4.58,3.2,2.26,Neutral,6,Print,6.68,Decline,Process,Product Management,Product Behaviour
+PROD1259,ELE-147,Electronics,2025-09-24,Central,1937,3.55,3.1,7.49,Positive,12,Online Ads,25.86,Decline,Process,Product Management,Product Behaviour
+PROD1260,ELE-447,Electronics,2023-04-28,North,5257,5.89,2.6,8.87,Mixed,0,TV,32.82,Introduction,Process,Product Management,Product Behaviour
+PROD1261,FUR-883,Furniture,2025-07-24,West,9489,6.56,4.2,3.06,Neutral,7,Influencer Marketing,32.45,Introduction,Process,Product Management,Product Behaviour
+PROD1262,FUR-169,Furniture,2023-11-06,South,3876,3.02,1.9,8.29,Negative,5,Online Ads,-7.23,Growth,Process,Product Management,Product Behaviour
+PROD1263,ELE-228,Electronics,2023-10-06,West,3312,1.46,3.8,8.75,Neutral,1,Influencer Marketing,25.43,Decline,Process,Product Management,Product Behaviour
+PROD1264,SPO-785,Sports,2024-03-16,Central,7063,1.08,1.6,13.45,Neutral,1,Email Campaign,43.45,Growth,Process,Product Management,Product Behaviour
+PROD1265,FAS-115,Fashion,2023-11-18,West,1232,1.99,3.9,11.26,Positive,20,Social Media,-4.53,Decline,Process,Product Management,Product Behaviour
+PROD1266,HEA-872,Healthcare,2025-02-23,West,8343,1.67,1.5,5.72,Mixed,8,Social Media,26.35,Growth,Process,Product Management,Product Behaviour
+PROD1267,APP-956,Appliances,2024-03-28,North,623,3.13,1.3,12.64,Mixed,6,Print,34.23,Maturity,Process,Product Management,Product Behaviour
+PROD1268,HEA-463,Healthcare,2025-01-23,Central,9506,4.02,4.5,7.78,Neutral,7,Online Ads,31.25,Introduction,Process,Product Management,Product Behaviour
+PROD1269,SPO-818,Sports,2023-05-07,North,7463,1.1,1.1,9.43,Mixed,16,Print,-3.22,Decline,Process,Product Management,Product Behaviour
+PROD1270,ELE-139,Electronics,2023-04-18,North,1420,3.07,4.7,0.64,Negative,17,Social Media,2.77,Maturity,Process,Product Management,Product Behaviour
+PROD1271,AUT-566,Automobile,2022-11-05,West,5521,7.85,3.9,5.73,Positive,20,Online Ads,4.69,Introduction,Process,Product Management,Product Behaviour
+PROD1272,FUR-200,Furniture,2023-01-28,South,5046,4.97,4.0,10.33,Positive,20,Print,38.54,Maturity,Process,Product Management,Product Behaviour
+PROD1273,AUT-784,Automobile,2023-06-29,Central,5989,3.26,1.8,7.08,Mixed,1,Influencer Marketing,24.5,Maturity,Process,Product Management,Product Behaviour
+PROD1274,APP-249,Appliances,2023-02-19,West,5012,3.57,2.2,3.0,Mixed,7,Influencer Marketing,-6.84,Maturity,Process,Product Management,Product Behaviour
+PROD1275,AUT-462,Automobile,2023-06-24,North,1075,7.23,3.2,10.39,Neutral,5,Online Ads,42.09,Introduction,Process,Product Management,Product Behaviour
+PROD1276,FAS-125,Fashion,2024-03-10,North,2023,2.64,3.2,8.84,Positive,13,Social Media,34.49,Maturity,Process,Product Management,Product Behaviour
+PROD1277,FAS-740,Fashion,2023-04-20,West,1426,2.56,2.9,3.01,Positive,8,Print,10.52,Growth,Process,Product Management,Product Behaviour
+PROD1278,AUT-264,Automobile,2024-08-29,West,8604,7.88,3.6,10.57,Neutral,2,TV,1.96,Growth,Process,Product Management,Product Behaviour
+PROD1279,APP-278,Appliances,2024-04-18,West,2369,7.02,2.3,5.89,Neutral,15,Influencer Marketing,-3.76,Maturity,Process,Product Management,Product Behaviour
+PROD1280,HEA-786,Healthcare,2024-06-06,Central,2780,1.99,2.7,5.36,Negative,5,Social Media,5.05,Maturity,Process,Product Management,Product Behaviour
+PROD1281,HEA-154,Healthcare,2024-04-09,West,7397,5.74,3.7,13.65,Neutral,13,Email Campaign,-6.5,Growth,Process,Product Management,Product Behaviour
+PROD1282,FAS-905,Fashion,2024-03-06,Central,516,5.11,2.7,9.56,Mixed,4,Online Ads,1.46,Decline,Process,Product Management,Product Behaviour
+PROD1283,FAS-257,Fashion,2025-06-20,Central,5218,2.76,2.0,4.45,Negative,5,Print,2.51,Growth,Process,Product Management,Product Behaviour
+PROD1284,FUR-442,Furniture,2024-07-03,Central,1480,7.44,2.0,12.33,Mixed,1,Social Media,14.06,Decline,Process,Product Management,Product Behaviour
+PROD1285,FUR-597,Furniture,2023-11-04,West,5070,7.29,4.7,9.21,Positive,13,Online Ads,32.35,Decline,Process,Product Management,Product Behaviour
+PROD1286,APP-644,Appliances,2024-10-13,East,7387,7.38,1.1,5.89,Neutral,1,TV,11.59,Introduction,Process,Product Management,Product Behaviour
+PROD1287,SPO-710,Sports,2025-09-08,East,765,4.3,1.4,12.95,Neutral,17,Email Campaign,11.24,Introduction,Process,Product Management,Product Behaviour
+PROD1288,AUT-840,Automobile,2023-08-22,North,7927,2.92,1.8,13.15,Negative,11,Print,34.69,Maturity,Process,Product Management,Product Behaviour
+PROD1289,APP-190,Appliances,2024-06-25,South,8136,1.62,4.6,7.17,Negative,14,TV,-4.82,Maturity,Process,Product Management,Product Behaviour
+PROD1290,AUT-152,Automobile,2023-03-22,North,9338,4.24,4.6,1.78,Neutral,18,Print,17.18,Decline,Process,Product Management,Product Behaviour
+PROD1291,AUT-267,Automobile,2024-05-23,Central,2927,5.46,4.2,5.35,Positive,7,Print,49.66,Introduction,Process,Product Management,Product Behaviour
+PROD1292,HEA-727,Healthcare,2023-01-22,Central,5512,2.97,1.4,9.38,Mixed,11,Social Media,39.17,Decline,Process,Product Management,Product Behaviour
+PROD1293,FUR-353,Furniture,2025-01-12,East,3389,3.43,4.1,14.21,Neutral,18,Online Ads,6.58,Growth,Process,Product Management,Product Behaviour
+PROD1294,APP-330,Appliances,2024-01-03,North,3772,7.98,2.9,10.03,Neutral,14,TV,-5.18,Maturity,Process,Product Management,Product Behaviour
+PROD1295,HEA-527,Healthcare,2024-03-20,Central,1442,6.16,4.3,0.32,Negative,15,Email Campaign,22.46,Growth,Process,Product Management,Product Behaviour
+PROD1296,AUT-696,Automobile,2023-11-22,Central,9638,3.94,4.5,11.49,Neutral,12,TV,-5.41,Growth,Process,Product Management,Product Behaviour
+PROD1297,HEA-858,Healthcare,2025-10-10,West,6994,4.4,4.7,2.99,Negative,6,Print,43.3,Introduction,Process,Product Management,Product Behaviour
+PROD1298,SPO-462,Sports,2023-04-08,Central,8623,7.06,1.6,2.01,Mixed,0,Online Ads,-9.86,Maturity,Process,Product Management,Product Behaviour
+PROD1299,ELE-311,Electronics,2025-06-03,West,6365,1.87,2.1,9.81,Positive,20,Social Media,24.61,Growth,Process,Product Management,Product Behaviour
+PROD1300,AUT-836,Automobile,2024-06-23,West,2074,4.49,1.7,10.47,Neutral,6,Print,-4.06,Growth,Process,Product Management,Product Behaviour
+PROD1301,AUT-721,Automobile,2025-02-09,South,1824,3.32,4.4,7.49,Positive,7,Email Campaign,20.34,Maturity,Process,Product Management,Product Behaviour
+PROD1302,ELE-987,Electronics,2025-01-21,North,2835,6.85,2.8,14.4,Neutral,20,Social Media,43.94,Growth,Process,Product Management,Product Behaviour
+PROD1303,SPO-707,Sports,2023-07-06,South,9500,5.72,2.5,4.75,Neutral,8,Online Ads,7.63,Introduction,Process,Product Management,Product Behaviour
+PROD1304,FUR-408,Furniture,2024-10-24,Central,834,6.13,5.0,0.9,Mixed,0,Social Media,12.97,Maturity,Process,Product Management,Product Behaviour
+PROD1305,FAS-711,Fashion,2023-09-24,West,9290,1.8,1.2,13.13,Positive,17,Online Ads,22.74,Decline,Process,Product Management,Product Behaviour
+PROD1306,AUT-414,Automobile,2023-02-08,East,5415,7.56,4.8,1.8,Negative,15,Email Campaign,-5.56,Maturity,Process,Product Management,Product Behaviour
+PROD1307,HEA-933,Healthcare,2024-11-22,East,9080,4.26,4.9,9.92,Positive,12,TV,8.61,Introduction,Process,Product Management,Product Behaviour
+PROD1308,FUR-647,Furniture,2024-10-25,South,725,7.99,4.5,5.87,Negative,1,Social Media,48.3,Introduction,Process,Product Management,Product Behaviour
+PROD1309,FAS-851,Fashion,2023-10-26,South,9252,4.11,4.3,6.66,Positive,17,TV,2.12,Maturity,Process,Product Management,Product Behaviour
+PROD1310,FUR-942,Furniture,2024-09-15,West,3448,3.64,3.1,5.73,Neutral,16,Online Ads,16.32,Growth,Process,Product Management,Product Behaviour
+PROD1311,APP-822,Appliances,2024-04-19,North,5362,1.29,1.1,7.45,Positive,13,Online Ads,48.65,Introduction,Process,Product Management,Product Behaviour
+PROD1312,AUT-952,Automobile,2025-05-24,East,7222,7.69,2.2,13.18,Negative,6,Email Campaign,22.58,Introduction,Process,Product Management,Product Behaviour
+PROD1313,SPO-799,Sports,2025-06-08,West,2879,1.98,4.7,7.47,Mixed,20,Influencer Marketing,37.73,Maturity,Process,Product Management,Product Behaviour
+PROD1314,SPO-562,Sports,2024-04-24,West,9069,5.51,1.2,10.17,Positive,4,Print,40.35,Maturity,Process,Product Management,Product Behaviour
+PROD1315,HEA-473,Healthcare,2024-12-22,South,8673,7.59,4.8,9.49,Negative,15,TV,33.43,Maturity,Process,Product Management,Product Behaviour
+PROD1316,SPO-635,Sports,2023-06-19,East,3481,2.33,3.0,7.79,Neutral,5,Online Ads,44.39,Maturity,Process,Product Management,Product Behaviour
+PROD1317,APP-232,Appliances,2025-07-30,East,9585,7.76,5.0,13.7,Neutral,8,Online Ads,33.89,Introduction,Process,Product Management,Product Behaviour
+PROD1318,HEA-879,Healthcare,2024-01-20,East,1104,6.53,3.7,13.48,Mixed,17,Email Campaign,28.69,Decline,Process,Product Management,Product Behaviour
+PROD1319,FAS-616,Fashion,2023-10-31,East,8300,5.87,4.7,9.13,Positive,5,Email Campaign,-5.04,Decline,Process,Product Management,Product Behaviour
+PROD1320,SPO-223,Sports,2024-11-06,South,9537,2.85,3.1,8.49,Positive,19,Influencer Marketing,16.02,Decline,Process,Product Management,Product Behaviour
+PROD1321,AUT-709,Automobile,2024-11-29,East,6147,3.53,4.7,5.24,Mixed,10,Online Ads,49.84,Decline,Process,Product Management,Product Behaviour
+PROD1322,AUT-595,Automobile,2023-04-11,South,8863,2.45,1.0,3.38,Negative,3,Online Ads,17.14,Decline,Process,Product Management,Product Behaviour
+PROD1323,FUR-826,Furniture,2024-01-04,West,9486,0.63,3.9,1.79,Positive,7,Social Media,-3.98,Maturity,Process,Product Management,Product Behaviour
+PROD1324,SPO-512,Sports,2023-08-04,North,2227,2.94,1.8,9.04,Mixed,18,Online Ads,43.48,Maturity,Process,Product Management,Product Behaviour
+PROD1325,SPO-138,Sports,2025-04-08,North,7236,4.63,2.0,4.1,Neutral,20,Email Campaign,28.7,Decline,Process,Product Management,Product Behaviour
+PROD1326,SPO-892,Sports,2025-03-04,North,5924,2.22,2.2,5.79,Positive,6,Influencer Marketing,-1.21,Growth,Process,Product Management,Product Behaviour
+PROD1327,FUR-546,Furniture,2024-12-20,East,1172,6.55,4.2,3.25,Negative,9,TV,0.94,Maturity,Process,Product Management,Product Behaviour
+PROD1328,HEA-497,Healthcare,2024-01-21,West,3501,5.24,3.9,9.28,Positive,17,Email Campaign,26.26,Maturity,Process,Product Management,Product Behaviour
+PROD1329,FUR-533,Furniture,2024-07-05,North,2457,5.53,4.3,10.07,Negative,6,Influencer Marketing,21.98,Introduction,Process,Product Management,Product Behaviour
+PROD1330,AUT-171,Automobile,2024-12-03,Central,991,1.28,2.1,12.81,Mixed,10,TV,41.43,Introduction,Process,Product Management,Product Behaviour
+PROD1331,SPO-626,Sports,2025-06-17,East,9794,7.37,1.5,3.19,Positive,2,Online Ads,48.57,Introduction,Process,Product Management,Product Behaviour
+PROD1332,ELE-677,Electronics,2022-11-10,East,3302,7.34,3.8,3.69,Positive,3,Online Ads,30.4,Maturity,Process,Product Management,Product Behaviour
+PROD1333,APP-883,Appliances,2024-08-21,South,869,3.61,4.6,5.04,Positive,18,Social Media,7.92,Decline,Process,Product Management,Product Behaviour
+PROD1334,FAS-310,Fashion,2023-10-08,North,5044,2.67,3.5,11.73,Mixed,0,TV,30.91,Introduction,Process,Product Management,Product Behaviour
+PROD1335,AUT-487,Automobile,2024-05-06,Central,6706,0.65,4.2,12.08,Negative,8,Email Campaign,-8.82,Growth,Process,Product Management,Product Behaviour
+PROD1336,ELE-285,Electronics,2024-06-22,West,8169,5.79,3.9,13.07,Negative,7,Online Ads,49.39,Decline,Process,Product Management,Product Behaviour
+PROD1337,APP-170,Appliances,2022-12-28,East,535,4.49,5.0,13.23,Positive,19,TV,17.9,Introduction,Process,Product Management,Product Behaviour
+PROD1338,APP-736,Appliances,2024-07-25,West,4571,6.97,2.6,3.51,Negative,6,Online Ads,45.8,Decline,Process,Product Management,Product Behaviour
+PROD1339,FAS-873,Fashion,2025-08-25,North,6165,6.9,1.5,1.16,Mixed,1,Print,-6.35,Decline,Process,Product Management,Product Behaviour
+PROD1340,FUR-506,Furniture,2023-03-24,South,177,6.62,4.7,9.43,Mixed,7,TV,24.85,Maturity,Process,Product Management,Product Behaviour
+PROD1341,FUR-502,Furniture,2024-11-29,South,8840,7.74,1.0,11.36,Neutral,6,TV,1.36,Decline,Process,Product Management,Product Behaviour
+PROD1342,SPO-340,Sports,2023-09-13,West,5605,5.7,2.8,6.2,Positive,12,Influencer Marketing,18.67,Decline,Process,Product Management,Product Behaviour
+PROD1343,HEA-928,Healthcare,2024-05-11,West,9635,6.59,3.9,12.9,Mixed,12,Email Campaign,30.62,Decline,Process,Product Management,Product Behaviour
+PROD1344,AUT-251,Automobile,2025-01-17,South,7540,4.21,3.9,2.92,Negative,16,Online Ads,15.54,Decline,Process,Product Management,Product Behaviour
+PROD1345,SPO-703,Sports,2024-05-01,East,3022,6.85,4.0,12.58,Positive,18,Social Media,-8.04,Growth,Process,Product Management,Product Behaviour
+PROD1346,APP-262,Appliances,2025-01-22,Central,5014,5.49,2.8,1.81,Positive,15,Influencer Marketing,38.1,Growth,Process,Product Management,Product Behaviour
+PROD1347,ELE-953,Electronics,2023-05-19,South,6471,7.39,1.7,7.32,Neutral,1,Print,2.11,Growth,Process,Product Management,Product Behaviour
+PROD1348,SPO-174,Sports,2024-12-26,East,1966,0.52,2.1,7.31,Positive,0,TV,33.78,Introduction,Process,Product Management,Product Behaviour
+PROD1349,HEA-781,Healthcare,2022-11-28,Central,5730,4.92,4.8,8.46,Neutral,19,Print,13.66,Growth,Process,Product Management,Product Behaviour
+PROD1350,SPO-734,Sports,2022-12-21,Central,942,2.66,1.4,12.66,Neutral,1,Email Campaign,45.14,Introduction,Process,Product Management,Product Behaviour
+PROD1351,SPO-285,Sports,2023-02-13,Central,2425,2.96,2.3,9.16,Negative,10,TV,36.91,Maturity,Process,Product Management,Product Behaviour
+PROD1352,FAS-915,Fashion,2024-06-04,South,1319,5.93,1.4,5.04,Negative,9,Print,39.62,Growth,Process,Product Management,Product Behaviour
+PROD1353,AUT-103,Automobile,2023-06-14,West,458,0.93,4.8,5.0,Positive,19,Social Media,22.6,Maturity,Process,Product Management,Product Behaviour
+PROD1354,ELE-817,Electronics,2025-06-16,East,1194,7.45,3.1,11.08,Negative,9,Social Media,3.4,Growth,Process,Product Management,Product Behaviour
+PROD1355,HEA-758,Healthcare,2023-03-19,Central,2910,2.45,3.6,5.16,Positive,1,Print,32.76,Introduction,Process,Product Management,Product Behaviour
+PROD1356,FUR-304,Furniture,2025-07-11,East,2103,6.57,4.9,0.64,Mixed,19,Print,47.76,Introduction,Process,Product Management,Product Behaviour
+PROD1357,SPO-871,Sports,2025-05-06,South,7333,1.73,2.3,14.49,Mixed,10,TV,16.3,Maturity,Process,Product Management,Product Behaviour
+PROD1358,ELE-630,Electronics,2024-09-26,West,4472,3.51,4.4,6.03,Negative,9,TV,-5.98,Decline,Process,Product Management,Product Behaviour
+PROD1359,FUR-929,Furniture,2025-02-20,North,7277,5.29,1.2,1.56,Positive,11,Influencer Marketing,-9.6,Introduction,Process,Product Management,Product Behaviour
+PROD1360,APP-987,Appliances,2024-01-02,Central,9250,3.21,4.0,9.51,Mixed,20,Online Ads,-2.74,Maturity,Process,Product Management,Product Behaviour
+PROD1361,SPO-893,Sports,2023-08-15,South,9645,4.24,3.8,10.24,Mixed,4,Print,28.17,Maturity,Process,Product Management,Product Behaviour
+PROD1362,SPO-600,Sports,2024-08-21,South,564,1.14,2.8,11.2,Negative,3,Social Media,16.89,Introduction,Process,Product Management,Product Behaviour
+PROD1363,APP-909,Appliances,2023-10-11,Central,8930,5.23,3.5,11.17,Negative,19,Online Ads,18.59,Decline,Process,Product Management,Product Behaviour
+PROD1364,ELE-607,Electronics,2023-10-05,North,8803,4.05,3.2,11.1,Neutral,5,Social Media,13.24,Decline,Process,Product Management,Product Behaviour
+PROD1365,AUT-129,Automobile,2025-02-17,North,6036,6.27,2.1,14.64,Mixed,17,Influencer Marketing,45.07,Maturity,Process,Product Management,Product Behaviour
+PROD1366,SPO-930,Sports,2024-06-01,West,4077,6.02,4.4,4.03,Neutral,8,Print,32.13,Growth,Process,Product Management,Product Behaviour
+PROD1367,HEA-733,Healthcare,2025-10-08,South,1717,3.77,4.8,5.33,Positive,2,Online Ads,7.49,Growth,Process,Product Management,Product Behaviour
+PROD1368,ELE-436,Electronics,2023-06-13,South,1719,6.48,2.7,7.48,Positive,12,Influencer Marketing,11.75,Decline,Process,Product Management,Product Behaviour
+PROD1369,SPO-769,Sports,2025-04-30,East,5058,2.77,2.0,11.5,Neutral,13,Social Media,42.42,Maturity,Process,Product Management,Product Behaviour
+PROD1370,ELE-325,Electronics,2024-03-29,East,3500,2.01,4.9,3.39,Mixed,5,Influencer Marketing,30.4,Introduction,Process,Product Management,Product Behaviour
+PROD1371,AUT-187,Automobile,2025-02-28,South,8843,3.24,2.3,2.47,Positive,15,Social Media,22.21,Maturity,Process,Product Management,Product Behaviour
+PROD1372,FUR-343,Furniture,2024-04-20,West,9872,3.42,2.7,14.77,Mixed,17,TV,1.68,Growth,Process,Product Management,Product Behaviour
+PROD1373,FAS-128,Fashion,2023-09-29,East,2337,4.52,2.4,10.96,Mixed,20,Social Media,31.91,Maturity,Process,Product Management,Product Behaviour
+PROD1374,SPO-460,Sports,2023-03-26,East,3025,4.33,2.0,13.94,Negative,10,Social Media,-6.07,Maturity,Process,Product Management,Product Behaviour
+PROD1375,HEA-254,Healthcare,2024-06-27,East,7511,3.68,2.1,11.52,Negative,7,Print,4.3,Maturity,Process,Product Management,Product Behaviour
+PROD1376,FAS-484,Fashion,2023-05-05,East,3931,2.68,3.9,13.48,Neutral,5,Print,23.0,Decline,Process,Product Management,Product Behaviour
+PROD1377,FAS-603,Fashion,2023-10-11,East,8384,7.49,1.5,8.72,Positive,1,Influencer Marketing,-7.12,Introduction,Process,Product Management,Product Behaviour
+PROD1378,FUR-152,Furniture,2023-09-16,Central,6933,6.02,2.4,8.17,Positive,11,Email Campaign,28.5,Maturity,Process,Product Management,Product Behaviour
+PROD1379,AUT-827,Automobile,2025-09-06,Central,1708,7.74,4.7,12.18,Neutral,4,Social Media,18.59,Maturity,Process,Product Management,Product Behaviour
+PROD1380,APP-774,Appliances,2025-08-09,West,3681,2.09,1.3,11.87,Neutral,6,Influencer Marketing,48.45,Growth,Process,Product Management,Product Behaviour
+PROD1381,APP-153,Appliances,2025-03-17,North,6096,2.19,3.2,6.08,Negative,13,TV,31.26,Introduction,Process,Product Management,Product Behaviour
+PROD1382,FUR-415,Furniture,2023-09-01,North,887,1.9,1.2,3.3,Neutral,7,Print,1.24,Introduction,Process,Product Management,Product Behaviour
+PROD1383,HEA-404,Healthcare,2024-04-27,Central,9674,0.73,4.9,3.53,Neutral,13,Print,24.26,Introduction,Process,Product Management,Product Behaviour
+PROD1384,SPO-474,Sports,2024-07-12,West,6431,2.56,2.0,14.8,Mixed,12,Social Media,39.34,Decline,Process,Product Management,Product Behaviour
+PROD1385,APP-315,Appliances,2024-08-01,West,4586,6.7,5.0,13.82,Negative,8,Online Ads,23.05,Decline,Process,Product Management,Product Behaviour
+PROD1386,ELE-313,Electronics,2023-12-15,North,5550,1.93,3.9,7.73,Mixed,8,Social Media,42.99,Introduction,Process,Product Management,Product Behaviour
+PROD1387,FAS-789,Fashion,2023-11-16,South,9120,3.48,4.1,13.96,Mixed,18,Social Media,-2.99,Decline,Process,Product Management,Product Behaviour
+PROD1388,FAS-753,Fashion,2023-08-31,East,789,1.5,1.1,9.19,Mixed,2,Print,36.13,Decline,Process,Product Management,Product Behaviour
+PROD1389,FAS-897,Fashion,2025-01-05,East,1708,5.95,2.2,8.7,Negative,0,Social Media,1.91,Decline,Process,Product Management,Product Behaviour
+PROD1390,HEA-419,Healthcare,2023-01-30,East,8847,5.25,2.6,9.28,Positive,14,Print,42.34,Maturity,Process,Product Management,Product Behaviour
+PROD1391,FAS-387,Fashion,2023-08-28,North,3762,3.2,1.2,3.99,Neutral,3,TV,-1.45,Introduction,Process,Product Management,Product Behaviour
+PROD1392,APP-698,Appliances,2024-10-26,West,3155,2.33,4.0,2.02,Positive,9,Online Ads,25.92,Introduction,Process,Product Management,Product Behaviour
+PROD1393,AUT-427,Automobile,2024-05-04,North,7330,4.44,2.4,4.52,Negative,9,Print,20.68,Growth,Process,Product Management,Product Behaviour
+PROD1394,HEA-953,Healthcare,2024-09-21,Central,1266,2.48,3.8,2.5,Neutral,5,Influencer Marketing,-9.45,Decline,Process,Product Management,Product Behaviour
+PROD1395,APP-523,Appliances,2024-08-19,East,3121,4.0,3.7,11.78,Positive,1,Influencer Marketing,23.62,Growth,Process,Product Management,Product Behaviour
+PROD1396,SPO-539,Sports,2023-02-03,West,2480,4.32,1.3,14.77,Neutral,12,Social Media,9.89,Maturity,Process,Product Management,Product Behaviour
+PROD1397,ELE-435,Electronics,2024-05-30,West,4947,3.17,4.1,6.11,Mixed,18,Email Campaign,47.76,Growth,Process,Product Management,Product Behaviour
+PROD1398,FUR-971,Furniture,2023-11-29,East,6521,2.07,3.2,3.96,Positive,0,Social Media,40.49,Introduction,Process,Product Management,Product Behaviour
+PROD1399,AUT-290,Automobile,2024-10-29,East,8683,1.89,3.1,10.62,Neutral,12,Email Campaign,-6.59,Maturity,Process,Product Management,Product Behaviour
+PROD1400,FUR-171,Furniture,2025-02-01,West,3399,3.4,1.7,8.66,Neutral,19,Influencer Marketing,18.81,Growth,Process,Product Management,Product Behaviour
+PROD1401,HEA-353,Healthcare,2024-01-14,West,515,2.15,1.2,6.45,Negative,14,Influencer Marketing,45.04,Growth,Process,Product Management,Product Behaviour
+PROD1402,AUT-113,Automobile,2024-06-05,West,8317,7.98,4.9,2.92,Mixed,18,Email Campaign,46.16,Growth,Process,Product Management,Product Behaviour
+PROD1403,ELE-950,Electronics,2025-02-21,South,2070,7.06,3.0,8.46,Positive,17,Online Ads,5.57,Decline,Process,Product Management,Product Behaviour
+PROD1404,APP-507,Appliances,2024-07-29,Central,4967,1.12,3.3,1.23,Negative,5,Influencer Marketing,38.99,Maturity,Process,Product Management,Product Behaviour
+PROD1405,AUT-330,Automobile,2025-02-13,South,5782,1.64,2.7,1.02,Mixed,9,Social Media,18.75,Introduction,Process,Product Management,Product Behaviour
+PROD1406,AUT-206,Automobile,2024-10-09,North,491,7.45,4.8,10.01,Neutral,17,TV,12.49,Decline,Process,Product Management,Product Behaviour
+PROD1407,SPO-190,Sports,2024-06-28,East,9176,4.26,1.4,1.68,Mixed,20,Social Media,9.89,Decline,Process,Product Management,Product Behaviour
+PROD1408,SPO-882,Sports,2023-01-28,South,1151,1.9,2.3,10.4,Mixed,4,Print,-5.76,Maturity,Process,Product Management,Product Behaviour
+PROD1409,SPO-910,Sports,2023-08-07,North,4815,0.64,4.7,5.37,Mixed,12,Influencer Marketing,49.95,Maturity,Process,Product Management,Product Behaviour
+PROD1410,AUT-174,Automobile,2023-12-04,South,448,2.24,4.9,8.96,Neutral,11,Print,4.89,Introduction,Process,Product Management,Product Behaviour
+PROD1411,SPO-516,Sports,2023-10-06,Central,3402,2.01,2.1,6.42,Positive,14,Email Campaign,43.83,Introduction,Process,Product Management,Product Behaviour
+PROD1412,ELE-545,Electronics,2025-01-02,West,1817,4.85,4.6,12.09,Mixed,13,Print,1.0,Maturity,Process,Product Management,Product Behaviour
+PROD1413,AUT-962,Automobile,2022-11-10,North,2207,7.81,1.5,14.34,Mixed,13,Social Media,41.83,Maturity,Process,Product Management,Product Behaviour
+PROD1414,AUT-221,Automobile,2025-06-20,West,8189,4.69,4.7,3.29,Positive,19,Online Ads,34.54,Decline,Process,Product Management,Product Behaviour
+PROD1415,FAS-794,Fashion,2024-12-23,South,8017,5.2,4.3,7.84,Positive,19,Email Campaign,30.83,Maturity,Process,Product Management,Product Behaviour
+PROD1416,FAS-411,Fashion,2023-09-17,East,1354,3.21,1.1,3.96,Negative,17,Social Media,21.19,Introduction,Process,Product Management,Product Behaviour
+PROD1417,APP-708,Appliances,2022-10-24,Central,5375,2.93,5.0,5.01,Neutral,9,Influencer Marketing,-2.3,Maturity,Process,Product Management,Product Behaviour
+PROD1418,SPO-666,Sports,2025-03-02,Central,8625,6.06,2.9,4.61,Neutral,13,Social Media,-4.84,Growth,Process,Product Management,Product Behaviour
+PROD1419,ELE-420,Electronics,2023-05-24,East,7987,4.87,3.7,7.15,Neutral,3,Influencer Marketing,8.48,Maturity,Process,Product Management,Product Behaviour
+PROD1420,SPO-516,Sports,2024-04-09,East,7559,1.32,3.6,2.97,Mixed,1,TV,44.8,Maturity,Process,Product Management,Product Behaviour
+PROD1421,FUR-297,Furniture,2023-06-21,Central,8133,3.12,4.7,4.93,Mixed,10,Print,-8.49,Introduction,Process,Product Management,Product Behaviour
+PROD1422,FAS-760,Fashion,2023-01-02,East,3050,4.02,1.4,10.9,Neutral,9,Print,43.52,Decline,Process,Product Management,Product Behaviour
+PROD1423,APP-644,Appliances,2025-02-23,West,5024,5.66,4.3,2.6,Neutral,8,Social Media,25.41,Decline,Process,Product Management,Product Behaviour
+PROD1424,HEA-586,Healthcare,2022-11-10,South,3940,5.71,4.6,12.36,Neutral,7,Social Media,13.64,Growth,Process,Product Management,Product Behaviour
+PROD1425,HEA-749,Healthcare,2023-02-10,South,3307,6.59,1.3,1.55,Negative,3,Social Media,25.63,Introduction,Process,Product Management,Product Behaviour
+PROD1426,APP-617,Appliances,2025-05-19,North,2494,4.84,4.4,8.19,Positive,15,Online Ads,47.05,Introduction,Process,Product Management,Product Behaviour
+PROD1427,FUR-861,Furniture,2025-05-11,West,9695,7.47,3.8,0.69,Mixed,1,Email Campaign,-2.67,Growth,Process,Product Management,Product Behaviour
+PROD1428,AUT-322,Automobile,2022-11-20,Central,3200,1.75,4.3,5.31,Positive,4,Influencer Marketing,-5.96,Maturity,Process,Product Management,Product Behaviour
+PROD1429,FAS-637,Fashion,2024-11-02,Central,9643,1.67,1.5,2.85,Neutral,3,Email Campaign,21.41,Maturity,Process,Product Management,Product Behaviour
+PROD1430,AUT-125,Automobile,2025-01-03,Central,9906,1.72,2.9,10.63,Mixed,9,TV,-4.09,Decline,Process,Product Management,Product Behaviour
+PROD1431,FUR-198,Furniture,2023-08-14,South,2615,3.51,3.0,10.28,Neutral,19,Influencer Marketing,11.09,Growth,Process,Product Management,Product Behaviour
+PROD1432,ELE-793,Electronics,2024-02-17,West,4571,2.25,3.4,2.42,Mixed,18,TV,13.2,Maturity,Process,Product Management,Product Behaviour
+PROD1433,FUR-262,Furniture,2025-01-13,North,3174,4.21,2.5,7.92,Mixed,1,TV,-6.8,Decline,Process,Product Management,Product Behaviour
+PROD1434,AUT-597,Automobile,2024-06-23,North,441,2.96,4.7,12.75,Neutral,6,Influencer Marketing,21.37,Decline,Process,Product Management,Product Behaviour
+PROD1435,AUT-741,Automobile,2022-11-16,South,7800,1.16,4.5,11.17,Neutral,17,Email Campaign,-3.05,Decline,Process,Product Management,Product Behaviour
+PROD1436,APP-333,Appliances,2024-07-26,Central,3141,4.02,1.0,9.44,Mixed,3,Email Campaign,43.18,Decline,Process,Product Management,Product Behaviour
+PROD1437,APP-493,Appliances,2024-11-15,Central,5003,7.87,5.0,7.73,Mixed,10,TV,35.74,Growth,Process,Product Management,Product Behaviour
+PROD1438,SPO-102,Sports,2025-06-20,Central,3906,6.78,1.7,14.82,Negative,15,Social Media,-6.45,Growth,Process,Product Management,Product Behaviour
+PROD1439,FUR-960,Furniture,2023-08-04,East,6545,0.56,4.7,7.42,Neutral,18,Email Campaign,32.35,Decline,Process,Product Management,Product Behaviour
+PROD1440,HEA-796,Healthcare,2024-08-04,West,7519,4.55,2.8,2.36,Mixed,15,Influencer Marketing,20.81,Decline,Process,Product Management,Product Behaviour
+PROD1441,HEA-938,Healthcare,2023-05-22,North,5739,4.12,3.6,3.59,Positive,13,Email Campaign,35.35,Maturity,Process,Product Management,Product Behaviour
+PROD1442,AUT-117,Automobile,2023-05-25,Central,3202,6.32,4.8,4.53,Neutral,2,Print,30.02,Introduction,Process,Product Management,Product Behaviour
+PROD1443,HEA-545,Healthcare,2023-02-20,North,2617,2.33,1.4,8.87,Positive,4,TV,25.25,Introduction,Process,Product Management,Product Behaviour
+PROD1444,SPO-784,Sports,2024-07-30,South,7829,5.62,3.1,3.97,Positive,2,Influencer Marketing,24.37,Decline,Process,Product Management,Product Behaviour
+PROD1445,APP-551,Appliances,2022-11-06,North,6897,4.51,2.0,13.94,Positive,16,Print,21.46,Decline,Process,Product Management,Product Behaviour
+PROD1446,FUR-673,Furniture,2024-05-25,Central,860,2.92,2.5,3.29,Mixed,17,Influencer Marketing,32.8,Introduction,Process,Product Management,Product Behaviour
+PROD1447,FUR-532,Furniture,2023-09-13,South,9558,2.57,3.1,12.3,Positive,16,Social Media,47.68,Decline,Process,Product Management,Product Behaviour
+PROD1448,HEA-279,Healthcare,2023-04-07,South,3412,3.83,2.1,6.43,Mixed,17,Influencer Marketing,44.88,Maturity,Process,Product Management,Product Behaviour
+PROD1449,HEA-587,Healthcare,2024-08-18,East,3024,5.31,4.5,1.28,Mixed,11,Online Ads,-4.27,Maturity,Process,Product Management,Product Behaviour
+PROD1450,HEA-260,Healthcare,2023-11-24,West,1220,4.44,4.2,0.36,Positive,1,Influencer Marketing,1.8,Introduction,Process,Product Management,Product Behaviour
+PROD1451,ELE-236,Electronics,2025-04-30,West,4687,0.63,4.4,4.88,Positive,17,Social Media,30.3,Growth,Process,Product Management,Product Behaviour
+PROD1452,HEA-555,Healthcare,2024-05-24,West,2734,2.65,3.6,11.32,Neutral,17,TV,-3.89,Maturity,Process,Product Management,Product Behaviour
+PROD1453,APP-727,Appliances,2024-09-12,North,5667,4.4,4.3,9.35,Positive,15,Email Campaign,20.2,Introduction,Process,Product Management,Product Behaviour
+PROD1454,HEA-165,Healthcare,2024-04-26,West,5401,0.8,2.0,10.93,Neutral,17,Social Media,42.12,Decline,Process,Product Management,Product Behaviour
+PROD1455,AUT-917,Automobile,2024-08-30,West,179,1.45,3.5,11.34,Positive,2,TV,2.0,Growth,Process,Product Management,Product Behaviour
+PROD1456,SPO-320,Sports,2024-09-23,North,6214,2.12,4.9,6.93,Positive,1,Email Campaign,34.48,Maturity,Process,Product Management,Product Behaviour
+PROD1457,HEA-895,Healthcare,2022-10-24,Central,8285,6.83,1.1,9.12,Neutral,13,Social Media,-3.04,Growth,Process,Product Management,Product Behaviour
+PROD1458,FUR-340,Furniture,2024-05-24,West,7826,5.66,2.7,4.27,Neutral,6,Print,11.27,Decline,Process,Product Management,Product Behaviour
+PROD1459,ELE-232,Electronics,2024-02-14,West,3160,1.85,3.9,5.28,Positive,15,Online Ads,11.49,Growth,Process,Product Management,Product Behaviour
+PROD1460,ELE-853,Electronics,2023-06-17,North,3467,1.16,1.7,4.7,Positive,3,Social Media,33.97,Decline,Process,Product Management,Product Behaviour
+PROD1461,HEA-666,Healthcare,2024-06-06,North,3596,3.99,1.3,4.08,Mixed,3,Email Campaign,23.63,Decline,Process,Product Management,Product Behaviour
+PROD1462,ELE-830,Electronics,2023-07-07,South,4658,1.25,2.3,10.84,Mixed,3,TV,29.59,Introduction,Process,Product Management,Product Behaviour
+PROD1463,FUR-508,Furniture,2025-01-19,South,4495,4.96,2.5,9.62,Positive,20,Print,4.34,Introduction,Process,Product Management,Product Behaviour
+PROD1464,FAS-639,Fashion,2024-02-14,East,400,4.76,4.8,12.7,Positive,9,TV,6.97,Decline,Process,Product Management,Product Behaviour
+PROD1465,HEA-963,Healthcare,2025-04-12,Central,4163,5.92,1.9,5.46,Positive,3,Print,34.55,Growth,Process,Product Management,Product Behaviour
+PROD1466,FUR-882,Furniture,2023-10-07,West,9791,4.67,3.8,11.73,Mixed,18,Print,15.57,Maturity,Process,Product Management,Product Behaviour
+PROD1467,ELE-732,Electronics,2023-09-26,Central,2292,6.95,4.5,1.77,Positive,16,Print,-0.76,Introduction,Process,Product Management,Product Behaviour
+PROD1468,ELE-330,Electronics,2023-02-21,North,8492,3.31,1.1,1.23,Negative,17,Print,43.62,Maturity,Process,Product Management,Product Behaviour
+PROD1469,FAS-910,Fashion,2024-12-10,East,3698,0.93,3.0,7.49,Neutral,2,Social Media,39.14,Decline,Process,Product Management,Product Behaviour
+PROD1470,APP-844,Appliances,2024-01-23,Central,4489,2.63,2.4,7.45,Negative,7,TV,6.55,Decline,Process,Product Management,Product Behaviour
+PROD1471,SPO-834,Sports,2023-09-16,North,9730,4.06,2.5,12.78,Mixed,18,Email Campaign,44.98,Growth,Process,Product Management,Product Behaviour
+PROD1472,ELE-572,Electronics,2023-04-12,South,5670,7.15,3.9,6.42,Neutral,11,Print,5.75,Growth,Process,Product Management,Product Behaviour
+PROD1473,ELE-353,Electronics,2025-06-20,Central,5185,2.58,3.5,9.26,Positive,4,TV,37.9,Maturity,Process,Product Management,Product Behaviour
+PROD1474,AUT-751,Automobile,2022-12-30,Central,6893,6.26,2.7,0.05,Mixed,11,Social Media,-8.48,Introduction,Process,Product Management,Product Behaviour
+PROD1475,SPO-204,Sports,2024-01-27,Central,6614,4.38,4.4,4.12,Neutral,20,Social Media,35.31,Growth,Process,Product Management,Product Behaviour
+PROD1476,APP-744,Appliances,2023-07-15,West,1740,2.66,1.5,11.22,Positive,9,TV,31.17,Introduction,Process,Product Management,Product Behaviour
+PROD1477,SPO-403,Sports,2024-06-04,East,2871,6.11,4.3,10.9,Neutral,15,Online Ads,32.95,Introduction,Process,Product Management,Product Behaviour
+PROD1478,FAS-396,Fashion,2023-05-23,West,4159,5.8,3.7,12.86,Neutral,7,Email Campaign,33.58,Maturity,Process,Product Management,Product Behaviour
+PROD1479,ELE-933,Electronics,2023-10-21,East,6331,7.35,1.0,6.92,Neutral,7,Online Ads,26.84,Maturity,Process,Product Management,Product Behaviour
+PROD1480,HEA-831,Healthcare,2024-02-24,South,366,7.44,4.1,5.42,Negative,0,Influencer Marketing,-4.44,Decline,Process,Product Management,Product Behaviour
+PROD1481,HEA-391,Healthcare,2023-04-23,North,7486,0.76,3.8,6.23,Positive,10,Social Media,35.15,Maturity,Process,Product Management,Product Behaviour
+PROD1482,ELE-738,Electronics,2025-05-09,North,3848,6.91,4.5,13.69,Mixed,13,Print,-8.8,Growth,Process,Product Management,Product Behaviour
+PROD1483,ELE-741,Electronics,2024-10-31,North,3373,6.31,2.9,11.66,Positive,8,Print,12.59,Maturity,Process,Product Management,Product Behaviour
+PROD1484,ELE-931,Electronics,2023-12-02,South,1330,1.36,2.4,3.26,Neutral,17,Social Media,-3.8,Introduction,Process,Product Management,Product Behaviour
+PROD1485,FAS-519,Fashion,2023-10-04,West,300,0.84,2.7,11.54,Neutral,5,Online Ads,47.98,Maturity,Process,Product Management,Product Behaviour
+PROD1486,ELE-353,Electronics,2023-09-08,East,4211,4.22,3.4,3.48,Neutral,6,Email Campaign,46.22,Decline,Process,Product Management,Product Behaviour
+PROD1487,AUT-674,Automobile,2024-11-08,North,115,3.91,1.1,7.74,Mixed,5,Social Media,18.45,Introduction,Process,Product Management,Product Behaviour
+PROD1488,APP-486,Appliances,2023-08-17,Central,9987,3.21,1.5,0.12,Negative,3,Online Ads,43.67,Decline,Process,Product Management,Product Behaviour
+PROD1489,FUR-500,Furniture,2023-08-30,East,8155,5.04,1.3,4.48,Neutral,16,Influencer Marketing,39.96,Decline,Process,Product Management,Product Behaviour
+PROD1490,FUR-752,Furniture,2025-04-03,East,1964,6.32,2.0,10.35,Neutral,13,Email Campaign,24.14,Decline,Process,Product Management,Product Behaviour
+PROD1491,FUR-785,Furniture,2023-04-23,North,643,2.28,1.5,10.54,Negative,12,Influencer Marketing,30.22,Decline,Process,Product Management,Product Behaviour
+PROD1492,SPO-404,Sports,2025-06-25,Central,3908,2.76,2.8,4.21,Mixed,9,TV,9.32,Introduction,Process,Product Management,Product Behaviour
+PROD1493,FAS-120,Fashion,2024-09-24,West,6017,4.35,4.1,1.79,Positive,5,Influencer Marketing,30.32,Decline,Process,Product Management,Product Behaviour
+PROD1494,FUR-188,Furniture,2025-05-15,Central,9643,6.3,1.0,14.61,Positive,4,Online Ads,25.67,Maturity,Process,Product Management,Product Behaviour
+PROD1495,FAS-487,Fashion,2024-04-14,North,8772,7.82,2.8,6.3,Neutral,2,Email Campaign,-3.57,Decline,Process,Product Management,Product Behaviour
+PROD1496,AUT-428,Automobile,2023-02-19,Central,7472,6.06,3.0,8.53,Positive,17,Social Media,37.19,Growth,Process,Product Management,Product Behaviour
+PROD1497,SPO-151,Sports,2023-01-24,South,9755,5.82,4.4,6.84,Neutral,15,Email Campaign,36.09,Decline,Process,Product Management,Product Behaviour
+PROD1498,HEA-833,Healthcare,2023-02-08,East,9772,7.73,4.5,14.38,Neutral,4,Social Media,-5.89,Maturity,Process,Product Management,Product Behaviour
+PROD1499,FUR-239,Furniture,2025-03-12,East,2246,1.8,2.4,12.28,Negative,13,Online Ads,-0.07,Decline,Process,Product Management,Product Behaviour

@@ -1,0 +1,501 @@
+Customer_ID,Customer_Name,Customer_Segment,Relationship_Start_Date,Relationship_Status,Relationship_Manager,Account_Type,Account_Balance,Credit_Score,Customer_Tier,Last_Interaction_Date,Preferred_Channel,Satisfaction_Score,Complaint_Flag,Lifetime_Value,Region,Feedback_Text,Cross_Sell_Opportunities,Risk_Category,Next_Action
+CUST1000,Samantha Hernandez,Retail,2018-02-10,Closed,Erin Hayden,Investment,245278.42,553,Standard,2024-09-27,Branch,10,Yes,104383.97,South,Excellent service,Insurance,Medium,Closure
+CUST1001,Mark King,Private Banking,2016-11-19,Closed,Nicholas Oneal,Salary,180787.17,312,Silver,2025-08-16,Branch,3,No,297082.26,West,Happy overall,Credit Card,Low,Upsell
+CUST1002,Daniel Brewer,Private Banking,2023-10-18,Closed,John Berry,Current,1016141.27,720,Gold,2025-09-13,Online,2,No,411374.28,North,Need faster response,Loan,Low,Upsell
+CUST1003,Daniel Villarreal,Retail,2019-03-31,Active,Kelsey Adams,Salary,1997807.34,572,Standard,2021-06-20,Branch,1,No,188115.09,West,Happy overall,Credit Card,Low,Follow-up
+CUST1004,Max Montgomery,Corporate,2024-10-26,Prospect,Pamela Anderson,Savings,1511201.55,629,Standard,2025-03-24,Online,8,No,280045.66,East,Would recommend bank,Loan,Low,Retention Offer
+CUST1005,Brenda Patton,Retail,2018-11-05,Prospect,Kathryn Phillips,Investment,1692217.04,760,Standard,2023-06-27,Call Center,7,Yes,134012.17,West,Need faster response,Mutual Fund,High,Retention Offer
+CUST1006,Christine Freeman,Retail,2023-04-28,Dormant,John Yang,Current,1747005.38,791,Gold,2024-02-02,Online,1,No,263475.23,South,Poor digital support,Insurance,High,Closure
+CUST1007,Michael Walker,High Net Worth,2019-05-10,Active,Debra Stokes,Investment,1714851.78,402,Platinum,2022-05-01,Online,2,No,428919.48,East,Poor digital support,Loan,High,Follow-up
+CUST1008,Robert House,High Net Worth,2020-05-12,Active,Erin Stephenson,Savings,379946.8,843,Silver,2024-12-11,Branch,3,Yes,128120.51,East,Need faster response,Fixed Deposit,Low,Closure
+CUST1009,Jessica Goodman,Private Banking,2022-01-12,Prospect,Brenda Cohen,Investment,1219767.6,330,Silver,2023-11-30,Branch,10,Yes,89200.62,Central,Very satisfied with manager,Credit Card,Low,Retention Offer
+CUST1010,Julia Stephens,Private Banking,2023-04-14,Closed,Bradley Riley,Savings,1635202.52,618,Standard,2023-05-20,Mobile,2,Yes,301341.69,West,Very satisfied with manager,Mutual Fund,Medium,Feedback Call
+CUST1011,Kendra Davis,SME,2017-01-29,Dormant,Lynn Foster,Salary,531236.05,519,Standard,2024-01-11,Call Center,5,Yes,167523.02,South,Poor digital support,Fixed Deposit,High,Closure
+CUST1012,Erin Allen DDS,SME,2016-10-24,Active,Tara Marshall,Investment,1335180.83,341,Standard,2017-07-19,Call Center,9,Yes,128533.87,Central,Poor digital support,Insurance,Low,Upsell
+CUST1013,Tammy Wilson,Private Banking,2023-07-01,Dormant,Frank Frey,Current,336022.63,425,Platinum,2025-05-18,Online,7,No,322356.27,West,Happy overall,Insurance,Medium,Closure
+CUST1014,Martha Leon,SME,2020-04-13,Prospect,Cynthia Ashley,Investment,990461.18,802,Silver,2024-03-24,Call Center,2,No,408134.62,North,Would recommend bank,Loan,High,Follow-up
+CUST1015,Diana Gutierrez,Corporate,2017-02-26,Active,Scott Knox,Salary,1115714.6,731,Silver,2017-04-07,Branch,3,No,68818.79,North,Dissatisfied with charges,Loan,Low,Follow-up
+CUST1016,Jamie Duran,SME,2024-03-04,Active,Mitchell Santiago,Salary,1296711.33,841,Platinum,2025-06-15,Online,5,Yes,28659.14,North,Happy overall,Insurance,Low,Follow-up
+CUST1017,Daniel Johnson,Private Banking,2023-10-04,Closed,Nicole Boone,Investment,45897.78,521,Silver,2025-04-13,Call Center,4,Yes,271836.48,East,Excellent service,Fixed Deposit,Medium,Feedback Call
+CUST1018,Kathryn Hamilton,Private Banking,2016-05-29,Closed,Sharon Jones,Salary,100213.1,449,Silver,2016-11-12,Call Center,10,No,46385.25,West,Would recommend bank,Mutual Fund,High,Retention Offer
+CUST1019,John Lopez,Retail,2024-11-19,Active,Jordan Young,Current,244459.71,499,Silver,2025-09-18,Mobile,5,No,246460.48,North,Poor digital support,Loan,Medium,Follow-up
+CUST1020,Mark Guerra,Private Banking,2022-01-27,Closed,James Zamora,Savings,135023.07,707,Gold,2025-01-12,Mobile,8,Yes,395091.12,Central,Poor digital support,Fixed Deposit,Medium,Closure
+CUST1021,Cameron Williams,High Net Worth,2023-10-31,Dormant,Kim Goodman,Current,430815.46,473,Gold,2025-07-27,Online,6,Yes,124056.04,Central,Dissatisfied with charges,Credit Card,High,Closure
+CUST1022,Robert Adams,Private Banking,2017-02-09,Dormant,Frederick Knight,Joint,876704.74,518,Gold,2021-10-04,Online,3,Yes,274949.01,East,Poor digital support,Mutual Fund,Low,Closure
+CUST1023,Theresa Holmes,SME,2019-04-15,Dormant,Lisa Ward,Salary,408343.46,509,Silver,2019-08-19,Call Center,1,No,368897.86,Central,Happy overall,Fixed Deposit,High,Follow-up
+CUST1024,Garrett Mann,SME,2021-10-02,Active,Jeremiah King,Joint,1989284.52,806,Gold,2023-05-28,Call Center,2,No,132683.57,South,Dissatisfied with charges,Insurance,Medium,Follow-up
+CUST1025,Janet Murphy,High Net Worth,2019-03-29,Prospect,Nancy King,Joint,1180015.5,583,Silver,2020-01-23,Branch,6,Yes,431784.88,West,Very satisfied with manager,Fixed Deposit,Low,Upsell
+CUST1026,Kristine Klein,Private Banking,2025-06-04,Dormant,Melanie Hernandez,Current,1008593.78,831,Standard,2025-07-05,Mobile,7,Yes,272265.82,North,Would recommend bank,Credit Card,High,Follow-up
+CUST1027,Jason Pruitt,High Net Worth,2023-08-09,Dormant,Cassandra Dougherty,Current,1030705.89,722,Silver,2024-09-29,Online,5,Yes,246147.28,East,Average experience,Insurance,Low,Follow-up
+CUST1028,Mariah Lewis,High Net Worth,2020-01-13,Active,Amanda Rice,Salary,1011517.28,538,Standard,2020-06-28,Mobile,6,No,455657.9,South,Dissatisfied with charges,Fixed Deposit,Low,Feedback Call
+CUST1029,Don Jones,High Net Worth,2022-03-20,Prospect,Brianna Duncan,Joint,1699289.86,671,Gold,2024-04-05,Online,1,No,17154.53,Central,Need faster response,Credit Card,Low,Follow-up
+CUST1030,Barbara Rhodes,Private Banking,2020-12-06,Dormant,Danny Williams,Current,317189.46,788,Gold,2023-01-15,Call Center,1,No,199209.05,East,Excellent service,Fixed Deposit,Low,Feedback Call
+CUST1031,Lynn Gross,Retail,2016-12-09,Dormant,Alexander Patel,Current,1347528.82,478,Gold,2020-03-15,Online,7,Yes,339752.64,South,Excellent service,Fixed Deposit,Low,Feedback Call
+CUST1032,Eric Alvarez,Retail,2021-03-03,Active,Regina Bird,Current,410292.18,335,Silver,2025-05-08,Online,2,Yes,197525.57,East,Poor digital support,Loan,High,Follow-up
+CUST1033,Julia Ward,Retail,2024-04-16,Active,David Hunter,Investment,835360.53,412,Gold,2025-10-14,Mobile,7,No,17031.74,East,Happy overall,Credit Card,Medium,Upsell
+CUST1034,Emma Thomas,SME,2021-05-02,Active,Charles Schmidt,Savings,1847731.43,689,Standard,2025-02-21,Online,2,No,269710.61,West,Need faster response,Loan,Medium,Feedback Call
+CUST1035,April Simmons,Private Banking,2025-02-28,Active,Robin Caldwell,Joint,994456.6,661,Silver,2025-09-27,Online,5,Yes,229929.15,North,Poor digital support,Credit Card,Medium,Retention Offer
+CUST1036,Elizabeth Johnson,High Net Worth,2016-10-25,Prospect,Curtis Hendrix,Joint,230899.63,729,Standard,2024-12-25,Call Center,4,No,15464.89,South,Very satisfied with manager,Mutual Fund,High,Upsell
+CUST1037,Christopher Boyer,SME,2021-11-28,Prospect,Christopher Barrera,Joint,458361.55,321,Platinum,2021-12-18,Call Center,2,Yes,490434.16,South,Poor digital support,Credit Card,Low,Closure
+CUST1038,Brent Morris,Corporate,2017-02-21,Closed,Gabriela Lynn,Current,1580805.67,437,Gold,2023-10-23,Call Center,1,Yes,474144.17,South,Need faster response,Credit Card,High,Closure
+CUST1039,Tamara Brown,Private Banking,2022-08-24,Active,Angel Carter,Joint,1191052.17,543,Silver,2023-05-06,Call Center,5,Yes,143715.64,North,Happy overall,Loan,Low,Upsell
+CUST1040,Jonathan Reese,Corporate,2018-05-08,Active,Kendra Abbott,Salary,352523.98,648,Gold,2020-04-21,Branch,1,Yes,366065.54,South,Would recommend bank,Credit Card,Low,Closure
+CUST1041,Scott Campbell,Private Banking,2022-08-17,Prospect,Shelley Dixon,Joint,1115418.36,786,Gold,2024-04-04,Online,2,Yes,141002.98,East,Would recommend bank,Insurance,High,Follow-up
+CUST1042,Tyrone Myers,SME,2018-12-09,Active,James Foster,Investment,1034737.11,444,Gold,2022-06-14,Branch,3,Yes,76575.51,North,Average experience,Mutual Fund,Low,Feedback Call
+CUST1043,Sara Fisher,Corporate,2019-05-06,Dormant,Thomas Pacheco,Savings,1867516.48,661,Standard,2025-07-09,Mobile,4,Yes,50110.81,East,Very satisfied with manager,Insurance,Medium,Follow-up
+CUST1044,Michael Dawson,Private Banking,2024-04-29,Prospect,Christina Hawkins,Investment,571847.66,386,Platinum,2025-06-10,Branch,7,No,283614.92,North,Average experience,Mutual Fund,Low,Upsell
+CUST1045,Gregory Mcconnell MD,Private Banking,2016-09-16,Closed,Hannah Smith,Savings,858164.84,510,Silver,2025-06-03,Online,7,No,447110.06,West,Happy overall,Credit Card,Medium,Closure
+CUST1046,Ryan Medina,High Net Worth,2021-06-08,Active,Eric Chaney,Current,1624012.94,411,Silver,2022-02-13,Mobile,1,Yes,116016.35,South,Very satisfied with manager,Insurance,High,Closure
+CUST1047,Michael Diaz,Corporate,2024-07-17,Closed,George Clark,Current,577491.14,708,Platinum,2025-06-15,Call Center,3,Yes,186148.08,West,Very satisfied with manager,Credit Card,Medium,Feedback Call
+CUST1048,Mark Campbell,Corporate,2018-05-31,Closed,Oscar Dudley,Joint,353882.19,419,Gold,2020-02-25,Call Center,10,No,15799.14,West,Poor digital support,Insurance,Low,Retention Offer
+CUST1049,Andrew Lopez,Corporate,2018-04-01,Prospect,Jesus Brown,Savings,1915786.68,751,Platinum,2019-02-06,Mobile,9,No,116039.01,North,Would recommend bank,Mutual Fund,Medium,Closure
+CUST1050,Ashley Collins,SME,2024-06-21,Closed,Patricia Baker,Salary,86565.86,501,Gold,2025-08-04,Mobile,2,Yes,447783.34,South,Average experience,Insurance,High,Closure
+CUST1051,David Meyer,SME,2020-09-01,Closed,Amber Hammond,Savings,173107.65,762,Platinum,2021-03-04,Call Center,8,Yes,361414.57,South,Very satisfied with manager,Credit Card,Medium,Closure
+CUST1052,Kimberly Blake,SME,2016-04-27,Closed,Marilyn Nelson,Joint,915476.43,516,Gold,2025-07-16,Call Center,6,Yes,34485.01,East,Dissatisfied with charges,Mutual Fund,Low,Upsell
+CUST1053,Anna Rose,High Net Worth,2021-01-25,Prospect,Amanda Wright,Current,183650.34,351,Gold,2022-04-27,Branch,1,Yes,409431.62,Central,Very satisfied with manager,Insurance,Low,Upsell
+CUST1054,Hayden Johnson,Corporate,2019-06-02,Prospect,Lisa Williams,Joint,513086.03,313,Silver,2021-12-05,Mobile,6,Yes,432041.43,West,Very satisfied with manager,Insurance,Medium,Feedback Call
+CUST1055,Shannon Barnes,Retail,2021-07-19,Dormant,Holly Mclean,Investment,1039921.45,424,Silver,2023-08-15,Online,7,No,391126.52,Central,Very satisfied with manager,Fixed Deposit,High,Follow-up
+CUST1056,David Fisher,Retail,2023-10-26,Dormant,Tasha Duke,Joint,1019848.47,464,Platinum,2025-03-13,Branch,5,No,338139.92,East,Average experience,Credit Card,Low,Follow-up
+CUST1057,Lori Nguyen,Retail,2019-02-18,Prospect,Lindsey Decker,Savings,1454984.62,490,Silver,2023-10-30,Branch,1,No,387264.97,West,Need faster response,Insurance,High,Upsell
+CUST1058,Nicole Howard,Corporate,2022-12-19,Closed,Marissa Martin,Joint,194916.47,781,Silver,2023-01-15,Call Center,10,Yes,290034.93,North,Average experience,Fixed Deposit,Medium,Closure
+CUST1059,Travis Carson,High Net Worth,2023-07-23,Closed,Elizabeth Berry,Joint,20197.33,867,Gold,2024-10-19,Online,7,Yes,405685.78,West,Very satisfied with manager,Insurance,High,Retention Offer
+CUST1060,Mario Thompson,SME,2019-01-18,Closed,Victoria Adams MD,Savings,716226.99,340,Platinum,2022-03-20,Online,6,Yes,461947.97,North,Average experience,Loan,High,Follow-up
+CUST1061,Crystal Kerr,High Net Worth,2017-08-25,Prospect,Donna Lawrence,Joint,1826402.39,602,Standard,2021-04-25,Mobile,9,Yes,79721.94,West,Very satisfied with manager,Fixed Deposit,Medium,Feedback Call
+CUST1062,Tracy Esparza,Private Banking,2018-08-02,Active,Joseph Good,Investment,393252.87,434,Standard,2024-01-08,Online,7,No,475687.34,North,Excellent service,Credit Card,High,Retention Offer
+CUST1063,Derrick Brooks,SME,2021-01-28,Active,Kelly Higgins MD,Investment,399080.03,888,Gold,2023-07-27,Call Center,2,Yes,117605.94,Central,Need faster response,Mutual Fund,High,Feedback Call
+CUST1064,Julie Rodgers,Private Banking,2018-02-14,Dormant,Joanne Maldonado,Salary,1614051.64,724,Standard,2020-06-03,Branch,1,No,213809.52,West,Very satisfied with manager,Loan,Low,Closure
+CUST1065,Elizabeth Scott,SME,2024-08-23,Dormant,Melissa Alexander,Salary,321089.33,386,Silver,2025-05-09,Mobile,5,No,269427.17,North,Average experience,Mutual Fund,Low,Upsell
+CUST1066,Shawn Harris,High Net Worth,2023-09-16,Closed,Jonathon Watts,Joint,1894276.54,753,Standard,2023-12-02,Branch,5,No,385985.44,South,Would recommend bank,Insurance,Medium,Closure
+CUST1067,David Randall,Retail,2018-06-13,Active,Robin Copeland,Investment,463719.96,839,Standard,2023-03-19,Branch,4,No,335517.83,South,Would recommend bank,Insurance,Medium,Follow-up
+CUST1068,Gregory Pacheco,SME,2018-04-10,Prospect,Patrick Davenport,Current,294515.56,827,Platinum,2020-11-02,Online,6,Yes,47435.54,North,Need faster response,Mutual Fund,Medium,Closure
+CUST1069,Aimee Gomez,Retail,2024-04-22,Closed,Jennifer Thomas,Current,1747379.03,414,Standard,2025-09-04,Branch,8,Yes,336764.11,North,Need faster response,Loan,Low,Closure
+CUST1070,Kaitlyn Gibbs,Corporate,2022-08-03,Prospect,Allison Wilson,Current,388176.55,372,Silver,2023-01-28,Branch,5,No,137827.73,East,Would recommend bank,Credit Card,Medium,Retention Offer
+CUST1071,Michelle Miller MD,Retail,2017-03-07,Active,Cathy Doyle,Current,11012.99,422,Gold,2020-07-06,Online,4,Yes,252324.31,Central,Poor digital support,Credit Card,High,Upsell
+CUST1072,Stephanie Kaufman,SME,2015-11-17,Active,Donna Logan,Savings,1133750.95,512,Standard,2020-07-27,Call Center,10,No,201696.59,Central,Dissatisfied with charges,Insurance,High,Closure
+CUST1073,Sylvia Rogers,Private Banking,2018-05-06,Closed,Sandra Harris,Joint,1361818.11,650,Standard,2018-10-12,Online,6,No,266483.73,East,Excellent service,Loan,Medium,Feedback Call
+CUST1074,Brooke Shepherd,High Net Worth,2016-04-25,Active,Jeffrey Delacruz,Salary,686664.08,692,Platinum,2023-01-26,Mobile,2,Yes,407874.73,East,Very satisfied with manager,Fixed Deposit,Low,Upsell
+CUST1075,Randy Diaz,Retail,2021-11-14,Active,Donna Mccarthy,Savings,1499222.69,757,Standard,2022-07-07,Mobile,8,Yes,365631.15,Central,Need faster response,Mutual Fund,Low,Retention Offer
+CUST1076,Lauren Barnett,Corporate,2021-02-03,Active,Robin Olsen,Savings,1457731.41,424,Silver,2021-02-04,Call Center,2,No,435405.36,North,Would recommend bank,Fixed Deposit,Low,Upsell
+CUST1077,Reginald Mitchell,High Net Worth,2022-07-12,Dormant,Austin Rodriguez,Savings,1660780.28,503,Platinum,2023-04-28,Call Center,9,No,305733.3,West,Would recommend bank,Mutual Fund,High,Feedback Call
+CUST1078,Spencer Fisher,Private Banking,2019-11-23,Dormant,Bethany Miller,Savings,754420.96,720,Standard,2022-01-06,Online,2,Yes,139229.18,South,Would recommend bank,Credit Card,Low,Closure
+CUST1079,Maria Alvarez,Retail,2023-07-30,Active,Matthew Gonzalez,Investment,1399458.39,372,Gold,2025-06-23,Call Center,10,Yes,290912.15,East,Would recommend bank,Credit Card,High,Retention Offer
+CUST1080,Dominique Nolan,Retail,2022-12-11,Closed,Tom Heath,Current,294875.38,781,Platinum,2024-08-29,Mobile,3,No,326412.86,East,Average experience,Fixed Deposit,Low,Closure
+CUST1081,Natalie Moyer DDS,Retail,2015-12-13,Dormant,Karen Jackson,Salary,1153734.07,574,Standard,2017-11-08,Mobile,7,Yes,439306.85,Central,Would recommend bank,Insurance,High,Closure
+CUST1082,David Nelson,High Net Worth,2016-04-09,Dormant,Jennifer Bender,Current,62502.11,510,Standard,2021-10-05,Online,5,Yes,90577.05,West,Happy overall,Mutual Fund,High,Retention Offer
+CUST1083,Brian Webster,Private Banking,2022-11-22,Closed,Oscar Myers,Investment,40971.22,357,Standard,2025-08-21,Branch,9,No,206665.1,North,Happy overall,Fixed Deposit,High,Feedback Call
+CUST1084,Jonathan Hendrix,Private Banking,2016-07-09,Prospect,Kristina Morgan,Savings,192096.13,746,Silver,2021-11-07,Online,7,No,487806.24,South,Very satisfied with manager,Mutual Fund,Medium,Upsell
+CUST1085,Joshua Johnson,SME,2021-03-19,Prospect,Sarah Nguyen,Current,1343202.82,405,Silver,2024-07-23,Call Center,7,Yes,369227.54,Central,Need faster response,Loan,Medium,Follow-up
+CUST1086,Erika Meza,SME,2019-11-15,Prospect,Gerald Jones,Salary,1277196.02,809,Gold,2025-01-01,Mobile,9,Yes,94285.78,North,Happy overall,Mutual Fund,Low,Upsell
+CUST1087,Amy Gonzalez,SME,2020-12-10,Active,Nicholas Brown,Joint,790718.92,607,Gold,2023-06-15,Branch,8,Yes,270102.08,Central,Would recommend bank,Fixed Deposit,High,Feedback Call
+CUST1088,Lisa Stone,High Net Worth,2019-07-21,Active,Stacey Fuentes,Current,1729994.64,356,Platinum,2023-10-29,Call Center,4,No,94463.67,South,Very satisfied with manager,Fixed Deposit,Medium,Upsell
+CUST1089,Danielle Jordan,Retail,2024-03-02,Dormant,Samantha Barnes,Investment,1944976.3,829,Standard,2024-05-23,Mobile,10,Yes,126119.32,Central,Excellent service,Loan,High,Closure
+CUST1090,Courtney Baker,SME,2016-01-30,Prospect,Kristin Hansen,Joint,238159.12,646,Silver,2024-06-03,Online,7,Yes,464037.57,Central,Happy overall,Mutual Fund,High,Closure
+CUST1091,Michael Alvarado,High Net Worth,2023-08-08,Prospect,Nicole Lopez,Salary,1551904.55,599,Platinum,2023-10-01,Mobile,1,No,464240.89,South,Average experience,Loan,High,Upsell
+CUST1092,Natalie Sanders,High Net Worth,2024-03-08,Prospect,Matthew Gonzalez,Salary,900976.15,444,Silver,2025-06-08,Branch,8,No,360343.59,Central,Dissatisfied with charges,Mutual Fund,High,Closure
+CUST1093,Melissa Wood,Retail,2025-05-15,Active,Jeanette Hicks,Savings,1194202.95,399,Platinum,2025-06-19,Online,4,Yes,47178.13,Central,Would recommend bank,Credit Card,Medium,Follow-up
+CUST1094,Steven James,Retail,2016-03-10,Active,Amanda Lopez MD,Current,169865.81,783,Gold,2025-06-18,Call Center,8,No,68533.75,South,Need faster response,Credit Card,High,Feedback Call
+CUST1095,Bridget Stephens,Retail,2017-04-05,Prospect,Sherry Russell,Current,446239.14,739,Gold,2024-05-25,Online,5,Yes,162514.77,East,Would recommend bank,Mutual Fund,Medium,Upsell
+CUST1096,Tina Hall,SME,2021-10-29,Prospect,Alan Pace,Salary,1365337.77,398,Standard,2022-06-15,Branch,2,No,352191.15,North,Dissatisfied with charges,Insurance,Low,Retention Offer
+CUST1097,Cheryl Best,Retail,2022-05-30,Closed,Jenna Gibson,Current,408543.87,640,Gold,2025-03-02,Online,2,Yes,236607.72,East,Dissatisfied with charges,Credit Card,Low,Closure
+CUST1098,Andrew Martinez,Private Banking,2023-11-10,Closed,Amanda Taylor,Current,252396.91,807,Silver,2024-10-21,Call Center,10,Yes,266272.45,East,Happy overall,Fixed Deposit,Low,Closure
+CUST1099,Priscilla Collier,Retail,2016-12-06,Active,Charles Thomas,Salary,916848.22,392,Silver,2020-07-31,Call Center,4,Yes,105580.11,Central,Very satisfied with manager,Credit Card,High,Follow-up
+CUST1100,Kevin Miller,High Net Worth,2024-08-15,Active,Tracy Macias,Joint,1546465.88,834,Platinum,2024-12-18,Branch,10,No,324621.93,Central,Happy overall,Mutual Fund,Low,Follow-up
+CUST1101,Madeline Dyer,SME,2017-12-29,Prospect,Sara Smith,Salary,1632563.03,545,Platinum,2025-09-17,Call Center,10,Yes,204687.41,South,Excellent service,Mutual Fund,High,Retention Offer
+CUST1102,Yesenia Mendez,SME,2025-06-20,Active,Jamie Jones,Savings,1455767.67,722,Platinum,2025-06-21,Mobile,4,No,281392.08,Central,Need faster response,Insurance,Low,Closure
+CUST1103,John Hall,Private Banking,2018-10-05,Prospect,Tracey Mckee,Investment,70298.39,869,Standard,2024-04-29,Online,3,No,120081.1,North,Very satisfied with manager,Loan,Medium,Retention Offer
+CUST1104,Brandon Cole,Private Banking,2016-11-15,Closed,Shawn Bryant,Joint,136838.72,402,Platinum,2019-12-22,Branch,6,Yes,365514.63,North,Excellent service,Credit Card,Medium,Follow-up
+CUST1105,Zachary Jones,Corporate,2021-10-06,Closed,Joseph Smith,Investment,333140.93,679,Gold,2021-10-13,Online,10,No,488023.92,North,Dissatisfied with charges,Loan,Low,Retention Offer
+CUST1106,Jared Davenport,Retail,2017-06-02,Prospect,Gary Anderson,Savings,1786655.01,707,Standard,2019-01-08,Online,10,Yes,252935.71,West,Very satisfied with manager,Fixed Deposit,Medium,Retention Offer
+CUST1107,Jonathan Richardson,Private Banking,2019-09-02,Active,Michael Francis,Savings,451071.91,613,Standard,2023-05-06,Call Center,1,No,303402.96,Central,Excellent service,Credit Card,High,Retention Offer
+CUST1108,Yvonne Patterson DVM,Private Banking,2017-12-16,Prospect,Eric Gregory,Joint,1705308.43,843,Gold,2022-08-01,Branch,8,No,271103.69,East,Would recommend bank,Fixed Deposit,Medium,Follow-up
+CUST1109,Gary King,Corporate,2021-03-16,Dormant,Dr. John Hernandez,Salary,466940.97,735,Standard,2024-08-08,Call Center,1,No,303986.85,Central,Poor digital support,Loan,Low,Closure
+CUST1110,Ryan Taylor,Retail,2023-01-12,Dormant,David Vazquez,Investment,240504.99,800,Silver,2023-09-03,Mobile,1,No,482369.02,South,Average experience,Mutual Fund,Medium,Retention Offer
+CUST1111,Andrea Baker,High Net Worth,2018-01-07,Closed,Felicia Vargas,Joint,1893781.79,474,Gold,2024-12-09,Branch,8,Yes,270851.21,East,Happy overall,Insurance,Low,Retention Offer
+CUST1112,Nathan Edwards,Corporate,2018-02-01,Dormant,Kelly Ayala,Salary,1636901.57,636,Platinum,2023-03-02,Branch,10,No,174125.63,East,Excellent service,Credit Card,Low,Closure
+CUST1113,Deanna Mullen,Private Banking,2024-11-15,Prospect,Seth Edwards,Savings,777143.21,822,Standard,2025-04-14,Branch,1,No,389886.43,Central,Very satisfied with manager,Fixed Deposit,Low,Closure
+CUST1114,Claudia Bautista,High Net Worth,2025-03-27,Active,Christopher Anderson,Joint,666720.98,552,Standard,2025-08-21,Mobile,5,Yes,478823.9,North,Would recommend bank,Mutual Fund,Medium,Upsell
+CUST1115,Edward Lane,High Net Worth,2017-08-24,Active,Jennifer Jones,Investment,358785.98,810,Platinum,2020-09-10,Call Center,10,Yes,128252.84,South,Need faster response,Credit Card,Medium,Closure
+CUST1116,Laura Hernandez,SME,2016-08-20,Closed,Latoya Callahan,Savings,222062.97,399,Standard,2020-11-20,Mobile,9,Yes,388994.66,South,Happy overall,Loan,Medium,Follow-up
+CUST1117,Connie Moore,High Net Worth,2023-04-13,Closed,Micheal Flores,Current,1143286.74,410,Silver,2023-06-08,Online,10,No,389456.13,Central,Would recommend bank,Mutual Fund,Low,Feedback Call
+CUST1118,Shannon Harris,Retail,2021-06-22,Closed,Juan Brown,Salary,1634966.37,547,Gold,2023-11-12,Mobile,4,Yes,203936.41,Central,Would recommend bank,Loan,Medium,Closure
+CUST1119,Beth Owens,Retail,2017-08-18,Active,Mary Stewart,Investment,218479.04,733,Gold,2021-08-15,Mobile,2,Yes,448129.27,North,Dissatisfied with charges,Loan,High,Closure
+CUST1120,William Mendoza,High Net Worth,2018-06-03,Dormant,Shaun Nash,Salary,521582.62,421,Silver,2024-05-31,Call Center,9,No,230085.65,North,Average experience,Fixed Deposit,High,Retention Offer
+CUST1121,Phillip Schroeder,SME,2020-11-09,Prospect,Hayden Rivera,Current,270301.88,693,Platinum,2021-08-22,Call Center,4,Yes,235281.53,North,Average experience,Credit Card,High,Retention Offer
+CUST1122,Connie Montoya,SME,2017-10-28,Prospect,David Stewart,Investment,832143.74,838,Silver,2020-06-10,Mobile,4,Yes,418435.49,West,Dissatisfied with charges,Mutual Fund,Low,Retention Offer
+CUST1123,Kimberly Taylor,High Net Worth,2020-02-29,Active,Carly King,Investment,1683647.46,480,Silver,2021-03-26,Call Center,9,Yes,484636.52,Central,Need faster response,Credit Card,Medium,Feedback Call
+CUST1124,Christine Joseph,Corporate,2022-01-30,Closed,Antonio Bonilla,Current,1029164.58,783,Platinum,2024-01-31,Mobile,1,No,201763.84,Central,Would recommend bank,Fixed Deposit,High,Closure
+CUST1125,Briana Carter,SME,2016-09-16,Dormant,Jeremy Stuart,Salary,1134105.32,439,Platinum,2021-08-10,Call Center,7,No,301519.76,South,Average experience,Credit Card,Low,Upsell
+CUST1126,Jamie Clayton,Corporate,2025-07-01,Prospect,Gregory Patrick,Investment,202558.22,301,Platinum,2025-08-14,Call Center,1,No,157193.64,South,Need faster response,Mutual Fund,High,Feedback Call
+CUST1127,Desiree Cole,High Net Worth,2019-06-09,Prospect,Vernon Morris,Savings,1653564.2,875,Gold,2024-09-14,Branch,6,No,138975.57,Central,Happy overall,Insurance,Medium,Follow-up
+CUST1128,Brenda Gill,High Net Worth,2019-04-11,Closed,Ryan Rogers,Joint,716833.76,765,Platinum,2024-01-09,Mobile,10,Yes,442203.19,Central,Dissatisfied with charges,Loan,Medium,Follow-up
+CUST1129,Stephanie Turner,Retail,2021-03-04,Closed,Kristy Massey,Investment,1278929.94,404,Platinum,2021-05-10,Online,1,Yes,217248.32,West,Would recommend bank,Fixed Deposit,Low,Upsell
+CUST1130,Mark Potts,Retail,2024-12-27,Dormant,Danielle Alvarez,Joint,1426801.47,424,Silver,2025-06-09,Online,4,No,60225.95,South,Happy overall,Insurance,Low,Retention Offer
+CUST1131,Joshua Greer,Retail,2017-02-21,Prospect,Clifford Garrett,Joint,383482.64,430,Silver,2019-09-12,Branch,7,Yes,58675.28,South,Would recommend bank,Mutual Fund,Low,Closure
+CUST1132,Robert Klein,High Net Worth,2018-09-01,Dormant,Becky Yu,Savings,285104.79,300,Platinum,2022-10-27,Branch,4,No,375288.93,North,Happy overall,Insurance,High,Closure
+CUST1133,Stacy Underwood,High Net Worth,2017-11-11,Closed,Kevin Davis,Joint,1600037.52,702,Standard,2020-04-22,Call Center,6,No,128567.46,North,Poor digital support,Insurance,Low,Upsell
+CUST1134,Stacey Wells,SME,2023-06-15,Closed,Ashley Stokes,Salary,1623414.3,584,Standard,2023-07-18,Branch,3,No,394632.3,Central,Need faster response,Insurance,High,Feedback Call
+CUST1135,Mason Jones,Private Banking,2018-07-20,Active,Jessica Watkins,Current,628417.14,421,Gold,2025-01-12,Mobile,9,No,214155.26,East,Would recommend bank,Credit Card,Low,Upsell
+CUST1136,Heather Shaffer,High Net Worth,2025-02-25,Closed,Cathy Martinez,Salary,1081716.39,392,Silver,2025-08-29,Branch,2,Yes,90232.85,North,Happy overall,Credit Card,High,Retention Offer
+CUST1137,Mary Flores,Private Banking,2018-04-24,Active,Jessica Carlson,Joint,1696971.66,528,Gold,2022-04-30,Branch,7,No,239789.69,West,Very satisfied with manager,Fixed Deposit,Medium,Retention Offer
+CUST1138,Steven Williams,High Net Worth,2021-08-01,Dormant,Mary George,Joint,1728589.98,560,Platinum,2025-08-28,Mobile,4,Yes,237110.86,North,Need faster response,Credit Card,High,Follow-up
+CUST1139,Julia Blake PhD,Corporate,2015-11-04,Closed,James Jackson,Investment,1945399.55,442,Gold,2021-01-07,Online,3,No,262351.97,West,Poor digital support,Mutual Fund,Medium,Closure
+CUST1140,George Ramirez,Corporate,2020-05-21,Closed,Robert Perez,Savings,1050483.39,595,Standard,2020-10-31,Call Center,4,No,49840.82,North,Would recommend bank,Insurance,High,Retention Offer
+CUST1141,Jesus Fletcher,Corporate,2025-02-20,Prospect,Timothy Moore,Salary,1711614.69,442,Gold,2025-06-15,Branch,8,Yes,416126.62,North,Average experience,Fixed Deposit,High,Closure
+CUST1142,Michael Zimmerman,High Net Worth,2022-03-05,Closed,Wesley Hoffman,Salary,1788439.4,686,Gold,2022-04-13,Call Center,6,Yes,82577.23,South,Average experience,Loan,Medium,Feedback Call
+CUST1143,Christopher Anderson,SME,2016-06-16,Prospect,Dr. Carl Trujillo,Savings,360019.63,598,Silver,2024-01-10,Online,4,No,174547.11,East,Need faster response,Mutual Fund,Low,Follow-up
+CUST1144,Sarah Brennan,Retail,2019-05-15,Closed,Luke West,Investment,547812.05,879,Platinum,2020-07-17,Branch,6,Yes,279603.32,East,Dissatisfied with charges,Mutual Fund,High,Retention Offer
+CUST1145,Travis Boyd,Corporate,2025-08-16,Closed,Nicholas Haynes,Current,948782.75,388,Standard,2025-09-15,Call Center,1,Yes,175234.19,West,Dissatisfied with charges,Credit Card,Medium,Closure
+CUST1146,James Scott,Private Banking,2021-07-19,Closed,Sheryl Peck,Investment,1475787.46,633,Platinum,2021-08-19,Mobile,1,No,488369.71,South,Poor digital support,Insurance,Medium,Feedback Call
+CUST1147,Harold Avila,SME,2024-04-08,Dormant,Scott Walker,Savings,556283.48,541,Gold,2024-05-27,Online,4,No,183419.52,Central,Very satisfied with manager,Insurance,Medium,Follow-up
+CUST1148,Jessica Lee,Retail,2018-01-29,Dormant,Kimberly Martinez,Savings,866055.81,441,Standard,2019-07-21,Mobile,6,No,408565.11,Central,Dissatisfied with charges,Credit Card,Low,Retention Offer
+CUST1149,Anthony Diaz,SME,2021-08-22,Closed,Mr. Ian Gay,Current,1811614.77,684,Standard,2024-05-15,Call Center,2,Yes,269789.05,North,Dissatisfied with charges,Insurance,High,Upsell
+CUST1150,Emily Kirk,Corporate,2024-02-01,Dormant,Allen Gray,Salary,790662.16,833,Standard,2025-09-24,Online,5,Yes,299824.58,Central,Happy overall,Loan,Medium,Upsell
+CUST1151,Phillip Moran,Retail,2017-05-19,Dormant,John Rose,Investment,680831.65,740,Gold,2022-04-01,Online,5,No,217115.19,South,Dissatisfied with charges,Fixed Deposit,High,Closure
+CUST1152,Jessica Alexander,High Net Worth,2016-07-04,Closed,Glenn Bennett,Salary,1387469.42,636,Platinum,2025-06-21,Call Center,1,No,217467.65,South,Need faster response,Credit Card,Low,Upsell
+CUST1153,Yolanda Carroll,SME,2018-10-15,Prospect,Pamela Fuentes,Savings,1068073.43,710,Gold,2019-06-04,Mobile,9,No,265497.56,West,Poor digital support,Fixed Deposit,Low,Feedback Call
+CUST1154,Monica Garcia,Corporate,2022-12-30,Prospect,Angel Shannon,Joint,1973379.42,851,Standard,2023-01-01,Call Center,4,Yes,223907.34,North,Excellent service,Loan,Medium,Follow-up
+CUST1155,Blake Davis,Retail,2019-04-10,Dormant,Timothy Olson,Salary,250955.4,886,Silver,2020-11-24,Mobile,10,No,49683.04,Central,Average experience,Credit Card,Low,Closure
+CUST1156,Steven Clayton,High Net Worth,2018-12-11,Dormant,Chelsea Sanchez,Salary,1596479.13,478,Silver,2023-04-19,Online,7,No,234935.64,North,Would recommend bank,Fixed Deposit,Medium,Feedback Call
+CUST1157,Megan Martinez,Private Banking,2022-08-27,Active,Karen Warner,Salary,1610582.18,308,Platinum,2023-11-15,Online,2,Yes,371038.83,North,Dissatisfied with charges,Credit Card,Medium,Upsell
+CUST1158,Jamie Long,Corporate,2016-12-01,Active,Matthew Thomas,Joint,1797566.07,357,Platinum,2017-06-07,Call Center,7,Yes,368132.73,South,Average experience,Insurance,Medium,Upsell
+CUST1159,Daniel Mann,Corporate,2023-07-19,Prospect,Russell Reyes,Investment,369873.4,408,Silver,2023-07-19,Online,6,Yes,155119.14,North,Happy overall,Mutual Fund,Medium,Follow-up
+CUST1160,Jose Soto,Private Banking,2017-12-07,Active,James Barron,Current,860906.92,497,Gold,2025-01-16,Online,3,No,217680.83,East,Very satisfied with manager,Credit Card,Medium,Upsell
+CUST1161,Casey Welch,Corporate,2020-10-07,Active,David Anderson,Current,1722311.17,325,Silver,2020-11-02,Branch,9,No,90903.73,East,Excellent service,Loan,Medium,Closure
+CUST1162,Micheal Macias,Retail,2020-03-17,Dormant,Derrick Mcmillan,Investment,1230771.29,680,Silver,2024-09-29,Call Center,5,No,93371.08,South,Poor digital support,Mutual Fund,Low,Follow-up
+CUST1163,Daniel Johnson,High Net Worth,2025-08-06,Closed,Eric King,Current,1136869.84,389,Gold,2025-08-06,Call Center,10,No,349791.24,East,Average experience,Credit Card,Low,Retention Offer
+CUST1164,James Dawson,Retail,2021-10-05,Closed,Kelly Nelson,Current,1391463.67,499,Gold,2025-06-28,Branch,2,Yes,76441.09,North,Average experience,Mutual Fund,High,Closure
+CUST1165,Patricia Washington,Private Banking,2023-07-08,Prospect,Victor Bell,Joint,233811.69,485,Standard,2025-06-04,Call Center,7,Yes,129854.95,North,Dissatisfied with charges,Mutual Fund,Medium,Closure
+CUST1166,Rodney Thompson,SME,2018-05-29,Closed,Derek Cole,Joint,1596714.38,301,Silver,2025-06-28,Online,10,No,40380.78,Central,Very satisfied with manager,Insurance,High,Retention Offer
+CUST1167,Brian White,High Net Worth,2019-05-18,Dormant,Nancy Sanders,Investment,115726.69,398,Gold,2020-06-14,Branch,10,Yes,140199.86,South,Would recommend bank,Insurance,Medium,Feedback Call
+CUST1168,Patricia Kim,SME,2024-09-26,Closed,Amanda Nelson,Investment,1027575.42,857,Gold,2024-12-10,Branch,6,Yes,488305.16,West,Excellent service,Mutual Fund,Medium,Upsell
+CUST1169,Dawn Clark,Private Banking,2021-07-13,Dormant,Terry Willis,Savings,513962.72,580,Gold,2022-02-11,Branch,1,No,89662.02,West,Poor digital support,Credit Card,High,Retention Offer
+CUST1170,Leonard Clark,High Net Worth,2016-09-21,Dormant,Thomas White,Investment,529135.16,647,Silver,2024-05-23,Branch,6,No,495702.78,West,Happy overall,Fixed Deposit,High,Follow-up
+CUST1171,Nathan Ruiz,SME,2017-10-03,Dormant,Rhonda Cunningham,Salary,929172.67,386,Standard,2020-07-09,Branch,1,No,296185.13,South,Poor digital support,Fixed Deposit,Medium,Follow-up
+CUST1172,Dylan Gonzalez,Corporate,2025-03-23,Active,Raymond Aguilar,Salary,451256.08,699,Silver,2025-07-16,Call Center,1,No,14488.19,East,Poor digital support,Fixed Deposit,Medium,Follow-up
+CUST1173,Amanda Peterson,High Net Worth,2018-01-30,Active,Misty Lutz,Current,1321566.67,558,Silver,2020-12-30,Call Center,1,No,285789.01,Central,Dissatisfied with charges,Loan,Low,Retention Offer
+CUST1174,Timothy Jones,Private Banking,2016-07-24,Prospect,Jeff Park,Joint,1514414.14,582,Platinum,2019-04-04,Branch,8,No,309746.36,North,Happy overall,Loan,High,Feedback Call
+CUST1175,Trevor Garcia,Corporate,2019-02-03,Dormant,Cynthia White,Salary,1679187.37,600,Gold,2023-12-25,Mobile,5,Yes,306640.66,East,Excellent service,Mutual Fund,Low,Closure
+CUST1176,Corey Ochoa,Retail,2022-08-06,Closed,Susan Rivera,Salary,993867.09,443,Silver,2024-02-19,Call Center,7,No,399718.67,South,Would recommend bank,Loan,High,Feedback Call
+CUST1177,Christopher Daniels,Private Banking,2024-01-19,Closed,Dr. Raymond House,Savings,13436.6,458,Silver,2024-02-21,Mobile,10,Yes,219027.08,West,Would recommend bank,Loan,High,Retention Offer
+CUST1178,Allison Hernandez,Corporate,2022-04-30,Closed,Marilyn Walker,Joint,1228652.63,687,Platinum,2025-07-17,Call Center,5,Yes,34567.05,East,Excellent service,Mutual Fund,Low,Follow-up
+CUST1179,Richard Powers,Corporate,2018-02-14,Closed,Eric Acosta,Savings,800844.37,650,Standard,2018-03-17,Online,1,Yes,389750.02,East,Poor digital support,Fixed Deposit,Low,Retention Offer
+CUST1180,Eric Knox,Private Banking,2017-03-14,Closed,Timothy Young,Current,1431597.77,659,Standard,2024-10-31,Mobile,8,Yes,87499.5,East,Need faster response,Insurance,High,Upsell
+CUST1181,Erica Green,High Net Worth,2017-10-07,Prospect,Samuel Thomas,Investment,1925649.03,801,Standard,2024-02-14,Mobile,3,Yes,467055.64,West,Very satisfied with manager,Fixed Deposit,High,Follow-up
+CUST1182,Andrew Mcclain,High Net Worth,2018-07-25,Prospect,Jordan Houston,Investment,184551.52,581,Platinum,2022-09-30,Call Center,10,No,381896.44,East,Would recommend bank,Fixed Deposit,Low,Upsell
+CUST1183,Kevin Moore,Private Banking,2024-04-28,Dormant,Benjamin Wilson,Savings,732479.35,419,Gold,2024-07-11,Online,6,No,66431.37,Central,Very satisfied with manager,Mutual Fund,Medium,Follow-up
+CUST1184,Matthew Lutz,SME,2023-02-13,Dormant,Laurie Young,Investment,1417967.07,722,Silver,2023-12-03,Branch,9,No,57687.49,East,Very satisfied with manager,Fixed Deposit,High,Closure
+CUST1185,Jennifer Blair,Retail,2024-10-30,Closed,Christy Thomas,Salary,1608511.93,636,Silver,2025-04-19,Online,8,Yes,470574.84,West,Poor digital support,Insurance,High,Feedback Call
+CUST1186,Brent Liu,Corporate,2020-05-26,Dormant,Angie Gomez,Current,1928355.08,586,Silver,2021-08-08,Call Center,1,Yes,393695.92,North,Average experience,Insurance,High,Retention Offer
+CUST1187,Nicole Thomas,Corporate,2022-07-25,Closed,Megan Payne,Investment,1274613.74,326,Standard,2023-05-01,Online,4,No,131301.51,North,Would recommend bank,Fixed Deposit,Medium,Upsell
+CUST1188,Paul Miller,SME,2024-06-24,Prospect,Isaac Thomas,Salary,1962603.51,679,Silver,2024-10-17,Call Center,3,No,67105.84,South,Excellent service,Fixed Deposit,High,Closure
+CUST1189,Erika Salazar,Corporate,2022-07-26,Active,Benjamin Wu,Investment,971713.3,661,Platinum,2025-01-31,Call Center,9,Yes,76237.2,West,Would recommend bank,Insurance,Low,Follow-up
+CUST1190,Maria Harris,Corporate,2025-05-18,Active,Michele Barker,Savings,795601.09,725,Gold,2025-07-12,Call Center,5,No,417310.03,North,Would recommend bank,Fixed Deposit,Low,Retention Offer
+CUST1191,Julia Martin,SME,2024-01-22,Closed,Abigail Jones,Joint,451184.27,667,Standard,2024-12-09,Online,5,Yes,434071.37,South,Need faster response,Insurance,Low,Feedback Call
+CUST1192,Stacey Lang,High Net Worth,2022-05-24,Active,Diana Wilson,Salary,1410868.05,407,Gold,2025-03-18,Call Center,8,No,329131.85,Central,Happy overall,Mutual Fund,Low,Follow-up
+CUST1193,Danielle Mason,High Net Worth,2020-01-16,Closed,Cheyenne Bishop MD,Savings,735993.71,885,Silver,2021-07-17,Mobile,8,No,484317.88,South,Need faster response,Mutual Fund,Low,Retention Offer
+CUST1194,Paul Harris,Retail,2020-07-23,Active,Sean Lopez,Savings,605749.09,569,Platinum,2023-09-27,Online,5,Yes,468865.34,South,Very satisfied with manager,Mutual Fund,Low,Follow-up
+CUST1195,Joel Gibbs,Corporate,2020-05-29,Prospect,Elizabeth Pearson,Joint,852315.98,311,Silver,2021-08-26,Mobile,10,No,48979.57,East,Poor digital support,Credit Card,Low,Closure
+CUST1196,Tony Cline PhD,Corporate,2019-10-12,Active,Marvin Martin,Current,931398.76,428,Standard,2019-10-14,Online,8,Yes,206919.92,South,Would recommend bank,Insurance,Low,Feedback Call
+CUST1197,Jose Harper,Corporate,2016-01-04,Active,Steven Fuller,Salary,1113699.42,558,Standard,2024-06-12,Online,7,Yes,312917.05,Central,Poor digital support,Loan,Low,Retention Offer
+CUST1198,Jessica Willis,Retail,2024-09-03,Dormant,Patricia Bender,Joint,581770.31,527,Gold,2025-01-19,Branch,2,Yes,340021.08,Central,Excellent service,Fixed Deposit,Medium,Closure
+CUST1199,Amanda Jones,SME,2016-11-07,Closed,Kristina Miller,Salary,591459.42,875,Platinum,2021-10-05,Online,8,No,499627.48,West,Excellent service,Credit Card,Medium,Upsell
+CUST1200,Samuel Bowman,Private Banking,2025-08-03,Active,Richard Hart,Investment,1004655.96,414,Gold,2025-09-22,Branch,2,Yes,359144.57,West,Poor digital support,Fixed Deposit,High,Follow-up
+CUST1201,Robert Davenport,SME,2025-02-14,Prospect,Amy Walker,Salary,1317901.55,877,Silver,2025-03-02,Call Center,4,No,355738.54,North,Need faster response,Credit Card,High,Retention Offer
+CUST1202,Jeanne Fernandez MD,High Net Worth,2016-03-09,Dormant,April Webb,Current,330166.49,604,Platinum,2016-05-30,Branch,7,No,190795.24,Central,Dissatisfied with charges,Insurance,Medium,Closure
+CUST1203,Colton Brown,Corporate,2016-02-02,Dormant,Kimberly Ryan,Savings,15345.97,474,Standard,2020-03-25,Online,1,Yes,362775.16,East,Average experience,Loan,Low,Retention Offer
+CUST1204,John Hendricks,High Net Worth,2018-09-04,Active,Chelsey Hughes,Current,745361.03,434,Gold,2020-05-30,Call Center,2,No,276076.69,Central,Very satisfied with manager,Fixed Deposit,Medium,Upsell
+CUST1205,Connie Wright,High Net Worth,2021-08-16,Active,Raymond Meyer,Savings,1881505.68,544,Silver,2024-10-10,Mobile,7,No,414467.03,South,Very satisfied with manager,Insurance,High,Upsell
+CUST1206,Brittney Walters,High Net Worth,2018-03-17,Prospect,Natasha Grant,Current,239084.24,699,Gold,2021-06-30,Online,2,No,347613.8,South,Average experience,Fixed Deposit,Medium,Closure
+CUST1207,Patricia Montgomery,Retail,2022-03-04,Active,Melanie Beasley,Joint,1106215.22,635,Gold,2023-03-21,Online,2,Yes,263918.48,North,Happy overall,Fixed Deposit,High,Closure
+CUST1208,Tyler Armstrong,High Net Worth,2023-03-23,Closed,Isabel Foley,Current,1520430.35,829,Silver,2025-08-16,Online,1,No,86286.18,West,Dissatisfied with charges,Mutual Fund,Low,Follow-up
+CUST1209,Christina Wells,Corporate,2018-01-28,Closed,Brian Christensen,Investment,942660.02,366,Silver,2020-09-18,Call Center,2,No,337263.16,South,Happy overall,Credit Card,High,Retention Offer
+CUST1210,Amanda Pierce,Corporate,2016-01-04,Closed,Erin Skinner,Joint,134167.19,479,Platinum,2019-05-11,Mobile,10,No,316760.27,South,Excellent service,Credit Card,High,Follow-up
+CUST1211,Cheryl Murphy,Corporate,2020-12-04,Prospect,Christian Bean,Current,959972.68,315,Standard,2023-10-11,Online,3,No,230993.45,East,Need faster response,Insurance,Medium,Feedback Call
+CUST1212,Vanessa Faulkner,SME,2025-08-26,Active,Mark Knapp,Salary,760448.46,364,Silver,2025-09-08,Online,3,No,185343.6,North,Need faster response,Mutual Fund,Low,Feedback Call
+CUST1213,Sarah Gonzalez,Private Banking,2024-07-17,Dormant,Nicole Porter,Current,1241580.51,781,Platinum,2024-09-17,Call Center,4,No,491930.12,East,Would recommend bank,Credit Card,Low,Follow-up
+CUST1214,Jerry Snyder,SME,2017-01-24,Dormant,Madison Arnold,Joint,416686.81,509,Gold,2019-10-02,Call Center,6,Yes,49371.36,Central,Would recommend bank,Credit Card,Medium,Follow-up
+CUST1215,William Shaffer,Private Banking,2024-04-18,Prospect,Judy Murray,Salary,320425.43,642,Silver,2025-08-11,Call Center,5,No,146708.67,South,Happy overall,Mutual Fund,Medium,Feedback Call
+CUST1216,Gilbert Mccoy,Corporate,2019-08-01,Prospect,Vincent Cooley,Salary,820567.75,563,Platinum,2025-02-07,Online,3,Yes,364202.34,North,Very satisfied with manager,Fixed Deposit,High,Feedback Call
+CUST1217,Shannon Fry,Corporate,2019-03-30,Closed,Sharon Reyes,Current,652970.96,585,Standard,2023-11-25,Mobile,8,No,241167.36,West,Average experience,Credit Card,Medium,Upsell
+CUST1218,Danny Brown,Corporate,2017-09-20,Closed,Kevin Alexander,Current,462231.86,746,Standard,2024-11-18,Online,7,Yes,29433.46,North,Dissatisfied with charges,Mutual Fund,High,Retention Offer
+CUST1219,Tracy Williams,High Net Worth,2017-10-15,Dormant,Robert Kirby,Current,633571.5,774,Platinum,2020-10-27,Branch,9,Yes,88370.34,North,Would recommend bank,Mutual Fund,Low,Upsell
+CUST1220,Tyler Glenn,Corporate,2023-05-06,Closed,Zachary Woods,Savings,912346.97,525,Silver,2023-05-06,Mobile,1,No,141827.71,West,Happy overall,Loan,Low,Follow-up
+CUST1221,Gregory Avila,SME,2018-10-13,Prospect,Troy Powell,Investment,1652635.67,899,Standard,2019-03-04,Call Center,5,No,402120.44,West,Average experience,Fixed Deposit,Low,Upsell
+CUST1222,Lindsey Byrd,Private Banking,2025-09-13,Prospect,Joseph Young,Joint,829308.18,315,Standard,2025-09-26,Mobile,3,Yes,184831.46,Central,Would recommend bank,Credit Card,Medium,Retention Offer
+CUST1223,Angelica Whitaker,High Net Worth,2024-08-10,Prospect,Nicole Copeland,Savings,1477792.9,800,Standard,2025-01-06,Branch,1,No,464000.01,West,Average experience,Mutual Fund,High,Upsell
+CUST1224,Jennifer Holland,Retail,2021-06-16,Active,Alicia Ellis,Current,1485188.56,871,Silver,2024-12-11,Call Center,6,No,112974.4,East,Very satisfied with manager,Credit Card,Medium,Closure
+CUST1225,Megan Kaufman,Private Banking,2020-10-09,Active,Mario Lane,Joint,1664926.02,394,Standard,2023-02-12,Branch,5,No,381488.45,West,Poor digital support,Insurance,Medium,Retention Offer
+CUST1226,Jenny Day,Corporate,2019-04-09,Prospect,Brenda Ferguson,Current,1923476.2,314,Gold,2021-01-20,Call Center,6,Yes,128723.41,West,Excellent service,Fixed Deposit,High,Feedback Call
+CUST1227,Dean Diaz,Corporate,2016-08-03,Dormant,Christopher Weiss,Investment,1726390.4,810,Gold,2021-02-19,Branch,9,Yes,298773.9,Central,Dissatisfied with charges,Mutual Fund,Medium,Retention Offer
+CUST1228,Dale Norman,SME,2016-06-20,Prospect,Mary Davis,Salary,869774.11,319,Silver,2022-06-29,Branch,8,No,219459.68,North,Dissatisfied with charges,Loan,Low,Feedback Call
+CUST1229,Andrew Cooper,Corporate,2016-12-06,Prospect,Bethany Potter,Salary,1928166.09,300,Silver,2023-10-31,Branch,9,No,444788.92,South,Need faster response,Fixed Deposit,High,Closure
+CUST1230,Shannon Dixon,High Net Worth,2017-06-19,Prospect,Bruce Johnson,Savings,303517.59,782,Standard,2023-12-14,Online,4,No,426916.86,North,Average experience,Loan,Medium,Follow-up
+CUST1231,John Bowers,SME,2016-05-03,Closed,John Smith,Savings,1200044.2,402,Gold,2017-10-19,Call Center,6,Yes,493915.96,North,Excellent service,Mutual Fund,Low,Retention Offer
+CUST1232,Joseph Smith,Retail,2024-06-09,Closed,Jennifer York,Current,748967.93,723,Platinum,2025-09-25,Call Center,3,Yes,11608.28,West,Happy overall,Credit Card,Medium,Follow-up
+CUST1233,Robert Reynolds,High Net Worth,2018-05-07,Active,Jessica Nichols,Joint,189136.86,492,Gold,2024-09-27,Mobile,6,No,423485.62,North,Excellent service,Loan,Medium,Retention Offer
+CUST1234,Jordan Schaefer,Corporate,2018-01-31,Dormant,Melanie Martin,Investment,1724381.26,893,Standard,2023-10-02,Online,3,Yes,412590.15,East,Happy overall,Insurance,Low,Closure
+CUST1235,Joseph Griffith,Corporate,2024-10-16,Active,Janice Collins,Savings,188326.07,583,Gold,2024-12-13,Mobile,3,Yes,204575.1,Central,Would recommend bank,Mutual Fund,High,Follow-up
+CUST1236,Jennifer Hernandez,SME,2017-10-12,Active,Jacob Smith,Investment,153215.54,410,Standard,2024-10-12,Mobile,1,Yes,40752.91,Central,Happy overall,Loan,High,Closure
+CUST1237,Christopher Wilson,SME,2017-10-07,Dormant,Steven Gonzalez,Current,682808.61,417,Silver,2022-05-06,Call Center,9,Yes,113382.93,South,Happy overall,Insurance,Medium,Follow-up
+CUST1238,Lindsey Mitchell,High Net Worth,2021-08-20,Prospect,Aaron Walker,Current,290619.79,324,Platinum,2023-11-05,Branch,5,No,54276.66,West,Dissatisfied with charges,Mutual Fund,Low,Retention Offer
+CUST1239,Kelly Hubbard,SME,2022-06-28,Dormant,Preston Rodriguez,Investment,1172724.91,437,Gold,2023-02-26,Call Center,2,Yes,43389.19,North,Average experience,Insurance,Low,Retention Offer
+CUST1240,Tony Dougherty,Corporate,2017-09-21,Dormant,Jessica Rojas,Current,1961601.31,535,Standard,2020-01-27,Mobile,6,No,20349.23,West,Poor digital support,Loan,High,Upsell
+CUST1241,Dylan Lindsey,Retail,2022-11-12,Prospect,Jaime Mcdonald,Investment,558350.58,607,Silver,2024-10-22,Call Center,5,No,138011.97,East,Very satisfied with manager,Mutual Fund,Low,Follow-up
+CUST1242,Karen Scott,High Net Worth,2015-12-29,Dormant,Kimberly Tran,Salary,1976651.43,776,Silver,2025-09-11,Call Center,1,No,328153.42,Central,Excellent service,Insurance,Low,Follow-up
+CUST1243,William Warren,Corporate,2017-09-06,Prospect,Erica Henry,Salary,853781.56,821,Silver,2021-09-26,Branch,2,Yes,287113.88,West,Excellent service,Mutual Fund,High,Follow-up
+CUST1244,Keith Franklin,SME,2024-09-03,Active,Sherri Campbell,Joint,477839.6,443,Standard,2025-10-01,Call Center,2,No,342789.24,South,Excellent service,Mutual Fund,Medium,Feedback Call
+CUST1245,Megan Austin,Private Banking,2018-04-12,Prospect,Justin Johnson,Salary,457289.34,568,Standard,2022-01-03,Online,5,Yes,123342.66,West,Would recommend bank,Fixed Deposit,Medium,Upsell
+CUST1246,Olivia Curtis,Corporate,2019-04-28,Active,Jonathan Romero,Joint,769886.9,573,Platinum,2019-07-08,Online,2,Yes,278694.42,South,Poor digital support,Insurance,High,Upsell
+CUST1247,Jerry Nunez,Private Banking,2019-06-22,Prospect,Laurie Hardy,Investment,1196996.89,326,Silver,2024-02-16,Branch,7,Yes,281766.39,North,Need faster response,Fixed Deposit,High,Upsell
+CUST1248,Michelle Smith,Retail,2019-09-03,Active,Dana Johnson,Joint,146556.56,445,Silver,2021-09-08,Call Center,7,Yes,115903.92,West,Excellent service,Mutual Fund,Low,Retention Offer
+CUST1249,Scott Smith,High Net Worth,2015-12-10,Closed,Kaitlyn Johnson,Investment,1449268.46,896,Silver,2020-12-03,Online,1,No,387372.6,East,Would recommend bank,Loan,Low,Retention Offer
+CUST1250,Heather Kemp,Retail,2019-06-28,Dormant,Katelyn Roach,Joint,1543672.32,607,Silver,2025-05-31,Mobile,7,Yes,418344.68,East,Very satisfied with manager,Credit Card,Medium,Feedback Call
+CUST1251,Veronica Butler,Private Banking,2023-01-05,Active,Katie Gould,Savings,1064795.1,496,Gold,2024-10-16,Call Center,8,Yes,407971.46,West,Very satisfied with manager,Mutual Fund,Low,Follow-up
+CUST1252,Brittany Fleming,SME,2019-07-29,Prospect,John Nichols,Savings,504090.14,677,Standard,2025-09-16,Online,10,Yes,465506.88,Central,Would recommend bank,Fixed Deposit,Medium,Follow-up
+CUST1253,Karen Green,Retail,2019-05-22,Prospect,Harold Evans,Joint,968080.79,479,Standard,2020-09-18,Branch,9,No,178961.48,West,Very satisfied with manager,Mutual Fund,High,Upsell
+CUST1254,Mary Cunningham DDS,SME,2018-07-12,Active,Susan Huff,Current,669541.8,359,Silver,2023-12-04,Branch,9,No,413393.61,South,Need faster response,Insurance,High,Feedback Call
+CUST1255,Tony Lopez,Private Banking,2016-09-03,Active,Stanley Stevens,Joint,780541.08,451,Silver,2019-11-26,Branch,9,Yes,221660.57,West,Happy overall,Insurance,High,Upsell
+CUST1256,Anne Taylor,SME,2024-11-23,Closed,Kathleen Moss,Savings,285778.88,668,Platinum,2024-12-03,Branch,2,Yes,217687.69,East,Average experience,Loan,Low,Follow-up
+CUST1257,Kelly Williams,Corporate,2017-01-06,Closed,Melinda Lopez,Investment,909651.17,724,Standard,2021-02-20,Online,10,No,444151.21,South,Would recommend bank,Loan,Medium,Feedback Call
+CUST1258,Patricia Thomas,Corporate,2021-10-23,Closed,William Vasquez,Joint,560527.59,817,Gold,2024-10-11,Online,10,No,333658.69,South,Excellent service,Insurance,Medium,Follow-up
+CUST1259,Patricia Atkins,SME,2019-04-22,Dormant,Ellen Wilson,Investment,1716900.61,340,Silver,2022-04-24,Mobile,10,Yes,240639.56,North,Very satisfied with manager,Credit Card,Medium,Retention Offer
+CUST1260,Nicole Ho,Corporate,2016-06-06,Active,Jessica Allison,Investment,1116740.89,549,Gold,2025-06-20,Branch,5,Yes,94561.85,East,Dissatisfied with charges,Credit Card,Low,Follow-up
+CUST1261,Angela Monroe,SME,2025-04-15,Closed,Douglas Nguyen,Current,1482255.16,760,Platinum,2025-06-04,Mobile,3,No,454200.38,South,Would recommend bank,Credit Card,Medium,Follow-up
+CUST1262,Larry Cook,Retail,2020-12-24,Active,Danielle Stephens,Current,1564439.89,407,Gold,2025-10-12,Call Center,9,Yes,170550.71,North,Happy overall,Mutual Fund,Low,Follow-up
+CUST1263,Jeffrey Rodriguez,Retail,2024-01-10,Active,Ernest Sosa,Investment,1671669.52,408,Platinum,2025-01-10,Branch,1,Yes,241982.13,Central,Happy overall,Credit Card,Low,Closure
+CUST1264,Jillian Lindsey,Private Banking,2022-04-07,Dormant,Matthew Dillon,Current,858866.79,523,Standard,2024-01-17,Mobile,1,No,464352.96,East,Poor digital support,Credit Card,Low,Upsell
+CUST1265,Courtney Huynh,High Net Worth,2019-07-13,Active,Tony Harding,Current,1476796.78,793,Silver,2019-11-09,Branch,5,Yes,197589.69,West,Excellent service,Mutual Fund,Medium,Retention Offer
+CUST1266,Michelle Rowe,Corporate,2022-07-05,Active,Sandra Henderson,Current,1454496.98,782,Standard,2025-04-11,Mobile,8,Yes,321391.5,South,Average experience,Fixed Deposit,High,Closure
+CUST1267,Bryan Bell,Retail,2023-03-03,Prospect,Eric Doyle,Current,21110.76,707,Platinum,2023-03-20,Online,1,No,410443.58,North,Excellent service,Loan,High,Closure
+CUST1268,Abigail Ortiz,SME,2016-07-04,Closed,Sharon Flores,Current,1728510.48,559,Standard,2018-04-15,Mobile,10,No,453923.8,East,Happy overall,Insurance,High,Follow-up
+CUST1269,Andrea Thompson,Private Banking,2018-08-23,Dormant,Andrew Lambert,Current,58372.5,821,Silver,2019-09-18,Branch,3,No,178867.12,North,Poor digital support,Credit Card,Low,Follow-up
+CUST1270,Amy Campbell,Retail,2023-10-30,Prospect,Christopher Miller,Investment,610540.9,323,Gold,2024-09-21,Call Center,7,No,223590.39,Central,Average experience,Credit Card,Medium,Upsell
+CUST1271,John Davis,Private Banking,2021-08-28,Active,Erik Mckee,Current,1523402.99,420,Standard,2023-05-27,Call Center,6,No,220163.42,North,Average experience,Mutual Fund,Medium,Feedback Call
+CUST1272,Cassandra Morales,Corporate,2016-04-26,Prospect,Kristi Mayo,Current,790684.81,566,Silver,2024-02-25,Online,10,Yes,213809.49,East,Happy overall,Insurance,High,Retention Offer
+CUST1273,Rachel Carson,SME,2021-12-05,Active,Hayley Haynes,Joint,38869.02,743,Standard,2023-11-05,Call Center,1,Yes,321400.61,West,Average experience,Fixed Deposit,Low,Retention Offer
+CUST1274,Lindsey Waters,Retail,2023-04-03,Prospect,Tara Cannon,Investment,320698.26,786,Silver,2023-12-14,Call Center,3,Yes,166502.99,South,Average experience,Loan,Medium,Retention Offer
+CUST1275,Laura Brown,Corporate,2024-07-24,Active,Jennifer Juarez,Salary,953854.27,351,Gold,2025-02-13,Call Center,5,Yes,432768.78,West,Very satisfied with manager,Mutual Fund,Low,Closure
+CUST1276,Anna Brown,SME,2025-03-30,Prospect,Brian Green,Savings,1867979.81,474,Gold,2025-09-25,Call Center,6,Yes,254809.25,Central,Excellent service,Insurance,High,Upsell
+CUST1277,Alyssa Everett,Retail,2018-01-12,Active,Brandy Mclaughlin,Current,841672.44,852,Silver,2021-08-31,Online,7,No,438322.41,Central,Poor digital support,Mutual Fund,Low,Follow-up
+CUST1278,Courtney Ruiz,High Net Worth,2024-06-15,Active,Brian Steele,Investment,57292.13,379,Gold,2025-09-19,Mobile,2,Yes,178532.89,East,Very satisfied with manager,Credit Card,Low,Closure
+CUST1279,Mike Conley,High Net Worth,2017-07-18,Prospect,Stephen Weaver,Joint,456038.79,864,Platinum,2018-07-20,Branch,7,No,261290.24,West,Poor digital support,Mutual Fund,Low,Feedback Call
+CUST1280,Dr. Anthony French,SME,2021-06-14,Active,Marcus Mills,Current,1819555.8,669,Silver,2021-12-29,Mobile,3,Yes,93432.85,Central,Happy overall,Loan,Medium,Follow-up
+CUST1281,Robin Schroeder,Private Banking,2022-01-07,Active,Christopher Le,Salary,1013336.09,795,Gold,2023-07-23,Branch,4,Yes,235637.93,Central,Excellent service,Loan,Medium,Feedback Call
+CUST1282,Rebecca Dodson,SME,2016-11-26,Prospect,Robert Elliott,Savings,41219.84,564,Standard,2020-05-10,Online,5,Yes,132723.4,South,Happy overall,Mutual Fund,High,Feedback Call
+CUST1283,Victoria Hicks,Retail,2022-12-14,Dormant,Eric Jackson,Investment,985137.9,823,Standard,2022-12-21,Branch,4,No,378033.13,North,Would recommend bank,Fixed Deposit,Low,Upsell
+CUST1284,Richard Hayes,High Net Worth,2016-12-31,Active,Micheal Butler,Salary,501764.14,378,Silver,2018-01-03,Online,8,No,406558.42,East,Happy overall,Mutual Fund,Medium,Closure
+CUST1285,Ryan Morgan,Retail,2019-04-01,Active,Stephanie Nelson,Salary,1143674.47,391,Gold,2020-04-12,Branch,7,No,362687.8,Central,Dissatisfied with charges,Loan,Medium,Closure
+CUST1286,Kevin Barnes,Retail,2021-01-15,Active,Joseph Carter,Joint,431041.98,821,Silver,2024-11-15,Call Center,5,Yes,405585.32,East,Excellent service,Fixed Deposit,Low,Closure
+CUST1287,Michael Lutz,SME,2024-01-23,Active,Eric Lane,Current,1962266.21,764,Standard,2024-08-10,Online,9,Yes,201380.16,East,Poor digital support,Credit Card,Medium,Closure
+CUST1288,Patricia Hawkins,Retail,2023-06-27,Closed,Angela Taylor,Savings,1835866.61,562,Platinum,2024-07-15,Call Center,1,No,305547.13,East,Need faster response,Loan,Low,Upsell
+CUST1289,John Adkins,Private Banking,2017-10-31,Active,Frank Barber,Salary,837762.49,774,Standard,2020-10-02,Mobile,10,Yes,330977.79,North,Need faster response,Insurance,High,Follow-up
+CUST1290,Robert Swanson Jr.,SME,2018-05-08,Active,Jamie Delgado,Savings,1605401.52,314,Standard,2021-08-22,Mobile,7,No,27414.58,East,Excellent service,Loan,Low,Closure
+CUST1291,Aaron Durham,SME,2018-02-24,Dormant,John Sanchez,Current,1277667.0,673,Silver,2022-08-16,Mobile,8,No,77315.28,Central,Happy overall,Credit Card,Medium,Follow-up
+CUST1292,Scott Williams,High Net Worth,2023-12-23,Dormant,David Olson,Salary,282488.92,834,Silver,2024-06-14,Online,9,No,28643.94,West,Need faster response,Insurance,Medium,Upsell
+CUST1293,Paul Price,Corporate,2016-04-28,Dormant,Terry Pittman,Salary,397648.95,725,Platinum,2022-12-17,Call Center,8,No,407578.49,East,Average experience,Credit Card,High,Follow-up
+CUST1294,Peter Acosta,SME,2025-06-26,Dormant,Randy Adams,Investment,228459.6,603,Silver,2025-06-27,Call Center,3,Yes,418123.38,North,Very satisfied with manager,Loan,Medium,Retention Offer
+CUST1295,Jordan Walker,High Net Worth,2017-12-11,Active,Amanda Lee,Savings,1123039.23,602,Silver,2022-03-03,Mobile,8,Yes,202912.37,Central,Excellent service,Loan,Medium,Retention Offer
+CUST1296,Charles Leonard,SME,2024-12-26,Closed,Rebecca Henry,Current,697912.52,757,Platinum,2025-06-26,Branch,3,No,30401.77,West,Very satisfied with manager,Fixed Deposit,Medium,Follow-up
+CUST1297,Jonathan Nguyen,Private Banking,2024-01-05,Dormant,Vanessa Woods,Joint,864157.83,578,Standard,2025-07-21,Branch,6,Yes,413036.56,North,Average experience,Fixed Deposit,Medium,Retention Offer
+CUST1298,Joseph Olson,SME,2021-10-19,Closed,Richard Kim,Savings,1361076.43,323,Standard,2025-05-15,Online,8,No,91497.82,West,Excellent service,Loan,Low,Upsell
+CUST1299,Michael White,Corporate,2025-05-09,Prospect,William Bailey,Salary,1839575.54,830,Standard,2025-09-14,Online,10,No,226877.74,South,Dissatisfied with charges,Loan,Medium,Retention Offer
+CUST1300,Brian Garrett,SME,2015-11-06,Prospect,Christopher Burns,Current,1406583.35,795,Platinum,2023-07-18,Branch,3,Yes,457818.84,Central,Would recommend bank,Fixed Deposit,Medium,Upsell
+CUST1301,Lisa Hess,Retail,2022-01-31,Prospect,Stephen Allen,Joint,1636798.39,888,Gold,2025-05-17,Call Center,3,No,493999.59,Central,Excellent service,Credit Card,High,Closure
+CUST1302,Stephanie Cochran,Retail,2020-04-07,Closed,Daniel Gray,Investment,775777.56,678,Silver,2022-07-31,Call Center,9,No,275585.79,West,Need faster response,Mutual Fund,Medium,Upsell
+CUST1303,Thomas Torres,Private Banking,2016-11-03,Closed,Vanessa Robbins,Current,1965710.04,755,Standard,2019-07-22,Online,8,Yes,365973.02,Central,Excellent service,Insurance,Low,Closure
+CUST1304,Matthew Mendez,SME,2020-07-06,Prospect,Hayley Ramirez,Investment,1682254.83,549,Silver,2024-09-07,Branch,6,Yes,129400.55,East,Dissatisfied with charges,Loan,Medium,Closure
+CUST1305,Kevin Barron,High Net Worth,2024-11-09,Closed,Aaron Ramos,Salary,1938983.26,864,Silver,2024-11-17,Online,5,No,158134.05,South,Happy overall,Credit Card,Medium,Closure
+CUST1306,Adam Mccall,SME,2022-01-02,Dormant,Matthew Brown,Current,247364.45,617,Standard,2022-06-19,Call Center,5,Yes,100259.42,South,Poor digital support,Insurance,High,Retention Offer
+CUST1307,Scott Brennan,Private Banking,2022-03-28,Closed,Bruce Garcia,Salary,29360.78,732,Platinum,2025-08-07,Call Center,2,Yes,197032.42,East,Very satisfied with manager,Insurance,Medium,Feedback Call
+CUST1308,Theresa Mosley,SME,2020-07-14,Closed,Anthony Figueroa,Salary,457275.96,694,Standard,2021-06-04,Mobile,8,No,324460.77,Central,Very satisfied with manager,Insurance,Low,Follow-up
+CUST1309,Stephanie Torres,Private Banking,2018-02-11,Dormant,Matthew Salinas,Salary,1857365.3,644,Platinum,2018-10-25,Call Center,6,Yes,135927.58,South,Happy overall,Mutual Fund,Low,Upsell
+CUST1310,Amber Rodriguez,Retail,2024-08-01,Closed,Katie Fox,Salary,26323.96,437,Gold,2025-04-03,Branch,1,No,441834.32,North,Happy overall,Insurance,High,Closure
+CUST1311,Samuel Reese,Corporate,2019-03-27,Dormant,Christine Mcdonald,Joint,1720391.67,696,Silver,2025-03-22,Mobile,10,Yes,333380.38,South,Poor digital support,Insurance,Medium,Closure
+CUST1312,Megan Solis MD,SME,2016-08-15,Prospect,Mrs. Pamela Schmidt MD,Current,1894894.04,893,Platinum,2024-01-31,Online,10,Yes,425380.52,West,Happy overall,Insurance,Medium,Upsell
+CUST1313,Dorothy Huynh,Corporate,2023-03-22,Dormant,Justin Vance,Investment,1806559.49,854,Standard,2025-09-10,Call Center,5,Yes,411912.78,West,Dissatisfied with charges,Credit Card,Low,Retention Offer
+CUST1314,Joseph Schultz,Private Banking,2024-11-21,Dormant,Virginia Morris,Joint,44564.9,593,Silver,2025-02-17,Online,4,No,77919.81,East,Happy overall,Mutual Fund,High,Upsell
+CUST1315,Lance Cook,High Net Worth,2017-05-05,Prospect,James Little,Investment,1841364.82,568,Standard,2025-01-19,Online,10,No,383975.23,North,Dissatisfied with charges,Mutual Fund,Medium,Closure
+CUST1316,Sarah Woods,Private Banking,2021-12-07,Closed,Tyler Rhodes,Joint,95581.06,442,Silver,2022-11-01,Mobile,6,Yes,133652.71,East,Happy overall,Credit Card,High,Feedback Call
+CUST1317,William Roberts,Private Banking,2025-08-21,Dormant,Joshua Brooks,Salary,1821501.89,492,Platinum,2025-10-11,Mobile,9,No,23484.94,North,Dissatisfied with charges,Loan,Medium,Upsell
+CUST1318,Erin Everett,Corporate,2021-04-27,Active,Caitlin Mitchell,Current,972426.22,528,Silver,2022-07-10,Mobile,3,No,348888.0,South,Happy overall,Fixed Deposit,High,Follow-up
+CUST1319,Jasmine Shea,Retail,2021-02-22,Closed,Morgan Stevens,Joint,924809.82,366,Standard,2021-10-30,Branch,3,Yes,393720.57,South,Poor digital support,Mutual Fund,Medium,Feedback Call
+CUST1320,Johnny Dean,High Net Worth,2023-07-17,Closed,Melanie Shaw,Joint,1676448.31,340,Platinum,2023-08-06,Call Center,6,Yes,416669.85,East,Very satisfied with manager,Mutual Fund,High,Upsell
+CUST1321,Chad Watson,SME,2019-12-06,Closed,Stephanie Cole,Investment,1653720.88,752,Standard,2020-03-28,Mobile,7,Yes,426291.16,West,Need faster response,Fixed Deposit,Medium,Follow-up
+CUST1322,Jason Patel,High Net Worth,2018-10-28,Prospect,Jaime Perez,Current,1733465.96,333,Silver,2021-04-18,Call Center,7,No,308878.75,Central,Would recommend bank,Fixed Deposit,High,Follow-up
+CUST1323,Michelle Taylor,Corporate,2021-09-13,Prospect,Stephen Avila,Current,887998.2,761,Standard,2023-04-06,Online,10,Yes,17676.72,North,Happy overall,Mutual Fund,High,Follow-up
+CUST1324,Gloria Estrada,Retail,2017-01-14,Closed,Benjamin Fowler,Salary,1600908.19,668,Platinum,2017-08-15,Call Center,6,No,376770.09,South,Poor digital support,Insurance,High,Closure
+CUST1325,Robert Rush,Private Banking,2021-05-26,Prospect,Sandra Hobbs,Current,807006.03,848,Silver,2021-11-17,Online,7,No,239568.4,Central,Happy overall,Insurance,Low,Retention Offer
+CUST1326,Patrick Frey,Corporate,2019-02-16,Closed,Kelly Heath,Current,1360395.73,661,Standard,2023-05-09,Online,10,Yes,381166.74,North,Very satisfied with manager,Insurance,High,Closure
+CUST1327,Robert Woods,SME,2022-03-30,Prospect,Michael Fitzpatrick,Investment,1998435.86,625,Platinum,2025-09-23,Branch,10,No,88722.19,Central,Average experience,Loan,Medium,Closure
+CUST1328,Jack Fisher,Corporate,2023-02-28,Closed,Bryan Fernandez,Current,215981.17,473,Gold,2024-03-14,Mobile,6,Yes,441639.01,North,Would recommend bank,Fixed Deposit,High,Feedback Call
+CUST1329,David Olson,Private Banking,2024-05-01,Prospect,Bruce Bennett Jr.,Investment,215651.07,739,Gold,2025-01-15,Call Center,2,Yes,405229.59,West,Poor digital support,Mutual Fund,Medium,Upsell
+CUST1330,Anthony Wolf,SME,2018-07-12,Dormant,Jonathan Johnson,Savings,1404396.03,445,Platinum,2025-07-19,Mobile,7,Yes,73946.15,West,Dissatisfied with charges,Credit Card,Medium,Follow-up
+CUST1331,Denise Adams,Retail,2016-08-18,Dormant,Jeanette Owen,Savings,1154286.53,668,Gold,2019-03-27,Call Center,3,No,164167.48,Central,Poor digital support,Loan,Low,Feedback Call
+CUST1332,Lauren Rodriguez,Private Banking,2020-04-09,Closed,Alexis Juarez,Joint,1076978.58,883,Gold,2020-12-21,Branch,1,Yes,84096.15,West,Very satisfied with manager,Mutual Fund,Low,Upsell
+CUST1333,Brenda Mitchell,Private Banking,2016-05-28,Prospect,Tammy Nelson,Savings,1758262.2,349,Standard,2022-01-01,Online,10,No,22603.88,West,Very satisfied with manager,Mutual Fund,Low,Follow-up
+CUST1334,Chelsea French,Retail,2017-05-24,Prospect,Randy Jones,Salary,1650986.37,755,Platinum,2024-06-14,Call Center,6,Yes,220746.94,North,Happy overall,Fixed Deposit,Medium,Upsell
+CUST1335,Sophia Adams,SME,2015-12-30,Closed,Ana Quinn,Current,1835759.6,872,Gold,2023-10-01,Mobile,7,Yes,357921.29,Central,Average experience,Credit Card,High,Upsell
+CUST1336,Anne Archer,High Net Worth,2022-12-05,Active,Debra Alvarez,Investment,104009.49,887,Gold,2024-04-02,Online,4,Yes,348648.76,East,Need faster response,Loan,Low,Upsell
+CUST1337,Ryan Gonzalez,Private Banking,2017-12-30,Closed,Paula Day,Savings,1701986.25,345,Platinum,2025-07-22,Branch,10,No,20946.98,Central,Dissatisfied with charges,Loan,High,Retention Offer
+CUST1338,Megan Cowan,High Net Worth,2018-03-06,Prospect,Tammy Payne,Current,799184.64,686,Standard,2024-10-23,Online,6,No,79289.57,West,Happy overall,Insurance,Low,Follow-up
+CUST1339,Doris Larsen,High Net Worth,2018-06-23,Prospect,Amanda Wagner,Current,1913854.36,743,Silver,2020-08-28,Mobile,6,No,242330.49,West,Happy overall,Mutual Fund,High,Upsell
+CUST1340,Jessica Moyer,Retail,2019-07-13,Prospect,Scott Sutton,Savings,1731853.39,334,Platinum,2021-03-23,Branch,1,Yes,171472.74,Central,Very satisfied with manager,Fixed Deposit,High,Upsell
+CUST1341,Christopher Hansen,SME,2023-09-12,Active,Michael Paul,Savings,1639976.69,466,Standard,2025-09-06,Branch,10,No,303983.2,West,Happy overall,Credit Card,Low,Closure
+CUST1342,Teresa Henderson,High Net Worth,2019-12-29,Prospect,Sarah Melendez,Current,886836.27,430,Platinum,2024-08-17,Branch,8,Yes,158610.53,West,Need faster response,Insurance,Medium,Feedback Call
+CUST1343,Michael Henderson,SME,2025-05-25,Dormant,Robert Roman,Salary,1604451.39,887,Standard,2025-08-16,Mobile,4,Yes,259559.99,Central,Very satisfied with manager,Insurance,Medium,Follow-up
+CUST1344,Valerie Wright,SME,2019-05-06,Active,Barry Smith,Salary,1547412.32,441,Platinum,2024-04-30,Call Center,7,Yes,18186.93,East,Happy overall,Loan,Low,Feedback Call
+CUST1345,Michael Mitchell,Private Banking,2017-07-31,Prospect,Angela Hansen,Salary,996100.05,320,Platinum,2021-06-19,Online,3,Yes,417025.25,Central,Poor digital support,Fixed Deposit,High,Closure
+CUST1346,Glenn Gates,Corporate,2024-06-02,Prospect,Judy Hayes,Savings,1673958.57,360,Platinum,2025-04-05,Call Center,7,No,46207.3,East,Need faster response,Fixed Deposit,Medium,Retention Offer
+CUST1347,Mr. Ryan Rasmussen,Retail,2018-12-02,Closed,Kathy Nelson,Investment,433791.41,372,Silver,2022-12-29,Online,8,Yes,101291.7,North,Need faster response,Mutual Fund,Low,Retention Offer
+CUST1348,Dennis White,Private Banking,2017-11-28,Closed,Kevin Johnson,Joint,530543.65,498,Standard,2024-11-12,Branch,9,No,57811.36,East,Very satisfied with manager,Credit Card,High,Feedback Call
+CUST1349,Jessica Dawson,SME,2016-08-08,Closed,Reginald Jones,Joint,930005.76,735,Platinum,2018-05-13,Mobile,3,No,230154.88,West,Very satisfied with manager,Mutual Fund,High,Upsell
+CUST1350,Angela Henderson,High Net Worth,2016-05-14,Dormant,Brian Rodriguez,Salary,472945.88,536,Gold,2024-10-17,Call Center,4,Yes,92189.48,East,Excellent service,Fixed Deposit,Low,Retention Offer
+CUST1351,Janet Mills,Retail,2016-05-07,Active,Kristy Schaefer,Savings,737089.28,428,Platinum,2023-12-28,Online,2,Yes,54843.38,East,Average experience,Credit Card,Low,Follow-up
+CUST1352,Hannah Myers,High Net Worth,2018-12-27,Prospect,Scott Fisher,Savings,70027.33,497,Gold,2019-08-18,Online,8,No,308690.56,East,Dissatisfied with charges,Loan,Medium,Closure
+CUST1353,Ashley Austin,Retail,2016-12-13,Dormant,Joanne Lopez,Salary,1944029.26,845,Platinum,2019-10-07,Call Center,4,Yes,271775.23,Central,Poor digital support,Fixed Deposit,High,Closure
+CUST1354,Lisa Perez,High Net Worth,2018-10-09,Dormant,Dr. Melissa Green,Joint,974472.12,897,Platinum,2019-10-31,Call Center,5,No,314250.22,South,Happy overall,Fixed Deposit,Medium,Retention Offer
+CUST1355,Amy Carlson,Corporate,2015-12-31,Closed,Casey Williams,Joint,1768237.89,643,Silver,2025-03-25,Online,8,No,80110.92,West,Poor digital support,Fixed Deposit,Medium,Follow-up
+CUST1356,James Hampton,Private Banking,2016-07-01,Closed,Joseph Cunningham,Joint,468824.88,890,Gold,2020-05-07,Call Center,7,Yes,417476.26,South,Dissatisfied with charges,Loan,High,Follow-up
+CUST1357,Christopher Jordan,High Net Worth,2024-05-28,Prospect,Bonnie Freeman,Joint,537345.57,712,Gold,2025-09-12,Mobile,1,No,296231.99,South,Need faster response,Mutual Fund,High,Follow-up
+CUST1358,Micheal Brown,Corporate,2024-11-26,Prospect,Joshua Nelson,Investment,490168.92,453,Gold,2025-02-09,Mobile,4,No,424996.16,North,Poor digital support,Mutual Fund,High,Retention Offer
+CUST1359,Jacqueline May,Retail,2018-06-12,Active,David Cole,Investment,898608.46,763,Silver,2019-09-22,Mobile,8,No,492443.09,South,Dissatisfied with charges,Mutual Fund,High,Feedback Call
+CUST1360,Cheryl Alvarez,Corporate,2017-11-27,Prospect,Alexander Howell,Current,933513.93,718,Standard,2024-11-13,Call Center,6,No,320598.88,Central,Need faster response,Insurance,Medium,Upsell
+CUST1361,Shari Ward,High Net Worth,2025-02-07,Prospect,Thomas Simmons,Investment,903191.65,550,Gold,2025-09-18,Branch,10,Yes,383756.38,West,Would recommend bank,Mutual Fund,Low,Upsell
+CUST1362,Helen Stone,Retail,2017-10-27,Prospect,Stephanie Patrick,Joint,986697.84,725,Silver,2024-11-18,Online,9,No,93566.29,East,Very satisfied with manager,Mutual Fund,Medium,Feedback Call
+CUST1363,Gerald Mitchell,Retail,2023-03-17,Active,Joe English,Salary,1541708.2,358,Standard,2024-04-02,Online,10,No,195522.43,South,Poor digital support,Fixed Deposit,High,Follow-up
+CUST1364,Sara Hall,Retail,2017-03-20,Prospect,William Smith,Current,1405643.01,515,Gold,2025-01-10,Call Center,6,Yes,283703.19,South,Dissatisfied with charges,Insurance,Medium,Upsell
+CUST1365,Tracy Madden,Corporate,2025-06-02,Closed,Maria Jones,Savings,1521555.79,392,Gold,2025-10-15,Call Center,10,Yes,68303.64,East,Very satisfied with manager,Credit Card,High,Upsell
+CUST1366,Ronald Hicks,Private Banking,2025-09-10,Active,Jacqueline Meadows,Joint,581708.59,860,Silver,2025-09-13,Call Center,1,Yes,302369.37,South,Happy overall,Credit Card,Medium,Closure
+CUST1367,Mrs. Sara Woods,Retail,2022-07-08,Active,Krista Nichols,Investment,1589104.09,770,Gold,2023-10-24,Branch,8,Yes,225683.24,Central,Excellent service,Loan,Low,Closure
+CUST1368,Diana Moore,SME,2024-11-30,Closed,David Hardy,Investment,1615620.91,531,Silver,2025-03-28,Online,8,Yes,334849.44,North,Would recommend bank,Mutual Fund,Medium,Closure
+CUST1369,Brenda White,Retail,2021-02-20,Dormant,Stephen Daniels,Joint,518623.82,852,Platinum,2022-01-29,Call Center,1,No,385474.68,West,Poor digital support,Insurance,High,Closure
+CUST1370,Kevin Mcdowell,SME,2022-10-28,Active,Gregory Lowe,Investment,1530051.05,656,Standard,2023-03-29,Online,2,Yes,108976.92,East,Very satisfied with manager,Credit Card,High,Retention Offer
+CUST1371,Andrew Farrell,High Net Worth,2025-06-12,Active,Charlotte Brooks,Joint,1326080.28,687,Platinum,2025-08-24,Online,1,No,344669.06,South,Excellent service,Mutual Fund,Medium,Follow-up
+CUST1372,Tracy Fowler DVM,Private Banking,2016-10-03,Dormant,Michael Anderson,Savings,1938949.52,497,Platinum,2024-04-19,Online,6,No,114999.09,East,Very satisfied with manager,Credit Card,High,Upsell
+CUST1373,Terry Howard,Retail,2017-09-13,Prospect,Mary Murphy,Salary,447905.51,566,Standard,2024-07-16,Mobile,9,Yes,394131.3,North,Average experience,Credit Card,High,Follow-up
+CUST1374,Teresa Schroeder,Corporate,2022-08-06,Dormant,Danielle Wilson,Salary,227325.0,427,Silver,2024-03-10,Branch,7,No,446127.14,North,Happy overall,Insurance,Medium,Retention Offer
+CUST1375,Donna Lopez,Private Banking,2020-11-09,Prospect,Cathy Cook,Current,1488904.65,819,Silver,2024-11-23,Branch,9,No,434042.97,East,Average experience,Credit Card,Low,Retention Offer
+CUST1376,Kimberly Nelson,High Net Worth,2021-05-29,Active,Lisa Hunter,Investment,1952058.45,328,Gold,2022-06-21,Branch,6,No,407928.31,West,Excellent service,Insurance,High,Follow-up
+CUST1377,David Reyes,SME,2016-07-22,Prospect,Janice Smith,Current,1420826.75,400,Gold,2023-11-11,Mobile,9,No,146511.1,Central,Would recommend bank,Fixed Deposit,Medium,Feedback Call
+CUST1378,James Crawford,Corporate,2021-08-06,Dormant,Dana Kidd,Savings,1470517.1,465,Platinum,2025-02-23,Call Center,2,Yes,136667.09,West,Dissatisfied with charges,Loan,Low,Closure
+CUST1379,Aimee Mcclain,High Net Worth,2020-01-25,Active,Jennifer Pollard,Current,1556548.92,743,Gold,2021-07-11,Branch,9,No,217476.59,Central,Dissatisfied with charges,Loan,High,Feedback Call
+CUST1380,James Lopez,High Net Worth,2020-02-20,Dormant,Michele Jackson,Investment,1869137.87,699,Silver,2020-10-24,Mobile,9,No,194785.31,West,Excellent service,Insurance,Medium,Retention Offer
+CUST1381,Darren Bowen,High Net Worth,2021-03-12,Active,Tina Jenkins,Investment,1350527.84,488,Gold,2022-04-06,Branch,9,Yes,480491.27,North,Very satisfied with manager,Loan,High,Retention Offer
+CUST1382,Karen Jones,Corporate,2021-12-06,Closed,Karen Tran,Salary,1747787.9,537,Gold,2024-10-31,Mobile,4,Yes,453324.89,East,Average experience,Fixed Deposit,Medium,Follow-up
+CUST1383,Brandon Johnson,Retail,2025-06-12,Dormant,Gregory Bradley,Salary,748057.21,595,Gold,2025-07-30,Mobile,2,Yes,291258.88,East,Average experience,Fixed Deposit,Low,Retention Offer
+CUST1384,Natalie Hayes,SME,2016-07-17,Active,Kimberly Hampton,Investment,677967.44,463,Gold,2016-09-19,Call Center,6,No,115059.28,North,Excellent service,Loan,High,Retention Offer
+CUST1385,Mitchell Morgan,SME,2025-06-18,Closed,Connie Hodges,Current,760580.08,503,Platinum,2025-06-24,Branch,7,Yes,128802.07,West,Need faster response,Insurance,Medium,Feedback Call
+CUST1386,Julie Burnett,Corporate,2024-08-04,Active,Joshua Massey,Salary,1816148.44,761,Standard,2024-10-11,Mobile,4,Yes,386713.54,West,Very satisfied with manager,Insurance,High,Retention Offer
+CUST1387,Louis Wilson,High Net Worth,2021-02-17,Closed,Sara Nelson,Investment,632966.48,779,Platinum,2021-06-21,Branch,8,No,214613.38,West,Average experience,Credit Card,High,Closure
+CUST1388,Christopher Walters,Private Banking,2024-04-11,Prospect,Jay Wiley,Savings,1146343.2,406,Gold,2025-07-03,Mobile,5,Yes,372070.62,East,Happy overall,Loan,Medium,Feedback Call
+CUST1389,Jamie Shah,High Net Worth,2021-06-16,Dormant,Brian Martinez,Joint,1065743.42,759,Standard,2021-07-04,Online,1,No,156760.32,West,Happy overall,Mutual Fund,Medium,Feedback Call
+CUST1390,Michael Reed,High Net Worth,2019-01-28,Prospect,Mary Jones DDS,Savings,1212571.69,632,Gold,2021-02-20,Call Center,10,No,277444.34,East,Poor digital support,Credit Card,Medium,Upsell
+CUST1391,Natalie Miller,Private Banking,2017-08-24,Closed,Brian Garcia,Savings,1078905.2,770,Silver,2021-12-17,Online,2,Yes,172143.37,West,Happy overall,Credit Card,High,Follow-up
+CUST1392,Tracy Atkinson,Corporate,2017-08-08,Prospect,Andrea Gross,Joint,1235554.52,721,Platinum,2024-09-06,Online,7,Yes,72999.39,East,Poor digital support,Credit Card,High,Retention Offer
+CUST1393,Mariah Phillips,Corporate,2020-02-26,Dormant,Joan Mcdowell,Salary,528189.62,417,Gold,2023-04-27,Call Center,1,No,31636.68,West,Dissatisfied with charges,Mutual Fund,Low,Follow-up
+CUST1394,Scott Adams,High Net Worth,2024-01-24,Closed,Bruce Brown,Salary,1789001.87,557,Silver,2024-03-20,Mobile,5,No,325297.19,East,Happy overall,Credit Card,Low,Upsell
+CUST1395,Gina Buchanan,High Net Worth,2025-07-09,Dormant,John Foster,Investment,1475750.7,730,Standard,2025-09-07,Mobile,8,Yes,370946.58,Central,Poor digital support,Credit Card,Low,Closure
+CUST1396,Terry Hatfield,Corporate,2023-09-07,Active,Danielle Kelley,Current,517263.06,858,Standard,2024-12-23,Call Center,1,Yes,465405.76,East,Dissatisfied with charges,Fixed Deposit,High,Follow-up
+CUST1397,Tonya Matthews,Corporate,2022-10-17,Active,Roger Vasquez,Salary,1547709.85,800,Silver,2023-03-09,Mobile,6,Yes,493159.9,East,Would recommend bank,Credit Card,Low,Closure
+CUST1398,Tiffany Jimenez,High Net Worth,2025-05-02,Prospect,Bryan Mccarthy,Salary,1604708.4,843,Silver,2025-10-09,Online,5,No,184063.55,North,Poor digital support,Credit Card,Medium,Follow-up
+CUST1399,Holly Rodriguez,Corporate,2019-04-21,Closed,Wendy Wright,Salary,1937019.15,333,Standard,2022-09-23,Mobile,5,Yes,275450.37,North,Very satisfied with manager,Credit Card,High,Retention Offer
+CUST1400,Teresa Hoffman,SME,2023-01-17,Closed,Cassandra Glenn,Current,968054.35,852,Platinum,2023-09-06,Online,8,No,149140.59,West,Happy overall,Fixed Deposit,Medium,Upsell
+CUST1401,Donald Hicks,Private Banking,2023-10-28,Active,Helen Williams,Salary,1136238.25,431,Standard,2023-10-31,Mobile,3,No,422255.43,East,Need faster response,Fixed Deposit,Low,Upsell
+CUST1402,Gregory King,SME,2016-08-14,Closed,Joshua Arias,Current,383703.36,778,Gold,2017-11-02,Online,1,Yes,242484.6,East,Dissatisfied with charges,Loan,High,Retention Offer
+CUST1403,Kathleen Wilson,SME,2021-10-29,Dormant,Sara Webb,Investment,1470800.49,445,Standard,2023-05-21,Call Center,2,Yes,270904.89,West,Would recommend bank,Loan,Low,Closure
+CUST1404,Michael Ritter,High Net Worth,2016-04-29,Prospect,Terry Davis,Salary,1917132.94,613,Silver,2022-05-12,Call Center,2,Yes,292835.56,East,Happy overall,Loan,High,Upsell
+CUST1405,Michelle Adams,Private Banking,2018-02-17,Active,Dylan Odonnell,Savings,1743119.99,800,Silver,2021-11-09,Branch,7,No,384593.82,Central,Excellent service,Credit Card,High,Closure
+CUST1406,Julie Thompson,High Net Worth,2021-01-14,Dormant,Cynthia Jones,Salary,1178519.06,718,Standard,2023-09-29,Online,7,Yes,228499.23,East,Excellent service,Credit Card,High,Upsell
+CUST1407,Christian Baker,SME,2021-06-16,Closed,Alice White,Savings,1435757.18,704,Silver,2025-07-09,Online,9,Yes,315057.26,North,Average experience,Fixed Deposit,Low,Upsell
+CUST1408,Jack Barnes,High Net Worth,2019-07-27,Prospect,Maria Payne,Savings,1709540.6,838,Silver,2019-10-18,Mobile,7,No,166291.55,North,Dissatisfied with charges,Loan,Medium,Feedback Call
+CUST1409,Victoria Washington,SME,2020-10-04,Dormant,Antonio Robinson,Investment,560676.32,502,Platinum,2023-03-21,Online,7,Yes,478077.16,West,Need faster response,Loan,Medium,Upsell
+CUST1410,Mr. John Howell,Retail,2022-02-12,Prospect,George Bullock,Joint,1420510.3,377,Silver,2025-04-12,Mobile,9,No,392596.38,East,Average experience,Mutual Fund,Low,Feedback Call
+CUST1411,Devon Garcia,Corporate,2024-04-21,Active,Robert Smith,Salary,763923.32,597,Platinum,2024-10-07,Mobile,6,No,63226.82,East,Poor digital support,Loan,Medium,Retention Offer
+CUST1412,Scott Williams,Retail,2020-02-16,Active,Lance French,Salary,1712815.68,706,Silver,2024-07-12,Call Center,5,No,87820.68,Central,Happy overall,Insurance,High,Retention Offer
+CUST1413,Olivia Banks,Retail,2022-03-02,Active,Nancy Scott,Investment,1110565.78,628,Standard,2024-11-26,Call Center,5,Yes,348428.86,West,Would recommend bank,Loan,Medium,Follow-up
+CUST1414,Jacqueline Poole,High Net Worth,2019-08-24,Active,Tammy Huber,Salary,1875880.64,565,Standard,2025-08-01,Call Center,5,Yes,382440.09,South,Dissatisfied with charges,Mutual Fund,High,Closure
+CUST1415,Anne Tyler,Retail,2022-03-10,Dormant,Roger Lopez DDS,Salary,707730.57,483,Silver,2025-08-13,Mobile,4,Yes,359879.5,South,Would recommend bank,Mutual Fund,Low,Follow-up
+CUST1416,Andre Reyes,Corporate,2017-11-26,Active,Caleb Shaffer,Savings,327801.03,318,Gold,2023-04-04,Online,1,Yes,307286.25,West,Would recommend bank,Credit Card,Low,Follow-up
+CUST1417,David Miller,Retail,2023-05-27,Active,Meredith Lyons,Joint,1254582.59,744,Standard,2025-05-18,Branch,5,Yes,279524.26,Central,Average experience,Insurance,Low,Feedback Call
+CUST1418,Matthew Fleming,Corporate,2020-07-12,Closed,Donald Nelson,Current,1803560.44,695,Silver,2020-09-11,Call Center,2,Yes,226541.16,East,Dissatisfied with charges,Mutual Fund,Low,Follow-up
+CUST1419,Stephanie Berry,SME,2023-10-18,Dormant,Samuel Wu,Current,897442.44,513,Standard,2024-08-18,Online,3,Yes,412265.97,North,Would recommend bank,Insurance,Low,Feedback Call
+CUST1420,Matthew Burke,High Net Worth,2025-03-01,Prospect,Gabriel Gutierrez,Savings,788806.43,517,Gold,2025-07-23,Branch,8,No,183454.02,East,Average experience,Fixed Deposit,High,Closure
+CUST1421,Sergio Olson,High Net Worth,2019-06-12,Dormant,James Munoz,Salary,906899.52,531,Platinum,2020-07-05,Call Center,5,Yes,334137.42,Central,Excellent service,Credit Card,Medium,Upsell
+CUST1422,Matthew Mccormick II,SME,2018-05-28,Prospect,Melissa Clay,Current,1609686.62,304,Gold,2025-04-05,Online,10,No,69683.64,Central,Dissatisfied with charges,Credit Card,Low,Follow-up
+CUST1423,Brandon Castro,SME,2020-07-15,Prospect,Nicole Smith,Savings,809903.83,361,Standard,2020-11-24,Online,10,No,442180.3,East,Poor digital support,Credit Card,High,Retention Offer
+CUST1424,William Williams,High Net Worth,2017-11-07,Prospect,Makayla Curtis,Joint,564009.43,811,Platinum,2021-12-02,Online,6,No,318442.18,South,Poor digital support,Credit Card,Low,Follow-up
+CUST1425,Maurice Thomas,Retail,2020-10-15,Dormant,Kathy Valencia,Current,484991.37,336,Gold,2022-01-30,Call Center,1,No,289254.77,East,Very satisfied with manager,Mutual Fund,Medium,Upsell
+CUST1426,Jeff Lopez,Corporate,2018-06-23,Active,Oscar Tran,Current,323306.8,727,Platinum,2020-05-14,Call Center,5,Yes,65399.8,West,Would recommend bank,Credit Card,Medium,Upsell
+CUST1427,Bruce Cowan,Private Banking,2020-10-25,Active,Danielle Alexander,Salary,1710346.11,565,Standard,2021-05-10,Call Center,2,No,483202.34,East,Would recommend bank,Insurance,High,Follow-up
+CUST1428,Jeffrey Morse,Corporate,2017-11-25,Prospect,Brian Fitzpatrick,Joint,151936.49,408,Gold,2025-08-25,Mobile,10,Yes,168517.26,West,Need faster response,Mutual Fund,High,Closure
+CUST1429,Katherine Owens,High Net Worth,2021-12-04,Active,Christian Russell,Current,1674410.98,776,Gold,2024-06-09,Online,5,No,151861.12,East,Average experience,Fixed Deposit,Medium,Feedback Call
+CUST1430,Robert Andrews,Corporate,2016-04-14,Closed,Crystal Davis,Savings,711841.7,502,Platinum,2016-12-05,Online,6,Yes,253013.32,East,Poor digital support,Insurance,Medium,Upsell
+CUST1431,Steven Williams,Private Banking,2016-12-22,Closed,Jason Stephens,Savings,1545729.43,364,Platinum,2019-06-24,Call Center,4,No,178414.96,Central,Dissatisfied with charges,Insurance,High,Closure
+CUST1432,Brian Christian,Retail,2018-01-01,Dormant,Christine Jennings,Joint,60207.8,440,Silver,2025-06-16,Branch,3,Yes,478067.94,South,Average experience,Fixed Deposit,Low,Upsell
+CUST1433,John Holloway,High Net Worth,2021-01-07,Prospect,John Ochoa,Savings,258973.53,734,Platinum,2025-07-29,Mobile,2,Yes,377748.71,North,Very satisfied with manager,Fixed Deposit,Medium,Retention Offer
+CUST1434,Rebecca Yoder,Retail,2017-09-05,Active,Jesus Thomas,Salary,1244699.26,558,Standard,2025-05-28,Call Center,1,No,499360.23,East,Very satisfied with manager,Mutual Fund,Medium,Feedback Call
+CUST1435,Regina Walker,High Net Worth,2020-07-03,Closed,Mary Mcintyre,Savings,961353.75,302,Standard,2021-03-02,Branch,6,Yes,349257.62,West,Poor digital support,Mutual Fund,Medium,Closure
+CUST1436,Christopher Thompson,Corporate,2024-07-03,Prospect,Richard Boyd,Current,391887.5,650,Silver,2024-11-17,Mobile,3,Yes,305866.34,South,Happy overall,Credit Card,High,Feedback Call
+CUST1437,Trevor Cooper,Retail,2022-08-07,Dormant,Amanda Dunn,Savings,202581.05,766,Silver,2024-06-21,Online,8,Yes,15600.85,North,Happy overall,Credit Card,Medium,Follow-up
+CUST1438,Linda Perry,Corporate,2024-07-08,Prospect,Shirley Snyder,Salary,842835.91,648,Gold,2024-09-25,Mobile,9,No,151590.63,South,Would recommend bank,Loan,High,Follow-up
+CUST1439,Danielle Nunez,Corporate,2020-07-25,Prospect,Lisa Lopez,Joint,776869.03,351,Gold,2020-10-09,Online,9,Yes,333208.92,West,Need faster response,Loan,Low,Closure
+CUST1440,Emily Chapman,Private Banking,2016-01-05,Dormant,Caitlin Patel,Joint,1806397.57,405,Silver,2019-03-12,Online,8,No,444586.43,Central,Excellent service,Insurance,Low,Upsell
+CUST1441,Sean Arias,Retail,2018-07-16,Active,Grace Mullins,Salary,1371797.1,844,Platinum,2021-09-24,Online,5,No,440563.95,West,Would recommend bank,Fixed Deposit,Low,Feedback Call
+CUST1442,Tara Manning,Corporate,2022-10-10,Prospect,Whitney Orr,Investment,1070349.11,715,Platinum,2024-05-24,Mobile,6,No,52881.53,West,Would recommend bank,Fixed Deposit,Low,Closure
+CUST1443,Melissa Santiago,Corporate,2020-06-03,Dormant,Gregory Duran,Current,352912.29,564,Standard,2025-03-13,Call Center,9,Yes,411122.41,East,Excellent service,Credit Card,Medium,Closure
+CUST1444,Brian Johnson,High Net Worth,2018-03-01,Prospect,Heather Ramos,Joint,954789.24,400,Platinum,2024-01-14,Call Center,1,No,331906.06,Central,Would recommend bank,Fixed Deposit,Medium,Follow-up
+CUST1445,Timothy Walker,Private Banking,2016-02-16,Closed,Jill Evans,Salary,135556.12,802,Platinum,2020-08-17,Call Center,1,No,415425.7,West,Need faster response,Insurance,High,Feedback Call
+CUST1446,Kenneth Robles,High Net Worth,2024-01-30,Prospect,Eric Norris,Current,1516738.17,822,Platinum,2025-04-22,Mobile,10,Yes,494984.17,East,Happy overall,Insurance,Medium,Upsell
+CUST1447,Jessica Villa,High Net Worth,2021-06-12,Active,Michael Estrada,Salary,914184.2,860,Gold,2025-06-20,Mobile,9,Yes,92942.35,West,Would recommend bank,Fixed Deposit,Low,Retention Offer
+CUST1448,Kelli Brown,Corporate,2016-08-02,Active,Megan Sanchez,Joint,506148.38,857,Standard,2018-04-27,Mobile,3,Yes,77760.36,West,Happy overall,Credit Card,Medium,Follow-up
+CUST1449,Melvin Roberts,High Net Worth,2020-07-14,Active,Gregory Parks,Salary,601824.6,594,Platinum,2020-07-23,Branch,4,Yes,339154.79,North,Happy overall,Mutual Fund,Medium,Follow-up
+CUST1450,Susan Estes,High Net Worth,2022-04-22,Prospect,Robert Webster,Salary,1860625.36,728,Platinum,2025-04-08,Call Center,9,No,106208.81,North,Very satisfied with manager,Mutual Fund,High,Closure
+CUST1451,Bonnie Bradley,High Net Worth,2020-03-06,Dormant,Nathan James,Joint,1768760.8,719,Gold,2021-02-16,Online,5,No,366139.71,Central,Poor digital support,Credit Card,Medium,Closure
+CUST1452,Christopher Wagner,SME,2020-07-07,Prospect,Mr. Steven Stokes,Salary,1239804.03,444,Silver,2023-06-29,Call Center,5,Yes,206065.01,South,Dissatisfied with charges,Insurance,Low,Retention Offer
+CUST1453,Aaron Hernandez,Retail,2020-04-21,Prospect,Brett Thompson,Savings,1768265.62,306,Gold,2020-12-25,Mobile,1,No,180503.94,East,Need faster response,Credit Card,Low,Retention Offer
+CUST1454,Brandon Mccormick,High Net Worth,2016-04-21,Prospect,Debra Browning,Current,1483384.13,385,Gold,2023-11-12,Branch,4,Yes,117672.89,North,Happy overall,Loan,Medium,Feedback Call
+CUST1455,Roberta Williams,Retail,2023-11-16,Active,Daisy Suarez,Current,1621322.7,495,Standard,2024-06-06,Call Center,8,Yes,86951.9,East,Dissatisfied with charges,Fixed Deposit,High,Follow-up
+CUST1456,George Moore,High Net Worth,2025-03-31,Prospect,Karen Conway,Savings,1892531.92,380,Gold,2025-07-22,Call Center,1,No,452737.54,South,Excellent service,Mutual Fund,Low,Upsell
+CUST1457,Samantha Hernandez,High Net Worth,2023-01-26,Active,Julie Winters,Joint,338777.21,592,Silver,2024-02-26,Branch,1,Yes,120799.59,South,Poor digital support,Loan,High,Follow-up
+CUST1458,Michael Palmer,SME,2017-07-04,Active,Stanley Terry,Savings,1367104.14,309,Platinum,2024-10-23,Mobile,2,Yes,230095.81,West,Very satisfied with manager,Fixed Deposit,Low,Upsell
+CUST1459,John Johnson,Private Banking,2016-04-28,Dormant,Albert Murray,Joint,1334502.69,731,Platinum,2025-08-24,Mobile,5,Yes,360689.84,West,Average experience,Mutual Fund,Medium,Upsell
+CUST1460,Olivia Morris,Private Banking,2021-11-15,Dormant,Jason Daniels,Investment,635091.62,644,Silver,2023-01-02,Mobile,10,Yes,183956.38,North,Would recommend bank,Mutual Fund,Low,Retention Offer
+CUST1461,David Mccormick,Retail,2021-10-02,Active,Christopher Torres,Joint,197796.18,800,Gold,2022-01-29,Mobile,10,Yes,31092.12,West,Need faster response,Fixed Deposit,High,Retention Offer
+CUST1462,Kenneth Norris DVM,High Net Worth,2018-01-09,Dormant,Sarah Johns,Savings,1463064.31,583,Platinum,2022-08-10,Branch,4,No,193937.74,West,Average experience,Mutual Fund,High,Follow-up
+CUST1463,Jose Henderson,Retail,2020-07-17,Prospect,Henry Watson,Investment,1298451.63,867,Platinum,2024-11-29,Mobile,6,Yes,251167.54,East,Dissatisfied with charges,Fixed Deposit,High,Follow-up
+CUST1464,Samantha Vargas,Corporate,2018-05-28,Dormant,Amanda Oliver,Savings,1053280.11,718,Platinum,2020-06-05,Mobile,2,No,445264.0,South,Need faster response,Fixed Deposit,Medium,Feedback Call
+CUST1465,Robert Maynard,Retail,2019-08-23,Prospect,Kevin Mckinney,Salary,961571.56,566,Standard,2022-08-19,Mobile,4,Yes,297196.23,East,Excellent service,Credit Card,High,Upsell
+CUST1466,Stephen Wagner,Private Banking,2023-11-23,Closed,Dylan Roman,Current,355848.74,591,Standard,2025-10-15,Branch,9,No,214775.03,Central,Happy overall,Credit Card,High,Closure
+CUST1467,Jason Rice MD,High Net Worth,2018-02-20,Closed,Laura Myers,Investment,905404.31,722,Standard,2025-10-04,Call Center,6,No,477329.3,East,Need faster response,Mutual Fund,High,Retention Offer
+CUST1468,Richard Butler,Retail,2018-05-03,Active,Kaitlyn Chavez,Current,1195168.11,451,Standard,2019-10-27,Branch,1,Yes,402846.44,Central,Excellent service,Insurance,High,Retention Offer
+CUST1469,Erik Martinez,SME,2015-11-11,Dormant,Michael Foley,Salary,846779.53,879,Standard,2024-11-11,Online,5,No,405543.87,West,Very satisfied with manager,Fixed Deposit,Low,Retention Offer
+CUST1470,Edward Luna,Private Banking,2022-07-30,Dormant,Leroy Allen,Savings,780331.31,584,Platinum,2025-01-23,Call Center,4,Yes,245997.09,South,Excellent service,Loan,High,Retention Offer
+CUST1471,Jennifer Moore,High Net Worth,2023-01-06,Closed,Jeremiah Luna,Investment,299919.02,300,Gold,2023-02-19,Call Center,7,No,423200.41,West,Average experience,Fixed Deposit,Low,Feedback Call
+CUST1472,Wendy Casey,Retail,2025-09-05,Closed,Theresa Calderon,Investment,682338.66,870,Gold,2025-09-13,Online,2,Yes,227938.22,South,Dissatisfied with charges,Credit Card,High,Follow-up
+CUST1473,Jeremy Hill,Private Banking,2016-10-09,Prospect,Dennis Thomas,Current,364686.15,528,Platinum,2020-04-05,Call Center,9,Yes,341326.72,South,Very satisfied with manager,Loan,Low,Retention Offer
+CUST1474,Debra Reyes,SME,2017-03-09,Prospect,Jonathan Petersen,Joint,316131.23,489,Standard,2017-12-20,Online,3,Yes,15612.9,East,Need faster response,Mutual Fund,Low,Retention Offer
+CUST1475,Samantha Howard,SME,2022-04-20,Closed,Lynn Le,Current,352174.37,454,Standard,2024-10-13,Branch,10,Yes,489127.14,East,Excellent service,Loan,Medium,Follow-up
+CUST1476,Ricardo Aguirre,Corporate,2016-12-25,Active,Andrew Peters,Savings,1004762.78,520,Standard,2023-06-10,Branch,10,Yes,484226.51,South,Excellent service,Loan,High,Retention Offer
+CUST1477,Stanley Smith,Private Banking,2017-06-16,Prospect,Julie Harris,Joint,765148.95,418,Standard,2022-09-30,Mobile,1,Yes,42150.18,South,Very satisfied with manager,Insurance,High,Follow-up
+CUST1478,Kelly Mendez,SME,2023-11-19,Dormant,Edward Nolan,Joint,1527620.5,427,Standard,2024-12-12,Online,3,No,473902.48,North,Average experience,Credit Card,Low,Retention Offer
+CUST1479,Amber Brooks,Corporate,2017-01-17,Dormant,Rhonda Roberson,Joint,1696059.96,417,Silver,2019-09-30,Call Center,8,No,85908.92,East,Would recommend bank,Credit Card,Low,Closure
+CUST1480,Justin Ruiz,High Net Worth,2019-09-03,Prospect,Patricia Rogers,Investment,120710.75,841,Gold,2021-03-08,Branch,5,Yes,123229.5,South,Excellent service,Loan,High,Retention Offer
+CUST1481,Peter Mason,Private Banking,2021-09-29,Closed,Jasmine Shelton,Current,1826650.56,582,Gold,2024-08-18,Call Center,10,No,114312.38,West,Would recommend bank,Loan,High,Follow-up
+CUST1482,Dana Wong,SME,2023-09-08,Prospect,Brandon Watkins,Current,384156.95,520,Platinum,2024-09-03,Branch,4,No,134139.64,Central,Average experience,Loan,High,Closure
+CUST1483,Casey Green,Corporate,2018-02-10,Closed,Melissa Crosby,Joint,1421624.7,371,Gold,2023-03-24,Branch,2,Yes,42893.74,South,Dissatisfied with charges,Mutual Fund,Low,Follow-up
+CUST1484,Jamie Christensen,High Net Worth,2024-09-25,Active,Heidi Powell,Investment,1725586.62,566,Platinum,2024-10-05,Branch,2,Yes,116953.94,North,Need faster response,Fixed Deposit,Medium,Upsell
+CUST1485,Paige Raymond,Private Banking,2021-01-11,Active,Jenna Joseph,Savings,709193.45,757,Silver,2023-09-19,Online,7,Yes,300518.43,North,Excellent service,Fixed Deposit,Low,Follow-up
+CUST1486,Tony Mcintyre,SME,2020-08-23,Dormant,Randy Warner,Joint,276528.15,764,Platinum,2021-12-24,Call Center,1,No,443209.65,South,Average experience,Loan,High,Feedback Call
+CUST1487,Kelly Johnson,Private Banking,2020-07-02,Active,Kristy Gentry,Salary,487569.64,493,Platinum,2023-07-12,Mobile,2,No,56516.47,South,Would recommend bank,Fixed Deposit,Medium,Retention Offer
+CUST1488,Holly Carroll,Private Banking,2016-06-08,Prospect,Erin Brown,Salary,913580.77,455,Gold,2025-07-20,Call Center,8,Yes,487766.35,North,Poor digital support,Fixed Deposit,High,Upsell
+CUST1489,Jordan Bartlett,Private Banking,2020-06-18,Prospect,Kelly Parsons,Joint,1585601.49,808,Silver,2024-01-10,Call Center,8,No,458648.46,East,Average experience,Loan,Medium,Upsell
+CUST1490,Tiffany Fox,Corporate,2018-12-27,Dormant,Kyle Gardner,Current,71125.66,591,Gold,2019-08-26,Call Center,3,No,114159.99,West,Dissatisfied with charges,Loan,High,Follow-up
+CUST1491,Justin Long,SME,2016-01-12,Prospect,David Robinson,Joint,1844880.66,413,Gold,2024-05-21,Branch,8,Yes,498895.77,East,Happy overall,Mutual Fund,High,Upsell
+CUST1492,Dr. Jeffrey Cooper,Corporate,2016-07-25,Closed,Kimberly Giles,Joint,307635.37,702,Gold,2022-09-23,Call Center,9,Yes,306322.19,East,Poor digital support,Credit Card,Low,Upsell
+CUST1493,Kelly Smith,SME,2018-03-09,Closed,Stefanie Jennings,Current,1175345.34,695,Standard,2023-08-17,Call Center,3,No,376307.64,West,Dissatisfied with charges,Mutual Fund,Low,Upsell
+CUST1494,Luis Gallagher,Retail,2024-11-22,Active,Nicholas Wood,Joint,1590342.75,609,Standard,2024-12-12,Branch,6,Yes,319177.94,North,Would recommend bank,Insurance,Medium,Retention Offer
+CUST1495,Jennifer Savage,SME,2021-09-11,Closed,Samuel Pitts,Savings,471796.05,488,Platinum,2022-12-07,Call Center,2,Yes,105314.97,South,Average experience,Credit Card,High,Upsell
+CUST1496,Kimberly Allen,High Net Worth,2025-08-19,Prospect,Anna Vargas,Salary,826677.26,775,Gold,2025-08-25,Online,1,No,450382.41,Central,Would recommend bank,Fixed Deposit,Medium,Feedback Call
+CUST1497,Dana Patel,Private Banking,2023-10-16,Active,Derek Weber,Joint,1529130.75,792,Platinum,2025-06-17,Call Center,9,Yes,196766.54,East,Dissatisfied with charges,Insurance,High,Upsell
+CUST1498,Scott Atkinson,Private Banking,2020-09-06,Prospect,Jimmy Collins,Current,658356.65,682,Platinum,2022-11-24,Mobile,7,Yes,347712.99,South,Excellent service,Insurance,Low,Upsell
+CUST1499,Savannah Garcia,High Net Worth,2022-02-27,Dormant,Christina Jenkins,Savings,529123.53,869,Silver,2024-03-12,Online,9,No,301692.21,North,Excellent service,Credit Card,Medium,Closure

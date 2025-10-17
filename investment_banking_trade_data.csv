@@ -1,0 +1,501 @@
+trade_id,trader_id,trade_date,instrument_type,instrument_symbol,buy_sell_indicator,trade_volume,trade_price,trade_value_usd,counterparty,market,trade_currency,execution_platform,profit_loss_usd,settlement_status,region,value_domain,data_segment,data_domain
+TRD100000,TRDR7314,2025-09-23 19:25:05,Bond,BON584,Sell,26663,1977.74,52732481.62,Alvarez Ltd,NYSE,USD,Manual,42447.22,Settled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100001,TRDR5840,2024-11-08 22:30:09,Derivative,DER881,Sell,79280,1488.06,117973396.8,Poole-Acosta,SSE,USD,Algorithmic,60634.25,Settled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100002,TRDR5194,2025-02-08 05:40:37,Bond,BON546,Sell,62477,542.8,33912515.6,Howard Ltd,NASDAQ,AUD,Manual,56311.85,Failed,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100003,TRDR4631,2025-02-02 01:03:04,Stock,STO908,Sell,96167,115.37,11094786.79,Wong-Anderson,HKEX,GBP,Electronic Platform,39264.09,Pending,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100004,TRDR4647,2025-09-20 00:13:29,Stock,STO913,Sell,41740,373.88,15605751.2,Brown-Buchanan,JPX,EUR,Algorithmic,70028.01,Failed,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100005,TRDR3837,2025-01-15 11:03:22,Stock,STO346,Sell,7478,78.05,583657.9,Shepherd LLC,HKEX,GBP,Electronic Platform,61109.87,Failed,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100006,TRDR4342,2025-01-03 20:11:27,Futures,FUT462,Sell,89631,1969.27,176507639.37,Shepherd LLC,NYSE,INR,Electronic Platform,78756.82,Settled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100007,TRDR5763,2025-06-22 16:23:40,Derivative,DER739,Buy,55620,25.23,1403292.6,"Humphrey, Powers and Garcia",JPX,USD,Electronic Platform,79271.4,Failed,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100008,TRDR4333,2025-07-25 13:47:19,Stock,STO347,Sell,73833,1490.05,110014861.65,Rodriguez-Garcia,HKEX,USD,Electronic Platform,-34192.71,Settled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100009,TRDR8135,2025-04-20 14:33:56,Bond,BON371,Buy,81027,222.72,18046333.44,Stevens-Hernandez,SSE,CNY,Manual,77519.53,Pending,South America,Enterprise,Trade Transaction,Trade Data
+TRD100010,TRDR8898,2025-02-13 07:35:25,Derivative,DER404,Sell,62201,1894.58,117844770.58,Howard Ltd,Euronext,JPY,Manual,-38836.46,Failed,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100011,TRDR8939,2025-07-23 08:48:50,Bond,BON603,Buy,54399,1477.96,80399546.04,Atkinson-Hall,SSE,AUD,Algorithmic,47367.44,Failed,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100012,TRDR4677,2025-06-07 17:29:12,Futures,FUT127,Buy,65982,1841.87,121530266.34,Jones-Murphy,HKEX,CNY,Manual,10309.48,Failed,North America,Enterprise,Trade Transaction,Trade Data
+TRD100013,TRDR2255,2025-02-12 09:08:49,ETF,ETF618,Sell,69074,1955.32,135061773.68,Gardner Ltd,NYSE,USD,Algorithmic,-39624.46,Settled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100014,TRDR9489,2024-12-17 07:44:07,Options,OPT420,Buy,61373,970.25,59547153.25,Williams Ltd,NASDAQ,CNY,Algorithmic,73943.51,Settled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100015,TRDR2559,2025-05-06 12:26:14,Derivative,DER114,Sell,34776,1768.06,61486054.56,Jones-Murphy,JPX,JPY,Manual,-46051.75,Failed,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100016,TRDR6560,2025-06-30 09:43:53,Options,OPT546,Buy,64586,1225.48,79148851.28,Abbott Inc,Euronext,CNY,Algorithmic,73138.09,Failed,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100017,TRDR5809,2025-06-08 14:51:50,Commodity,COM325,Buy,72117,428.08,30871845.36,Martinez Ltd,Euronext,INR,Dark Pool,-7390.68,Cancelled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100018,TRDR2438,2025-05-02 06:58:04,Bond,BON619,Sell,73315,1363.94,99997261.1,Pennington-Estrada,SSE,GBP,Algorithmic,5424.32,Failed,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100019,TRDR9434,2025-07-26 04:25:48,Derivative,DER777,Sell,86601,1790.12,155026182.12,Shepherd LLC,NYSE,GBP,Dark Pool,55402.17,Pending,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100020,TRDR4372,2025-05-25 21:18:13,FX,FX937,Sell,2489,1007.24,2507020.36,Cross PLC,JPX,GBP,Dark Pool,-2536.02,Failed,South America,Enterprise,Trade Transaction,Trade Data
+TRD100021,TRDR6609,2025-02-12 17:03:42,Derivative,DER805,Buy,98655,434.1,42826135.5,Mclean Group,NYSE,USD,Manual,55655.88,Pending,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100022,TRDR2186,2024-11-12 06:29:55,FX,FX781,Sell,77240,77.99,6023947.6,Evans-Trevino,SSE,USD,Manual,73296.53,Cancelled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100023,TRDR7018,2024-12-06 00:12:42,Commodity,COM406,Buy,76255,1518.1,115762715.5,"Lawrence, Martin and Ball",JPX,CNY,Manual,69245.79,Cancelled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100024,TRDR8616,2025-03-02 05:29:13,Futures,FUT740,Buy,62890,172.16,10827142.4,Evans-Trevino,Euronext,GBP,Dark Pool,-22945.09,Cancelled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100025,TRDR7537,2024-11-26 23:08:43,Bond,BON868,Buy,24302,1842.83,44784454.66,"Hunt, Leon and Craig",JPX,CNY,Algorithmic,-23236.12,Failed,South America,Enterprise,Trade Transaction,Trade Data
+TRD100026,TRDR5848,2025-08-27 04:33:05,Commodity,COM400,Buy,91867,1866.79,171496396.93,Barber-Wilson,Euronext,INR,Dark Pool,-32755.07,Pending,North America,Enterprise,Trade Transaction,Trade Data
+TRD100027,TRDR6562,2025-07-07 03:39:19,FX,FX203,Sell,27535,427.11,11760473.85,Williams Ltd,TSX,EUR,Electronic Platform,94871.53,Settled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100028,TRDR9433,2025-09-15 04:49:24,Derivative,DER574,Buy,59642,471.96,28148638.32,Gutierrez-Monroe,NASDAQ,AUD,Algorithmic,-6795.89,Cancelled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100029,TRDR3955,2025-01-25 00:35:58,Futures,FUT532,Buy,82002,151.62,12433143.24,Evans-Trevino,NASDAQ,AUD,Dark Pool,76639.68,Pending,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100030,TRDR8769,2024-11-24 07:52:57,ETF,ETF424,Sell,12453,1385.88,17258363.64,Holland-Berg,HKEX,GBP,Manual,-7906.82,Pending,North America,Enterprise,Trade Transaction,Trade Data
+TRD100031,TRDR3803,2025-08-11 02:29:00,Commodity,COM954,Buy,32404,133.53,4326906.12,"Ayers, Barker and Hill",JPX,CNY,Algorithmic,94516.61,Pending,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100032,TRDR1640,2025-08-08 07:56:18,Bond,BON594,Sell,50931,662.32,33732619.92,Evans-Trevino,JPX,GBP,Algorithmic,27026.31,Cancelled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100033,TRDR7788,2024-11-12 09:49:04,Commodity,COM166,Buy,43931,637.68,28013920.08,West PLC,NYSE,GBP,Manual,93460.15,Settled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100034,TRDR9435,2025-08-30 09:49:03,FX,FX300,Sell,63299,993.66,62897684.34,Poole-Acosta,Euronext,EUR,Manual,10148.56,Failed,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100035,TRDR5958,2025-01-07 20:22:41,FX,FX947,Buy,75652,382.15,28910411.8,Mclean Group,LSE,EUR,Manual,52928.3,Cancelled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100036,TRDR8170,2025-06-13 02:55:22,Futures,FUT693,Buy,54038,831.6,44938000.8,Solis-Price,TSX,GBP,Electronic Platform,36779.35,Settled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100037,TRDR5111,2025-04-18 15:03:28,Commodity,COM645,Buy,5574,1147.34,6395273.16,Frey LLC,HKEX,GBP,Dark Pool,99923.97,Pending,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100038,TRDR4617,2024-11-10 00:46:19,Bond,BON577,Buy,86065,926.05,79700493.25,Brown-Buchanan,HKEX,USD,Electronic Platform,75477.12,Pending,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100039,TRDR3489,2025-02-06 06:15:50,Options,OPT783,Sell,79775,1087.87,86784829.25,Pennington-Estrada,HKEX,CNY,Manual,46537.43,Pending,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100040,TRDR3630,2024-11-08 09:03:53,ETF,ETF323,Buy,159,772.88,122887.92,Gardner Ltd,Euronext,INR,Algorithmic,79907.39,Settled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100041,TRDR4839,2025-08-02 07:07:35,ETF,ETF570,Buy,32278,1704.83,55028502.74,Silva Inc,TSX,AUD,Manual,52527.37,Settled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100042,TRDR9290,2025-03-15 05:32:47,Derivative,DER782,Buy,48441,1394.28,67540317.48,Pennington-Estrada,NASDAQ,AUD,Algorithmic,24933.87,Pending,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100043,TRDR3995,2025-01-19 06:22:51,Derivative,DER493,Sell,36513,1728.96,63129516.48,"Hunt, Leon and Craig",LSE,AUD,Dark Pool,1637.56,Cancelled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100044,TRDR6274,2025-05-05 15:24:43,Commodity,COM562,Sell,12925,1359.82,17575673.5,Scott-Howard,HKEX,AUD,Algorithmic,-23496.18,Pending,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100045,TRDR7467,2024-12-09 11:09:50,Futures,FUT115,Buy,88883,11.14,990156.62,Williams Ltd,Euronext,JPY,Electronic Platform,77381.13,Pending,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100046,TRDR8390,2025-07-15 07:37:41,Stock,STO624,Sell,26618,1795.32,47787827.76,Pennington-Estrada,TSX,AUD,Dark Pool,-32525.27,Cancelled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100047,TRDR9738,2024-10-21 14:40:27,Options,OPT188,Sell,92460,25.77,2382694.2,Holland-Berg,Euronext,CNY,Manual,-15100.9,Settled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100048,TRDR8025,2025-06-20 09:48:51,Commodity,COM307,Buy,35890,484.47,17387628.3,Floyd-Marshall,NASDAQ,AUD,Electronic Platform,42478.47,Settled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100049,TRDR8290,2025-04-07 10:57:03,Derivative,DER426,Sell,57540,918.71,52862573.4,Abbott Inc,HKEX,AUD,Algorithmic,77596.24,Pending,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100050,TRDR4363,2025-02-01 12:13:33,Commodity,COM688,Sell,76256,1909.67,145623795.52,Young PLC,LSE,JPY,Manual,22701.45,Pending,North America,Enterprise,Trade Transaction,Trade Data
+TRD100051,TRDR3390,2025-10-13 13:08:52,Commodity,COM167,Buy,63516,148.28,9418152.48,Young PLC,LSE,GBP,Dark Pool,73285.12,Pending,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100052,TRDR8302,2025-05-13 01:58:11,ETF,ETF884,Buy,38639,1978.37,76442238.43,"Brooks, Molina and Eaton",TSX,CNY,Dark Pool,75342.6,Pending,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100053,TRDR5771,2024-12-28 18:21:39,Futures,FUT427,Buy,95183,1916.32,182401086.56,Howell-Watson,HKEX,GBP,Dark Pool,-44187.43,Cancelled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100054,TRDR4717,2025-09-03 21:20:01,Derivative,DER327,Buy,7566,123.45,934022.7,Stevens-Hernandez,Euronext,JPY,Electronic Platform,21823.05,Pending,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100055,TRDR6556,2025-09-19 00:19:04,FX,FX719,Buy,34437,867.8,29884428.6,Barber-Wilson,NYSE,USD,Dark Pool,19248.82,Failed,South America,Enterprise,Trade Transaction,Trade Data
+TRD100056,TRDR6426,2025-10-08 08:24:50,Options,OPT324,Buy,50700,399.98,20278986.0,Rodriguez-Garcia,SSE,AUD,Algorithmic,-20351.03,Failed,North America,Enterprise,Trade Transaction,Trade Data
+TRD100057,TRDR8009,2025-03-05 06:16:04,Derivative,DER483,Buy,63960,1895.01,121204839.6,Kelley LLC,LSE,AUD,Electronic Platform,72839.42,Pending,South America,Enterprise,Trade Transaction,Trade Data
+TRD100058,TRDR3401,2025-02-15 23:14:29,Futures,FUT870,Sell,52490,607.56,31890824.4,"Reed, Garcia and Sanchez",NYSE,AUD,Electronic Platform,-14975.37,Pending,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100059,TRDR1626,2025-06-21 00:27:48,Derivative,DER926,Sell,94823,117.83,11172994.09,Jones-Murphy,NASDAQ,JPY,Manual,62732.19,Failed,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100060,TRDR5618,2024-10-18 13:58:59,Options,OPT925,Buy,70613,774.91,54718719.83,Rice-Ferguson,HKEX,EUR,Manual,36518.62,Failed,North America,Enterprise,Trade Transaction,Trade Data
+TRD100061,TRDR7858,2025-10-02 23:57:38,Stock,STO943,Buy,72063,256.6,18491365.8,Miller LLC,LSE,EUR,Dark Pool,-21179.11,Failed,South America,Enterprise,Trade Transaction,Trade Data
+TRD100062,TRDR1317,2025-02-17 08:09:42,Stock,STO110,Buy,28187,1636.58,46130280.46,Rice-Ferguson,NASDAQ,INR,Manual,20667.94,Pending,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100063,TRDR7601,2025-04-25 11:48:57,Options,OPT262,Sell,78100,386.72,30202832.0,Martinez Ltd,Euronext,AUD,Dark Pool,38674.11,Cancelled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100064,TRDR2219,2025-04-15 03:34:45,ETF,ETF405,Sell,57249,367.78,21055037.22,Miller LLC,HKEX,GBP,Algorithmic,25635.61,Pending,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100065,TRDR8138,2025-08-13 00:03:08,Bond,BON780,Buy,91545,794.65,72746234.25,Rice-Ferguson,NASDAQ,CNY,Algorithmic,-30650.9,Failed,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100066,TRDR7252,2025-06-03 03:16:41,Futures,FUT528,Buy,62250,955.15,59458087.5,Martinez Ltd,LSE,AUD,Dark Pool,53968.18,Failed,South America,Enterprise,Trade Transaction,Trade Data
+TRD100067,TRDR1271,2024-11-24 07:51:08,Bond,BON485,Sell,39370,1524.18,60006966.6,Weber-French,SSE,EUR,Manual,70599.52,Failed,North America,Enterprise,Trade Transaction,Trade Data
+TRD100068,TRDR9059,2025-09-12 17:21:50,ETF,ETF703,Sell,404,1759.7,710918.8,Shepherd LLC,NASDAQ,GBP,Algorithmic,65160.54,Cancelled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100069,TRDR1119,2024-12-19 12:30:21,Futures,FUT611,Sell,99555,184.13,18331062.15,Howell-Watson,JPX,AUD,Electronic Platform,-23866.13,Settled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100070,TRDR3723,2024-11-16 09:44:43,Derivative,DER791,Buy,26071,619.14,16141598.94,Morris Ltd,JPX,JPY,Manual,61370.5,Failed,North America,Enterprise,Trade Transaction,Trade Data
+TRD100071,TRDR6375,2024-10-27 16:19:32,Commodity,COM704,Buy,26502,1206.22,31967242.44,Kelley LLC,NASDAQ,CNY,Manual,-48499.72,Cancelled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100072,TRDR7140,2024-10-23 18:18:51,Futures,FUT567,Sell,64010,1400.33,89635123.3,Floyd-Marshall,HKEX,INR,Manual,83751.67,Failed,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100073,TRDR4747,2025-06-16 01:54:47,ETF,ETF416,Sell,1952,595.2,1161830.4,"Brooks, Molina and Eaton",LSE,AUD,Electronic Platform,99843.67,Cancelled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100074,TRDR1721,2024-11-08 20:14:24,Commodity,COM497,Sell,53233,347.4,18493144.2,"Hunt, Leon and Craig",HKEX,USD,Algorithmic,48061.92,Pending,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100075,TRDR2828,2025-09-25 11:28:32,Futures,FUT921,Sell,64741,1930.27,124967610.07,Scott-Howard,NASDAQ,USD,Manual,57827.46,Cancelled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100076,TRDR8434,2025-02-16 02:28:53,Futures,FUT566,Buy,34903,1072.36,37428581.08,Gardner Ltd,HKEX,JPY,Electronic Platform,42055.2,Cancelled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100077,TRDR4598,2025-05-27 16:36:13,ETF,ETF745,Buy,5957,921.47,5489196.79,Solis-Price,Euronext,INR,Algorithmic,-277.06,Settled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100078,TRDR3437,2025-04-10 12:56:21,Stock,STO383,Buy,60904,1231.14,74981350.56,Howard Ltd,TSX,CNY,Manual,32696.69,Settled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100079,TRDR6587,2025-06-07 04:20:29,Bond,BON849,Buy,23872,1986.06,47411224.32,Shepherd LLC,TSX,GBP,Electronic Platform,14812.89,Settled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100080,TRDR3049,2024-12-22 12:27:45,Bond,BON102,Sell,215,1486.04,319498.6,Morris Ltd,SSE,AUD,Manual,-5925.66,Cancelled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100081,TRDR6984,2025-01-26 02:49:03,Stock,STO457,Sell,20246,1292.26,26163095.96,"Lawrence, Martin and Ball",HKEX,CNY,Electronic Platform,73961.74,Pending,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100082,TRDR8230,2025-09-24 08:45:42,Commodity,COM111,Buy,10864,995.84,10818805.76,Abbott Inc,NYSE,GBP,Algorithmic,14919.86,Pending,South America,Enterprise,Trade Transaction,Trade Data
+TRD100083,TRDR4223,2025-09-13 09:02:45,FX,FX102,Sell,4130,1035.98,4278597.4,Abbott Inc,TSX,INR,Manual,34504.65,Failed,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100084,TRDR4023,2025-08-17 10:56:03,ETF,ETF759,Buy,72139,809.61,58404455.79,Alvarez Ltd,NASDAQ,JPY,Electronic Platform,32019.78,Failed,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100085,TRDR8575,2025-09-17 20:13:13,Bond,BON972,Sell,16730,157.86,2640997.8,Rodriguez-Garcia,HKEX,USD,Electronic Platform,-37086.71,Settled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100086,TRDR9107,2025-06-05 05:55:51,Derivative,DER739,Buy,75638,1151.57,87102451.66,Stevens-Hernandez,NYSE,AUD,Dark Pool,47469.89,Cancelled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100087,TRDR3300,2025-10-10 23:03:46,Stock,STO647,Sell,77626,786.82,61077689.32,Jones-Murphy,Euronext,JPY,Dark Pool,21489.69,Failed,North America,Enterprise,Trade Transaction,Trade Data
+TRD100088,TRDR9831,2025-01-10 15:20:37,Futures,FUT586,Buy,5774,1825.4,10539859.6,"Lawrence, Martin and Ball",TSX,CNY,Dark Pool,20466.15,Settled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100089,TRDR4493,2024-12-16 10:18:02,Commodity,COM589,Buy,13401,281.94,3778277.94,Barber-Wilson,NASDAQ,GBP,Algorithmic,18787.89,Pending,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100090,TRDR6916,2025-01-13 08:58:55,Stock,STO634,Sell,79205,1836.98,145498000.9,Gardner Ltd,NYSE,EUR,Electronic Platform,81307.79,Cancelled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100091,TRDR2417,2025-06-03 12:44:12,Options,OPT674,Sell,94101,206.58,19439384.58,Floyd-Marshall,Euronext,CNY,Manual,-16732.95,Cancelled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100092,TRDR1979,2025-06-19 01:54:29,Bond,BON800,Buy,16248,1829.22,29721166.56,Pennington-Estrada,JPX,JPY,Electronic Platform,97803.58,Cancelled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100093,TRDR8504,2025-03-18 21:59:45,Options,OPT274,Sell,5068,1724.15,8737992.2,Hill Ltd,LSE,GBP,Algorithmic,-3285.91,Pending,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100094,TRDR7064,2025-03-12 08:54:49,Options,OPT197,Buy,37358,1761.47,65804996.26,Miller LLC,Euronext,JPY,Algorithmic,62472.63,Failed,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100095,TRDR6743,2025-08-17 18:07:23,Stock,STO305,Buy,88293,541.0,47766513.0,Alvarez Ltd,TSX,JPY,Electronic Platform,-29279.89,Failed,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100096,TRDR8549,2025-02-02 03:44:48,ETF,ETF951,Buy,19562,1543.89,30201576.18,Silva Inc,NYSE,USD,Dark Pool,-1086.86,Cancelled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100097,TRDR8783,2025-04-11 17:07:01,Options,OPT841,Sell,21497,1073.73,23081973.81,Abbott Inc,TSX,INR,Dark Pool,97213.29,Settled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100098,TRDR1067,2025-10-04 08:40:50,Options,OPT558,Buy,68301,1531.81,104624154.81,Kelley LLC,JPX,JPY,Dark Pool,25902.02,Failed,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100099,TRDR1845,2025-03-21 00:03:02,Bond,BON434,Sell,27696,852.65,23614994.4,Rice-Ferguson,LSE,JPY,Dark Pool,77677.44,Failed,North America,Enterprise,Trade Transaction,Trade Data
+TRD100100,TRDR1761,2025-10-06 13:17:52,Futures,FUT240,Buy,37284,1739.76,64865211.84,Holland-Berg,SSE,USD,Electronic Platform,89074.94,Failed,South America,Enterprise,Trade Transaction,Trade Data
+TRD100101,TRDR8462,2024-11-26 01:36:43,Bond,BON184,Sell,10213,894.19,9132362.47,Colon-Smith,HKEX,GBP,Electronic Platform,-12966.95,Settled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100102,TRDR4801,2025-08-09 00:00:37,Options,OPT739,Buy,29637,1362.36,40376263.32,Hall LLC,JPX,USD,Electronic Platform,66559.9,Failed,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100103,TRDR2665,2025-03-13 04:48:18,Commodity,COM377,Buy,25916,685.33,17761012.28,Frey LLC,HKEX,JPY,Dark Pool,90839.83,Cancelled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100104,TRDR2470,2024-12-08 10:06:11,Bond,BON974,Buy,63589,361.89,23012223.21,"Brooks, Molina and Eaton",HKEX,USD,Algorithmic,32192.2,Settled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100105,TRDR1854,2025-09-20 20:17:41,Stock,STO574,Buy,28033,693.82,19449856.06,"Reed, Garcia and Sanchez",NASDAQ,CNY,Electronic Platform,-16969.56,Settled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100106,TRDR5833,2025-07-07 07:53:52,Commodity,COM261,Buy,69328,1838.08,127430410.24,Taylor and Sons,NASDAQ,AUD,Electronic Platform,20079.45,Pending,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100107,TRDR7665,2025-01-02 19:56:42,Stock,STO885,Buy,64378,188.11,12110145.58,"Brooks, Molina and Eaton",LSE,USD,Electronic Platform,61826.64,Failed,North America,Enterprise,Trade Transaction,Trade Data
+TRD100108,TRDR2583,2025-08-25 10:09:41,ETF,ETF898,Sell,43311,1622.47,70270798.17,"Ayers, Barker and Hill",Euronext,AUD,Dark Pool,-1562.82,Pending,South America,Enterprise,Trade Transaction,Trade Data
+TRD100109,TRDR1546,2025-03-13 15:34:15,Bond,BON864,Buy,21043,330.66,6958078.38,Smith-Wallace,NASDAQ,USD,Manual,5187.0,Cancelled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100110,TRDR5832,2024-10-27 21:42:09,Derivative,DER690,Sell,16097,381.87,6146961.39,Cross PLC,JPX,USD,Manual,44418.1,Pending,South America,Enterprise,Trade Transaction,Trade Data
+TRD100111,TRDR6876,2025-01-23 17:40:00,Bond,BON801,Sell,12588,25.47,320616.36,Silva Inc,HKEX,USD,Dark Pool,7054.74,Settled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100112,TRDR7033,2025-03-21 17:24:43,Stock,STO725,Sell,88672,726.03,64378532.16,Young PLC,Euronext,USD,Electronic Platform,42530.54,Pending,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100113,TRDR7964,2025-10-12 09:38:21,FX,FX731,Sell,73359,742.61,54477126.99,West PLC,LSE,GBP,Algorithmic,32350.91,Pending,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100114,TRDR6925,2025-02-02 12:02:09,Bond,BON109,Sell,60097,874.55,52557831.35,"Humphrey, Powers and Garcia",JPX,INR,Algorithmic,13582.19,Pending,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100115,TRDR5849,2025-04-12 15:13:46,FX,FX610,Sell,10788,243.51,2626985.88,Shepherd LLC,TSX,EUR,Electronic Platform,65283.35,Pending,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100116,TRDR6054,2024-10-21 19:10:36,Stock,STO995,Buy,72092,1258.25,90709759.0,Wong-Anderson,NYSE,AUD,Manual,75482.24,Settled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100117,TRDR3884,2025-03-01 05:47:57,ETF,ETF919,Sell,15563,1822.69,28366524.47,Williams Ltd,HKEX,CNY,Electronic Platform,82266.18,Cancelled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100118,TRDR4246,2025-01-02 01:12:30,Options,OPT110,Sell,81741,150.76,12323273.16,Gutierrez-Monroe,SSE,JPY,Electronic Platform,-37930.99,Cancelled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100119,TRDR3158,2024-10-20 05:34:09,ETF,ETF150,Buy,67936,1711.26,116256159.36,Gutierrez-Monroe,NYSE,INR,Algorithmic,8410.17,Pending,North America,Enterprise,Trade Transaction,Trade Data
+TRD100120,TRDR1333,2025-03-15 07:30:38,Derivative,DER148,Sell,57409,1985.54,113987865.86,Shepherd LLC,LSE,EUR,Dark Pool,-8535.6,Cancelled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100121,TRDR1131,2025-02-18 11:19:43,Commodity,COM563,Buy,64408,1807.48,116416171.84,Poole-Acosta,JPX,AUD,Algorithmic,-10026.87,Pending,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100122,TRDR3815,2025-04-04 17:55:56,Bond,BON495,Sell,15320,585.54,8970472.8,Alvarez Ltd,SSE,CNY,Manual,-24667.84,Settled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100123,TRDR6417,2025-10-08 20:02:28,Bond,BON743,Buy,41975,1720.47,72216728.25,Silva Inc,Euronext,JPY,Manual,-28632.18,Settled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100124,TRDR9056,2025-01-09 23:24:06,Bond,BON720,Sell,20765,1964.58,40794503.7,Poole-Acosta,LSE,EUR,Electronic Platform,-21135.06,Pending,North America,Enterprise,Trade Transaction,Trade Data
+TRD100125,TRDR3294,2025-07-03 09:32:37,Bond,BON138,Sell,1241,405.97,503808.77,Thomas-Hughes,SSE,CNY,Algorithmic,58191.75,Pending,South America,Enterprise,Trade Transaction,Trade Data
+TRD100126,TRDR5514,2025-09-17 18:52:56,FX,FX755,Sell,92652,996.08,92288804.16,"Lawrence, Martin and Ball",LSE,EUR,Dark Pool,64617.01,Settled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100127,TRDR8318,2025-09-21 13:13:15,Stock,STO248,Buy,3553,988.06,3510577.18,"Reed, Garcia and Sanchez",SSE,USD,Algorithmic,94096.91,Pending,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100128,TRDR6832,2024-11-07 14:38:29,Bond,BON994,Buy,80897,1989.23,160922739.31,"Hunt, Leon and Craig",SSE,GBP,Dark Pool,96035.55,Pending,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100129,TRDR6141,2025-01-20 22:40:41,Stock,STO798,Buy,3868,258.79,1000999.72,Solis-Price,SSE,GBP,Manual,44250.48,Cancelled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100130,TRDR4476,2025-10-14 13:46:31,Commodity,COM400,Sell,16491,1419.83,23414416.53,Poole-Acosta,TSX,JPY,Electronic Platform,623.55,Settled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100131,TRDR6957,2025-05-14 09:15:45,Derivative,DER278,Sell,29598,1365.75,40423468.5,Hill Ltd,TSX,EUR,Manual,-47343.33,Cancelled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100132,TRDR7082,2025-04-28 13:48:32,ETF,ETF963,Buy,66037,668.81,44166205.97,"Brooks, Molina and Eaton",NYSE,EUR,Electronic Platform,95432.04,Failed,North America,Enterprise,Trade Transaction,Trade Data
+TRD100133,TRDR4722,2025-10-03 12:35:57,ETF,ETF612,Buy,89876,1889.04,169779359.04,Silva Inc,NASDAQ,GBP,Electronic Platform,36829.33,Settled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100134,TRDR4443,2025-02-14 00:46:03,Bond,BON379,Sell,40640,1835.65,74600816.0,Carter Ltd,SSE,USD,Algorithmic,-28489.73,Failed,South America,Enterprise,Trade Transaction,Trade Data
+TRD100135,TRDR3513,2025-03-23 11:46:38,Derivative,DER879,Buy,88398,1688.29,149241459.42,Young PLC,JPX,GBP,Electronic Platform,61572.28,Cancelled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100136,TRDR7440,2025-07-12 08:17:49,Derivative,DER541,Buy,4062,522.2,2121176.4,Stevens-Hernandez,HKEX,GBP,Electronic Platform,-48170.33,Cancelled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100137,TRDR2944,2025-02-03 11:51:30,ETF,ETF406,Buy,72643,503.69,36589552.67,Martinez Ltd,SSE,EUR,Dark Pool,50051.09,Pending,North America,Enterprise,Trade Transaction,Trade Data
+TRD100138,TRDR7667,2025-05-21 06:41:59,Bond,BON479,Buy,7739,1599.98,12382245.22,Mclean Group,NYSE,CNY,Algorithmic,3949.14,Settled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100139,TRDR7115,2024-11-27 01:25:42,Options,OPT675,Sell,8145,1742.09,14189323.05,Jones-Murphy,NYSE,USD,Manual,48095.35,Pending,South America,Enterprise,Trade Transaction,Trade Data
+TRD100140,TRDR8956,2025-07-12 09:13:12,FX,FX743,Sell,66257,1831.12,121324517.84,Howard Ltd,TSX,CNY,Electronic Platform,42009.3,Settled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100141,TRDR8252,2025-02-22 16:48:26,Stock,STO564,Sell,83741,1510.68,126505853.88,Pennington-Estrada,TSX,AUD,Algorithmic,-37706.36,Pending,North America,Enterprise,Trade Transaction,Trade Data
+TRD100142,TRDR3208,2025-04-21 02:29:49,FX,FX763,Buy,6481,443.48,2874193.88,Frey LLC,JPX,EUR,Electronic Platform,-1831.43,Cancelled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100143,TRDR6116,2025-03-14 13:10:44,FX,FX740,Sell,60412,1060.14,64045177.68,"Brooks, Molina and Eaton",Euronext,AUD,Electronic Platform,82572.46,Pending,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100144,TRDR8788,2025-03-12 10:47:18,Options,OPT624,Buy,46054,1916.5,88262491.0,Brown-Buchanan,LSE,CNY,Manual,-18352.11,Failed,North America,Enterprise,Trade Transaction,Trade Data
+TRD100145,TRDR7631,2025-07-22 02:46:30,Futures,FUT843,Buy,45106,333.11,15025259.66,Poole-Acosta,TSX,USD,Dark Pool,-29445.48,Failed,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100146,TRDR5622,2025-06-14 21:59:21,Derivative,DER462,Buy,76890,1777.1,136641219.0,Abbott Inc,Euronext,INR,Manual,14893.39,Cancelled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100147,TRDR9879,2024-12-03 02:44:04,Futures,FUT221,Sell,17991,1327.72,23887010.52,Romero Ltd,SSE,AUD,Manual,32638.32,Cancelled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100148,TRDR1325,2025-08-31 23:05:13,Derivative,DER821,Buy,40411,1948.51,78741237.61,Gutierrez-Monroe,Euronext,INR,Dark Pool,-16803.1,Settled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100149,TRDR4250,2025-07-17 03:25:03,ETF,ETF513,Sell,82001,1942.16,159259062.16,Alvarez Ltd,TSX,GBP,Manual,70444.11,Settled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100150,TRDR9160,2025-06-17 01:02:02,Bond,BON154,Sell,3388,1336.83,4529180.04,Gardner Ltd,TSX,JPY,Manual,-37937.52,Failed,North America,Enterprise,Trade Transaction,Trade Data
+TRD100151,TRDR3290,2024-10-28 01:07:45,Commodity,COM132,Sell,42816,12.36,529205.76,Silva Inc,NYSE,CNY,Algorithmic,29904.95,Cancelled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100152,TRDR6203,2025-09-07 22:22:27,ETF,ETF115,Buy,80272,275.54,22118146.88,Gardner Ltd,HKEX,CNY,Algorithmic,-30707.5,Failed,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100153,TRDR1786,2025-05-07 02:03:04,Options,OPT325,Sell,94842,651.17,61758265.14,"Ayers, Barker and Hill",LSE,GBP,Electronic Platform,-21464.2,Settled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100154,TRDR3037,2025-03-04 18:47:57,Commodity,COM381,Sell,28949,416.78,12065364.22,Howard Ltd,HKEX,JPY,Dark Pool,60532.24,Failed,South America,Enterprise,Trade Transaction,Trade Data
+TRD100155,TRDR7748,2024-11-05 20:44:22,Commodity,COM163,Buy,75949,1883.43,143044625.07,Silva Inc,SSE,GBP,Electronic Platform,33600.97,Settled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100156,TRDR9718,2024-10-24 13:31:43,Bond,BON720,Buy,17603,1837.09,32338295.27,Rice-Ferguson,SSE,EUR,Electronic Platform,41818.53,Cancelled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100157,TRDR1667,2025-04-28 18:46:00,Commodity,COM477,Sell,80625,798.11,64347618.75,Stevens-Hernandez,NASDAQ,CNY,Algorithmic,16469.26,Failed,North America,Enterprise,Trade Transaction,Trade Data
+TRD100158,TRDR4388,2025-04-07 21:02:59,Options,OPT566,Buy,85686,1351.53,115807199.58,Shepherd LLC,NASDAQ,CNY,Electronic Platform,47444.85,Settled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100159,TRDR1140,2024-12-03 10:32:33,Futures,FUT941,Buy,64186,1818.97,116752408.42,Carter Ltd,LSE,GBP,Dark Pool,44626.43,Failed,South America,Enterprise,Trade Transaction,Trade Data
+TRD100160,TRDR3374,2025-09-27 19:14:34,Derivative,DER704,Buy,16145,871.68,14073273.6,Weber-French,Euronext,GBP,Algorithmic,-48939.17,Failed,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100161,TRDR6328,2025-03-17 05:30:07,ETF,ETF909,Sell,39584,455.37,18025366.08,Colon-Smith,Euronext,JPY,Algorithmic,43763.55,Settled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100162,TRDR6918,2025-09-07 13:16:33,ETF,ETF928,Buy,10564,81.74,863501.36,Holmes-Davis,Euronext,USD,Algorithmic,70909.35,Failed,South America,Enterprise,Trade Transaction,Trade Data
+TRD100163,TRDR9070,2025-07-17 16:28:27,Commodity,COM720,Buy,77170,330.79,25527064.3,Carter Ltd,NYSE,CNY,Dark Pool,13982.15,Cancelled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100164,TRDR2840,2025-03-07 00:25:52,Futures,FUT423,Sell,27897,384.92,10738113.24,Scott-Howard,TSX,JPY,Algorithmic,-27113.26,Settled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100165,TRDR4296,2025-05-30 04:52:27,Derivative,DER614,Buy,17975,1792.21,32214974.75,Carter Ltd,HKEX,INR,Algorithmic,-6216.88,Settled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100166,TRDR7124,2025-05-05 13:45:32,Stock,STO701,Sell,33395,1601.4,53478753.0,"Brooks, Molina and Eaton",TSX,JPY,Dark Pool,17255.15,Cancelled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100167,TRDR2599,2025-09-20 11:51:19,Derivative,DER103,Buy,80550,982.68,79154874.0,Garcia-Curry,NASDAQ,GBP,Algorithmic,32457.33,Settled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100168,TRDR8706,2024-11-07 19:26:45,ETF,ETF406,Sell,23299,1280.63,29837398.37,Thomas-Hughes,SSE,CNY,Dark Pool,97045.7,Failed,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100169,TRDR8526,2025-02-21 06:46:14,Options,OPT886,Buy,47782,679.73,32478858.86,Atkinson-Hall,TSX,AUD,Dark Pool,26796.69,Failed,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100170,TRDR3949,2025-07-13 22:27:01,Futures,FUT172,Sell,23989,1245.4,29875900.6,Mclean Group,SSE,EUR,Electronic Platform,52456.16,Cancelled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100171,TRDR4210,2025-02-05 13:37:17,ETF,ETF873,Buy,34887,778.41,27156389.67,Williams Ltd,Euronext,AUD,Dark Pool,61881.25,Failed,North America,Enterprise,Trade Transaction,Trade Data
+TRD100172,TRDR2393,2024-11-03 14:25:59,Derivative,DER954,Buy,81046,82.29,6669275.34,Pennington-Estrada,NYSE,CNY,Manual,13137.68,Cancelled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100173,TRDR8874,2025-02-13 23:31:42,Bond,BON290,Sell,67597,984.74,66565469.78,Romero Ltd,NASDAQ,JPY,Algorithmic,20775.9,Cancelled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100174,TRDR6465,2024-12-23 08:04:27,Futures,FUT818,Sell,49490,1690.87,83681156.3,Weber-French,SSE,GBP,Manual,-37932.7,Failed,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100175,TRDR8178,2025-07-27 09:14:41,ETF,ETF545,Sell,12313,68.75,846518.75,Holland-Berg,JPX,GBP,Electronic Platform,59304.16,Cancelled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100176,TRDR6949,2025-05-27 05:25:32,ETF,ETF512,Sell,54721,1935.81,105929459.01,"Lawrence, Martin and Ball",JPX,CNY,Manual,-12887.98,Failed,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100177,TRDR3301,2025-01-21 01:35:27,FX,FX514,Sell,99660,191.25,19059975.0,Romero Ltd,LSE,JPY,Electronic Platform,-23685.19,Pending,North America,Enterprise,Trade Transaction,Trade Data
+TRD100178,TRDR2660,2025-08-12 17:37:45,Commodity,COM735,Sell,79722,241.86,19281562.92,Romero Ltd,NYSE,JPY,Algorithmic,58674.27,Settled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100179,TRDR3564,2024-12-01 06:49:49,FX,FX744,Buy,14436,969.42,13994547.12,Solis-Price,HKEX,GBP,Electronic Platform,52836.0,Failed,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100180,TRDR4277,2024-11-23 05:14:22,ETF,ETF582,Buy,65664,1202.51,78961616.64,Brown-Buchanan,TSX,EUR,Manual,70835.03,Settled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100181,TRDR9343,2024-11-01 17:56:50,Options,OPT334,Buy,63818,1960.18,125094767.24,"Hunt, Leon and Craig",Euronext,USD,Manual,85368.37,Pending,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100182,TRDR7873,2025-03-24 14:14:16,Commodity,COM446,Buy,12212,1500.73,18326914.76,Shepherd LLC,JPX,AUD,Electronic Platform,76618.45,Settled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100183,TRDR8927,2024-12-14 00:11:47,Stock,STO367,Buy,87071,1255.22,109293260.62,Evans-Trevino,NYSE,INR,Manual,13172.15,Pending,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100184,TRDR4645,2025-05-14 01:39:50,Stock,STO180,Buy,73224,959.27,70241586.48,Howard Ltd,Euronext,CNY,Manual,25411.69,Cancelled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100185,TRDR3384,2025-05-05 05:20:30,FX,FX289,Sell,40258,1280.28,51541512.24,Rice-Ferguson,NASDAQ,AUD,Algorithmic,59093.16,Settled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100186,TRDR9898,2025-05-06 05:17:41,FX,FX756,Buy,55658,1738.92,96784809.36,Shepherd LLC,NYSE,EUR,Algorithmic,79915.32,Failed,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100187,TRDR7213,2025-08-16 11:58:14,FX,FX801,Buy,2819,902.62,2544485.78,"Humphrey, Powers and Garcia",JPX,INR,Electronic Platform,-42249.06,Pending,North America,Enterprise,Trade Transaction,Trade Data
+TRD100188,TRDR7783,2025-09-13 23:12:57,Stock,STO888,Buy,30159,644.1,19425411.9,Silva Inc,NYSE,INR,Electronic Platform,4131.76,Settled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100189,TRDR5445,2025-06-15 20:31:23,Stock,STO678,Buy,21367,57.83,1235653.61,Brown-Buchanan,SSE,GBP,Manual,-4617.05,Failed,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100190,TRDR5819,2024-11-21 02:00:28,Commodity,COM450,Sell,24093,918.28,22124120.04,Holland-Berg,HKEX,CNY,Manual,88746.47,Settled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100191,TRDR8482,2025-05-12 00:54:52,Futures,FUT448,Sell,158,320.11,50577.38,Silva Inc,NASDAQ,INR,Manual,-14508.25,Pending,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100192,TRDR3192,2025-09-11 14:35:08,Derivative,DER568,Sell,51390,535.68,27528595.2,Wong-Anderson,Euronext,EUR,Dark Pool,40229.48,Settled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100193,TRDR3130,2025-04-24 22:52:43,Futures,FUT582,Buy,65779,71.17,4681491.43,Williams Ltd,Euronext,JPY,Electronic Platform,82758.9,Pending,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100194,TRDR9517,2025-10-08 00:44:10,ETF,ETF604,Buy,66442,1651.78,109747566.76,Romero Ltd,SSE,GBP,Dark Pool,-23933.4,Pending,South America,Enterprise,Trade Transaction,Trade Data
+TRD100195,TRDR5835,2025-05-07 12:10:55,Stock,STO607,Buy,67333,1192.91,80322209.03,Stevens-Hernandez,Euronext,AUD,Algorithmic,-33080.44,Failed,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100196,TRDR4064,2025-03-06 12:47:35,Options,OPT916,Sell,75881,1224.28,92899590.68,Holland-Berg,NASDAQ,AUD,Dark Pool,54649.24,Failed,North America,Enterprise,Trade Transaction,Trade Data
+TRD100197,TRDR3698,2025-06-05 21:43:44,FX,FX868,Sell,41777,475.3,19856608.1,Taylor and Sons,HKEX,AUD,Dark Pool,53571.0,Settled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100198,TRDR3480,2025-09-27 05:47:42,Options,OPT980,Sell,99017,351.5,34804475.5,Brown-Buchanan,NASDAQ,GBP,Manual,30152.8,Pending,South America,Enterprise,Trade Transaction,Trade Data
+TRD100199,TRDR7860,2025-09-15 13:57:15,Options,OPT179,Buy,68836,1717.86,118250610.96,Abbott Inc,LSE,GBP,Algorithmic,94111.96,Pending,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100200,TRDR9704,2025-05-14 09:44:05,Options,OPT229,Sell,29046,269.91,7839805.86,Evans-Trevino,Euronext,INR,Electronic Platform,-21032.64,Cancelled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100201,TRDR2253,2025-09-27 08:58:58,Bond,BON239,Sell,22132,1060.25,23465453.0,Alvarez Ltd,SSE,CNY,Electronic Platform,3395.36,Cancelled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100202,TRDR9967,2025-07-12 12:57:55,Commodity,COM350,Sell,90457,380.32,34402606.24,Barber-Wilson,LSE,GBP,Electronic Platform,24695.16,Pending,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100203,TRDR8538,2025-02-07 20:40:27,FX,FX635,Sell,44716,147.58,6599187.28,Weber-French,HKEX,EUR,Manual,-19001.14,Settled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100204,TRDR9460,2025-01-15 21:15:44,Derivative,DER573,Sell,99745,718.93,71709672.85,"Ayers, Barker and Hill",JPX,GBP,Dark Pool,37632.41,Pending,North America,Enterprise,Trade Transaction,Trade Data
+TRD100205,TRDR9579,2024-11-26 08:29:33,Futures,FUT134,Buy,15906,1800.93,28645592.58,Cross PLC,SSE,JPY,Electronic Platform,45514.58,Settled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100206,TRDR5171,2024-11-08 08:17:12,Stock,STO543,Buy,61625,1816.0,111911000.0,Taylor and Sons,JPX,INR,Dark Pool,4767.66,Failed,North America,Enterprise,Trade Transaction,Trade Data
+TRD100207,TRDR2676,2024-12-09 17:27:08,Stock,STO724,Buy,92807,306.14,28411934.98,Evans-Trevino,SSE,EUR,Electronic Platform,11459.79,Failed,South America,Enterprise,Trade Transaction,Trade Data
+TRD100208,TRDR5107,2025-02-21 13:18:38,Futures,FUT986,Sell,95655,1964.86,187948683.3,Abbott Inc,TSX,AUD,Dark Pool,-1835.71,Cancelled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100209,TRDR1106,2025-09-15 06:13:54,Derivative,DER572,Buy,25791,997.35,25722653.85,Holmes-Davis,SSE,EUR,Manual,86795.97,Failed,North America,Enterprise,Trade Transaction,Trade Data
+TRD100210,TRDR3830,2025-10-04 17:55:23,Options,OPT291,Sell,46460,851.54,39562548.4,Kelley LLC,NYSE,AUD,Manual,79338.1,Cancelled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100211,TRDR6722,2025-01-17 11:13:41,FX,FX225,Buy,69828,1724.63,120427463.64,Wong-Anderson,JPX,USD,Manual,-15925.01,Settled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100212,TRDR2365,2025-01-26 08:56:22,ETF,ETF522,Sell,36057,893.15,32204309.55,Evans-Trevino,NASDAQ,AUD,Dark Pool,19103.68,Settled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100213,TRDR3237,2025-05-03 19:23:31,Stock,STO170,Sell,69061,468.63,32364056.43,Gutierrez-Monroe,SSE,GBP,Manual,30196.42,Pending,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100214,TRDR7096,2025-02-09 23:19:18,ETF,ETF557,Buy,57020,407.42,23231088.4,Young PLC,Euronext,JPY,Manual,-17860.92,Settled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100215,TRDR9065,2025-03-08 09:40:30,Bond,BON653,Buy,75966,206.17,15661910.22,Romero Ltd,Euronext,INR,Electronic Platform,-45999.0,Settled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100216,TRDR3762,2025-07-06 02:17:55,Options,OPT372,Buy,98244,353.82,34760692.08,Wong-Anderson,Euronext,AUD,Algorithmic,83982.2,Settled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100217,TRDR2136,2025-08-19 14:19:22,ETF,ETF515,Sell,54667,1846.2,100926215.4,Wong-Anderson,JPX,CNY,Electronic Platform,-15345.72,Cancelled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100218,TRDR1084,2024-12-16 05:15:00,Bond,BON438,Sell,8467,1678.56,14212367.52,Evans-Trevino,JPX,INR,Dark Pool,33727.01,Settled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100219,TRDR4600,2024-12-13 19:33:17,Futures,FUT391,Buy,34452,1890.84,65143219.68,Shepherd LLC,SSE,AUD,Algorithmic,93867.54,Pending,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100220,TRDR3672,2025-09-17 11:05:07,Futures,FUT573,Buy,17848,82.34,1469604.32,Holmes-Davis,SSE,INR,Algorithmic,89781.59,Failed,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100221,TRDR4360,2025-04-16 02:05:37,FX,FX650,Sell,37797,1194.69,45155697.93,Smith-Wallace,NASDAQ,JPY,Dark Pool,25814.17,Cancelled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100222,TRDR2190,2025-09-23 10:16:19,FX,FX956,Sell,87920,1793.0,157640560.0,Rice-Ferguson,NYSE,USD,Electronic Platform,-2891.89,Pending,North America,Enterprise,Trade Transaction,Trade Data
+TRD100223,TRDR5571,2025-02-04 06:24:25,ETF,ETF884,Sell,60292,1958.14,118060176.88,Mclean Group,JPX,CNY,Manual,9916.16,Settled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100224,TRDR6141,2025-04-20 02:11:32,Bond,BON793,Sell,85099,1596.85,135890338.15,Kelley LLC,JPX,JPY,Algorithmic,42288.04,Failed,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100225,TRDR4806,2025-01-23 03:34:17,Derivative,DER984,Buy,21188,608.11,12884634.68,Poole-Acosta,NASDAQ,EUR,Electronic Platform,39481.88,Pending,South America,Enterprise,Trade Transaction,Trade Data
+TRD100226,TRDR2589,2024-11-15 13:17:49,Bond,BON198,Buy,53307,602.86,32136658.02,Smith-Wallace,Euronext,AUD,Electronic Platform,-31390.61,Settled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100227,TRDR2693,2024-11-27 06:56:38,Bond,BON364,Buy,48540,677.91,32905751.4,Miller LLC,HKEX,GBP,Manual,15310.93,Settled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100228,TRDR7611,2025-08-16 12:03:16,Futures,FUT720,Buy,47917,798.25,38249745.25,Gardner Ltd,LSE,JPY,Dark Pool,12950.87,Settled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100229,TRDR6915,2025-09-10 05:44:21,Bond,BON456,Sell,89672,1525.66,136808983.52,West PLC,NYSE,INR,Manual,84478.37,Pending,South America,Enterprise,Trade Transaction,Trade Data
+TRD100230,TRDR4983,2025-03-07 22:02:11,Bond,BON161,Buy,79759,642.44,51240371.96,Shepherd LLC,NASDAQ,USD,Dark Pool,39253.03,Cancelled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100231,TRDR6581,2024-12-07 03:17:13,Derivative,DER672,Buy,80060,1972.67,157931960.2,West PLC,Euronext,GBP,Algorithmic,31099.2,Settled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100232,TRDR5553,2024-11-16 10:47:32,ETF,ETF399,Buy,99358,582.4,57866099.2,Scott-Howard,Euronext,EUR,Manual,68467.48,Cancelled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100233,TRDR8641,2025-02-06 01:51:32,FX,FX707,Sell,21408,1435.51,30731398.08,Evans-Trevino,NYSE,INR,Electronic Platform,-1351.06,Failed,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100234,TRDR4370,2025-01-31 12:25:48,ETF,ETF638,Sell,50543,242.14,12238482.02,Wong-Anderson,NASDAQ,AUD,Manual,48000.31,Pending,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100235,TRDR9635,2024-11-09 10:55:25,Bond,BON591,Buy,54306,1158.65,62921646.9,Barber-Wilson,NASDAQ,CNY,Algorithmic,-17900.76,Pending,North America,Enterprise,Trade Transaction,Trade Data
+TRD100236,TRDR8864,2025-08-21 02:57:17,Options,OPT985,Sell,62900,1393.79,87669391.0,Gardner Ltd,TSX,AUD,Dark Pool,49082.54,Cancelled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100237,TRDR5612,2025-06-23 23:17:41,ETF,ETF140,Buy,35208,1620.33,57048578.64,Rice-Ferguson,LSE,CNY,Dark Pool,50208.64,Failed,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100238,TRDR5621,2025-03-16 21:27:19,Options,OPT559,Sell,78750,567.58,44696925.0,Holland-Berg,JPX,EUR,Manual,50753.58,Settled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100239,TRDR9936,2025-09-20 08:15:11,Derivative,DER154,Sell,43407,1027.52,44601560.64,Jones-Murphy,HKEX,INR,Manual,41362.78,Settled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100240,TRDR2926,2025-04-15 05:57:41,Derivative,DER340,Buy,99795,1407.55,140466452.25,Thomas-Hughes,Euronext,JPY,Dark Pool,16444.27,Settled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100241,TRDR4042,2024-11-25 15:09:36,ETF,ETF108,Buy,54746,82.65,4524756.9,Brown-Buchanan,TSX,JPY,Dark Pool,65969.9,Cancelled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100242,TRDR4616,2025-05-28 05:24:11,Stock,STO143,Buy,78098,1056.7,82526156.6,Atkinson-Hall,NASDAQ,USD,Electronic Platform,74336.21,Failed,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100243,TRDR8633,2024-11-10 00:21:04,ETF,ETF748,Buy,24597,644.24,15846371.28,Smith-Wallace,NASDAQ,USD,Algorithmic,10307.12,Failed,South America,Enterprise,Trade Transaction,Trade Data
+TRD100244,TRDR9512,2025-01-20 11:17:25,FX,FX720,Sell,27688,542.44,15019078.72,Rice-Ferguson,JPX,INR,Manual,-41120.79,Pending,South America,Enterprise,Trade Transaction,Trade Data
+TRD100245,TRDR7360,2025-06-11 14:18:38,FX,FX420,Buy,40185,1587.35,63787659.75,West PLC,HKEX,CNY,Manual,-36298.01,Settled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100246,TRDR7727,2024-12-23 06:10:05,Options,OPT926,Sell,2111,887.19,1872858.09,Floyd-Marshall,Euronext,CNY,Algorithmic,-43475.93,Pending,North America,Enterprise,Trade Transaction,Trade Data
+TRD100247,TRDR9812,2025-04-21 08:43:43,ETF,ETF279,Buy,83573,645.48,53944700.04,Hall LLC,HKEX,AUD,Electronic Platform,68205.22,Failed,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100248,TRDR2716,2025-06-25 13:57:22,ETF,ETF757,Buy,30776,856.88,26371338.88,Martinez Ltd,TSX,CNY,Algorithmic,-49579.6,Failed,North America,Enterprise,Trade Transaction,Trade Data
+TRD100249,TRDR2611,2024-11-28 06:24:49,Futures,FUT436,Sell,73078,1735.47,126824676.66,Carter Ltd,JPX,AUD,Manual,24953.16,Settled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100250,TRDR6264,2025-06-10 00:32:52,Commodity,COM697,Buy,41764,994.81,41547244.84,Shepherd LLC,JPX,JPY,Dark Pool,16057.51,Settled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100251,TRDR9982,2025-04-14 03:57:12,Futures,FUT756,Sell,29321,1711.78,50191101.38,Miller LLC,LSE,AUD,Electronic Platform,-6053.96,Settled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100252,TRDR2503,2025-03-29 09:12:44,Derivative,DER891,Buy,57893,910.82,52730102.26,"Brooks, Molina and Eaton",LSE,USD,Algorithmic,90567.74,Failed,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100253,TRDR5033,2025-01-17 00:51:49,Commodity,COM955,Sell,26545,675.3,17925838.5,Brown-Buchanan,Euronext,INR,Electronic Platform,-16670.84,Settled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100254,TRDR1151,2025-05-05 22:47:02,Derivative,DER872,Sell,36157,394.84,14276229.88,"Brooks, Molina and Eaton",NASDAQ,EUR,Dark Pool,92865.55,Cancelled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100255,TRDR1938,2025-06-24 03:03:47,ETF,ETF765,Buy,22664,1572.16,35631434.24,Thomas-Hughes,LSE,AUD,Manual,2539.12,Settled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100256,TRDR8509,2025-03-07 08:54:07,Commodity,COM975,Sell,80473,1104.87,88912203.51,Hall LLC,NYSE,AUD,Dark Pool,14463.66,Cancelled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100257,TRDR6285,2025-09-29 21:24:35,FX,FX180,Sell,54498,428.99,23379097.02,Shepherd LLC,JPX,INR,Manual,37269.89,Pending,South America,Enterprise,Trade Transaction,Trade Data
+TRD100258,TRDR7227,2025-10-09 09:13:31,FX,FX517,Buy,55196,388.74,21456893.04,Shepherd LLC,TSX,CNY,Manual,28020.04,Cancelled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100259,TRDR5022,2024-11-18 08:49:45,Futures,FUT814,Sell,67928,726.16,49326596.48,Carter Ltd,JPX,CNY,Electronic Platform,94070.82,Failed,North America,Enterprise,Trade Transaction,Trade Data
+TRD100260,TRDR5003,2025-02-25 21:47:13,Stock,STO337,Buy,81910,32.83,2689105.3,"Hunt, Leon and Craig",HKEX,AUD,Manual,51423.68,Pending,South America,Enterprise,Trade Transaction,Trade Data
+TRD100261,TRDR1871,2025-09-07 19:37:04,Options,OPT126,Sell,43336,1557.62,67501020.32,"Hunt, Leon and Craig",LSE,USD,Electronic Platform,13653.54,Cancelled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100262,TRDR7279,2025-09-26 14:46:13,Stock,STO471,Buy,75764,1597.75,121051931.0,Frey LLC,NASDAQ,USD,Algorithmic,96104.92,Pending,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100263,TRDR9347,2025-10-11 05:38:04,Commodity,COM963,Sell,50782,137.28,6971352.96,Frey LLC,HKEX,GBP,Electronic Platform,-4192.24,Pending,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100264,TRDR6464,2025-01-15 11:47:22,FX,FX398,Sell,35280,1192.8,42081984.0,Pennington-Estrada,Euronext,EUR,Dark Pool,62664.58,Failed,South America,Enterprise,Trade Transaction,Trade Data
+TRD100265,TRDR6280,2025-09-21 04:15:03,Commodity,COM761,Buy,19930,179.61,3579627.3,Colon-Smith,SSE,USD,Manual,90479.04,Cancelled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100266,TRDR6167,2024-12-16 00:53:16,Futures,FUT987,Buy,97298,1608.46,156499941.08,Evans-Trevino,TSX,JPY,Algorithmic,21010.57,Pending,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100267,TRDR9395,2025-05-05 03:11:25,Commodity,COM746,Sell,90444,748.75,67719945.0,Barber-Wilson,NYSE,JPY,Dark Pool,24374.7,Cancelled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100268,TRDR7676,2025-02-11 15:00:07,Futures,FUT427,Sell,40310,122.48,4937168.8,Colon-Smith,Euronext,EUR,Electronic Platform,6344.76,Cancelled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100269,TRDR5305,2025-07-01 08:08:12,Bond,BON694,Buy,4399,1150.26,5059993.74,Solis-Price,Euronext,INR,Dark Pool,54780.5,Settled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100270,TRDR6648,2024-10-19 07:14:35,Futures,FUT118,Buy,79921,683.52,54627601.92,Solis-Price,SSE,CNY,Dark Pool,-14924.14,Cancelled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100271,TRDR3927,2025-07-28 01:57:11,Stock,STO810,Sell,45555,306.24,13950763.2,Martinez Ltd,NASDAQ,AUD,Algorithmic,55813.4,Cancelled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100272,TRDR2514,2024-11-17 01:24:23,Options,OPT722,Buy,57892,162.42,9402818.64,Thomas-Hughes,NASDAQ,CNY,Manual,7672.45,Cancelled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100273,TRDR1410,2025-07-29 17:17:01,Bond,BON594,Buy,95978,168.83,16203965.74,Gutierrez-Monroe,NYSE,CNY,Electronic Platform,93079.0,Failed,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100274,TRDR4462,2025-08-31 13:30:59,FX,FX499,Buy,33729,1723.88,58144748.52,"Humphrey, Powers and Garcia",LSE,JPY,Manual,61768.06,Failed,South America,Enterprise,Trade Transaction,Trade Data
+TRD100275,TRDR4817,2024-12-10 05:36:08,Options,OPT458,Sell,81588,248.39,20265643.32,Frey LLC,SSE,CNY,Dark Pool,-4249.08,Settled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100276,TRDR9495,2025-02-08 23:59:09,Bond,BON734,Buy,87599,1059.79,92836544.21,Carter Ltd,JPX,EUR,Electronic Platform,45901.64,Failed,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100277,TRDR4349,2025-02-02 18:07:36,Commodity,COM492,Buy,6321,980.73,6199194.33,Jones-Murphy,NASDAQ,USD,Algorithmic,-45992.52,Failed,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100278,TRDR1235,2025-07-14 21:25:51,Derivative,DER726,Buy,17171,1554.55,26693178.05,Poole-Acosta,TSX,AUD,Dark Pool,53591.94,Cancelled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100279,TRDR7549,2025-03-05 22:15:28,FX,FX962,Buy,72641,99.71,7243034.11,Floyd-Marshall,NASDAQ,AUD,Electronic Platform,-19885.07,Settled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100280,TRDR9857,2024-10-28 23:51:30,Bond,BON824,Sell,76350,1538.54,117467529.0,"Ayers, Barker and Hill",HKEX,EUR,Algorithmic,-30390.82,Failed,North America,Enterprise,Trade Transaction,Trade Data
+TRD100281,TRDR8035,2025-05-17 02:44:47,FX,FX125,Sell,56042,293.57,16452249.94,Mclean Group,NASDAQ,JPY,Electronic Platform,94045.03,Failed,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100282,TRDR1385,2024-11-08 21:54:37,Bond,BON977,Sell,43140,1244.85,53702829.0,Frey LLC,NASDAQ,GBP,Dark Pool,-13955.25,Pending,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100283,TRDR2666,2025-09-04 10:59:14,Commodity,COM189,Sell,24842,721.58,17925490.36,Cross PLC,NASDAQ,AUD,Manual,-4646.05,Cancelled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100284,TRDR6670,2025-03-31 05:31:31,Derivative,DER274,Sell,70180,762.19,53490494.2,Solis-Price,NYSE,INR,Algorithmic,-4560.56,Settled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100285,TRDR9699,2025-01-17 09:25:45,Bond,BON882,Sell,46917,1702.88,79894020.96,"Humphrey, Powers and Garcia",NASDAQ,JPY,Dark Pool,91639.83,Cancelled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100286,TRDR1752,2025-10-03 08:53:07,Bond,BON589,Buy,6182,1608.59,9944303.38,Pennington-Estrada,Euronext,USD,Electronic Platform,20686.42,Pending,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100287,TRDR7104,2025-05-04 15:41:50,FX,FX343,Buy,94012,1272.64,119643431.68,Colon-Smith,JPX,JPY,Electronic Platform,86897.57,Cancelled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100288,TRDR7448,2025-07-30 18:06:00,Bond,BON653,Sell,16775,515.53,8648015.75,Howard Ltd,SSE,GBP,Electronic Platform,-22960.01,Pending,North America,Enterprise,Trade Transaction,Trade Data
+TRD100289,TRDR5074,2025-08-24 15:56:35,Derivative,DER887,Buy,13110,1154.0,15128940.0,"Humphrey, Powers and Garcia",NASDAQ,AUD,Dark Pool,33359.18,Settled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100290,TRDR2517,2025-06-06 22:56:31,Commodity,COM812,Sell,63299,669.64,42387542.36,Young PLC,JPX,JPY,Manual,67143.64,Settled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100291,TRDR3005,2025-05-29 11:20:39,Stock,STO756,Buy,6396,368.78,2358716.88,Williams Ltd,NYSE,INR,Manual,74794.34,Failed,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100292,TRDR6203,2024-11-05 10:04:15,FX,FX271,Sell,84577,1611.36,136283994.72,Holmes-Davis,NYSE,GBP,Algorithmic,46693.11,Pending,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100293,TRDR7184,2025-05-07 05:55:08,Futures,FUT437,Sell,52816,635.6,33569849.6,Colon-Smith,HKEX,CNY,Electronic Platform,91204.75,Settled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100294,TRDR3439,2025-10-02 19:01:18,ETF,ETF783,Sell,925,640.51,592471.75,Jones-Murphy,LSE,EUR,Algorithmic,26705.98,Cancelled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100295,TRDR9234,2025-02-16 03:43:20,Options,OPT181,Buy,81129,68.93,5592221.97,Kelley LLC,Euronext,USD,Dark Pool,-39776.83,Failed,North America,Enterprise,Trade Transaction,Trade Data
+TRD100296,TRDR4304,2025-01-14 12:56:08,Futures,FUT528,Buy,72420,1801.42,130458836.4,Thomas-Hughes,Euronext,AUD,Electronic Platform,72548.76,Settled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100297,TRDR7587,2025-04-09 18:59:25,Stock,STO238,Sell,2795,792.3,2214478.5,Thomas-Hughes,NASDAQ,USD,Manual,96551.13,Failed,North America,Enterprise,Trade Transaction,Trade Data
+TRD100298,TRDR3881,2025-09-17 09:26:43,ETF,ETF647,Sell,3409,1599.97,5454297.73,Romero Ltd,TSX,INR,Dark Pool,73776.41,Failed,North America,Enterprise,Trade Transaction,Trade Data
+TRD100299,TRDR7696,2025-06-07 08:10:34,FX,FX985,Sell,23159,489.97,11347215.23,Holmes-Davis,NYSE,AUD,Algorithmic,75788.39,Failed,North America,Enterprise,Trade Transaction,Trade Data
+TRD100300,TRDR5442,2025-03-09 01:40:15,ETF,ETF832,Buy,63775,137.22,8751205.5,Garcia-Curry,LSE,USD,Algorithmic,81930.18,Settled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100301,TRDR7686,2024-11-30 04:56:18,Futures,FUT686,Sell,76103,65.31,4970286.93,Williams Ltd,NYSE,GBP,Manual,2080.79,Cancelled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100302,TRDR2414,2025-03-10 11:16:22,FX,FX678,Sell,98768,623.21,61553205.28,Gardner Ltd,LSE,CNY,Electronic Platform,78377.22,Cancelled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100303,TRDR8527,2025-04-12 18:10:47,FX,FX910,Buy,90939,135.59,12330419.01,Hall LLC,TSX,EUR,Electronic Platform,93912.6,Failed,South America,Enterprise,Trade Transaction,Trade Data
+TRD100304,TRDR8019,2025-01-02 09:21:37,ETF,ETF225,Sell,89005,760.19,67660710.95,Hall LLC,HKEX,INR,Manual,21377.89,Settled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100305,TRDR3600,2025-07-14 00:31:27,Derivative,DER444,Buy,65264,1591.27,103852645.28,Jones-Murphy,NASDAQ,EUR,Manual,93907.15,Pending,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100306,TRDR2274,2025-03-01 22:36:43,Bond,BON553,Buy,38578,130.53,5035586.34,Frey LLC,SSE,JPY,Manual,92563.11,Failed,South America,Enterprise,Trade Transaction,Trade Data
+TRD100307,TRDR4697,2025-06-02 16:47:56,Futures,FUT351,Buy,87277,1217.9,106294658.3,Martinez Ltd,LSE,AUD,Dark Pool,85335.8,Settled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100308,TRDR2200,2025-08-21 00:51:29,FX,FX685,Buy,47555,1952.96,92873012.8,Stevens-Hernandez,JPX,EUR,Dark Pool,96941.96,Settled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100309,TRDR1147,2025-03-20 16:38:01,FX,FX792,Buy,85645,244.96,20979599.2,Hall LLC,NASDAQ,GBP,Algorithmic,1594.23,Pending,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100310,TRDR5539,2024-11-08 16:42:03,Futures,FUT266,Buy,58831,315.94,18587066.14,Taylor and Sons,NYSE,CNY,Electronic Platform,-19121.16,Cancelled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100311,TRDR9034,2025-06-14 20:23:59,Stock,STO446,Sell,69832,1797.56,125527209.92,Poole-Acosta,SSE,GBP,Manual,51202.75,Failed,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100312,TRDR2867,2025-01-23 16:58:49,Futures,FUT986,Buy,85151,1857.19,158141585.69,Rodriguez-Garcia,JPX,JPY,Algorithmic,95062.76,Failed,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100313,TRDR5294,2025-08-18 13:29:19,Derivative,DER336,Sell,6222,357.42,2223867.24,Gutierrez-Monroe,TSX,USD,Electronic Platform,27711.25,Cancelled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100314,TRDR8452,2024-11-15 01:24:00,FX,FX244,Sell,7824,1834.96,14356727.04,Garcia-Curry,LSE,AUD,Algorithmic,99396.59,Settled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100315,TRDR6623,2024-12-16 04:56:51,ETF,ETF902,Sell,78640,813.23,63952407.2,Smith-Wallace,HKEX,INR,Algorithmic,53276.95,Cancelled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100316,TRDR8767,2024-11-23 17:03:37,Bond,BON325,Buy,81004,774.64,62748938.56,Holland-Berg,NYSE,CNY,Algorithmic,88337.94,Pending,North America,Enterprise,Trade Transaction,Trade Data
+TRD100317,TRDR3243,2025-04-04 01:43:39,ETF,ETF612,Buy,48864,1786.43,87292115.52,Taylor and Sons,NASDAQ,AUD,Dark Pool,18609.54,Settled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100318,TRDR4796,2024-11-09 14:44:40,Derivative,DER376,Buy,37309,952.39,35532718.51,Frey LLC,TSX,USD,Algorithmic,-21422.53,Failed,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100319,TRDR7991,2025-05-17 04:04:21,Bond,BON170,Sell,47041,1090.5,51298210.5,Poole-Acosta,TSX,EUR,Manual,79813.98,Settled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100320,TRDR3392,2025-03-02 20:27:38,Stock,STO469,Buy,41699,925.42,38589088.58,Cross PLC,SSE,EUR,Electronic Platform,31807.53,Settled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100321,TRDR7043,2025-07-25 10:50:17,Options,OPT442,Sell,76594,693.17,53092662.98,Poole-Acosta,JPX,CNY,Electronic Platform,33044.75,Pending,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100322,TRDR7154,2025-01-27 08:07:13,Derivative,DER524,Sell,45149,22.96,1036621.04,Poole-Acosta,LSE,INR,Algorithmic,-16576.23,Pending,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100323,TRDR5672,2025-05-15 01:56:49,ETF,ETF684,Buy,19316,1426.84,27560841.44,Shepherd LLC,TSX,AUD,Dark Pool,17728.09,Cancelled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100324,TRDR8849,2025-08-09 21:51:18,Futures,FUT597,Buy,44576,588.82,26247240.32,Howard Ltd,LSE,EUR,Algorithmic,36119.75,Settled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100325,TRDR1051,2025-02-11 01:02:11,FX,FX504,Sell,29744,674.97,20076307.68,Cross PLC,TSX,USD,Electronic Platform,53267.33,Settled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100326,TRDR8615,2025-02-01 11:58:56,ETF,ETF514,Buy,44935,876.27,39375192.45,Wong-Anderson,NYSE,CNY,Algorithmic,79749.55,Pending,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100327,TRDR8853,2025-09-13 08:26:57,Futures,FUT248,Sell,27492,1214.59,33391508.28,Howell-Watson,JPX,AUD,Electronic Platform,-6543.92,Settled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100328,TRDR1982,2025-01-05 03:01:48,Futures,FUT400,Buy,87257,1813.97,158281580.29,Barber-Wilson,Euronext,AUD,Algorithmic,84222.51,Failed,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100329,TRDR9028,2025-04-11 07:26:37,FX,FX655,Buy,74472,1747.49,130139075.28,Thomas-Hughes,LSE,JPY,Electronic Platform,86859.72,Settled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100330,TRDR4152,2025-03-25 03:03:49,Stock,STO493,Sell,28295,1362.9,38563255.5,Howell-Watson,Euronext,USD,Manual,73564.99,Cancelled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100331,TRDR9456,2025-06-15 03:34:11,Futures,FUT191,Buy,26622,1899.34,50564229.48,Williams Ltd,LSE,INR,Dark Pool,-477.88,Cancelled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100332,TRDR3584,2025-01-07 00:16:51,Options,OPT691,Buy,37532,205.38,7708322.16,Holmes-Davis,HKEX,USD,Algorithmic,58547.25,Pending,South America,Enterprise,Trade Transaction,Trade Data
+TRD100333,TRDR1805,2025-05-11 08:22:44,Stock,STO567,Sell,3555,178.56,634780.8,Shepherd LLC,SSE,EUR,Dark Pool,88443.69,Cancelled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100334,TRDR4884,2025-03-13 11:18:16,FX,FX678,Buy,23911,1965.91,47006874.01,Smith-Wallace,JPX,AUD,Algorithmic,59954.69,Cancelled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100335,TRDR5952,2025-05-02 06:59:02,Stock,STO630,Buy,34885,1763.34,61514115.9,Atkinson-Hall,HKEX,GBP,Algorithmic,16013.94,Failed,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100336,TRDR1190,2024-11-05 19:27:53,ETF,ETF491,Sell,60996,578.86,35308144.56,Garcia-Curry,TSX,GBP,Manual,-7461.96,Pending,North America,Enterprise,Trade Transaction,Trade Data
+TRD100337,TRDR2251,2025-02-21 15:15:03,Stock,STO830,Buy,32164,908.68,29226783.52,Wong-Anderson,JPX,CNY,Dark Pool,42464.51,Failed,South America,Enterprise,Trade Transaction,Trade Data
+TRD100338,TRDR9541,2025-02-23 23:11:17,Bond,BON358,Sell,5344,1503.05,8032299.2,Miller LLC,HKEX,AUD,Dark Pool,36495.41,Settled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100339,TRDR3088,2024-11-02 19:06:32,Options,OPT608,Buy,64323,849.83,54663615.09,Frey LLC,HKEX,USD,Algorithmic,97974.16,Failed,South America,Enterprise,Trade Transaction,Trade Data
+TRD100340,TRDR3517,2025-06-09 23:20:20,Stock,STO562,Sell,57778,1564.17,90374614.26,Howell-Watson,TSX,INR,Electronic Platform,40569.08,Pending,South America,Enterprise,Trade Transaction,Trade Data
+TRD100341,TRDR7915,2025-01-26 04:51:36,ETF,ETF733,Sell,18634,1726.78,32176818.52,Holland-Berg,LSE,GBP,Manual,28145.44,Failed,North America,Enterprise,Trade Transaction,Trade Data
+TRD100342,TRDR5466,2024-11-17 18:10:53,FX,FX558,Sell,27990,561.89,15727301.1,Abbott Inc,HKEX,INR,Dark Pool,-49715.71,Failed,South America,Enterprise,Trade Transaction,Trade Data
+TRD100343,TRDR5453,2025-06-07 08:06:57,Stock,STO996,Sell,85592,1306.97,111866176.24,Pennington-Estrada,NYSE,GBP,Electronic Platform,53377.78,Settled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100344,TRDR8166,2025-05-02 10:33:49,Derivative,DER223,Buy,8477,1846.33,15651339.41,Weber-French,SSE,GBP,Electronic Platform,-2460.07,Pending,North America,Enterprise,Trade Transaction,Trade Data
+TRD100345,TRDR8225,2024-10-24 04:47:30,Futures,FUT409,Sell,43976,104.51,4595931.76,Abbott Inc,NYSE,CNY,Dark Pool,81585.57,Failed,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100346,TRDR2004,2025-09-04 19:22:02,ETF,ETF201,Buy,91390,1289.81,117875735.9,Gardner Ltd,TSX,GBP,Algorithmic,-29075.6,Settled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100347,TRDR3763,2024-12-19 07:05:42,ETF,ETF379,Buy,3177,293.1,931178.7,Mclean Group,Euronext,CNY,Manual,64740.32,Failed,South America,Enterprise,Trade Transaction,Trade Data
+TRD100348,TRDR2084,2025-01-30 19:10:32,Options,OPT103,Sell,72145,920.08,66379171.6,Alvarez Ltd,JPX,AUD,Algorithmic,2525.44,Cancelled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100349,TRDR9673,2025-07-30 21:01:18,Options,OPT521,Sell,14653,228.6,3349675.8,Hall LLC,JPX,EUR,Electronic Platform,51835.93,Failed,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100350,TRDR6726,2025-02-26 17:46:54,ETF,ETF184,Sell,2636,914.61,2410911.96,Solis-Price,Euronext,JPY,Electronic Platform,81456.34,Settled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100351,TRDR4676,2025-05-30 03:21:41,Commodity,COM734,Buy,20897,146.21,3055350.37,Stevens-Hernandez,NASDAQ,USD,Algorithmic,34670.63,Pending,North America,Enterprise,Trade Transaction,Trade Data
+TRD100352,TRDR1454,2025-04-19 05:42:38,Futures,FUT692,Sell,12050,1538.52,18539166.0,Martinez Ltd,SSE,GBP,Algorithmic,-38782.51,Settled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100353,TRDR2592,2025-03-20 02:36:41,FX,FX193,Buy,25858,1468.59,37974800.22,Alvarez Ltd,Euronext,USD,Manual,8726.09,Settled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100354,TRDR3361,2025-10-04 02:18:52,ETF,ETF165,Sell,36308,312.04,11329548.32,Stevens-Hernandez,HKEX,CNY,Electronic Platform,89595.56,Settled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100355,TRDR9508,2025-02-11 10:42:08,Bond,BON927,Buy,26859,89.98,2416772.82,Poole-Acosta,LSE,GBP,Electronic Platform,83035.44,Settled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100356,TRDR6978,2025-07-04 08:16:59,Options,OPT623,Sell,69911,1909.18,133472682.98,Martinez Ltd,SSE,AUD,Manual,65922.15,Pending,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100357,TRDR8549,2025-02-06 19:21:37,Stock,STO444,Sell,93780,1182.9,110932362.0,Morris Ltd,HKEX,EUR,Electronic Platform,-24187.72,Settled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100358,TRDR2842,2024-11-04 22:22:12,Options,OPT184,Buy,16300,1570.03,25591489.0,Williams Ltd,TSX,USD,Dark Pool,99950.42,Failed,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100359,TRDR5972,2025-04-19 04:02:02,Bond,BON118,Sell,79647,502.42,40016245.74,Abbott Inc,SSE,CNY,Dark Pool,6947.57,Cancelled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100360,TRDR5017,2025-03-03 11:16:34,Derivative,DER960,Buy,68677,191.52,13153019.04,Thomas-Hughes,HKEX,AUD,Dark Pool,-11995.16,Settled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100361,TRDR9168,2025-09-24 06:23:05,FX,FX876,Buy,64360,512.28,32970340.8,Gardner Ltd,NASDAQ,JPY,Algorithmic,91362.54,Cancelled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100362,TRDR7483,2025-03-20 14:47:22,Options,OPT264,Sell,97521,147.66,14399950.86,Rodriguez-Garcia,NYSE,AUD,Electronic Platform,71819.68,Settled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100363,TRDR1418,2025-07-12 03:50:29,Stock,STO406,Buy,53842,1276.52,68730389.84,"Reed, Garcia and Sanchez",NASDAQ,USD,Manual,11881.3,Pending,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100364,TRDR4877,2025-02-09 15:59:19,Bond,BON874,Sell,75589,83.69,6326043.41,"Ayers, Barker and Hill",NYSE,GBP,Electronic Platform,-5559.26,Pending,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100365,TRDR2886,2025-09-10 23:13:55,Futures,FUT997,Sell,59754,431.63,25791619.02,Mclean Group,SSE,EUR,Manual,71968.32,Cancelled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100366,TRDR8725,2025-03-30 09:33:17,Options,OPT414,Buy,57025,163.89,9345827.25,Brown-Buchanan,LSE,USD,Manual,32804.6,Settled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100367,TRDR3348,2025-04-27 23:38:23,Derivative,DER623,Buy,14603,1920.93,28051340.79,Howell-Watson,LSE,GBP,Algorithmic,80928.41,Pending,South America,Enterprise,Trade Transaction,Trade Data
+TRD100368,TRDR1878,2025-10-09 17:13:57,ETF,ETF174,Buy,3730,1849.98,6900425.4,Pennington-Estrada,HKEX,AUD,Electronic Platform,22190.78,Cancelled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100369,TRDR3210,2024-12-06 18:25:35,FX,FX992,Buy,23965,1823.28,43694905.2,Gardner Ltd,SSE,GBP,Algorithmic,-5940.53,Cancelled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100370,TRDR8714,2025-03-08 06:30:59,Futures,FUT868,Sell,95022,1406.0,133600932.0,Stevens-Hernandez,NYSE,INR,Electronic Platform,50323.11,Failed,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100371,TRDR4500,2025-03-25 03:10:05,Options,OPT761,Buy,17879,1148.96,20542255.84,Howard Ltd,TSX,CNY,Electronic Platform,52359.43,Pending,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100372,TRDR3552,2024-10-27 07:55:20,Commodity,COM198,Sell,33984,214.19,7279032.96,"Humphrey, Powers and Garcia",LSE,GBP,Electronic Platform,-18640.27,Failed,North America,Enterprise,Trade Transaction,Trade Data
+TRD100373,TRDR4963,2025-01-18 10:17:52,Options,OPT667,Sell,15097,1871.45,28253280.65,"Brooks, Molina and Eaton",Euronext,GBP,Electronic Platform,-38700.06,Failed,South America,Enterprise,Trade Transaction,Trade Data
+TRD100374,TRDR3472,2025-04-25 10:16:44,ETF,ETF540,Buy,6928,1963.55,13603474.4,Cross PLC,NYSE,EUR,Manual,89247.67,Settled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100375,TRDR5102,2025-01-20 02:55:06,Futures,FUT923,Buy,69754,1194.59,83327430.86,Alvarez Ltd,SSE,JPY,Dark Pool,15704.04,Settled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100376,TRDR3175,2025-09-14 06:16:33,Futures,FUT328,Buy,68523,793.57,54377797.11,"Brooks, Molina and Eaton",NYSE,CNY,Algorithmic,-2519.86,Cancelled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100377,TRDR9514,2025-09-21 11:54:06,Commodity,COM492,Buy,17582,321.25,5648217.5,Miller LLC,HKEX,USD,Electronic Platform,-11592.6,Cancelled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100378,TRDR8504,2025-05-27 14:36:44,Commodity,COM318,Sell,28715,786.49,22584060.35,Evans-Trevino,LSE,INR,Algorithmic,27072.6,Settled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100379,TRDR7693,2024-12-30 07:52:31,Bond,BON928,Sell,82633,547.47,45239088.51,Abbott Inc,Euronext,AUD,Manual,56975.49,Failed,North America,Enterprise,Trade Transaction,Trade Data
+TRD100380,TRDR2007,2025-02-22 02:03:34,Bond,BON620,Buy,30780,1530.34,47103865.2,Taylor and Sons,SSE,USD,Manual,31230.35,Pending,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100381,TRDR4285,2025-08-02 12:32:31,Stock,STO238,Sell,40100,220.18,8829218.0,Atkinson-Hall,NYSE,GBP,Dark Pool,11805.81,Pending,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100382,TRDR4366,2025-08-26 15:57:06,Options,OPT296,Sell,31972,1265.88,40472715.36,Mclean Group,TSX,AUD,Dark Pool,49264.23,Pending,North America,Enterprise,Trade Transaction,Trade Data
+TRD100383,TRDR1209,2025-08-13 02:10:04,Commodity,COM145,Buy,65590,202.71,13295748.9,"Ayers, Barker and Hill",TSX,GBP,Dark Pool,97177.48,Cancelled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100384,TRDR3508,2024-10-28 22:35:00,Commodity,COM952,Buy,39039,1725.09,67345788.51,Miller LLC,HKEX,USD,Dark Pool,74658.68,Settled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100385,TRDR1370,2025-07-08 00:20:10,Derivative,DER779,Sell,4730,50.69,239763.7,Cross PLC,TSX,JPY,Dark Pool,39948.77,Settled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100386,TRDR7770,2025-07-16 16:05:06,Bond,BON786,Buy,86840,1816.99,157787411.6,Colon-Smith,NYSE,GBP,Electronic Platform,88716.37,Pending,North America,Enterprise,Trade Transaction,Trade Data
+TRD100387,TRDR1544,2025-04-23 04:21:33,Bond,BON389,Buy,76083,1733.01,131852599.83,Pennington-Estrada,NYSE,INR,Manual,80543.19,Failed,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100388,TRDR9459,2024-11-15 04:58:30,Commodity,COM547,Buy,39406,875.41,34496406.46,Holmes-Davis,NYSE,USD,Electronic Platform,38102.77,Pending,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100389,TRDR2961,2025-01-04 12:51:55,Stock,STO320,Buy,2373,868.7,2061425.1,Garcia-Curry,TSX,GBP,Dark Pool,68368.93,Failed,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100390,TRDR2151,2024-12-10 02:54:42,Futures,FUT256,Sell,50128,671.34,33652931.52,"Humphrey, Powers and Garcia",HKEX,GBP,Electronic Platform,-23992.7,Cancelled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100391,TRDR1908,2025-08-28 08:55:48,ETF,ETF518,Sell,19874,1162.99,23113263.26,Brown-Buchanan,LSE,CNY,Manual,99414.45,Failed,South America,Enterprise,Trade Transaction,Trade Data
+TRD100392,TRDR9924,2024-11-10 22:01:46,ETF,ETF310,Sell,43985,449.7,19780054.5,Stevens-Hernandez,Euronext,CNY,Electronic Platform,92337.28,Failed,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100393,TRDR1567,2024-12-31 23:07:00,Stock,STO390,Sell,88889,371.09,32985819.01,Romero Ltd,NASDAQ,CNY,Manual,-10198.43,Settled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100394,TRDR4427,2025-09-23 04:29:40,Options,OPT404,Buy,4308,527.33,2271737.64,Rice-Ferguson,JPX,JPY,Electronic Platform,69436.85,Failed,North America,Enterprise,Trade Transaction,Trade Data
+TRD100395,TRDR1095,2025-05-30 13:02:38,Derivative,DER922,Sell,92928,1893.87,175993551.36,Miller LLC,NASDAQ,INR,Manual,-48001.38,Settled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100396,TRDR2367,2025-01-14 17:41:47,Futures,FUT766,Buy,4090,1405.57,5748781.3,"Hunt, Leon and Craig",TSX,INR,Algorithmic,-43732.28,Failed,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100397,TRDR3529,2025-09-02 05:52:28,FX,FX621,Buy,52226,1724.16,90045980.16,Gardner Ltd,Euronext,INR,Manual,37118.99,Pending,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100398,TRDR3802,2025-01-31 03:40:37,ETF,ETF513,Sell,62836,1078.25,67752917.0,Hall LLC,Euronext,INR,Algorithmic,23595.31,Pending,South America,Enterprise,Trade Transaction,Trade Data
+TRD100399,TRDR7757,2025-04-25 09:18:16,ETF,ETF500,Sell,28067,1716.64,48180934.88,Morris Ltd,NYSE,GBP,Dark Pool,94764.77,Pending,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100400,TRDR5902,2025-06-20 21:23:39,ETF,ETF879,Buy,67120,1720.85,115503452.0,Hall LLC,HKEX,USD,Electronic Platform,9664.92,Pending,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100401,TRDR7912,2025-07-25 13:01:28,Options,OPT119,Sell,70273,150.42,10570464.66,Gutierrez-Monroe,NYSE,JPY,Electronic Platform,18680.23,Cancelled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100402,TRDR4952,2025-03-31 09:31:38,Options,OPT133,Sell,46915,1624.11,76195120.65,Williams Ltd,JPX,AUD,Manual,94116.38,Failed,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100403,TRDR2107,2025-05-25 05:05:28,FX,FX317,Sell,11604,1921.61,22298362.44,Gardner Ltd,JPX,CNY,Algorithmic,96926.04,Pending,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100404,TRDR4285,2025-02-17 03:04:34,Derivative,DER896,Buy,56376,175.69,9904699.44,Cross PLC,NASDAQ,AUD,Algorithmic,-24284.05,Settled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100405,TRDR4140,2024-10-24 03:49:38,FX,FX134,Sell,44111,135.99,5998654.89,Poole-Acosta,LSE,GBP,Algorithmic,35835.86,Settled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100406,TRDR6433,2025-05-15 11:16:37,ETF,ETF650,Buy,34247,145.4,4979513.8,"Ayers, Barker and Hill",JPX,INR,Manual,-45594.55,Settled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100407,TRDR5891,2025-05-18 12:45:38,Bond,BON591,Sell,56489,708.07,39998166.23,"Ayers, Barker and Hill",NYSE,CNY,Manual,-41922.47,Pending,North America,Enterprise,Trade Transaction,Trade Data
+TRD100408,TRDR7232,2025-09-05 02:02:26,Bond,BON515,Buy,20296,84.81,1721303.76,Colon-Smith,LSE,EUR,Manual,-37546.59,Failed,North America,Enterprise,Trade Transaction,Trade Data
+TRD100409,TRDR6632,2025-09-17 08:47:59,FX,FX471,Buy,6249,1091.52,6820908.48,Rodriguez-Garcia,SSE,INR,Manual,14591.39,Cancelled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100410,TRDR9096,2025-08-17 01:34:31,Bond,BON292,Buy,67597,1017.24,68762372.28,Shepherd LLC,Euronext,JPY,Manual,51974.89,Failed,South America,Enterprise,Trade Transaction,Trade Data
+TRD100411,TRDR3172,2025-03-29 14:00:08,Futures,FUT398,Sell,43455,1143.41,49686881.55,"Lawrence, Martin and Ball",JPX,JPY,Dark Pool,25005.62,Settled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100412,TRDR6843,2025-03-15 10:54:58,Bond,BON366,Sell,73391,392.88,28833856.08,Silva Inc,NYSE,INR,Electronic Platform,45354.79,Failed,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100413,TRDR4939,2025-09-20 06:04:24,FX,FX205,Buy,91053,368.46,33549388.38,Rice-Ferguson,LSE,JPY,Manual,-12278.07,Failed,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100414,TRDR8179,2024-12-06 19:27:13,ETF,ETF264,Sell,58456,1401.79,81943036.24,"Reed, Garcia and Sanchez",NASDAQ,INR,Algorithmic,23398.4,Failed,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100415,TRDR6118,2025-09-13 21:52:21,Options,OPT830,Buy,87464,670.07,58607002.48,Rice-Ferguson,NYSE,JPY,Algorithmic,55358.48,Failed,North America,Enterprise,Trade Transaction,Trade Data
+TRD100416,TRDR7555,2025-08-29 13:42:14,Stock,STO954,Buy,79684,1393.52,111041247.68,Williams Ltd,NASDAQ,AUD,Manual,-40444.01,Settled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100417,TRDR9144,2025-03-10 17:24:53,Futures,FUT458,Sell,44797,21.89,980606.33,Miller LLC,Euronext,GBP,Electronic Platform,4985.54,Pending,South America,Enterprise,Trade Transaction,Trade Data
+TRD100418,TRDR5989,2025-02-16 02:05:44,Bond,BON603,Buy,49070,1572.07,77141474.9,Floyd-Marshall,Euronext,USD,Manual,65513.45,Cancelled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100419,TRDR5034,2025-03-07 17:24:04,Stock,STO286,Sell,56997,1804.01,102823157.97,Poole-Acosta,TSX,USD,Manual,77935.22,Failed,South America,Enterprise,Trade Transaction,Trade Data
+TRD100420,TRDR6283,2025-02-03 00:48:00,Commodity,COM874,Sell,72619,294.71,21401545.49,Atkinson-Hall,NYSE,AUD,Algorithmic,24282.12,Cancelled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100421,TRDR2989,2025-04-15 17:22:37,Derivative,DER963,Sell,59432,63.22,3757291.04,Thomas-Hughes,JPX,EUR,Electronic Platform,71459.68,Cancelled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100422,TRDR8894,2025-06-30 18:12:03,ETF,ETF227,Buy,46580,376.14,17520601.2,Morris Ltd,SSE,EUR,Dark Pool,42412.85,Cancelled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100423,TRDR9727,2025-01-17 05:54:40,Futures,FUT232,Buy,3320,1622.62,5387098.4,Martinez Ltd,Euronext,GBP,Electronic Platform,-11766.92,Cancelled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100424,TRDR1202,2025-07-26 10:24:25,Futures,FUT579,Sell,17646,665.2,11738119.2,Barber-Wilson,SSE,EUR,Algorithmic,50958.51,Settled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100425,TRDR5205,2025-06-06 04:06:25,Stock,STO489,Buy,54556,935.56,51040411.36,Wong-Anderson,NYSE,INR,Dark Pool,86774.5,Cancelled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100426,TRDR7198,2025-09-25 03:42:12,ETF,ETF890,Sell,37503,1054.02,39528912.06,West PLC,NASDAQ,USD,Electronic Platform,-19913.44,Settled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100427,TRDR7312,2025-08-21 01:39:30,Futures,FUT357,Sell,3574,215.55,770375.7,Romero Ltd,TSX,AUD,Electronic Platform,20009.44,Cancelled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100428,TRDR8981,2024-12-17 12:50:42,Futures,FUT784,Sell,54728,418.86,22923370.08,Poole-Acosta,SSE,EUR,Manual,76486.73,Cancelled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100429,TRDR4740,2024-11-18 23:25:05,FX,FX254,Buy,40976,453.58,18585894.08,Barber-Wilson,NASDAQ,GBP,Electronic Platform,33749.3,Failed,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100430,TRDR1120,2025-01-26 23:37:00,Stock,STO682,Buy,34032,1064.51,36227404.32,Solis-Price,HKEX,AUD,Electronic Platform,35997.88,Pending,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100431,TRDR7649,2025-05-17 23:52:11,Futures,FUT150,Buy,43204,1855.91,80182735.64,Evans-Trevino,TSX,USD,Manual,-42262.26,Failed,North America,Enterprise,Trade Transaction,Trade Data
+TRD100432,TRDR2089,2025-01-12 00:20:40,Stock,STO319,Buy,88391,1427.45,126173732.95,Colon-Smith,HKEX,INR,Algorithmic,-28074.48,Settled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100433,TRDR5576,2024-12-18 23:49:26,Bond,BON222,Sell,7498,299.67,2246925.66,Holland-Berg,JPX,AUD,Manual,85625.31,Cancelled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100434,TRDR9388,2025-04-23 01:19:32,Stock,STO862,Sell,38400,936.99,35980416.0,Weber-French,JPX,JPY,Dark Pool,-44785.26,Failed,South America,Enterprise,Trade Transaction,Trade Data
+TRD100435,TRDR7646,2025-09-16 18:09:46,Commodity,COM778,Sell,62517,1021.31,63849237.27,Romero Ltd,LSE,INR,Algorithmic,39382.9,Cancelled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100436,TRDR4076,2025-06-21 02:53:53,FX,FX963,Buy,19227,1000.91,19244496.57,Brown-Buchanan,NASDAQ,USD,Manual,-48943.43,Pending,North America,Enterprise,Trade Transaction,Trade Data
+TRD100437,TRDR4951,2025-07-06 03:16:05,ETF,ETF454,Buy,86706,697.65,60490440.9,"Brooks, Molina and Eaton",Euronext,CNY,Electronic Platform,49018.32,Failed,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100438,TRDR4533,2025-02-28 11:22:33,Bond,BON203,Sell,52722,1134.49,59812581.78,Young PLC,TSX,EUR,Algorithmic,48655.43,Settled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100439,TRDR4217,2025-08-31 23:34:19,Bond,BON926,Sell,55111,1204.56,66384506.16,Gutierrez-Monroe,LSE,AUD,Manual,44602.41,Cancelled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100440,TRDR7943,2025-01-24 13:39:16,Commodity,COM385,Buy,59577,833.84,49677685.68,Holmes-Davis,NASDAQ,USD,Electronic Platform,94309.66,Pending,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100441,TRDR3401,2025-01-09 04:41:06,FX,FX754,Sell,17031,1732.68,29509273.08,Atkinson-Hall,JPX,EUR,Algorithmic,92281.22,Failed,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100442,TRDR2239,2025-03-09 04:10:29,Stock,STO478,Buy,98590,559.7,55180823.0,Taylor and Sons,HKEX,AUD,Algorithmic,-23530.58,Settled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100443,TRDR1859,2024-12-19 23:42:46,Derivative,DER597,Sell,41027,1858.98,76268372.46,Wong-Anderson,NASDAQ,CNY,Manual,99716.98,Cancelled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100444,TRDR4387,2025-02-06 03:19:26,Futures,FUT942,Sell,48846,1353.47,66111595.62,Kelley LLC,SSE,CNY,Algorithmic,53270.5,Failed,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100445,TRDR7660,2025-02-14 12:20:33,Bond,BON484,Buy,75070,240.17,18029561.9,Atkinson-Hall,LSE,CNY,Electronic Platform,-40640.84,Settled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100446,TRDR5015,2025-09-26 05:43:32,Derivative,DER792,Sell,78973,1479.61,116849240.53,Rodriguez-Garcia,HKEX,JPY,Manual,-35476.71,Cancelled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100447,TRDR6997,2025-03-22 01:25:40,Commodity,COM622,Buy,65185,1136.09,74056026.65,Garcia-Curry,HKEX,EUR,Electronic Platform,36395.6,Cancelled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100448,TRDR8343,2025-10-14 21:39:38,Derivative,DER914,Buy,62821,733.14,46056587.94,Stevens-Hernandez,NYSE,EUR,Algorithmic,-1676.44,Cancelled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100449,TRDR9774,2025-10-01 17:26:39,Commodity,COM970,Sell,61546,1579.14,97189750.44,Colon-Smith,TSX,EUR,Electronic Platform,-29064.95,Pending,North America,Enterprise,Trade Transaction,Trade Data
+TRD100450,TRDR3000,2025-09-22 22:15:38,FX,FX991,Sell,25745,1269.98,32695635.1,"Humphrey, Powers and Garcia",NYSE,CNY,Dark Pool,-3417.51,Pending,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100451,TRDR6925,2025-03-27 14:45:04,Futures,FUT886,Buy,62396,1868.16,116565711.36,Pennington-Estrada,LSE,AUD,Algorithmic,74831.65,Failed,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100452,TRDR6229,2025-03-04 06:11:07,Bond,BON250,Sell,22889,1946.86,44561678.54,"Hunt, Leon and Craig",HKEX,AUD,Dark Pool,97738.9,Settled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100453,TRDR2747,2024-12-09 18:28:22,Stock,STO697,Sell,90136,1206.6,108758097.6,Taylor and Sons,NYSE,CNY,Manual,93116.97,Pending,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100454,TRDR2281,2025-04-30 13:41:50,FX,FX841,Sell,74053,1632.95,120924846.35,West PLC,NYSE,JPY,Algorithmic,33005.72,Pending,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100455,TRDR4089,2025-04-05 21:16:26,ETF,ETF914,Sell,27731,1568.5,43496073.5,"Ayers, Barker and Hill",SSE,GBP,Dark Pool,-35395.4,Cancelled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100456,TRDR1402,2025-04-21 15:33:11,ETF,ETF849,Buy,27167,459.62,12486496.54,Wong-Anderson,NYSE,AUD,Manual,-34354.77,Pending,North America,Enterprise,Trade Transaction,Trade Data
+TRD100457,TRDR6402,2024-11-19 04:12:29,Commodity,COM395,Sell,37647,504.67,18999311.49,"Hunt, Leon and Craig",TSX,CNY,Algorithmic,25628.32,Pending,North America,Enterprise,Trade Transaction,Trade Data
+TRD100458,TRDR8904,2025-05-04 15:52:35,Bond,BON290,Sell,22987,893.34,20535206.58,Morris Ltd,TSX,EUR,Manual,-13580.58,Settled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100459,TRDR4406,2025-10-05 15:26:47,Commodity,COM628,Sell,18390,287.89,5294297.1,Evans-Trevino,JPX,GBP,Dark Pool,39398.29,Failed,North America,Enterprise,Trade Transaction,Trade Data
+TRD100460,TRDR1630,2025-02-01 18:06:59,FX,FX408,Sell,30833,483.2,14898505.6,Alvarez Ltd,NYSE,JPY,Algorithmic,-44831.27,Pending,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100461,TRDR4524,2025-01-16 14:52:14,Stock,STO153,Buy,90297,881.65,79610350.05,Gardner Ltd,LSE,GBP,Dark Pool,65761.06,Pending,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100462,TRDR4618,2025-03-13 07:09:37,Options,OPT371,Buy,32127,1380.39,44347789.53,Williams Ltd,NYSE,AUD,Dark Pool,25390.58,Settled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100463,TRDR5496,2024-10-27 07:56:56,Options,OPT875,Buy,46327,1142.5,52928597.5,Martinez Ltd,SSE,GBP,Electronic Platform,-26148.51,Settled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100464,TRDR3154,2025-09-14 16:32:23,Commodity,COM742,Sell,22743,1695.52,38561211.36,Poole-Acosta,SSE,GBP,Dark Pool,-36829.9,Failed,North America,Enterprise,Trade Transaction,Trade Data
+TRD100465,TRDR5562,2025-05-22 16:59:45,ETF,ETF200,Buy,85846,1585.18,136081362.28,Solis-Price,HKEX,JPY,Algorithmic,50538.49,Cancelled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100466,TRDR4722,2025-06-13 10:57:10,Options,OPT676,Sell,46149,33.96,1567220.04,Hall LLC,Euronext,INR,Algorithmic,91862.31,Pending,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100467,TRDR3050,2025-07-25 06:25:43,Stock,STO216,Sell,11395,321.8,3666911.0,Smith-Wallace,JPX,AUD,Manual,21330.26,Pending,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100468,TRDR5181,2024-12-30 03:45:24,FX,FX218,Buy,86609,130.17,11273893.53,Weber-French,Euronext,INR,Dark Pool,-26815.16,Failed,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100469,TRDR7987,2025-03-01 08:59:57,Bond,BON917,Sell,79353,1170.67,92896176.51,Stevens-Hernandez,Euronext,CNY,Electronic Platform,-38301.37,Failed,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100470,TRDR4553,2025-04-01 01:26:20,Options,OPT557,Buy,99766,916.56,91441524.96,Howard Ltd,SSE,INR,Manual,73622.35,Settled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100471,TRDR3306,2025-09-27 21:36:18,Options,OPT904,Buy,40582,1746.29,70867940.78,Gardner Ltd,JPX,INR,Algorithmic,73153.6,Settled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100472,TRDR8795,2025-07-17 03:51:30,Stock,STO599,Buy,69036,42.78,2953360.08,Brown-Buchanan,JPX,EUR,Manual,6379.18,Settled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100473,TRDR3994,2024-10-18 01:02:40,Commodity,COM950,Buy,92853,938.08,87103542.24,Cross PLC,Euronext,EUR,Dark Pool,88075.19,Pending,North America,Enterprise,Trade Transaction,Trade Data
+TRD100474,TRDR9361,2025-03-13 11:36:01,Derivative,DER966,Sell,2074,1306.12,2708892.88,West PLC,SSE,EUR,Algorithmic,-9130.44,Failed,South America,Enterprise,Trade Transaction,Trade Data
+TRD100475,TRDR3138,2024-11-20 07:49:40,FX,FX525,Sell,25766,271.39,6992634.74,"Brooks, Molina and Eaton",SSE,CNY,Electronic Platform,82147.27,Settled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100476,TRDR7002,2025-01-18 11:11:55,FX,FX416,Sell,6895,107.77,743074.15,Howell-Watson,HKEX,CNY,Dark Pool,73911.39,Failed,South America,Enterprise,Trade Transaction,Trade Data
+TRD100477,TRDR3376,2025-01-16 04:19:50,Stock,STO253,Buy,63313,577.32,36551861.16,Young PLC,NYSE,AUD,Electronic Platform,36215.26,Settled,South America,Enterprise,Trade Transaction,Trade Data
+TRD100478,TRDR1951,2025-09-14 17:35:29,Futures,FUT607,Sell,388,215.5,83614.0,Scott-Howard,SSE,AUD,Manual,15979.57,Settled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100479,TRDR1402,2024-11-12 14:49:56,ETF,ETF679,Buy,50544,1855.65,93791973.6,Garcia-Curry,SSE,CNY,Dark Pool,-32621.83,Pending,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100480,TRDR2318,2025-09-05 02:18:14,Options,OPT687,Buy,66026,611.74,40390745.24,Weber-French,LSE,JPY,Algorithmic,66749.38,Settled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100481,TRDR2660,2025-07-09 01:23:01,Futures,FUT759,Sell,98904,1154.89,114223240.56,"Reed, Garcia and Sanchez",NASDAQ,AUD,Electronic Platform,-22915.17,Cancelled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100482,TRDR4067,2025-10-07 08:38:25,Derivative,DER171,Buy,95077,110.59,10514565.43,Floyd-Marshall,NASDAQ,GBP,Algorithmic,89434.52,Failed,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100483,TRDR8901,2024-12-09 04:30:21,FX,FX572,Buy,23773,457.27,10870679.71,Williams Ltd,NYSE,JPY,Electronic Platform,39987.16,Settled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100484,TRDR6286,2025-04-06 19:09:07,Bond,BON449,Buy,50347,1987.59,100069193.73,Scott-Howard,TSX,EUR,Manual,2307.2,Settled,North America,Enterprise,Trade Transaction,Trade Data
+TRD100485,TRDR5606,2025-04-07 03:09:49,Futures,FUT252,Sell,39398,1617.15,63712475.7,Rodriguez-Garcia,JPX,JPY,Manual,17866.77,Failed,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100486,TRDR6555,2025-03-09 12:03:25,ETF,ETF614,Sell,90291,1934.33,174652590.03,Howell-Watson,NASDAQ,USD,Dark Pool,-20022.16,Settled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100487,TRDR4734,2025-03-01 11:39:32,Futures,FUT274,Sell,6015,111.64,671514.6,West PLC,NYSE,JPY,Manual,54394.73,Pending,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100488,TRDR5009,2024-11-03 06:21:24,FX,FX950,Buy,84654,1261.37,106780015.98,Colon-Smith,Euronext,INR,Electronic Platform,10187.16,Settled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100489,TRDR2675,2025-03-09 10:19:18,Derivative,DER628,Sell,36884,1180.25,43532341.0,Miller LLC,NASDAQ,GBP,Algorithmic,-11390.89,Failed,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100490,TRDR2787,2025-01-27 21:30:54,Options,OPT341,Buy,54648,839.52,45878088.96,West PLC,HKEX,GBP,Electronic Platform,50592.6,Failed,North America,Enterprise,Trade Transaction,Trade Data
+TRD100491,TRDR4896,2024-12-09 21:20:08,Commodity,COM584,Buy,1880,1040.86,1956816.8,"Brooks, Molina and Eaton",NYSE,JPY,Electronic Platform,-6215.09,Failed,South America,Enterprise,Trade Transaction,Trade Data
+TRD100492,TRDR7694,2024-11-07 16:49:18,Commodity,COM861,Sell,74409,1386.34,103156173.06,Cross PLC,SSE,USD,Algorithmic,-26731.45,Settled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100493,TRDR2721,2024-12-17 23:15:27,Bond,BON143,Sell,70101,1172.13,82167485.13,Romero Ltd,SSE,AUD,Manual,-31948.06,Settled,Europe,Enterprise,Trade Transaction,Trade Data
+TRD100494,TRDR3469,2025-04-15 10:12:42,FX,FX226,Buy,4063,375.43,1525372.09,Young PLC,TSX,AUD,Electronic Platform,-32216.4,Settled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100495,TRDR5009,2025-10-01 07:36:12,Options,OPT504,Buy,45369,53.4,2422704.6,Holland-Berg,NASDAQ,CNY,Algorithmic,-21796.5,Pending,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100496,TRDR6564,2025-03-13 21:53:51,Options,OPT785,Buy,59145,1929.07,114094845.15,Shepherd LLC,LSE,JPY,Manual,106.08,Pending,North America,Enterprise,Trade Transaction,Trade Data
+TRD100497,TRDR5241,2025-08-04 23:41:20,Bond,BON293,Sell,53178,1050.86,55882633.08,Miller LLC,NASDAQ,AUD,Electronic Platform,-10582.84,Cancelled,Middle East,Enterprise,Trade Transaction,Trade Data
+TRD100498,TRDR9379,2025-02-16 18:07:30,Bond,BON482,Buy,64121,262.83,16852922.43,Solis-Price,Euronext,JPY,Manual,76000.05,Settled,Asia-Pacific,Enterprise,Trade Transaction,Trade Data
+TRD100499,TRDR3966,2024-12-05 15:53:26,FX,FX293,Buy,65979,856.72,56525528.88,Jones-Murphy,JPX,JPY,Algorithmic,98421.52,Cancelled,North America,Enterprise,Trade Transaction,Trade Data
