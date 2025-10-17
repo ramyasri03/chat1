@@ -1,0 +1,501 @@
+Customer_ID,Customer_Name,Operation_Risk_Score,Risk_Category,Identified_Operational_Risk,Risk_Value
+CUST00001,Customer_1,68.18,Medium,Fraud,166947.72
+CUST00002,Customer_2,31.63,Medium,Fraud,295462.71
+CUST00003,Customer_3,31.95,Medium,System Outage,113546.3
+CUST00004,Customer_4,15.57,Medium,Human Error,149086.07
+CUST00005,Customer_5,56.26,Low,Compliance Breach,473892.49
+CUST00006,Customer_6,71.55,High,Compliance Breach,19009.38
+CUST00007,Customer_7,29.18,Low,Process Failure,479557.88
+CUST00008,Customer_8,58.99,Low,Fraud,351773.98
+CUST00009,Customer_9,14.76,Low,Fraud,401378.54
+CUST00010,Customer_10,72.32,Medium,Process Failure,436593.57
+CUST00011,Customer_11,19.71,Low,Human Error,390711.05
+CUST00012,Customer_12,70.61,Low,Human Error,302494.3
+CUST00013,Customer_13,43.43,High,Fraud,152599.45
+CUST00014,Customer_14,22.5,High,System Outage,58570.23
+CUST00015,Customer_15,72.68,High,Compliance Breach,470389.86
+CUST00016,Customer_16,19.09,High,Human Error,246174.52
+CUST00017,Customer_17,11.85,Low,Human Error,65980.51
+CUST00018,Customer_18,61.67,Medium,Compliance Breach,334255.26
+CUST00019,Customer_19,1.31,Medium,Process Failure,124654.81
+CUST00020,Customer_20,14.75,Medium,Human Error,254576.75
+CUST00021,Customer_21,74.2,Low,Process Failure,88322.95
+CUST00022,Customer_22,2.47,Low,Human Error,48905.46
+CUST00023,Customer_23,98.76,Low,System Outage,144328.99
+CUST00024,Customer_24,17.36,High,Process Failure,432321.53
+CUST00025,Customer_25,21.75,Low,Fraud,130644.23
+CUST00026,Customer_26,80.86,High,Fraud,480441.17
+CUST00027,Customer_27,15.8,Medium,Compliance Breach,457343.38
+CUST00028,Customer_28,83.28,Low,System Outage,75883.38
+CUST00029,Customer_29,89.84,Medium,Compliance Breach,47606.59
+CUST00030,Customer_30,83.81,Medium,Fraud,264347.78
+CUST00031,Customer_31,10.4,High,System Outage,395674.89
+CUST00032,Customer_32,2.26,Medium,Fraud,293693.33
+CUST00033,Customer_33,15.65,Medium,Compliance Breach,497766.49
+CUST00034,Customer_34,78.59,Low,Human Error,436404.23
+CUST00035,Customer_35,14.11,Medium,Human Error,102479.46
+CUST00036,Customer_36,42.14,Low,System Outage,260238.38
+CUST00037,Customer_37,91.26,Low,Human Error,52222.97
+CUST00038,Customer_38,24.37,Low,Fraud,134566.8
+CUST00039,Customer_39,50.7,Low,Process Failure,41595.74
+CUST00040,Customer_40,75.15,Medium,Fraud,26769.38
+CUST00041,Customer_41,80.0,Medium,Compliance Breach,476746.7
+CUST00042,Customer_42,85.4,High,Compliance Breach,370880.77
+CUST00043,Customer_43,78.28,Low,Human Error,174558.32
+CUST00044,Customer_44,26.73,Low,Compliance Breach,151381.49
+CUST00045,Customer_45,28.45,High,Compliance Breach,360134.36
+CUST00046,Customer_46,49.54,Medium,System Outage,157591.55
+CUST00047,Customer_47,84.53,Low,Fraud,59214.17
+CUST00048,Customer_48,55.13,Medium,Fraud,37305.91
+CUST00049,Customer_49,8.54,Medium,System Outage,125957.89
+CUST00050,Customer_50,79.21,Low,Compliance Breach,437277.41
+CUST00051,Customer_51,41.17,Medium,Process Failure,384175.15
+CUST00052,Customer_52,45.13,High,Human Error,277937.55
+CUST00053,Customer_53,3.32,Medium,Fraud,243993.51
+CUST00054,Customer_54,23.24,Low,Process Failure,391545.49
+CUST00055,Customer_55,6.68,Medium,Process Failure,54649.94
+CUST00056,Customer_56,99.74,Low,Human Error,488047.09
+CUST00057,Customer_57,29.53,Low,Compliance Breach,237623.16
+CUST00058,Customer_58,92.47,High,Human Error,437180.25
+CUST00059,Customer_59,6.83,Low,Fraud,359004.21
+CUST00060,Customer_60,26.72,High,Compliance Breach,464643.08
+CUST00061,Customer_61,65.86,Medium,System Outage,66881.14
+CUST00062,Customer_62,8.55,Low,Process Failure,357090.66
+CUST00063,Customer_63,8.45,Medium,Human Error,194131.21
+CUST00064,Customer_64,85.76,High,System Outage,206730.78
+CUST00065,Customer_65,41.21,Low,Process Failure,368910.03
+CUST00066,Customer_66,67.79,Medium,Compliance Breach,69920.96
+CUST00067,Customer_67,13.31,Medium,Human Error,29315.19
+CUST00068,Customer_68,32.33,Medium,Human Error,66541.64
+CUST00069,Customer_69,91.45,High,System Outage,42411.19
+CUST00070,Customer_70,60.49,Medium,System Outage,109872.14
+CUST00071,Customer_71,53.63,High,Process Failure,60440.72
+CUST00072,Customer_72,42.61,High,Human Error,447468.8
+CUST00073,Customer_73,95.82,Low,Compliance Breach,165831.83
+CUST00074,Customer_74,21.09,Medium,Human Error,430791.04
+CUST00075,Customer_75,64.87,Low,Fraud,476234.67
+CUST00076,Customer_76,87.81,Low,Process Failure,68046.06
+CUST00077,Customer_77,44.19,Medium,Fraud,230828.64
+CUST00078,Customer_78,97.11,Low,Compliance Breach,348959.96
+CUST00079,Customer_79,10.83,Low,System Outage,140210.0
+CUST00080,Customer_80,41.19,Low,Compliance Breach,67177.11
+CUST00081,Customer_81,67.92,High,Human Error,102769.36
+CUST00082,Customer_82,78.48,Medium,Process Failure,41247.84
+CUST00083,Customer_83,75.4,Low,Compliance Breach,262600.28
+CUST00084,Customer_84,50.6,Low,Process Failure,475802.19
+CUST00085,Customer_85,67.38,Low,Fraud,44150.48
+CUST00086,Customer_86,43.08,Medium,Compliance Breach,199255.88
+CUST00087,Customer_87,34.73,High,Fraud,294672.68
+CUST00088,Customer_88,6.36,High,Compliance Breach,195674.68
+CUST00089,Customer_89,95.73,Medium,Process Failure,380294.39
+CUST00090,Customer_90,34.33,Medium,Compliance Breach,112501.52
+CUST00091,Customer_91,72.84,High,Fraud,139099.88
+CUST00092,Customer_92,4.43,Low,Process Failure,228662.53
+CUST00093,Customer_93,77.78,Low,Human Error,50748.91
+CUST00094,Customer_94,90.66,High,System Outage,264937.4
+CUST00095,Customer_95,47.45,High,Compliance Breach,182584.1
+CUST00096,Customer_96,94.61,Medium,Compliance Breach,213616.99
+CUST00097,Customer_97,23.92,Low,Process Failure,118104.9
+CUST00098,Customer_98,19.29,High,Human Error,409132.59
+CUST00099,Customer_99,34.39,High,System Outage,129420.64
+CUST00100,Customer_100,45.33,Medium,Process Failure,479325.17
+CUST00101,Customer_101,37.99,High,Fraud,359198.98
+CUST00102,Customer_102,15.58,High,Human Error,112651.57
+CUST00103,Customer_103,32.13,High,Fraud,36338.59
+CUST00104,Customer_104,48.92,Low,Process Failure,42785.33
+CUST00105,Customer_105,50.88,Low,Fraud,74258.83
+CUST00106,Customer_106,56.88,Medium,Compliance Breach,482104.13
+CUST00107,Customer_107,57.36,High,Fraud,91768.05
+CUST00108,Customer_108,1.91,Low,Process Failure,17579.35
+CUST00109,Customer_109,76.57,Medium,Process Failure,22871.67
+CUST00110,Customer_110,12.13,High,Fraud,284405.9
+CUST00111,Customer_111,29.5,Medium,Compliance Breach,169819.97
+CUST00112,Customer_112,22.64,Medium,System Outage,232459.69
+CUST00113,Customer_113,50.02,Low,Compliance Breach,143140.77
+CUST00114,Customer_114,89.41,Low,Fraud,423427.18
+CUST00115,Customer_115,28.59,High,System Outage,248450.27
+CUST00116,Customer_116,72.16,Low,Human Error,250886.64
+CUST00117,Customer_117,94.85,Low,Process Failure,450345.24
+CUST00118,Customer_118,48.34,High,Compliance Breach,200809.45
+CUST00119,Customer_119,65.42,Low,Process Failure,68994.09
+CUST00120,Customer_120,27.89,High,Process Failure,450840.14
+CUST00121,Customer_121,81.25,High,Human Error,203720.63
+CUST00122,Customer_122,58.33,Medium,Compliance Breach,167202.14
+CUST00123,Customer_123,85.07,Low,System Outage,239564.07
+CUST00124,Customer_124,56.0,Medium,Compliance Breach,450882.55
+CUST00125,Customer_125,58.12,High,Process Failure,195490.25
+CUST00126,Customer_126,19.03,High,Process Failure,247817.06
+CUST00127,Customer_127,73.04,Medium,Human Error,70414.32
+CUST00128,Customer_128,42.93,Medium,Human Error,106149.89
+CUST00129,Customer_129,81.75,Medium,Process Failure,486417.96
+CUST00130,Customer_130,85.24,Medium,Human Error,125269.53
+CUST00131,Customer_131,44.42,High,System Outage,226668.94
+CUST00132,Customer_132,65.29,Low,Process Failure,179814.3
+CUST00133,Customer_133,71.91,Low,Process Failure,361844.5
+CUST00134,Customer_134,6.64,High,Fraud,355315.43
+CUST00135,Customer_135,58.57,Low,System Outage,48135.54
+CUST00136,Customer_136,46.2,High,Process Failure,400356.84
+CUST00137,Customer_137,52.23,Medium,Fraud,237302.17
+CUST00138,Customer_138,93.57,Medium,Fraud,237395.6
+CUST00139,Customer_139,99.08,Medium,Compliance Breach,30391.0
+CUST00140,Customer_140,94.85,Low,Compliance Breach,410902.55
+CUST00141,Customer_141,29.11,High,Human Error,398174.81
+CUST00142,Customer_142,62.28,Low,Process Failure,117045.0
+CUST00143,Customer_143,55.29,High,Compliance Breach,358389.05
+CUST00144,Customer_144,30.82,High,System Outage,374648.36
+CUST00145,Customer_145,45.95,Low,Fraud,378361.25
+CUST00146,Customer_146,96.98,High,Fraud,429090.96
+CUST00147,Customer_147,88.11,Medium,Compliance Breach,144679.8
+CUST00148,Customer_148,22.12,Medium,Human Error,476292.71
+CUST00149,Customer_149,69.07,High,System Outage,167517.82
+CUST00150,Customer_150,34.87,Medium,Process Failure,127330.77
+CUST00151,Customer_151,54.44,High,System Outage,171444.64
+CUST00152,Customer_152,75.96,High,Fraud,352276.77
+CUST00153,Customer_153,77.9,Medium,Fraud,334904.41
+CUST00154,Customer_154,38.24,Low,System Outage,354706.16
+CUST00155,Customer_155,57.44,High,Compliance Breach,90330.96
+CUST00156,Customer_156,34.94,High,Fraud,291071.49
+CUST00157,Customer_157,2.97,Low,Human Error,227245.43
+CUST00158,Customer_158,52.13,Low,System Outage,337134.1
+CUST00159,Customer_159,73.04,High,Compliance Breach,325736.16
+CUST00160,Customer_160,35.21,Medium,Fraud,485955.43
+CUST00161,Customer_161,56.18,Medium,Process Failure,479424.01
+CUST00162,Customer_162,17.03,High,Fraud,143903.69
+CUST00163,Customer_163,79.69,High,Fraud,468204.89
+CUST00164,Customer_164,10.97,Medium,Human Error,314023.81
+CUST00165,Customer_165,66.24,High,System Outage,185305.99
+CUST00166,Customer_166,31.32,Low,Fraud,147769.33
+CUST00167,Customer_167,98.28,Low,Process Failure,346538.64
+CUST00168,Customer_168,76.34,High,System Outage,137840.74
+CUST00169,Customer_169,63.52,High,System Outage,148519.88
+CUST00170,Customer_170,27.12,Low,Human Error,29630.09
+CUST00171,Customer_171,32.72,High,Compliance Breach,332812.76
+CUST00172,Customer_172,65.18,High,System Outage,253196.36
+CUST00173,Customer_173,37.96,Low,Fraud,308837.22
+CUST00174,Customer_174,90.78,High,Process Failure,482348.95
+CUST00175,Customer_175,71.6,Medium,Process Failure,489403.25
+CUST00176,Customer_176,30.11,Low,Compliance Breach,282048.96
+CUST00177,Customer_177,11.07,High,System Outage,127246.85
+CUST00178,Customer_178,22.11,High,Compliance Breach,220802.26
+CUST00179,Customer_179,76.69,High,Fraud,195254.97
+CUST00180,Customer_180,42.34,Medium,Human Error,385873.09
+CUST00181,Customer_181,54.88,Medium,Compliance Breach,33785.15
+CUST00182,Customer_182,50.8,High,Process Failure,385321.51
+CUST00183,Customer_183,24.32,Low,Process Failure,241483.8
+CUST00184,Customer_184,18.43,Medium,Fraud,303482.43
+CUST00185,Customer_185,43.21,Medium,System Outage,341127.63
+CUST00186,Customer_186,85.1,High,Human Error,274235.64
+CUST00187,Customer_187,72.38,Medium,Fraud,45756.75
+CUST00188,Customer_188,17.58,High,System Outage,293364.37
+CUST00189,Customer_189,35.91,Low,Compliance Breach,80421.23
+CUST00190,Customer_190,41.9,Medium,Human Error,55345.41
+CUST00191,Customer_191,71.17,Low,Compliance Breach,50162.9
+CUST00192,Customer_192,98.6,Medium,Human Error,266899.92
+CUST00193,Customer_193,48.05,Low,Process Failure,244353.45
+CUST00194,Customer_194,70.12,Low,Fraud,242462.31
+CUST00195,Customer_195,76.1,Low,Process Failure,91603.45
+CUST00196,Customer_196,28.59,Low,Compliance Breach,442815.63
+CUST00197,Customer_197,90.89,Low,Process Failure,248615.79
+CUST00198,Customer_198,50.8,Low,Process Failure,486555.61
+CUST00199,Customer_199,81.28,Low,Fraud,174015.83
+CUST00200,Customer_200,82.37,Low,Compliance Breach,272302.2
+CUST00201,Customer_201,87.13,Low,Compliance Breach,372066.07
+CUST00202,Customer_202,61.54,Medium,System Outage,392202.71
+CUST00203,Customer_203,35.71,Medium,System Outage,487999.59
+CUST00204,Customer_204,32.17,Low,Process Failure,357941.33
+CUST00205,Customer_205,78.91,Low,Fraud,113422.57
+CUST00206,Customer_206,11.78,Medium,System Outage,66658.07
+CUST00207,Customer_207,82.48,Low,Compliance Breach,24797.52
+CUST00208,Customer_208,24.0,Medium,Human Error,382037.61
+CUST00209,Customer_209,23.8,Medium,System Outage,201356.15
+CUST00210,Customer_210,96.36,Medium,System Outage,369663.29
+CUST00211,Customer_211,65.5,Medium,Fraud,174625.91
+CUST00212,Customer_212,59.36,Low,Human Error,118542.88
+CUST00213,Customer_213,46.25,High,Human Error,224638.39
+CUST00214,Customer_214,31.71,Medium,Process Failure,468513.51
+CUST00215,Customer_215,66.4,Low,System Outage,151563.5
+CUST00216,Customer_216,56.0,High,Process Failure,376664.29
+CUST00217,Customer_217,35.76,Low,Fraud,430694.8
+CUST00218,Customer_218,22.13,High,Process Failure,179866.86
+CUST00219,Customer_219,99.27,High,Compliance Breach,30636.75
+CUST00220,Customer_220,88.78,Low,Human Error,375949.62
+CUST00221,Customer_221,21.58,Low,Human Error,386553.66
+CUST00222,Customer_222,31.77,Medium,System Outage,403169.98
+CUST00223,Customer_223,65.38,High,Process Failure,349702.27
+CUST00224,Customer_224,4.38,High,Process Failure,115155.55
+CUST00225,Customer_225,95.62,Medium,Process Failure,368815.62
+CUST00226,Customer_226,98.56,Medium,System Outage,134936.42
+CUST00227,Customer_227,25.77,Low,System Outage,335438.64
+CUST00228,Customer_228,8.27,Medium,Compliance Breach,210622.97
+CUST00229,Customer_229,88.11,Low,Human Error,92157.14
+CUST00230,Customer_230,1.03,Low,Compliance Breach,50019.87
+CUST00231,Customer_231,46.25,Low,Compliance Breach,21100.22
+CUST00232,Customer_232,71.56,High,Fraud,122414.32
+CUST00233,Customer_233,54.17,Medium,System Outage,446725.35
+CUST00234,Customer_234,64.96,High,Fraud,73491.53
+CUST00235,Customer_235,68.2,High,Fraud,182812.47
+CUST00236,Customer_236,93.77,High,System Outage,439623.46
+CUST00237,Customer_237,21.04,High,Compliance Breach,140019.09
+CUST00238,Customer_238,16.06,Medium,System Outage,352048.66
+CUST00239,Customer_239,70.88,Low,Process Failure,303001.81
+CUST00240,Customer_240,66.94,High,Human Error,482348.67
+CUST00241,Customer_241,54.71,High,Fraud,355480.69
+CUST00242,Customer_242,95.62,Medium,Fraud,104258.44
+CUST00243,Customer_243,99.73,Low,Fraud,209327.71
+CUST00244,Customer_244,95.51,High,Process Failure,345753.04
+CUST00245,Customer_245,94.65,Low,Human Error,64756.41
+CUST00246,Customer_246,98.03,Low,Fraud,152325.56
+CUST00247,Customer_247,60.48,Medium,Process Failure,163452.23
+CUST00248,Customer_248,37.79,Low,Human Error,166486.02
+CUST00249,Customer_249,6.08,Low,Compliance Breach,349390.08
+CUST00250,Customer_250,42.02,High,Fraud,310473.12
+CUST00251,Customer_251,56.15,High,Compliance Breach,29057.25
+CUST00252,Customer_252,88.7,Low,Human Error,261547.36
+CUST00253,Customer_253,25.91,Medium,Process Failure,484399.23
+CUST00254,Customer_254,53.39,Low,Human Error,72253.61
+CUST00255,Customer_255,73.76,Low,Compliance Breach,464195.49
+CUST00256,Customer_256,81.96,Low,Process Failure,26428.48
+CUST00257,Customer_257,30.88,Medium,System Outage,409672.64
+CUST00258,Customer_258,44.63,Low,Human Error,156734.33
+CUST00259,Customer_259,48.16,Medium,Human Error,380675.74
+CUST00260,Customer_260,85.56,High,Process Failure,225390.44
+CUST00261,Customer_261,43.77,Medium,Human Error,211893.7
+CUST00262,Customer_262,88.65,Low,Process Failure,239698.83
+CUST00263,Customer_263,79.53,High,System Outage,294094.53
+CUST00264,Customer_264,74.77,High,Human Error,135155.29
+CUST00265,Customer_265,29.2,Low,System Outage,400433.04
+CUST00266,Customer_266,62.89,High,Compliance Breach,395220.01
+CUST00267,Customer_267,70.55,Low,System Outage,387243.19
+CUST00268,Customer_268,74.2,Medium,Fraud,2734.95
+CUST00269,Customer_269,19.5,High,Human Error,434054.52
+CUST00270,Customer_270,13.41,Medium,System Outage,302729.34
+CUST00271,Customer_271,34.28,Low,System Outage,264557.07
+CUST00272,Customer_272,46.96,Medium,System Outage,466729.07
+CUST00273,Customer_273,36.98,Low,Fraud,275302.37
+CUST00274,Customer_274,49.65,Medium,Process Failure,401741.89
+CUST00275,Customer_275,77.86,Low,Compliance Breach,464192.79
+CUST00276,Customer_276,2.33,High,Human Error,285102.0
+CUST00277,Customer_277,82.35,Low,System Outage,394775.53
+CUST00278,Customer_278,22.4,Low,Compliance Breach,387955.35
+CUST00279,Customer_279,94.7,Medium,Human Error,164131.02
+CUST00280,Customer_280,11.17,Low,Compliance Breach,283312.16
+CUST00281,Customer_281,83.73,Low,Compliance Breach,26263.58
+CUST00282,Customer_282,10.64,High,System Outage,51111.59
+CUST00283,Customer_283,52.21,Medium,Compliance Breach,19116.4
+CUST00284,Customer_284,98.31,Low,Human Error,435720.22
+CUST00285,Customer_285,62.21,Low,Fraud,192239.25
+CUST00286,Customer_286,27.11,Medium,Human Error,262536.1
+CUST00287,Customer_287,82.88,Low,Fraud,196840.02
+CUST00288,Customer_288,8.28,Medium,Human Error,354864.62
+CUST00289,Customer_289,44.13,High,Compliance Breach,96063.76
+CUST00290,Customer_290,1.06,High,Compliance Breach,205744.26
+CUST00291,Customer_291,73.45,Medium,Process Failure,210711.1
+CUST00292,Customer_292,88.09,Medium,Human Error,490993.95
+CUST00293,Customer_293,74.74,Medium,System Outage,445282.92
+CUST00294,Customer_294,82.56,Low,Human Error,166108.39
+CUST00295,Customer_295,14.85,Medium,Compliance Breach,344679.33
+CUST00296,Customer_296,48.58,High,Human Error,79483.19
+CUST00297,Customer_297,75.17,High,Process Failure,38970.61
+CUST00298,Customer_298,71.58,Medium,Process Failure,211803.92
+CUST00299,Customer_299,73.88,Medium,Process Failure,463163.66
+CUST00300,Customer_300,59.0,Medium,Compliance Breach,125276.45
+CUST00301,Customer_301,3.95,High,System Outage,68718.89
+CUST00302,Customer_302,46.08,Medium,Process Failure,193058.63
+CUST00303,Customer_303,49.43,High,Human Error,409904.48
+CUST00304,Customer_304,38.93,Low,Human Error,256705.26
+CUST00305,Customer_305,78.28,Medium,System Outage,477082.16
+CUST00306,Customer_306,7.06,High,Compliance Breach,425646.8
+CUST00307,Customer_307,20.99,Medium,Fraud,498337.56
+CUST00308,Customer_308,98.69,High,Fraud,107636.92
+CUST00309,Customer_309,71.85,Medium,Compliance Breach,437549.04
+CUST00310,Customer_310,74.72,High,Human Error,50311.23
+CUST00311,Customer_311,74.18,Medium,System Outage,316447.71
+CUST00312,Customer_312,25.57,Medium,Compliance Breach,447065.17
+CUST00313,Customer_313,99.27,Medium,Fraud,235788.75
+CUST00314,Customer_314,21.38,Medium,Process Failure,74409.29
+CUST00315,Customer_315,24.6,Medium,Process Failure,386095.23
+CUST00316,Customer_316,50.93,Low,Fraud,346807.48
+CUST00317,Customer_317,64.28,High,Process Failure,225341.25
+CUST00318,Customer_318,71.03,Low,System Outage,18824.26
+CUST00319,Customer_319,42.83,Low,Fraud,136124.99
+CUST00320,Customer_320,98.33,High,Process Failure,248827.12
+CUST00321,Customer_321,61.35,Medium,Human Error,313733.79
+CUST00322,Customer_322,26.29,Low,Human Error,34169.72
+CUST00323,Customer_323,86.11,Low,System Outage,9545.93
+CUST00324,Customer_324,29.7,High,Compliance Breach,493078.86
+CUST00325,Customer_325,49.75,Medium,Compliance Breach,20796.59
+CUST00326,Customer_326,84.89,Medium,Process Failure,152448.39
+CUST00327,Customer_327,89.19,Medium,Human Error,50162.86
+CUST00328,Customer_328,55.53,High,Fraud,384356.27
+CUST00329,Customer_329,41.22,High,Compliance Breach,335996.21
+CUST00330,Customer_330,81.25,Medium,Human Error,300965.46
+CUST00331,Customer_331,26.74,Low,Human Error,427225.51
+CUST00332,Customer_332,56.35,High,Human Error,196209.4
+CUST00333,Customer_333,79.57,High,Fraud,21158.61
+CUST00334,Customer_334,43.32,High,System Outage,162408.83
+CUST00335,Customer_335,90.45,Medium,Compliance Breach,122955.05
+CUST00336,Customer_336,35.97,Low,Compliance Breach,448488.55
+CUST00337,Customer_337,32.97,Low,Human Error,175612.79
+CUST00338,Customer_338,16.67,Low,Fraud,469150.79
+CUST00339,Customer_339,24.11,Low,Process Failure,117700.05
+CUST00340,Customer_340,73.71,Low,Human Error,350299.22
+CUST00341,Customer_341,83.24,Low,Process Failure,452163.64
+CUST00342,Customer_342,31.84,Low,Compliance Breach,425834.65
+CUST00343,Customer_343,74.16,Low,Fraud,67577.73
+CUST00344,Customer_344,9.55,High,Fraud,274638.84
+CUST00345,Customer_345,57.62,Low,System Outage,7543.67
+CUST00346,Customer_346,71.59,Medium,Fraud,310784.35
+CUST00347,Customer_347,77.31,Medium,Fraud,364417.84
+CUST00348,Customer_348,69.44,High,Process Failure,222400.82
+CUST00349,Customer_349,72.25,Low,System Outage,424152.13
+CUST00350,Customer_350,50.0,High,System Outage,218393.92
+CUST00351,Customer_351,84.33,Medium,Human Error,75298.82
+CUST00352,Customer_352,66.26,Low,Compliance Breach,311066.95
+CUST00353,Customer_353,64.13,Low,System Outage,201701.59
+CUST00354,Customer_354,18.76,Low,Compliance Breach,134734.2
+CUST00355,Customer_355,1.82,Low,Compliance Breach,317065.8
+CUST00356,Customer_356,51.57,Low,System Outage,186031.2
+CUST00357,Customer_357,91.34,Medium,Fraud,446630.61
+CUST00358,Customer_358,5.06,Medium,Human Error,437985.9
+CUST00359,Customer_359,86.99,Low,Compliance Breach,26410.24
+CUST00360,Customer_360,19.68,Medium,System Outage,338704.91
+CUST00361,Customer_361,54.48,High,Compliance Breach,173266.12
+CUST00362,Customer_362,44.4,High,System Outage,334639.82
+CUST00363,Customer_363,48.41,Low,Compliance Breach,345246.36
+CUST00364,Customer_364,78.24,Medium,Compliance Breach,119541.86
+CUST00365,Customer_365,5.72,Low,Process Failure,161510.5
+CUST00366,Customer_366,56.44,High,Fraud,307450.3
+CUST00367,Customer_367,97.09,High,System Outage,415211.57
+CUST00368,Customer_368,18.49,High,System Outage,13669.37
+CUST00369,Customer_369,84.13,Medium,Human Error,34766.59
+CUST00370,Customer_370,46.45,Low,Process Failure,236944.49
+CUST00371,Customer_371,95.93,Low,System Outage,379666.46
+CUST00372,Customer_372,51.32,Low,Process Failure,173125.22
+CUST00373,Customer_373,37.98,Medium,System Outage,297702.1
+CUST00374,Customer_374,85.47,Medium,Fraud,350496.87
+CUST00375,Customer_375,95.09,Medium,Compliance Breach,277908.17
+CUST00376,Customer_376,69.08,Low,Compliance Breach,302609.46
+CUST00377,Customer_377,18.06,Medium,Human Error,458613.84
+CUST00378,Customer_378,63.49,High,Compliance Breach,154776.82
+CUST00379,Customer_379,98.48,Low,Process Failure,448285.9
+CUST00380,Customer_380,30.15,High,Human Error,88095.27
+CUST00381,Customer_381,38.53,High,System Outage,162142.79
+CUST00382,Customer_382,55.92,Low,Compliance Breach,346363.28
+CUST00383,Customer_383,54.92,High,Process Failure,51889.67
+CUST00384,Customer_384,43.02,Medium,Process Failure,34464.74
+CUST00385,Customer_385,58.42,Medium,Process Failure,69033.34
+CUST00386,Customer_386,21.1,Low,System Outage,272739.03
+CUST00387,Customer_387,71.9,High,Human Error,443710.99
+CUST00388,Customer_388,14.14,Medium,Compliance Breach,15079.63
+CUST00389,Customer_389,90.52,Medium,System Outage,13518.81
+CUST00390,Customer_390,25.53,High,Compliance Breach,73124.85
+CUST00391,Customer_391,48.23,High,Process Failure,229711.08
+CUST00392,Customer_392,18.74,Medium,Fraud,35281.39
+CUST00393,Customer_393,90.39,Medium,System Outage,67334.22
+CUST00394,Customer_394,2.53,Low,Process Failure,278732.91
+CUST00395,Customer_395,71.81,High,Compliance Breach,217634.89
+CUST00396,Customer_396,98.59,Low,Compliance Breach,143415.0
+CUST00397,Customer_397,12.64,High,Process Failure,279398.19
+CUST00398,Customer_398,82.48,High,Fraud,42867.29
+CUST00399,Customer_399,51.13,Low,Process Failure,149676.9
+CUST00400,Customer_400,39.5,Low,Process Failure,71740.45
+CUST00401,Customer_401,61.76,High,Compliance Breach,362705.49
+CUST00402,Customer_402,36.4,High,Compliance Breach,19463.73
+CUST00403,Customer_403,41.4,High,Fraud,27309.85
+CUST00404,Customer_404,86.95,High,Process Failure,353208.28
+CUST00405,Customer_405,2.68,Low,Process Failure,59919.79
+CUST00406,Customer_406,25.14,Medium,Process Failure,361181.02
+CUST00407,Customer_407,41.87,Medium,Fraud,183718.46
+CUST00408,Customer_408,16.58,High,Process Failure,21861.46
+CUST00409,Customer_409,3.93,Low,Fraud,21940.98
+CUST00410,Customer_410,97.73,Low,Compliance Breach,397836.42
+CUST00411,Customer_411,80.12,High,Process Failure,401973.13
+CUST00412,Customer_412,90.62,Medium,Fraud,163939.94
+CUST00413,Customer_413,66.78,High,Compliance Breach,458735.35
+CUST00414,Customer_414,74.75,High,System Outage,172564.79
+CUST00415,Customer_415,78.05,Medium,System Outage,216620.83
+CUST00416,Customer_416,35.05,Medium,Human Error,485391.71
+CUST00417,Customer_417,67.64,Low,Fraud,329274.87
+CUST00418,Customer_418,71.69,High,System Outage,328375.56
+CUST00419,Customer_419,56.79,Medium,Process Failure,442103.71
+CUST00420,Customer_420,31.92,High,System Outage,306458.27
+CUST00421,Customer_421,45.5,Medium,Human Error,303736.18
+CUST00422,Customer_422,96.89,Medium,Fraud,11437.7
+CUST00423,Customer_423,22.92,Low,Process Failure,491812.44
+CUST00424,Customer_424,84.76,Medium,System Outage,279940.35
+CUST00425,Customer_425,83.13,High,Fraud,121498.82
+CUST00426,Customer_426,69.31,Low,Human Error,387108.94
+CUST00427,Customer_427,98.27,High,Human Error,59704.68
+CUST00428,Customer_428,56.8,High,System Outage,449623.16
+CUST00429,Customer_429,4.78,High,Compliance Breach,80516.36
+CUST00430,Customer_430,65.82,Medium,System Outage,186089.53
+CUST00431,Customer_431,91.65,Low,Human Error,34098.16
+CUST00432,Customer_432,83.81,Medium,Process Failure,47988.4
+CUST00433,Customer_433,47.96,High,Fraud,405890.02
+CUST00434,Customer_434,2.35,Medium,Human Error,183153.6
+CUST00435,Customer_435,73.8,Low,Compliance Breach,493766.41
+CUST00436,Customer_436,89.24,Medium,Fraud,201065.0
+CUST00437,Customer_437,37.47,Medium,Human Error,140218.64
+CUST00438,Customer_438,43.27,Low,Process Failure,69094.89
+CUST00439,Customer_439,33.41,High,Human Error,403039.35
+CUST00440,Customer_440,64.56,Medium,System Outage,482581.0
+CUST00441,Customer_441,48.47,Medium,System Outage,98641.64
+CUST00442,Customer_442,34.72,High,System Outage,235929.03
+CUST00443,Customer_443,52.41,Low,Human Error,442994.95
+CUST00444,Customer_444,8.53,Low,Process Failure,174765.94
+CUST00445,Customer_445,15.98,High,Fraud,208127.53
+CUST00446,Customer_446,83.86,High,Fraud,165399.5
+CUST00447,Customer_447,85.16,Medium,Process Failure,446284.04
+CUST00448,Customer_448,46.34,Medium,Compliance Breach,486158.27
+CUST00449,Customer_449,79.65,High,Compliance Breach,284603.25
+CUST00450,Customer_450,94.06,Low,System Outage,306063.01
+CUST00451,Customer_451,91.7,Medium,System Outage,205025.86
+CUST00452,Customer_452,26.19,High,Fraud,196091.02
+CUST00453,Customer_453,68.89,Medium,Fraud,221667.64
+CUST00454,Customer_454,54.97,Medium,Process Failure,135263.46
+CUST00455,Customer_455,4.42,Medium,Fraud,202417.14
+CUST00456,Customer_456,46.92,High,Human Error,420813.58
+CUST00457,Customer_457,60.96,Medium,Process Failure,449734.52
+CUST00458,Customer_458,20.23,Low,Human Error,147110.51
+CUST00459,Customer_459,5.66,Medium,Process Failure,380280.82
+CUST00460,Customer_460,64.93,Medium,Process Failure,76171.24
+CUST00461,Customer_461,57.79,High,Human Error,206778.14
+CUST00462,Customer_462,23.71,Low,System Outage,401279.66
+CUST00463,Customer_463,97.66,Medium,System Outage,92758.32
+CUST00464,Customer_464,30.14,High,Human Error,27307.93
+CUST00465,Customer_465,88.63,Medium,Process Failure,149028.86
+CUST00466,Customer_466,41.09,Medium,Compliance Breach,458528.35
+CUST00467,Customer_467,76.67,Medium,System Outage,471394.75
+CUST00468,Customer_468,73.72,Medium,Process Failure,430785.13
+CUST00469,Customer_469,94.4,Medium,Process Failure,319898.85
+CUST00470,Customer_470,95.76,Medium,Process Failure,451096.34
+CUST00471,Customer_471,52.36,Low,Fraud,90707.5
+CUST00472,Customer_472,8.46,Medium,Compliance Breach,283551.63
+CUST00473,Customer_473,56.88,Medium,Process Failure,218275.68
+CUST00474,Customer_474,72.62,High,Fraud,298729.54
+CUST00475,Customer_475,98.17,Medium,Compliance Breach,199795.71
+CUST00476,Customer_476,99.2,Medium,Fraud,460877.31
+CUST00477,Customer_477,58.37,Medium,Fraud,358647.91
+CUST00478,Customer_478,20.62,Medium,Fraud,326243.31
+CUST00479,Customer_479,58.91,Low,System Outage,248853.39
+CUST00480,Customer_480,70.24,Medium,Fraud,115766.8
+CUST00481,Customer_481,88.47,High,System Outage,16963.29
+CUST00482,Customer_482,30.31,Low,Compliance Breach,154850.47
+CUST00483,Customer_483,72.54,Medium,Compliance Breach,253011.03
+CUST00484,Customer_484,37.25,Medium,Fraud,489952.89
+CUST00485,Customer_485,81.2,Low,Fraud,44431.6
+CUST00486,Customer_486,79.5,Medium,System Outage,325987.92
+CUST00487,Customer_487,99.23,High,Fraud,159006.44
+CUST00488,Customer_488,56.98,Medium,Human Error,375087.63
+CUST00489,Customer_489,98.47,High,System Outage,155189.89
+CUST00490,Customer_490,70.63,Medium,System Outage,155570.59
+CUST00491,Customer_491,65.23,Medium,Compliance Breach,486080.07
+CUST00492,Customer_492,72.25,High,System Outage,251572.37
+CUST00493,Customer_493,18.26,High,Process Failure,404989.26
+CUST00494,Customer_494,11.22,High,Human Error,35883.53
+CUST00495,Customer_495,64.21,Medium,Human Error,126496.74
+CUST00496,Customer_496,4.17,Low,Fraud,197712.0
+CUST00497,Customer_497,13.44,Medium,Fraud,333785.94
+CUST00498,Customer_498,45.72,Medium,Compliance Breach,242659.58
+CUST00499,Customer_499,67.55,Medium,System Outage,459706.45
+CUST00500,Customer_500,10.37,High,Process Failure,405046.41

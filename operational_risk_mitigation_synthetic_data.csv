@@ -1,0 +1,501 @@
+Customer_ID,Customer_Name,Operational_Risk_Score,Identified_Risk,Mitigation_Control,Risk_Value,Risk_Category
+CUST00001,Customer_1,96.35,Human Error,Policy Update,335699.88,High
+CUST00002,Customer_2,66.12,System Outage,Policy Update,438553.17,Low
+CUST00003,Customer_3,7.49,Human Error,System Upgrade,434117.95,Medium
+CUST00004,Customer_4,78.69,Compliance Breach,System Upgrade,282032.08,Medium
+CUST00005,Customer_5,35.34,Compliance Breach,Internal Audit,355901.13,High
+CUST00006,Customer_6,13.39,Human Error,Internal Audit,111994.79,Low
+CUST00007,Customer_7,75.93,Human Error,Internal Audit,319437.81,High
+CUST00008,Customer_8,50.57,Fraud,Internal Audit,1474.34,High
+CUST00009,Customer_9,9.98,Compliance Breach,Internal Audit,388843.04,High
+CUST00010,Customer_10,4.81,Fraud,Staff Training,340407.01,Medium
+CUST00011,Customer_11,97.03,System Outage,System Upgrade,495242.4,High
+CUST00012,Customer_12,76.88,Fraud,Staff Training,411212.66,Medium
+CUST00013,Customer_13,92.74,Process Failure,Staff Training,169182.96,Medium
+CUST00014,Customer_14,43.12,Compliance Breach,Internal Audit,365824.1,Low
+CUST00015,Customer_15,14.98,Human Error,System Upgrade,277238.75,High
+CUST00016,Customer_16,76.94,Fraud,Internal Audit,138492.03,Low
+CUST00017,Customer_17,2.37,Compliance Breach,Staff Training,132851.24,Low
+CUST00018,Customer_18,23.1,Process Failure,System Upgrade,395930.34,Low
+CUST00019,Customer_19,24.56,Fraud,Policy Update,18289.34,Medium
+CUST00020,Customer_20,79.2,System Outage,Internal Audit,359954.83,High
+CUST00021,Customer_21,10.89,Process Failure,Insurance Coverage,251072.27,Medium
+CUST00022,Customer_22,44.48,System Outage,Internal Audit,129421.85,High
+CUST00023,Customer_23,92.72,Human Error,Staff Training,308024.81,Low
+CUST00024,Customer_24,96.32,Compliance Breach,System Upgrade,495034.64,Medium
+CUST00025,Customer_25,57.7,Compliance Breach,Insurance Coverage,324164.05,High
+CUST00026,Customer_26,99.55,System Outage,System Upgrade,270963.7,High
+CUST00027,Customer_27,12.89,System Outage,System Upgrade,189571.18,Low
+CUST00028,Customer_28,85.94,Fraud,Staff Training,95614.57,Medium
+CUST00029,Customer_29,18.63,Human Error,Staff Training,157244.08,Medium
+CUST00030,Customer_30,61.31,Human Error,Internal Audit,495393.54,Low
+CUST00031,Customer_31,86.3,Compliance Breach,Internal Audit,296993.5,High
+CUST00032,Customer_32,14.11,Fraud,System Upgrade,227531.4,Medium
+CUST00033,Customer_33,68.9,Compliance Breach,Internal Audit,46699.33,Low
+CUST00034,Customer_34,13.28,Process Failure,Staff Training,132874.47,High
+CUST00035,Customer_35,60.75,Process Failure,Staff Training,439831.48,High
+CUST00036,Customer_36,64.34,System Outage,Policy Update,353302.73,Medium
+CUST00037,Customer_37,77.71,Fraud,Staff Training,297261.62,Medium
+CUST00038,Customer_38,7.18,System Outage,Internal Audit,73533.36,High
+CUST00039,Customer_39,73.27,Fraud,Policy Update,38768.14,High
+CUST00040,Customer_40,62.72,Human Error,Insurance Coverage,448362.06,Medium
+CUST00041,Customer_41,81.87,Fraud,System Upgrade,358747.45,Low
+CUST00042,Customer_42,64.09,Human Error,Staff Training,335776.75,Medium
+CUST00043,Customer_43,9.9,System Outage,Policy Update,180422.25,High
+CUST00044,Customer_44,34.94,Fraud,Insurance Coverage,7251.67,Low
+CUST00045,Customer_45,29.71,Human Error,System Upgrade,171326.68,Low
+CUST00046,Customer_46,33.41,Compliance Breach,Staff Training,394084.65,Low
+CUST00047,Customer_47,46.62,Fraud,Staff Training,314512.37,High
+CUST00048,Customer_48,75.02,Process Failure,Policy Update,104148.27,High
+CUST00049,Customer_49,54.54,Human Error,Staff Training,73944.54,Medium
+CUST00050,Customer_50,71.78,Compliance Breach,Insurance Coverage,278705.08,Medium
+CUST00051,Customer_51,1.71,System Outage,Internal Audit,327639.58,High
+CUST00052,Customer_52,10.51,System Outage,Staff Training,231612.57,Medium
+CUST00053,Customer_53,27.13,Human Error,System Upgrade,153659.31,High
+CUST00054,Customer_54,18.08,Human Error,Policy Update,111124.69,Low
+CUST00055,Customer_55,78.29,System Outage,System Upgrade,446200.11,High
+CUST00056,Customer_56,38.22,Human Error,Policy Update,320778.36,Low
+CUST00057,Customer_57,44.91,Human Error,Policy Update,42584.08,Medium
+CUST00058,Customer_58,85.86,Compliance Breach,Insurance Coverage,422596.85,Medium
+CUST00059,Customer_59,17.29,Fraud,System Upgrade,334462.67,High
+CUST00060,Customer_60,40.25,Human Error,Insurance Coverage,11577.5,Low
+CUST00061,Customer_61,36.05,Fraud,Staff Training,267671.26,High
+CUST00062,Customer_62,55.4,System Outage,System Upgrade,427274.55,High
+CUST00063,Customer_63,27.17,System Outage,Policy Update,132161.78,High
+CUST00064,Customer_64,91.65,System Outage,Internal Audit,76354.54,High
+CUST00065,Customer_65,58.57,Fraud,Policy Update,91938.4,Medium
+CUST00066,Customer_66,88.5,Compliance Breach,Policy Update,227425.19,Medium
+CUST00067,Customer_67,99.16,Compliance Breach,Staff Training,401675.28,High
+CUST00068,Customer_68,88.92,Fraud,Internal Audit,68565.78,High
+CUST00069,Customer_69,76.23,Fraud,Staff Training,129590.26,High
+CUST00070,Customer_70,71.5,System Outage,Policy Update,202323.89,High
+CUST00071,Customer_71,81.49,Fraud,Policy Update,429610.69,Low
+CUST00072,Customer_72,61.47,Human Error,System Upgrade,158177.24,High
+CUST00073,Customer_73,80.72,Process Failure,Internal Audit,4436.45,High
+CUST00074,Customer_74,90.87,Process Failure,Policy Update,262055.43,High
+CUST00075,Customer_75,20.13,Process Failure,Internal Audit,203926.92,Low
+CUST00076,Customer_76,15.26,Compliance Breach,Policy Update,377769.73,High
+CUST00077,Customer_77,47.6,Human Error,System Upgrade,316664.99,Low
+CUST00078,Customer_78,14.79,Process Failure,Internal Audit,321384.89,High
+CUST00079,Customer_79,48.18,Fraud,Internal Audit,320197.66,Medium
+CUST00080,Customer_80,61.22,Human Error,Policy Update,82118.39,High
+CUST00081,Customer_81,73.07,System Outage,Insurance Coverage,114003.39,High
+CUST00082,Customer_82,72.16,System Outage,Internal Audit,148333.13,Low
+CUST00083,Customer_83,92.93,Fraud,Internal Audit,83909.22,Low
+CUST00084,Customer_84,51.31,System Outage,Staff Training,316215.27,Medium
+CUST00085,Customer_85,68.82,Fraud,Staff Training,49038.07,High
+CUST00086,Customer_86,32.61,Compliance Breach,Internal Audit,355477.73,Low
+CUST00087,Customer_87,62.7,Process Failure,Internal Audit,284746.21,Medium
+CUST00088,Customer_88,85.5,Process Failure,Insurance Coverage,477021.97,Low
+CUST00089,Customer_89,71.11,Process Failure,System Upgrade,259904.39,Low
+CUST00090,Customer_90,27.82,Compliance Breach,Policy Update,218842.17,High
+CUST00091,Customer_91,58.12,Compliance Breach,Insurance Coverage,293827.16,Medium
+CUST00092,Customer_92,97.3,Fraud,Policy Update,397769.94,Low
+CUST00093,Customer_93,10.54,System Outage,Policy Update,64731.16,Medium
+CUST00094,Customer_94,62.14,Compliance Breach,System Upgrade,250717.71,High
+CUST00095,Customer_95,90.79,System Outage,Internal Audit,173240.97,Low
+CUST00096,Customer_96,79.6,Process Failure,System Upgrade,252792.72,Low
+CUST00097,Customer_97,27.68,Fraud,Policy Update,227424.34,Medium
+CUST00098,Customer_98,4.9,Process Failure,System Upgrade,150381.44,Medium
+CUST00099,Customer_99,42.62,Human Error,Policy Update,130918.68,High
+CUST00100,Customer_100,45.06,Human Error,Internal Audit,315833.03,Low
+CUST00101,Customer_101,89.05,Fraud,Staff Training,452448.71,Low
+CUST00102,Customer_102,92.45,Compliance Breach,Staff Training,44515.17,High
+CUST00103,Customer_103,92.37,Human Error,Policy Update,477170.54,Medium
+CUST00104,Customer_104,95.22,Fraud,Internal Audit,288197.45,Low
+CUST00105,Customer_105,55.58,Human Error,Policy Update,22263.29,High
+CUST00106,Customer_106,5.44,Human Error,System Upgrade,343531.07,High
+CUST00107,Customer_107,41.6,Fraud,System Upgrade,67824.01,Low
+CUST00108,Customer_108,59.12,Process Failure,Internal Audit,192980.01,Low
+CUST00109,Customer_109,92.18,Human Error,Policy Update,116493.24,Low
+CUST00110,Customer_110,60.47,Process Failure,Staff Training,141473.13,Low
+CUST00111,Customer_111,50.65,System Outage,Staff Training,259355.28,High
+CUST00112,Customer_112,80.77,Fraud,Insurance Coverage,387985.67,Low
+CUST00113,Customer_113,44.48,Process Failure,Policy Update,217025.75,High
+CUST00114,Customer_114,78.66,Fraud,System Upgrade,54771.46,Medium
+CUST00115,Customer_115,88.46,Fraud,Policy Update,185802.24,High
+CUST00116,Customer_116,88.37,Process Failure,Policy Update,285832.73,Medium
+CUST00117,Customer_117,10.36,System Outage,Insurance Coverage,75944.55,High
+CUST00118,Customer_118,23.78,System Outage,Insurance Coverage,39285.33,High
+CUST00119,Customer_119,37.33,System Outage,Insurance Coverage,168354.9,Low
+CUST00120,Customer_120,91.85,Compliance Breach,Policy Update,92832.22,High
+CUST00121,Customer_121,7.52,Process Failure,Insurance Coverage,145017.6,Medium
+CUST00122,Customer_122,57.63,Process Failure,Policy Update,369249.98,High
+CUST00123,Customer_123,54.31,System Outage,Insurance Coverage,41886.9,Low
+CUST00124,Customer_124,59.46,System Outage,System Upgrade,191532.84,High
+CUST00125,Customer_125,59.18,Fraud,Insurance Coverage,252385.94,Medium
+CUST00126,Customer_126,77.45,Process Failure,Internal Audit,454564.65,Medium
+CUST00127,Customer_127,5.67,Compliance Breach,Internal Audit,211371.68,Low
+CUST00128,Customer_128,90.46,Human Error,Insurance Coverage,186004.88,High
+CUST00129,Customer_129,79.31,Human Error,Policy Update,212075.77,Low
+CUST00130,Customer_130,82.77,Fraud,Insurance Coverage,245135.75,Low
+CUST00131,Customer_131,68.27,Process Failure,Staff Training,421603.43,High
+CUST00132,Customer_132,17.96,System Outage,Policy Update,266048.16,High
+CUST00133,Customer_133,36.83,Process Failure,System Upgrade,59488.5,Medium
+CUST00134,Customer_134,22.69,Process Failure,Internal Audit,279107.61,Low
+CUST00135,Customer_135,16.08,Human Error,Insurance Coverage,469795.57,Medium
+CUST00136,Customer_136,89.71,Process Failure,Staff Training,415625.78,Medium
+CUST00137,Customer_137,23.48,System Outage,Policy Update,146531.43,High
+CUST00138,Customer_138,12.43,Human Error,Internal Audit,183226.73,High
+CUST00139,Customer_139,21.23,Fraud,Policy Update,453607.74,High
+CUST00140,Customer_140,58.94,Fraud,Internal Audit,388960.93,Medium
+CUST00141,Customer_141,93.75,Process Failure,Staff Training,196708.15,High
+CUST00142,Customer_142,93.84,Human Error,Insurance Coverage,283305.19,Medium
+CUST00143,Customer_143,60.29,Compliance Breach,Insurance Coverage,330770.42,High
+CUST00144,Customer_144,24.83,Process Failure,System Upgrade,101408.65,High
+CUST00145,Customer_145,13.64,System Outage,Internal Audit,327637.7,Low
+CUST00146,Customer_146,43.14,Human Error,Policy Update,308451.06,High
+CUST00147,Customer_147,22.34,Process Failure,Internal Audit,411972.86,Low
+CUST00148,Customer_148,53.09,Compliance Breach,Insurance Coverage,380008.62,Low
+CUST00149,Customer_149,53.56,Fraud,System Upgrade,175255.32,Low
+CUST00150,Customer_150,34.32,Process Failure,Staff Training,62183.89,High
+CUST00151,Customer_151,57.06,Process Failure,System Upgrade,282994.85,High
+CUST00152,Customer_152,87.94,Human Error,Policy Update,84936.12,Medium
+CUST00153,Customer_153,7.91,Fraud,Staff Training,260721.39,Medium
+CUST00154,Customer_154,78.06,Fraud,System Upgrade,223315.52,High
+CUST00155,Customer_155,58.77,Compliance Breach,Insurance Coverage,131076.29,Medium
+CUST00156,Customer_156,22.88,Fraud,Policy Update,166545.6,High
+CUST00157,Customer_157,30.76,Fraud,Policy Update,35755.68,High
+CUST00158,Customer_158,11.15,Human Error,Insurance Coverage,217984.65,Medium
+CUST00159,Customer_159,21.21,Fraud,Policy Update,432626.68,High
+CUST00160,Customer_160,80.21,System Outage,Insurance Coverage,110964.97,Medium
+CUST00161,Customer_161,87.78,Fraud,System Upgrade,266460.28,High
+CUST00162,Customer_162,70.89,System Outage,Insurance Coverage,358287.8,Low
+CUST00163,Customer_163,21.81,Human Error,Internal Audit,16952.34,Low
+CUST00164,Customer_164,14.53,System Outage,Policy Update,253986.43,Medium
+CUST00165,Customer_165,9.02,System Outage,Staff Training,105175.04,Medium
+CUST00166,Customer_166,75.22,Fraud,Staff Training,107037.08,Low
+CUST00167,Customer_167,20.67,Compliance Breach,Internal Audit,81552.77,Low
+CUST00168,Customer_168,60.44,Process Failure,Staff Training,464752.58,Low
+CUST00169,Customer_169,4.65,System Outage,Policy Update,155749.73,Low
+CUST00170,Customer_170,75.93,Process Failure,Insurance Coverage,39573.23,Medium
+CUST00171,Customer_171,24.65,Compliance Breach,Insurance Coverage,447821.55,Medium
+CUST00172,Customer_172,89.41,System Outage,Staff Training,14826.71,High
+CUST00173,Customer_173,44.18,Fraud,Policy Update,59761.64,Medium
+CUST00174,Customer_174,51.01,Human Error,Insurance Coverage,475789.49,High
+CUST00175,Customer_175,42.24,Human Error,Internal Audit,418653.4,Medium
+CUST00176,Customer_176,63.75,Fraud,Internal Audit,306490.05,Low
+CUST00177,Customer_177,14.47,Human Error,Internal Audit,10079.17,Low
+CUST00178,Customer_178,60.66,Compliance Breach,Insurance Coverage,276287.41,Low
+CUST00179,Customer_179,17.28,Process Failure,Insurance Coverage,9088.06,Medium
+CUST00180,Customer_180,3.38,Fraud,Internal Audit,141356.18,Medium
+CUST00181,Customer_181,79.84,System Outage,System Upgrade,290920.34,High
+CUST00182,Customer_182,53.83,Process Failure,Staff Training,317436.97,Low
+CUST00183,Customer_183,30.8,Compliance Breach,System Upgrade,93189.59,Low
+CUST00184,Customer_184,53.82,Process Failure,System Upgrade,495736.41,Medium
+CUST00185,Customer_185,51.95,Fraud,Insurance Coverage,228112.69,Low
+CUST00186,Customer_186,9.8,Human Error,System Upgrade,485814.11,Medium
+CUST00187,Customer_187,89.42,Process Failure,Internal Audit,146296.6,Low
+CUST00188,Customer_188,28.59,Compliance Breach,System Upgrade,381236.9,High
+CUST00189,Customer_189,43.27,Process Failure,Policy Update,327356.69,Medium
+CUST00190,Customer_190,69.76,Process Failure,Policy Update,351306.09,Low
+CUST00191,Customer_191,63.34,Process Failure,Staff Training,352904.11,Medium
+CUST00192,Customer_192,7.74,System Outage,Staff Training,370020.64,Low
+CUST00193,Customer_193,66.03,Fraud,Staff Training,107189.96,High
+CUST00194,Customer_194,35.2,Process Failure,Policy Update,351414.09,Medium
+CUST00195,Customer_195,71.86,Fraud,Staff Training,288959.11,High
+CUST00196,Customer_196,83.01,System Outage,Policy Update,91884.94,Low
+CUST00197,Customer_197,39.0,Compliance Breach,Insurance Coverage,102200.35,High
+CUST00198,Customer_198,6.98,Compliance Breach,Internal Audit,390062.97,Medium
+CUST00199,Customer_199,81.73,Fraud,Policy Update,403068.03,Medium
+CUST00200,Customer_200,64.26,Process Failure,Staff Training,490235.05,Medium
+CUST00201,Customer_201,24.18,System Outage,Staff Training,201266.06,High
+CUST00202,Customer_202,5.12,Fraud,Policy Update,465890.52,Low
+CUST00203,Customer_203,18.11,Fraud,Staff Training,7656.0,High
+CUST00204,Customer_204,24.68,System Outage,Internal Audit,472572.41,Low
+CUST00205,Customer_205,56.91,Process Failure,System Upgrade,379303.08,High
+CUST00206,Customer_206,12.57,System Outage,Internal Audit,176078.5,Low
+CUST00207,Customer_207,16.34,Fraud,Policy Update,364006.76,High
+CUST00208,Customer_208,88.13,Process Failure,Insurance Coverage,214005.42,Low
+CUST00209,Customer_209,22.0,System Outage,System Upgrade,86950.65,Medium
+CUST00210,Customer_210,42.11,System Outage,Staff Training,106799.34,High
+CUST00211,Customer_211,92.61,Fraud,System Upgrade,497405.45,Low
+CUST00212,Customer_212,2.79,Fraud,Insurance Coverage,77846.31,Medium
+CUST00213,Customer_213,80.02,Process Failure,Internal Audit,487253.36,Medium
+CUST00214,Customer_214,18.25,Compliance Breach,Policy Update,454135.91,Medium
+CUST00215,Customer_215,72.44,Compliance Breach,Insurance Coverage,152380.41,High
+CUST00216,Customer_216,81.79,System Outage,Insurance Coverage,425342.04,High
+CUST00217,Customer_217,86.15,Process Failure,System Upgrade,323735.63,High
+CUST00218,Customer_218,35.6,Fraud,Internal Audit,410650.38,Low
+CUST00219,Customer_219,90.82,System Outage,Internal Audit,123259.13,Medium
+CUST00220,Customer_220,19.86,System Outage,Policy Update,342292.56,High
+CUST00221,Customer_221,2.81,Process Failure,Staff Training,78072.25,Medium
+CUST00222,Customer_222,40.75,Human Error,Internal Audit,115272.31,Low
+CUST00223,Customer_223,40.44,Process Failure,System Upgrade,453813.9,Medium
+CUST00224,Customer_224,9.25,Compliance Breach,Staff Training,97249.77,Low
+CUST00225,Customer_225,85.51,Compliance Breach,Internal Audit,127514.04,Medium
+CUST00226,Customer_226,81.28,System Outage,Internal Audit,257428.58,Medium
+CUST00227,Customer_227,80.98,System Outage,Internal Audit,293512.77,Low
+CUST00228,Customer_228,1.8,Compliance Breach,System Upgrade,86529.65,Low
+CUST00229,Customer_229,43.57,Compliance Breach,Policy Update,38166.98,Medium
+CUST00230,Customer_230,99.25,Fraud,System Upgrade,70329.32,High
+CUST00231,Customer_231,46.58,Human Error,System Upgrade,229525.0,High
+CUST00232,Customer_232,52.33,Fraud,Insurance Coverage,375023.69,High
+CUST00233,Customer_233,16.28,Process Failure,Staff Training,434853.05,Medium
+CUST00234,Customer_234,42.4,Fraud,Policy Update,130943.27,Low
+CUST00235,Customer_235,62.01,System Outage,Staff Training,65388.92,Medium
+CUST00236,Customer_236,58.89,Fraud,Insurance Coverage,259268.41,High
+CUST00237,Customer_237,39.36,Fraud,Staff Training,248855.37,High
+CUST00238,Customer_238,65.23,Process Failure,Insurance Coverage,487052.47,High
+CUST00239,Customer_239,41.01,Fraud,Insurance Coverage,189661.04,High
+CUST00240,Customer_240,80.78,Process Failure,Insurance Coverage,320560.73,Medium
+CUST00241,Customer_241,16.51,Human Error,Internal Audit,300594.46,Medium
+CUST00242,Customer_242,97.07,System Outage,Internal Audit,261786.66,High
+CUST00243,Customer_243,39.08,Human Error,Policy Update,62243.7,Low
+CUST00244,Customer_244,47.39,Fraud,Insurance Coverage,472618.94,Low
+CUST00245,Customer_245,97.21,System Outage,Insurance Coverage,461720.17,High
+CUST00246,Customer_246,32.48,Process Failure,System Upgrade,39756.14,Medium
+CUST00247,Customer_247,2.59,Compliance Breach,Internal Audit,329763.59,Medium
+CUST00248,Customer_248,70.17,Process Failure,System Upgrade,211674.47,High
+CUST00249,Customer_249,51.31,Process Failure,Insurance Coverage,387310.01,Medium
+CUST00250,Customer_250,43.47,Fraud,Internal Audit,2522.78,High
+CUST00251,Customer_251,95.91,Human Error,Insurance Coverage,21616.42,High
+CUST00252,Customer_252,77.58,Fraud,Policy Update,399189.19,Medium
+CUST00253,Customer_253,90.03,Human Error,System Upgrade,218985.49,Low
+CUST00254,Customer_254,81.31,Human Error,Policy Update,5090.81,High
+CUST00255,Customer_255,72.66,Fraud,System Upgrade,253693.28,High
+CUST00256,Customer_256,90.74,Process Failure,Insurance Coverage,70400.04,High
+CUST00257,Customer_257,42.45,Process Failure,Internal Audit,149679.55,Medium
+CUST00258,Customer_258,46.97,System Outage,Staff Training,78979.29,Medium
+CUST00259,Customer_259,16.08,System Outage,Internal Audit,409130.96,Low
+CUST00260,Customer_260,44.14,Compliance Breach,Policy Update,282026.65,Low
+CUST00261,Customer_261,52.68,Fraud,Internal Audit,111462.91,Low
+CUST00262,Customer_262,93.34,Fraud,Staff Training,253619.01,High
+CUST00263,Customer_263,85.43,Human Error,Staff Training,58331.0,Low
+CUST00264,Customer_264,89.01,Fraud,Internal Audit,462101.3,High
+CUST00265,Customer_265,52.04,System Outage,System Upgrade,27719.55,Low
+CUST00266,Customer_266,86.66,Compliance Breach,Staff Training,492018.29,Medium
+CUST00267,Customer_267,20.67,Fraud,Policy Update,396490.94,Low
+CUST00268,Customer_268,92.6,Process Failure,System Upgrade,65335.91,Low
+CUST00269,Customer_269,89.58,Human Error,Insurance Coverage,15352.92,Low
+CUST00270,Customer_270,69.6,Process Failure,Internal Audit,233420.91,Medium
+CUST00271,Customer_271,5.89,Compliance Breach,Policy Update,92473.11,Low
+CUST00272,Customer_272,96.24,Compliance Breach,System Upgrade,230062.57,High
+CUST00273,Customer_273,7.77,Fraud,Policy Update,348724.0,High
+CUST00274,Customer_274,78.56,System Outage,Staff Training,2816.51,High
+CUST00275,Customer_275,68.29,Human Error,Internal Audit,257698.7,Low
+CUST00276,Customer_276,51.47,Fraud,Staff Training,230328.13,Low
+CUST00277,Customer_277,80.18,Process Failure,Policy Update,217990.61,High
+CUST00278,Customer_278,82.56,Process Failure,Insurance Coverage,24209.62,Medium
+CUST00279,Customer_279,60.15,System Outage,Internal Audit,188717.04,Medium
+CUST00280,Customer_280,43.59,System Outage,Internal Audit,138758.04,High
+CUST00281,Customer_281,13.13,System Outage,Policy Update,103441.14,Medium
+CUST00282,Customer_282,65.89,Fraud,System Upgrade,368654.85,Medium
+CUST00283,Customer_283,98.13,Human Error,System Upgrade,397741.58,Medium
+CUST00284,Customer_284,19.93,Process Failure,System Upgrade,187391.23,Medium
+CUST00285,Customer_285,88.11,Fraud,Internal Audit,291305.52,Low
+CUST00286,Customer_286,57.03,System Outage,Staff Training,351999.78,Medium
+CUST00287,Customer_287,11.27,Process Failure,Policy Update,255989.55,High
+CUST00288,Customer_288,56.61,System Outage,System Upgrade,380515.97,High
+CUST00289,Customer_289,97.1,Compliance Breach,Insurance Coverage,209318.76,Low
+CUST00290,Customer_290,3.94,Process Failure,System Upgrade,375527.1,Low
+CUST00291,Customer_291,52.27,Compliance Breach,Insurance Coverage,278421.43,Medium
+CUST00292,Customer_292,16.46,Human Error,Internal Audit,205234.76,High
+CUST00293,Customer_293,43.05,System Outage,Staff Training,99272.28,High
+CUST00294,Customer_294,50.6,Compliance Breach,Staff Training,391728.92,High
+CUST00295,Customer_295,56.36,Human Error,Internal Audit,244172.74,Low
+CUST00296,Customer_296,80.61,Fraud,Staff Training,362433.41,Low
+CUST00297,Customer_297,36.83,Fraud,System Upgrade,203935.4,Low
+CUST00298,Customer_298,66.46,Human Error,Internal Audit,317233.98,Low
+CUST00299,Customer_299,8.99,Compliance Breach,System Upgrade,343727.73,Medium
+CUST00300,Customer_300,41.71,Fraud,Internal Audit,496984.77,High
+CUST00301,Customer_301,15.99,Compliance Breach,Internal Audit,182317.42,Low
+CUST00302,Customer_302,45.48,System Outage,Insurance Coverage,265063.88,Medium
+CUST00303,Customer_303,95.89,Human Error,Policy Update,318192.74,Low
+CUST00304,Customer_304,54.82,Compliance Breach,Staff Training,257529.47,Low
+CUST00305,Customer_305,86.79,System Outage,Insurance Coverage,181394.65,Low
+CUST00306,Customer_306,56.4,System Outage,Policy Update,429824.86,Low
+CUST00307,Customer_307,29.94,Fraud,Internal Audit,215377.2,High
+CUST00308,Customer_308,23.84,Compliance Breach,System Upgrade,46447.68,High
+CUST00309,Customer_309,21.14,Fraud,Policy Update,291430.73,Low
+CUST00310,Customer_310,28.62,Compliance Breach,Internal Audit,331088.85,Medium
+CUST00311,Customer_311,75.34,Human Error,System Upgrade,495743.92,High
+CUST00312,Customer_312,17.27,Human Error,Internal Audit,431381.23,High
+CUST00313,Customer_313,25.67,Process Failure,Internal Audit,201594.43,Low
+CUST00314,Customer_314,36.44,Process Failure,Internal Audit,403596.53,High
+CUST00315,Customer_315,9.66,Fraud,Policy Update,178040.81,Medium
+CUST00316,Customer_316,51.37,Human Error,Insurance Coverage,143992.7,Low
+CUST00317,Customer_317,86.99,System Outage,System Upgrade,109435.27,High
+CUST00318,Customer_318,80.32,Fraud,Staff Training,462220.01,Low
+CUST00319,Customer_319,17.56,Fraud,System Upgrade,352847.63,High
+CUST00320,Customer_320,34.91,Compliance Breach,Staff Training,249494.8,Medium
+CUST00321,Customer_321,42.78,Fraud,Insurance Coverage,473221.85,Medium
+CUST00322,Customer_322,95.2,Human Error,Staff Training,485766.87,Medium
+CUST00323,Customer_323,96.85,Compliance Breach,Policy Update,347900.62,High
+CUST00324,Customer_324,62.37,Fraud,Policy Update,461797.88,Low
+CUST00325,Customer_325,46.11,Human Error,Staff Training,125486.83,High
+CUST00326,Customer_326,48.61,Compliance Breach,Staff Training,218250.84,Medium
+CUST00327,Customer_327,42.07,System Outage,Insurance Coverage,341856.88,Medium
+CUST00328,Customer_328,10.72,Fraud,System Upgrade,378009.87,High
+CUST00329,Customer_329,21.77,Compliance Breach,Staff Training,420884.95,Low
+CUST00330,Customer_330,5.3,System Outage,Staff Training,297433.68,High
+CUST00331,Customer_331,55.7,Process Failure,Staff Training,205280.08,Low
+CUST00332,Customer_332,42.32,Fraud,Insurance Coverage,283872.02,High
+CUST00333,Customer_333,60.77,Process Failure,System Upgrade,95744.82,High
+CUST00334,Customer_334,87.92,Process Failure,Policy Update,210653.86,Low
+CUST00335,Customer_335,96.21,Process Failure,Policy Update,381480.42,Medium
+CUST00336,Customer_336,47.74,System Outage,System Upgrade,396672.96,Low
+CUST00337,Customer_337,63.5,Fraud,Insurance Coverage,328640.61,Low
+CUST00338,Customer_338,79.36,System Outage,System Upgrade,113503.85,Low
+CUST00339,Customer_339,68.94,Process Failure,Staff Training,94506.7,Medium
+CUST00340,Customer_340,14.75,Human Error,Insurance Coverage,94817.94,Low
+CUST00341,Customer_341,57.61,System Outage,Policy Update,294643.96,Medium
+CUST00342,Customer_342,56.42,Process Failure,Policy Update,161731.31,High
+CUST00343,Customer_343,79.69,Human Error,Staff Training,449450.23,High
+CUST00344,Customer_344,80.95,Process Failure,Policy Update,120194.28,Low
+CUST00345,Customer_345,96.02,Process Failure,Policy Update,203706.19,Low
+CUST00346,Customer_346,27.27,Process Failure,Internal Audit,124341.69,Medium
+CUST00347,Customer_347,15.9,Process Failure,System Upgrade,493098.59,Low
+CUST00348,Customer_348,7.26,Human Error,Internal Audit,170770.03,Medium
+CUST00349,Customer_349,5.96,Human Error,Insurance Coverage,274429.73,High
+CUST00350,Customer_350,65.97,Compliance Breach,Staff Training,28333.11,Medium
+CUST00351,Customer_351,42.69,Process Failure,System Upgrade,223031.19,Low
+CUST00352,Customer_352,3.04,System Outage,Insurance Coverage,120368.86,Low
+CUST00353,Customer_353,90.21,System Outage,System Upgrade,26753.6,Medium
+CUST00354,Customer_354,45.98,Process Failure,System Upgrade,35973.89,High
+CUST00355,Customer_355,88.64,Process Failure,Internal Audit,385483.71,Medium
+CUST00356,Customer_356,14.57,Fraud,System Upgrade,167419.47,Medium
+CUST00357,Customer_357,19.16,Fraud,Insurance Coverage,494010.25,Medium
+CUST00358,Customer_358,99.51,System Outage,Internal Audit,408479.84,High
+CUST00359,Customer_359,88.58,Compliance Breach,Staff Training,216080.03,Low
+CUST00360,Customer_360,45.31,Fraud,Internal Audit,68353.98,High
+CUST00361,Customer_361,22.21,Compliance Breach,Policy Update,471160.6,High
+CUST00362,Customer_362,63.82,Compliance Breach,Insurance Coverage,381235.33,High
+CUST00363,Customer_363,35.29,System Outage,Staff Training,422882.88,Low
+CUST00364,Customer_364,35.81,Compliance Breach,System Upgrade,155050.09,High
+CUST00365,Customer_365,23.36,Human Error,Insurance Coverage,410529.23,Medium
+CUST00366,Customer_366,35.62,Human Error,Staff Training,227781.38,Medium
+CUST00367,Customer_367,93.26,System Outage,System Upgrade,9471.39,Medium
+CUST00368,Customer_368,25.09,Human Error,System Upgrade,102918.06,High
+CUST00369,Customer_369,19.83,Compliance Breach,Internal Audit,337720.68,Medium
+CUST00370,Customer_370,73.61,Human Error,Internal Audit,180252.92,High
+CUST00371,Customer_371,57.28,Process Failure,System Upgrade,456305.84,High
+CUST00372,Customer_372,2.12,Fraud,System Upgrade,213151.31,High
+CUST00373,Customer_373,29.26,Fraud,Internal Audit,328802.31,Medium
+CUST00374,Customer_374,70.1,System Outage,Policy Update,423846.54,Medium
+CUST00375,Customer_375,25.71,Fraud,Internal Audit,133022.86,Medium
+CUST00376,Customer_376,53.29,Fraud,System Upgrade,45294.35,High
+CUST00377,Customer_377,74.45,System Outage,Staff Training,86083.97,High
+CUST00378,Customer_378,73.21,System Outage,Policy Update,225877.12,Medium
+CUST00379,Customer_379,26.63,Fraud,Internal Audit,361317.31,Medium
+CUST00380,Customer_380,29.44,Compliance Breach,Internal Audit,454208.46,High
+CUST00381,Customer_381,13.62,Compliance Breach,Staff Training,302295.96,High
+CUST00382,Customer_382,20.89,System Outage,System Upgrade,348092.87,High
+CUST00383,Customer_383,76.06,Human Error,Insurance Coverage,499162.02,Medium
+CUST00384,Customer_384,88.2,Process Failure,Policy Update,142412.01,High
+CUST00385,Customer_385,29.92,Human Error,System Upgrade,261978.81,High
+CUST00386,Customer_386,95.17,System Outage,System Upgrade,311015.47,High
+CUST00387,Customer_387,90.35,System Outage,System Upgrade,45976.57,Low
+CUST00388,Customer_388,25.34,Process Failure,Policy Update,91103.18,Low
+CUST00389,Customer_389,47.11,System Outage,Internal Audit,15464.35,High
+CUST00390,Customer_390,34.6,Compliance Breach,Policy Update,7173.12,Medium
+CUST00391,Customer_391,18.45,Human Error,Insurance Coverage,430411.88,Low
+CUST00392,Customer_392,60.71,System Outage,Internal Audit,148235.64,Medium
+CUST00393,Customer_393,16.06,Process Failure,Internal Audit,256908.19,Medium
+CUST00394,Customer_394,80.15,Compliance Breach,System Upgrade,493861.24,Medium
+CUST00395,Customer_395,51.22,System Outage,System Upgrade,139425.1,Low
+CUST00396,Customer_396,97.49,Human Error,System Upgrade,286484.13,Low
+CUST00397,Customer_397,78.53,Human Error,Internal Audit,331446.87,Medium
+CUST00398,Customer_398,64.63,Human Error,Insurance Coverage,143348.9,High
+CUST00399,Customer_399,20.94,System Outage,Insurance Coverage,365093.07,Low
+CUST00400,Customer_400,24.9,Human Error,Internal Audit,357833.27,Medium
+CUST00401,Customer_401,26.56,Process Failure,Insurance Coverage,64309.6,Low
+CUST00402,Customer_402,94.04,Compliance Breach,Policy Update,174288.78,Low
+CUST00403,Customer_403,50.48,Compliance Breach,Internal Audit,359619.17,Low
+CUST00404,Customer_404,25.67,Human Error,System Upgrade,332762.98,Low
+CUST00405,Customer_405,92.72,Fraud,Staff Training,141645.03,Low
+CUST00406,Customer_406,26.57,Fraud,Staff Training,234647.19,Low
+CUST00407,Customer_407,61.9,System Outage,Staff Training,448965.09,Medium
+CUST00408,Customer_408,99.87,Human Error,System Upgrade,357525.87,Low
+CUST00409,Customer_409,97.33,Human Error,System Upgrade,160381.79,High
+CUST00410,Customer_410,16.38,Compliance Breach,Internal Audit,14968.88,High
+CUST00411,Customer_411,24.03,Process Failure,Staff Training,23994.21,High
+CUST00412,Customer_412,73.55,Compliance Breach,Internal Audit,203959.09,High
+CUST00413,Customer_413,89.87,Compliance Breach,Insurance Coverage,183031.08,Low
+CUST00414,Customer_414,15.34,Fraud,Policy Update,475566.55,Low
+CUST00415,Customer_415,55.38,Human Error,System Upgrade,25689.12,Low
+CUST00416,Customer_416,71.07,Compliance Breach,Internal Audit,221975.47,Low
+CUST00417,Customer_417,56.85,Human Error,System Upgrade,259352.41,Medium
+CUST00418,Customer_418,9.87,Process Failure,Internal Audit,96748.72,High
+CUST00419,Customer_419,1.97,Fraud,Staff Training,455670.87,High
+CUST00420,Customer_420,10.87,System Outage,Policy Update,46918.75,High
+CUST00421,Customer_421,33.73,Human Error,System Upgrade,213703.56,High
+CUST00422,Customer_422,78.76,Process Failure,Staff Training,332773.16,High
+CUST00423,Customer_423,81.94,Compliance Breach,Internal Audit,176307.13,Medium
+CUST00424,Customer_424,8.57,Compliance Breach,Staff Training,285055.98,Low
+CUST00425,Customer_425,55.94,Human Error,Policy Update,372637.95,Low
+CUST00426,Customer_426,97.97,Process Failure,Insurance Coverage,474300.76,Medium
+CUST00427,Customer_427,91.7,Process Failure,Insurance Coverage,180786.08,High
+CUST00428,Customer_428,33.36,Process Failure,Insurance Coverage,290684.56,High
+CUST00429,Customer_429,85.94,Fraud,Insurance Coverage,115789.44,High
+CUST00430,Customer_430,35.43,System Outage,System Upgrade,282647.99,High
+CUST00431,Customer_431,3.65,System Outage,System Upgrade,109128.14,High
+CUST00432,Customer_432,65.43,Compliance Breach,Internal Audit,337330.68,Low
+CUST00433,Customer_433,83.79,System Outage,Staff Training,268937.56,High
+CUST00434,Customer_434,69.03,System Outage,System Upgrade,267306.6,High
+CUST00435,Customer_435,98.99,Human Error,Insurance Coverage,182941.24,Medium
+CUST00436,Customer_436,90.61,Compliance Breach,Staff Training,284687.37,Medium
+CUST00437,Customer_437,95.15,Compliance Breach,Insurance Coverage,383176.19,Medium
+CUST00438,Customer_438,30.68,Fraud,Policy Update,219081.15,High
+CUST00439,Customer_439,24.52,Process Failure,Staff Training,469300.38,Low
+CUST00440,Customer_440,97.56,System Outage,Staff Training,412705.3,High
+CUST00441,Customer_441,68.96,System Outage,System Upgrade,335467.1,Medium
+CUST00442,Customer_442,43.91,Process Failure,Insurance Coverage,152007.77,High
+CUST00443,Customer_443,11.26,Compliance Breach,System Upgrade,189953.8,Medium
+CUST00444,Customer_444,20.44,Compliance Breach,System Upgrade,224900.85,Low
+CUST00445,Customer_445,49.77,Fraud,Internal Audit,458864.15,High
+CUST00446,Customer_446,77.89,Fraud,System Upgrade,50622.54,High
+CUST00447,Customer_447,28.87,Fraud,Staff Training,203486.89,High
+CUST00448,Customer_448,59.37,Fraud,Internal Audit,465358.63,Medium
+CUST00449,Customer_449,64.63,Process Failure,Staff Training,208528.59,Low
+CUST00450,Customer_450,45.13,Compliance Breach,Insurance Coverage,124694.92,Low
+CUST00451,Customer_451,4.89,Fraud,Internal Audit,375128.45,Low
+CUST00452,Customer_452,79.74,Human Error,Policy Update,39627.3,High
+CUST00453,Customer_453,79.21,Compliance Breach,Internal Audit,73194.7,Low
+CUST00454,Customer_454,24.56,Process Failure,Staff Training,193721.11,High
+CUST00455,Customer_455,44.85,System Outage,Staff Training,452294.94,Medium
+CUST00456,Customer_456,37.62,Process Failure,Policy Update,203924.98,Medium
+CUST00457,Customer_457,40.44,Process Failure,System Upgrade,124350.02,Medium
+CUST00458,Customer_458,92.16,Process Failure,Insurance Coverage,475188.19,Low
+CUST00459,Customer_459,90.44,Compliance Breach,Insurance Coverage,311005.89,Medium
+CUST00460,Customer_460,89.57,Compliance Breach,Internal Audit,8572.98,High
+CUST00461,Customer_461,96.52,Process Failure,Staff Training,77530.26,Medium
+CUST00462,Customer_462,25.54,Fraud,Policy Update,235141.49,Low
+CUST00463,Customer_463,35.55,Human Error,System Upgrade,214530.97,Low
+CUST00464,Customer_464,92.18,Fraud,Internal Audit,126822.27,High
+CUST00465,Customer_465,18.11,Compliance Breach,System Upgrade,297196.59,Low
+CUST00466,Customer_466,64.73,Fraud,Staff Training,391286.39,Medium
+CUST00467,Customer_467,4.88,Human Error,Policy Update,249623.24,Medium
+CUST00468,Customer_468,77.59,Process Failure,Internal Audit,158851.74,Low
+CUST00469,Customer_469,92.09,Fraud,Policy Update,356513.8,Low
+CUST00470,Customer_470,76.52,System Outage,Staff Training,162967.98,Low
+CUST00471,Customer_471,50.09,System Outage,System Upgrade,103664.32,Medium
+CUST00472,Customer_472,47.4,Process Failure,Internal Audit,397874.06,Low
+CUST00473,Customer_473,97.88,Fraud,Internal Audit,273070.23,High
+CUST00474,Customer_474,40.02,Process Failure,Staff Training,389113.07,Medium
+CUST00475,Customer_475,73.34,Compliance Breach,Internal Audit,136978.17,Medium
+CUST00476,Customer_476,25.31,Fraud,Policy Update,250328.24,Low
+CUST00477,Customer_477,78.67,System Outage,Staff Training,437307.43,Medium
+CUST00478,Customer_478,18.6,Process Failure,Insurance Coverage,341404.79,Medium
+CUST00479,Customer_479,76.46,Human Error,Internal Audit,135039.45,High
+CUST00480,Customer_480,92.05,Process Failure,Insurance Coverage,24219.16,High
+CUST00481,Customer_481,46.83,Human Error,Insurance Coverage,435901.3,High
+CUST00482,Customer_482,48.05,System Outage,Policy Update,417578.86,Low
+CUST00483,Customer_483,82.85,Human Error,System Upgrade,409996.75,High
+CUST00484,Customer_484,69.68,Compliance Breach,Insurance Coverage,85677.6,Medium
+CUST00485,Customer_485,94.77,System Outage,Internal Audit,486706.44,Low
+CUST00486,Customer_486,92.33,Process Failure,Internal Audit,128905.15,Medium
+CUST00487,Customer_487,87.78,Process Failure,Policy Update,289078.84,High
+CUST00488,Customer_488,14.54,System Outage,Insurance Coverage,297058.26,Low
+CUST00489,Customer_489,67.01,System Outage,Insurance Coverage,86407.35,High
+CUST00490,Customer_490,60.07,Process Failure,System Upgrade,333184.69,Medium
+CUST00491,Customer_491,33.72,Human Error,System Upgrade,384778.55,High
+CUST00492,Customer_492,20.41,Human Error,Staff Training,437172.44,High
+CUST00493,Customer_493,12.68,Human Error,Staff Training,277553.65,Medium
+CUST00494,Customer_494,31.81,Compliance Breach,Policy Update,28861.28,Low
+CUST00495,Customer_495,30.63,System Outage,Internal Audit,184612.03,Medium
+CUST00496,Customer_496,61.65,Fraud,Internal Audit,464670.58,Medium
+CUST00497,Customer_497,65.9,Human Error,Internal Audit,24814.02,High
+CUST00498,Customer_498,31.72,System Outage,Insurance Coverage,178728.81,Medium
+CUST00499,Customer_499,19.67,Human Error,Policy Update,300155.08,High
+CUST00500,Customer_500,78.4,Compliance Breach,Insurance Coverage,456550.62,Medium
